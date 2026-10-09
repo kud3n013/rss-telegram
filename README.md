@@ -38,6 +38,8 @@ After that it runs by itself every 30 minutes.
 
 ## Everyday use
 - **Add or remove a feed:** edit `feeds.txt` on GitHub (pencil icon) and commit. A new feed's existing posts are skipped; you only get new ones.
+- **Send the latest posts once:** Actions tab > **RSS to Telegram** > **Run workflow**, then type a number (1-20) in the **backfill** box. Every feed re-sends its newest N posts, even ones you've already received. `0` (the default) does nothing extra. Scheduled runs never backfill.
+- **Get a few posts when adding a feed:** set the repo variable `NEW_FEED_BACKFILL` to N (1-20) under **Settings > Secrets and variables > Actions > Variables > New repository variable**. A newly added feed then sends its newest N posts instead of none. Unset or `0` keeps the default (nothing sent). Backfill runs may send more than the 25-message cap.
 - **Change the schedule:** edit the `cron:` line in `.github/workflows/rss.yml`.
 - **A feed isn't arriving:** open the latest run in the Actions tab and look for `FAILED` lines. Those name the feed and the reason.
 - **Too many messages at once:** the script sends at most 25 per run (set `MAX_PER_RUN`); the rest follow on the next run.
@@ -45,4 +47,5 @@ After that it runs by itself every 30 minutes.
 ## Notes
 - State is kept in `seen.json`, which the workflow commits automatically.
 - GitHub pauses scheduled workflows in a public repo after 60 days without repo activity. The `seen.json` commits normally count as activity, but if the Actions tab ever shows the workflow as disabled, just re-enable it.
-- Test locally without sending anything: `DRY_RUN=1 python notify.py`
+- Test locally without sending anything: `DRY_RUN=1 python notify.py` (add `BACKFILL=2` to preview a backfill)
+- Run the offline tests: `python -m unittest tests.test_notify`

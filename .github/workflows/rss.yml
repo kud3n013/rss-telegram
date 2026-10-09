@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes (GitHub may delay runs a few minutes)
   workflow_dispatch:          # lets you run it manually from the Actions tab
+    inputs:
+      backfill:
+        description: "Send the latest N posts from every feed once (0 = off)"
+        required: false
+        default: "0"
+        type: string
 
 permissions:
   contents: write             # needed to commit seen.json back to the repo
@@ -30,6 +36,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BACKFILL: ${{ inputs.backfill }}   # empty on scheduled runs
+          NEW_FEED_BACKFILL: ${{ vars.NEW_FEED_BACKFILL || '0' }}
         run: python notify.py
 
       - name: Save state

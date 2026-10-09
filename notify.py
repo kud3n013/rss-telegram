@@ -4,6 +4,10 @@
 State lives in seen.json (committed back to the repo by the workflow).
 A feed seen for the first time is "bootstrapped": its current items are
 marked as seen without being sent, so adding a feed never floods your chat.
+
+Two optional "latest posts" settings (both 0 = off, clamped to 0-20):
+  BACKFILL           send the newest N items of every feed, even if already seen
+  NEW_FEED_BACKFILL  send the newest N items of a feed seen for the first time
 """
 
 import calendar
@@ -23,6 +27,19 @@ SEEN_FILE = ROOT / "seen.json"
 
 MAX_PER_RUN = int(os.environ.get("MAX_PER_RUN", "25"))  # cap messages per run
 MAX_IDS_PER_FEED = 1000  # how many seen ids to remember per feed
+
+
+def clamp_count(value):
+    """Parse a "latest N" setting: non-numbers become 0, the result is clamped to 0-20."""
+    try:
+        n = int(str(value).strip())
+    except ValueError:
+        return 0
+    return max(0, min(20, n))
+
+
+BACKFILL = clamp_count(os.environ.get("BACKFILL", ""))
+NEW_FEED_BACKFILL = clamp_count(os.environ.get("NEW_FEED_BACKFILL", "0"))
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
@@ -121,7 +138,16 @@ def main():
     seen = load_seen()
     seen.setdefault("feeds", {})
 
-    pending = []  # (timestamp, feed_url, entry_id, message)
+    pending = {}  # (feed_url, entry_id) -> [timestamp, order, message, is_backfill]
+
+    def queue(url, eid, entry, feed_title, is_backfill):
+        item = pending.get((url, eid))
+        if item:  # already queued this run: never send twice
+            item[3] = item[3] or is_backfill
+        else:
+            pending[(url, eid)] = [entry_time(entry), len(pending),
+                                   format_message(feed_title, entry), is_backfill]
+
     for url in feeds:
         parsed = fetch(url)
         if parsed is None:
@@ -130,23 +156,45 @@ def main():
         known = seen["feeds"].get(url)
         ids_now = [i for i in map(entry_id, parsed.entries) if i]
 
-        if known is None:  # new feed: remember current items, send nothing
-            seen["feeds"][url] = ids_now[:MAX_IDS_PER_FEED]
-            print(f"BOOTSTRAP {url}: {len(ids_now)} existing items marked as seen")
-            continue
+        # newest N by date; undated items fall back to feed order (newest first)
+        n = BACKFILL if known is not None else max(BACKFILL, NEW_FEED_BACKFILL)
+        dated = [(i, e) for i, e in enumerate(parsed.entries) if entry_id(e)]
+        newest = sorted(dated, key=lambda p: (-entry_time(p[1]), p[0]))[:n]
 
-        known_set = set(known)
-        for entry in parsed.entries:
-            eid = entry_id(entry)
-            if eid and eid not in known_set:
-                pending.append((entry_time(entry), url, eid, format_message(feed_title, entry)))
+        if known is None:  # new feed: remember current items, send only the backfill
+            backfilled = {entry_id(e) for _, e in newest}
+            # backfilled ids are added to seen only once actually sent
+            seen["feeds"][url] = [i for i in ids_now if i not in backfilled][:MAX_IDS_PER_FEED]
+            if newest:
+                print(f"BOOTSTRAP {url}: {len(ids_now)} existing items, sending newest {len(newest)}")
+            else:
+                print(f"BOOTSTRAP {url}: {len(ids_now)} existing items marked as seen")
+        else:
+            known_set = set(known)
+            for entry in parsed.entries:
+                eid = entry_id(entry)
+                if eid and eid not in known_set:
+                    queue(url, eid, entry, feed_title, False)
 
-    pending.sort(key=lambda p: p[0])  # oldest first
+        for _, entry in newest:
+            queue(url, entry_id(entry), entry, feed_title, True)
+
+    # Oldest first (undated ties keep reverse feed order). Backfilled items that were
+    # already seen would not be retried next run, so the cap only limits ordinary new
+    # items: a backfill run may send more than MAX_PER_RUN.
+    def order(kv):
+        return (kv[1][0], -kv[1][1])
+
+    backfill_items = [kv for kv in pending.items() if kv[1][3]]
+    new_items = sorted((kv for kv in pending.items() if not kv[1][3]), key=order)
+    to_send = sorted(backfill_items + new_items[:MAX_PER_RUN], key=order)
     sent = 0
-    for ts, url, eid, message in pending[:MAX_PER_RUN]:
+    for (url, eid), (_, _, message, _) in to_send:
         if not send(message):
             break  # stop on failure; unsent items stay unseen for the next run
-        seen["feeds"][url] = (seen["feeds"][url] + [eid])[-MAX_IDS_PER_FEED:]
+        ids = seen["feeds"][url]
+        if eid not in ids:  # backfilled items may already be remembered
+            seen["feeds"][url] = (ids + [eid])[-MAX_IDS_PER_FEED:]
         sent += 1
         time.sleep(1.1)  # stay under Telegram's per-chat rate limit
 
