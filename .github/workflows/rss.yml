@@ -2,7 +2,7 @@ name: RSS to Telegram
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may delay runs a few minutes)
+    - cron: "*/5 * * * *"    # every 5 minutes, GitHub's minimum (runs are often delayed by a few minutes)
   workflow_dispatch:          # lets you run it manually from the Actions tab
     inputs:
       backfill:

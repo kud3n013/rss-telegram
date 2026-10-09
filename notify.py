@@ -315,7 +315,7 @@ HELP = (
     "/remove &lt;number|name|url&gt; - remove a feed\n"
     "/test - send the newest post of a random feed\n"
     "/help - this message\n\n"
-    "I check for commands on every run (about every 30 minutes), so replies are not instant."
+    "I check for commands on every run (every few minutes), so replies are not instant."
 )
 
 
