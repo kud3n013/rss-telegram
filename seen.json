@@ -1,0 +1,73 @@
+{
+ "feeds": {
+  "http://www.aaronsw.com/2002/feeds/pgessays.rss": [],
+  "https://github.com/imputnet/helium/releases.atom": [
+   "tag:github.com,2008:Repository/933197458/0.19.2",
+   "tag:github.com,2008:Repository/933197458/0.19.1",
+   "tag:github.com,2008:Repository/933197458/0.18.3",
+   "tag:github.com,2008:Repository/933197458/0.18.2",
+   "tag:github.com,2008:Repository/933197458/0.18.1",
+   "tag:github.com,2008:Repository/933197458/0.17.2",
+   "tag:github.com,2008:Repository/933197458/0.17.1",
+   "tag:github.com,2008:Repository/933197458/0.17.0",
+   "tag:github.com,2008:Repository/933197458/0.16.6",
+   "tag:github.com,2008:Repository/933197458/0.16.5"
+  ],
+  "https://github.com/zen-browser/desktop/releases.atom": [
+   "tag:github.com,2008:Repository/778556932/1.23.2b",
+   "tag:github.com,2008:Repository/778556932/1.23.1b",
+   "tag:github.com,2008:Repository/778556932/1.23b",
+   "tag:github.com,2008:Repository/778556932/1.22.3b",
+   "tag:github.com,2008:Repository/778556932/1.22.2b",
+   "tag:github.com,2008:Repository/778556932/1.22.1b",
+   "tag:github.com,2008:Repository/778556932/1.22b",
+   "tag:github.com,2008:Repository/778556932/1.21.16b",
+   "tag:github.com,2008:Repository/778556932/1.21.15b",
+   "tag:github.com,2008:Repository/778556932/1.21.14b"
+  ],
+  "https://retractionwatch.com/feed/": [
+   "https://retractionwatch.com/?p=136186",
+   "https://retractionwatch.com/?p=136176",
+   "https://retractionwatch.com/?p=136168",
+   "https://retractionwatch.com/?p=136163",
+   "https://retractionwatch.com/?p=136141",
+   "https://retractionwatch.com/?p=136136",
+   "https://retractionwatch.com/?p=136127",
+   "https://retractionwatch.com/?p=136122",
+   "https://retractionwatch.com/?p=136110",
+   "https://retractionwatch.com/?p=136103"
+  ],
+  "https://world.hey.com/dhh/feed.atom": [
+   "tag:world.hey.com,2005:World::Post/49362",
+   "tag:world.hey.com,2005:World::Post/49334",
+   "tag:world.hey.com,2005:World::Post/49319",
+   "tag:world.hey.com,2005:World::Post/48740",
+   "tag:world.hey.com,2005:World::Post/48635",
+   "tag:world.hey.com,2005:World::Post/48622",
+   "tag:world.hey.com,2005:World::Post/48589",
+   "tag:world.hey.com,2005:World::Post/48542",
+   "tag:world.hey.com,2005:World::Post/48525",
+   "tag:world.hey.com,2005:World::Post/48502",
+   "tag:world.hey.com,2005:World::Post/48496",
+   "tag:world.hey.com,2005:World::Post/48319",
+   "tag:world.hey.com,2005:World::Post/48301",
+   "tag:world.hey.com,2005:World::Post/48198",
+   "tag:world.hey.com,2005:World::Post/48176",
+   "tag:world.hey.com,2005:World::Post/48129",
+   "tag:world.hey.com,2005:World::Post/47815",
+   "tag:world.hey.com,2005:World::Post/47757",
+   "tag:world.hey.com,2005:World::Post/47675",
+   "tag:world.hey.com,2005:World::Post/47543",
+   "tag:world.hey.com,2005:World::Post/47522",
+   "tag:world.hey.com,2005:World::Post/47431",
+   "tag:world.hey.com,2005:World::Post/47048",
+   "tag:world.hey.com,2005:World::Post/46860",
+   "tag:world.hey.com,2005:World::Post/46832",
+   "tag:world.hey.com,2005:World::Post/46456",
+   "tag:world.hey.com,2005:World::Post/46162",
+   "tag:world.hey.com,2005:World::Post/46062",
+   "tag:world.hey.com,2005:World::Post/45960",
+   "tag:world.hey.com,2005:World::Post/45934"
+  ]
+ }
+}
