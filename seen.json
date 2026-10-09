@@ -1,6 +1,5 @@
 {
  "feeds": {
-  "http://www.aaronsw.com/2002/feeds/pgessays.rss": [],
   "https://github.com/imputnet/helium/releases.atom": [
    "tag:github.com,2008:Repository/933197458/0.19.2",
    "tag:github.com,2008:Repository/933197458/0.19.1",

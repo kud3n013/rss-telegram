@@ -351,6 +351,24 @@ class NotifyTest(unittest.TestCase):
         notify.main()
         self.assertIn("Send /help", self.posts[-1])
 
+    def test_test_command_sends_newest_post_of_a_feed_without_marking_seen(self):
+        self.say("/test")
+        seen = self.run_main({"feeds": {FEED: list("abcde")}})
+        self.assertEqual(self.titles(), ["Te"])  # newest of "edcba"; nothing else is sent
+        self.assertEqual(seen["feeds"][FEED], list("abcde"))
+
+    def test_test_command_skips_broken_and_empty_feeds(self):
+        dead, empty = "http://dead.test/feed", "http://empty.test/feed"
+        self.feeds[empty] = rss("")
+        self.say("/test")
+        self.run_main({"feeds": {FEED: list("abcde")}}, feeds=(dead, empty, FEED))
+        self.assertEqual(self.titles(), ["Te"])
+
+    def test_test_command_with_no_working_feed_says_so(self):
+        self.say("/test")
+        self.run_main({"feeds": {}}, feeds=("http://dead.test/feed",))
+        self.assertIn("couldn't get a post", self.posts[0])
+
     def test_send_long_splits_on_lines(self):
         notify.send_long("\n".join(["x" * 1000] * 5))
         self.assertEqual(len(self.posts), 2)

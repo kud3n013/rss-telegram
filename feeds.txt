@@ -9,9 +9,6 @@ https://retractionwatch.com/feed/
 # DHH
 https://world.hey.com/dhh/feed.atom
 
-# Paul Graham (scraped feed of his essays page; he has no official feed)
-http://www.aaronsw.com/2002/feeds/pgessays.rss
-
 # Zen Browser releases
 https://github.com/zen-browser/desktop/releases.atom
 

@@ -14,13 +14,14 @@ Message text:
   LINK_PREVIEW       set to 1 to let Telegram attach its link-preview card
 
 Feed management from Telegram (only from your own chat, checked on every run):
-  /list   /add <url> [name]   /remove <number|name|url>   /help
+  /list   /add <url> [name]   /remove <number|name|url>   /test   /help
 """
 
 import calendar
 import html
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -312,6 +313,7 @@ HELP = (
     "/list - show your feeds\n"
     "/add &lt;url&gt; [name] - add a feed\n"
     "/remove &lt;number|name|url&gt; - remove a feed\n"
+    "/test - send the newest post of a random feed\n"
     "/help - this message\n\n"
     "I check for commands on every run (about every 30 minutes), so replies are not instant."
 )
@@ -323,6 +325,20 @@ def norm_url(url):
 
 def feed_name(entry):
     return entry["label"] or entry["url"]
+
+
+def cmd_test():
+    """Returns the newest post of a random feed (as a message); nothing is marked as seen."""
+    feeds = load_feeds()
+    random.shuffle(feeds)
+    for url in feeds:  # skip feeds that fail or are empty
+        parsed = fetch(url)
+        if parsed is None or not parsed.entries:
+            continue
+        # newest by date; undated items fall back to feed order (newest first)
+        newest = min(enumerate(parsed.entries), key=lambda p: (-entry_time(p[1]), p[0]))[1]
+        return format_message(parsed.feed.get("title", ""), newest)
+    return "I couldn't get a post from any feed. Check /list and the Actions log."
 
 
 def cmd_list():
@@ -405,6 +421,8 @@ def handle_commands(seen):
             reply = cmd_list()
         elif cmd == "/add":
             reply = cmd_add(arg)
+        elif cmd == "/test":
+            reply = cmd_test()
         elif cmd == "/remove":
             reply = cmd_remove(arg, seen)
         else:  # /start, /help and anything unknown
