@@ -19,4 +19,6 @@ https://github.com/imputnet/helium/releases.atom
 
 # Anna's Archive blog (path is a best guess and the domain changes often;
 # if this one shows FAILED in the Actions log, check the blog's RSS link)
-https://annas-archive.li/blog/rss.xml
+# DISABLED: annas-archive.li is a parked domain-for-sale page, not a feed.
+# Re-enable once you have the blog's real RSS URL.
+# https://annas-archive.li/blog/rss.xml
