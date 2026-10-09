@@ -40,6 +40,7 @@ jobs:
           NEW_FEED_BACKFILL: ${{ vars.NEW_FEED_BACKFILL || '0' }}
           EXCERPT_CHARS: ${{ vars.EXCERPT_CHARS || '800' }}
           LINK_PREVIEW: ${{ vars.LINK_PREVIEW || '0' }}
+          BANNERS: ${{ vars.BANNERS || '1' }}
         run: python notify.py
 
       - name: Save state

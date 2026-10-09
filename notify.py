@@ -12,6 +12,7 @@ Two optional "latest posts" settings (both 0 = off, clamped to 0-20):
 Message text:
   EXCERPT_CHARS      how much of each post to include (default 800, 0 = link only)
   LINK_PREVIEW       set to 1 to let Telegram attach its link-preview card
+  BANNERS            set to 0 to stop showing each post's banner image above the text
 
 Feed management from Telegram (only from your own chat, checked on every run):
   /list   /add <url> [name]   /remove <number|name|url>   /test   /help
@@ -27,6 +28,7 @@ import sys
 import time
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urljoin
 
 import feedparser
 import requests
@@ -57,6 +59,7 @@ BACKFILL = clamp_count(os.environ.get("BACKFILL", ""))
 NEW_FEED_BACKFILL = clamp_count(os.environ.get("NEW_FEED_BACKFILL", "0"))
 EXCERPT_CHARS = clamp_int(os.environ.get("EXCERPT_CHARS", ""), 0, 3000, default=800)
 LINK_PREVIEW = os.environ.get("LINK_PREVIEW") == "1"
+BANNERS = os.environ.get("BANNERS") != "0"
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
@@ -235,7 +238,40 @@ def make_excerpt(entry, limit):
     return truncate(text, limit)
 
 
+def _big_enough(item):
+    """False for tiny images (avatars, icons, tracking pixels) whose size the feed states."""
+    for key in ("width", "height"):
+        try:
+            if int(item.get(key)) < 200:
+                return False
+        except (TypeError, ValueError):
+            pass
+    return True
+
+
+def entry_image(entry):
+    """URL of the post's banner image: media tags, an image enclosure, or the first <img> in the body."""
+    candidates = [m for m in (entry.get("media_content") or [])
+                  if m.get("medium") == "image" or str(m.get("type", "")).startswith("image/")]
+    candidates += entry.get("media_thumbnail") or []
+    for link in entry.get("links") or []:
+        if link.get("rel") == "enclosure" and str(link.get("type", "")).startswith("image/"):
+            candidates.append({"url": link.get("href")})
+    for item in candidates:
+        if item.get("url") and _big_enough(item):
+            return urljoin(entry.get("link") or "", item["url"])
+    bodies = [c.get("value", "") for c in (entry.get("content") or [])] + [entry.get("summary", "")]
+    for markup in bodies:
+        for tag in re.findall(r"<img\b[^>]*>", markup or "", re.I):
+            src = re.search(r"""\bsrc\s*=\s*["']([^"']+)["']""", tag, re.I)
+            size = {k.lower(): v for k, v in re.findall(r"""\b(width|height)\s*=\s*["']?(\d+)""", tag, re.I)}
+            if src and not src.group(1).startswith("data:") and _big_enough(size):
+                return urljoin(entry.get("link") or "", html.unescape(src.group(1)))
+    return None
+
+
 def format_message(feed_title, entry):
+    """Returns (text, banner image URL or None)."""
     title = html.escape(entry.get("title") or "(no title)")
     link = html.escape(entry.get("link") or "", quote=True)
     source = html.escape(feed_title or "")
@@ -247,18 +283,21 @@ def format_message(feed_title, entry):
         msg += f"\n\n{html.escape(excerpt)}"
         if link:
             msg += f'\n\n<a href="{link}">Read more →</a>'
-    return msg
+    return msg, (entry_image(entry) if BANNERS else None)
 
 
 # --------------------------------------------------------------------------- telegram
 
-def send(text):
+def send(text, image=None):
     if DRY_RUN:
         print("DRY RUN >>", text.replace("\n", " | "))
         return True
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {"chat_id": CHAT_ID, "text": text, "parse_mode": "HTML"}
-    if not LINK_PREVIEW:
+    if image:  # the image URL becomes a large preview above the text
+        payload["link_preview_options"] = json.dumps(
+            {"url": image, "show_above_text": True, "prefer_large_media": True})
+    elif not LINK_PREVIEW:
         payload["link_preview_options"] = json.dumps({"is_disabled": True})
     for _ in range(3):
         try:
@@ -427,7 +466,10 @@ def handle_commands(seen):
             reply = cmd_remove(arg, seen)
         else:  # /start, /help and anything unknown
             reply = HELP
-        send_long(reply)
+        if isinstance(reply, tuple):  # (text, banner image) from /test
+            send(*reply)
+        else:
+            send_long(reply)
 
 
 # --------------------------------------------------------------------------- main
@@ -496,7 +538,7 @@ def main():
     to_send = sorted(backfill_items + new_items[:MAX_PER_RUN], key=order)
     sent = 0
     for (url, eid), (_, _, message, _) in to_send:
-        if not send(message):
+        if not send(*message):
             break  # stop on failure; unsent items stay unseen for the next run
         ids = seen["feeds"][url]
         if eid not in ids:  # backfilled items may already be remembered

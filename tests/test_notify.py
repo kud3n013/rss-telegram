@@ -17,7 +17,7 @@ import notify  # noqa: E402
 FEED = "https://example.com/feed"
 
 
-def rss(ids, summary=None, content=None, title="Blog"):
+def rss(ids, summary=None, content=None, title="Blog", item_xml=""):
     """RSS with the given ids, newest first; 'a' is the oldest, one day per item.
 
     `summary` / `content` are HTML strings put in <description> / <content:encoded>.
@@ -29,10 +29,10 @@ def rss(ids, summary=None, content=None, title="Blog"):
         if content is not None:
             extra += f"<content:encoded>{escape(content)}</content:encoded>"
         return (f"<item><title>T{i}</title><link>https://example.com/{i}</link><guid>{i}</guid>"
-                f"<pubDate>Mon, {10 + ord(i) - ord('a'):02d} Jan 2022 00:00:00 GMT</pubDate>{extra}</item>")
+                f"<pubDate>Mon, {10 + ord(i) - ord('a'):02d} Jan 2022 00:00:00 GMT</pubDate>{extra}{item_xml}</item>")
 
     items = "".join(item(i) for i in ids)
-    return (f"<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/'>"
+    return (f"<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:media='http://search.yahoo.com/mrss/'>"
             f"<channel><title>{title}</title>{items}</channel></rss>").encode()
 
 
@@ -59,6 +59,7 @@ class NotifyTest(unittest.TestCase):
             mock.patch.object(notify, "NEW_FEED_BACKFILL", 0),
             mock.patch.object(notify, "EXCERPT_CHARS", 800),
             mock.patch.object(notify, "LINK_PREVIEW", False),
+            mock.patch.object(notify, "BANNERS", True),
             mock.patch.object(notify.time, "sleep"),
             mock.patch.object(notify.requests, "get", self.fake_get),
             mock.patch.object(notify.requests, "post", self.fake_post),
@@ -368,6 +369,40 @@ class NotifyTest(unittest.TestCase):
         self.say("/test")
         self.run_main({"feeds": {}}, feeds=("http://dead.test/feed",))
         self.assertIn("couldn't get a post", self.posts[0])
+
+    # ------------------------------------------------------------------ banner images
+
+    def preview(self, **feed_kw):
+        self.msg_for(**feed_kw)
+        return json.loads(self.payloads[-1]["link_preview_options"])
+
+    def test_banner_from_media_content_becomes_large_preview_above_text(self):
+        opts = self.preview(item_xml="<media:content url='https://img.test/a.jpg' medium='image'/>")
+        self.assertEqual(opts, {"url": "https://img.test/a.jpg", "show_above_text": True,
+                                "prefer_large_media": True})
+
+    def test_banner_from_enclosure_and_inline_img_with_relative_url(self):
+        opts = self.preview(item_xml="<enclosure url='https://img.test/e.png' type='image/png' length='1'/>")
+        self.assertEqual(opts["url"], "https://img.test/e.png")
+        opts = self.preview(summary="<p><img src='/pics/x.jpg?a=1&amp;b=2'>text</p>")
+        self.assertEqual(opts["url"], "https://example.com/pics/x.jpg?a=1&b=2")
+
+    def test_tiny_thumbnails_and_pixels_are_not_banners(self):
+        opts = self.preview(item_xml="<media:thumbnail url='https://img.test/avatar.png' width='30' height='30'/>",
+                            summary="<img src='https://t.test/p.gif' width='1' height='1'>")
+        self.assertEqual(opts, {"is_disabled": True})
+
+    def test_banner_switched_off(self):
+        with mock.patch.object(notify, "BANNERS", False):
+            opts = self.preview(item_xml="<media:content url='https://img.test/a.jpg' medium='image'/>")
+        self.assertEqual(opts, {"is_disabled": True})
+
+    def test_test_command_includes_banner(self):
+        self.feeds = {FEED: rss("abcde", item_xml="<media:content url='https://img.test/a.jpg' medium='image'/>")}
+        self.say("/test")
+        self.run_main({"feeds": {FEED: list("abcde")}})
+        self.assertEqual(len(self.posts), 1)
+        self.assertEqual(json.loads(self.payloads[0]["link_preview_options"])["url"], "https://img.test/a.jpg")
 
     def test_send_long_splits_on_lines(self):
         notify.send_long("\n".join(["x" * 1000] * 5))
