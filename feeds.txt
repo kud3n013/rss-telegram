@@ -15,8 +15,23 @@ https://github.com/zen-browser/desktop/releases.atom
 # Helium browser releases
 https://github.com/imputnet/helium/releases.atom
 
-# Anna's Archive blog (path is a best guess and the domain changes often;
-# if this one shows FAILED in the Actions log, check the blog's RSS link)
-# DISABLED: annas-archive.li is a parked domain-for-sale page, not a feed.
-# Re-enable once you have the blog's real RSS URL.
-# https://annas-archive.li/blog/rss.xml
+https://annas-archive.gl/blog/rss.xml  # Anna's Archive blog
+
+https://blog.beeper.com/feed/  # Beeper Blog
+
+https://proton.me/blog/feed  # Proton Blog
+
+https://obsidian.md/feed.xml  # Obsidian Blog
+
+https://mastodon.social/@Z_Lib_official.rss  # Z-Library Official
+
+https://reason.com/feed/  # Reason Magazine
+
+https://allenai.org/rss.xml  # Ai2 Blog
+
+# DISABLED: hltv.org blocks automated requests (HTTP 403 from Cloudflare).
+# https://www.hltv.org/rss/news  # HLTV News
+
+https://www.thatprivacyguy.com/blog/feed.xml  # That Privacy Guy! Blog
+
+https://www.zotero.org/blog/feed/  # Zotero
