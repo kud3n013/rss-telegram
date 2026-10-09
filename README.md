@@ -37,7 +37,9 @@ You should get "RSS bot is live, tracking N feeds" in Telegram within a minute.
 After that it runs by itself every 30 minutes.
 
 ## Everyday use
-- **Add or remove a feed:** edit `feeds.txt` on GitHub (pencil icon) and commit. A new feed's existing posts are skipped; you only get new ones.
+- **Manage feeds from Telegram:** message your bot `/list`, `/add <url> [name]`, `/remove <number|name|url>` or `/help`. The bot only obeys your own chat. Commands are read when the workflow runs, so replies take up to about 30 minutes; to answer right away, press **Run workflow** in the Actions tab. `/add` checks that the link is a readable feed before saving it.
+- **Add or remove a feed by hand:** edit `feeds.txt` on GitHub (pencil icon) and commit. Put a name after the link as `https://example.com/feed  # My Blog`. A new feed's existing posts are skipped; you only get new ones.
+- **How much of each post you get:** each message has the title, source, and the start of the post (about 800 characters), plus a "Read more" link. Set the repo variable `EXCERPT_CHARS` (0-3000) to change it; `0` sends only the title and link. Set `LINK_PREVIEW` to `1` if you also want Telegram's link-preview card.
 - **Send the latest posts once:** Actions tab > **RSS to Telegram** > **Run workflow**, then type a number (1-20) in the **backfill** box. Every feed re-sends its newest N posts, even ones you've already received. `0` (the default) does nothing extra. Scheduled runs never backfill.
 - **Get a few posts when adding a feed:** set the repo variable `NEW_FEED_BACKFILL` to N (1-20) under **Settings > Secrets and variables > Actions > Variables > New repository variable**. A newly added feed then sends its newest N posts instead of none. Unset or `0` keeps the default (nothing sent). Backfill runs may send more than the 25-message cap.
 - **Change the schedule:** edit the `cron:` line in `.github/workflows/rss.yml`.
@@ -45,7 +47,7 @@ After that it runs by itself every 30 minutes.
 - **Too many messages at once:** the script sends at most 25 per run (set `MAX_PER_RUN`); the rest follow on the next run.
 
 ## Notes
-- State is kept in `seen.json`, which the workflow commits automatically.
+- State is kept in `seen.json` (and `feeds.txt` after chat commands), which the workflow commits automatically.
 - GitHub pauses scheduled workflows in a public repo after 60 days without repo activity. The `seen.json` commits normally count as activity, but if the Actions tab ever shows the workflow as disabled, just re-enable it.
 - Test locally without sending anything: `DRY_RUN=1 python notify.py` (add `BACKFILL=2` to preview a backfill)
 - Run the offline tests: `python -m unittest tests.test_notify`

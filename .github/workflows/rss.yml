@@ -12,7 +12,7 @@ on:
         type: string
 
 permissions:
-  contents: write             # needed to commit seen.json back to the repo
+  contents: write             # needed to commit seen.json and feeds.txt back to the repo
 
 concurrency:
   group: rss-telegram
@@ -38,11 +38,17 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BACKFILL: ${{ inputs.backfill }}   # empty on scheduled runs
           NEW_FEED_BACKFILL: ${{ vars.NEW_FEED_BACKFILL || '0' }}
+          EXCERPT_CHARS: ${{ vars.EXCERPT_CHARS || '800' }}
+          LINK_PREVIEW: ${{ vars.LINK_PREVIEW || '0' }}
         run: python notify.py
 
       - name: Save state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen.json
-          git diff --staged --quiet || (git commit -m "Update seen items" && git push)
+          git add seen.json feeds.txt   # feeds.txt changes when you use /add or /remove
+          git diff --staged --quiet || {
+            git commit -m "Update state"
+            git pull --rebase
+            git push
+          }

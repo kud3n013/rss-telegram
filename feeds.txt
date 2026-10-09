@@ -1,4 +1,5 @@
-# One feed URL per line. Lines starting with # are ignored.
+# One feed URL per line, optionally followed by  # Name  (the /add command writes it this way).
+# Lines starting with # are ignored.
 # Adding a feed never floods you: its existing items are marked as seen
 # the first time it's fetched, and only newer posts are sent.
 
