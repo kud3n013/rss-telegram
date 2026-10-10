@@ -65,7 +65,7 @@ class HugoBuildTest(unittest.TestCase):
             src = ROOT / name
             (shutil.copytree if src.is_dir() else shutil.copy)(src, cls.site / name)
         post = ("---\ntitle: A post\nsource: Src\nsource_url: https://orig.example/a\ndate: '2026-10-10T00:00:00Z'\n"
-                "image: https://i.example/i.jpg\ntags: [one]\n---\n\nHello **world**.\n\n![pic](https://i.example/p.png)\n")
+                "image: https://i.example/i.jpg\ntags: [one]\n---\n\nHello **world**.\n\n![pic](https://i.example/p.png)\n\nLine one\\\nLine two\n")
         write(cls.site / "content" / "posts" / "src" / "a-post-123456.md", post)
         # an article about templates, and one dated in the future: neither may break or vanish from the build
         mposts.write_post(cls.site / "content" / "posts" / "src" / "tmpl-111111.md",
@@ -95,6 +95,7 @@ class HugoBuildTest(unittest.TestCase):
         self.assertIn('href="https://orig.example/a"', html)
         self.assertIn('class="banner" src="https://i.example/i.jpg"', html)
         self.assertIn("<strong>world</strong>", html)
+        self.assertRegex(html, r"Line one<br\s*/?>\s*Line two")  # hard line breaks from <br>
 
     def test_other_pages_have_no_canonical_pointing_at_the_mirror(self):
         for page in self.public.rglob("*.html"):

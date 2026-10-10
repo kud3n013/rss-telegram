@@ -161,6 +161,11 @@ class MarkdownTest(unittest.TestCase):
         self.assertIn("![a pic](https://site.example/pic.png)", md)
         self.assertIn("[rel link](https://site.example/rel)", md)
 
+    def test_line_breaks_survive(self):
+        md = extract.html_to_markdown("<p>Line one<br>Line two<br/>Line three</p><p>Next</p>")
+        self.assertEqual(md, "Line one\\\nLine two\\\nLine three\n\nNext")
+        self.assertEqual(mposts.md_to_text(md), "Line one\nLine two\nLine three\n\nNext")
+
     def test_h1_in_body_is_demoted(self):
         md = extract.html_to_markdown(extract.sanitize_html("<h1>Top</h1><p>x</p><h2>Sub</h2>"))
         self.assertIn("## Top", md)

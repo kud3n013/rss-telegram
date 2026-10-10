@@ -88,7 +88,9 @@ class _Converter(MarkdownConverter):
 
 
 def html_to_markdown(markup):
-    md = _Converter(heading_style="ATX", bullets="-", strip=["script", "style"]).convert(markup or "")
+    # <br> becomes a backslash hard break: the default two trailing spaces would be stripped below
+    md = _Converter(heading_style="ATX", bullets="-", newline_style="backslash",
+                    strip=["script", "style"]).convert(markup or "")
     md = _INVISIBLE_RE.sub("", md)
     md = re.sub(r"[ \t]+\n", "\n", md.replace("\xa0", " "))
     return re.sub(r"\n{3,}", "\n\n", md).strip()

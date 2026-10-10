@@ -52,7 +52,8 @@ feeds:
     client: impersonate
     selector: "article.newsitem .newstext-con"
     subtitle_selector: "article.newsitem p.headertext"
-    remove: [".image-con", ".videoCon", ".newsitem-match-result", ".newsitem-match-stats", ".event-matches-table"]
+    remove: [".image-con", ".videoCon", ".newsitem-match-result", ".newsitem-match-stats", ".event-matches-table",
+             "[class*=news-read-more]"]
   - url: https://www.thatprivacyguy.com/blog/feed.xml
     name: That Privacy Guy! Blog
     mode: fetch

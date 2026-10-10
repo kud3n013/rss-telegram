@@ -110,6 +110,7 @@ def md_to_text(md):
     text = re.sub(r"(?<![\w*])[*_]([^*_\n]+)[*_](?![\w*])", r"\1", text)
     text = re.sub(r"`([^`\n]+)`", r"\1", text)
     text = re.sub(r"^\s*([-*_]\s*){3,}$", "", text, flags=re.M)
+    text = re.sub(r"\\$", "", text, flags=re.M)  # backslash hard line breaks
     text = re.sub(r"\\([\\`*_{}\[\]()#+\-.!>|])", r"\1", text)
     lines = [re.sub(r"[ \t]+", " ", ln).strip() for ln in text.split("\n")]
     return re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip()
