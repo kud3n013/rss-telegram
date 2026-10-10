@@ -5,7 +5,7 @@ source: HLTV News
 source_url: https://www.hltv.org/news/45691/vitality-beat-aurora-to-reach-epl-final
 author: MIRAA
 date: '2026-10-10T16:55:00Z'
-fetched: '2026-10-10T18:20:44Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://img-cdn.hltv.org/gallerypicture/yQHOmhFut56qJMHGaOUSUc.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=449bfbe276f07e44fa3ef58c36f68db5
 summary: Vitality are through to the grand final of ESL Pro League 24 following a come-from-behind victory against Aurora, who burned bright on the opening map of Anubis thanks to a great performance from Özgür "woxic" Eker but couldn't play with the same intensity in the rest of the series.
 tags: []

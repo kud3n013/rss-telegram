@@ -5,7 +5,7 @@ source: Zen Browser releases
 source_url: https://github.com/zen-browser/desktop/releases/tag/1.23.1b
 author: mr-cheffy
 date: '2026-10-07T06:56:07Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: Zen Stable Release Security • <https://www.mozilla.org/en-US/security/advisories/mfsa2026-104/> New Features • Updated to Firefox 157.0.1 • Added an option in the Library to filter closed tabs instead of history entries. • A keyboard shortcut (opt/alt + shift + L) has been added to quickly open the Library. • 'Clear all downloads' and 'Clear history' options have been added to the Library by …
 tags: []

@@ -5,7 +5,7 @@ source: Ai2 Blog
 source_url: https://allenai.org/blog/impactful-scheduling
 author: ''
 date: '2026-10-09T08:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://www.datocms-assets.com/64837/1791481523-impactful-scheduling-for-gpu-clusters-google-docs-image-1-1.png
 summary: Building a cluster scheduler to prioritize high-impact research while maintaining full occupancy October 9, 2026 Jeremy Tryba - Ai2 On the AI Infrastructure team at Ai2, we’re responsible for providing the institute’s GPU compute capacity, specifically targeting large, distributed training workloads. We think about this task as a pyramid of four metrics that build on each other.
 tags: []

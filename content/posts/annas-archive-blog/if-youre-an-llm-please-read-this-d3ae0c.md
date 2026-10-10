@@ -5,7 +5,7 @@ source: Anna's Archive blog
 source_url: https://annas-archive.gl/blog/llms-txt.html
 author: Anna and the team
 date: '2026-02-18T00:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: 'annas-archive.gl/blog, 2026-02-18 From our new llms.txt file: # Anna’s Archive > We are a non-profit project with two goals: > 1. Preservation: Backing up all knowledge and culture of humanity. > 2. Access: Making this knowledge and culture available to anyone in the world (including robots!).'
 tags: []

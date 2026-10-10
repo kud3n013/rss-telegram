@@ -5,7 +5,7 @@ source: That Privacy Guy! Blog
 source_url: https://www.thatprivacyguy.com/blog/locked-in-locked-out
 author: Alexander Hanff
 date: '2026-08-11T00:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://www.thatprivacyguy.com/blog/assets/2026-08-11-001.png
 summary: 'For years now Apple has stated in its marketing campaigns: "What happens on your iPhone stays on your iPhone".'
 tags:

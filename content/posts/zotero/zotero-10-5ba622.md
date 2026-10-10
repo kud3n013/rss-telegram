@@ -5,7 +5,7 @@ source: Zotero
 source_url: https://www.zotero.org/blog/zotero-10/
 author: Dan Stillman
 date: '2026-08-17T17:45:26Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://www.zotero.org/static/images/blog/10.0/advanced-search.png
 summary: We’re excited to announce Zotero 10, which adds a host of powerful new features for searching and managing your library, a major improvement to Read Aloud, and a new Reading Mode for PDFs. More-Advanced Advanced Search Advanced search is now available via a filter button in the quick-search bar, and it opens right above the items list in the main window.
 tags:

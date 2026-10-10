@@ -5,7 +5,7 @@ source: Proton Blog
 source_url: https://proton.me/business/blog/asos-data-breach
 author: Kate Menzies
 date: '2026-10-09T15:56:57Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: 'On Tuesday October 6, customers of ASOS, the British fashion retailer, received a push notification from the official app with the title “ASOS HACKED.” It read: “Dear Asos DPO and IT, we have fully compromised the Snowflake instance.'
 tags:

@@ -5,7 +5,7 @@ source: Obsidian Blog
 source_url: https://obsidian.md/blog/2026-obsidian-october/
 author: silver
 date: '2026-10-01T00:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: O_O is back! Every October, the Obsidian community turns “I should make that” into “I made that!” Whether you’ve been tinkering with a plugin, theme, vault, guide, or video, this is your month to finish it and share it. This year the Obsidian team will also be working on our own project, a new survey we’re calling State of Obsidian.
 tags: []

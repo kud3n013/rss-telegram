@@ -5,7 +5,7 @@ source: Proton Blog
 source_url: https://proton.me/business/blog/what-zero-retention-data-means
 author: Eamonn Maguire
 date: '2026-10-08T17:35:26Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: If you’ve thought twice about sharing proprietary knowledge or customer data with OpenAI or Anthropic, you’re not alone. Data privacy has become a deciding factor for businesses choosing an AI vendor. Fortune reported this week that zero data retention (ZDR) is now where labs at the frontier of AI innovation are now competing.
 tags:

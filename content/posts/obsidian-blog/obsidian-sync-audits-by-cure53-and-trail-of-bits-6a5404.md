@@ -5,7 +5,7 @@ source: Obsidian Blog
 source_url: https://obsidian.md/blog/cure53-tob-sync-audits/
 author: kepano
 date: '2026-05-13T00:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: Obsidian regularly performs security audits with independent research firms to ensure that our code and procedures meet the highest security standards. Previously we shared audits assessing Obsidian’s desktop and mobile apps in January 2024 and December 2024. Two new audits are now available on our Security page assessing the Obsidian Sync API, server, and cryptography.
 tags: []

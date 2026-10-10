@@ -5,7 +5,7 @@ source: That Privacy Guy! Blog
 source_url: https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open
 author: Alexander Hanff
 date: '2026-09-25T00:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://www.thatprivacyguy.com/blog/assets/2026-09-25-001.png
 summary: This started somewhere I didn't want it to go. A small Maltese retailer sent me unsolicited direct marketing, so I ran a forensic audit of their ecommerce site before sending them my concerns. I don't enjoy going after small companies - they buy a platform, they trust the vendor to have done the compliance work.
 tags:

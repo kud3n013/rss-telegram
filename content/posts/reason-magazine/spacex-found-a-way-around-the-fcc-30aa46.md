@@ -5,7 +5,7 @@ source: Reason Magazine
 source_url: https://reason.com/2026/10/10/spacex-found-a-way-around-the-fcc/
 author: Thomas W. Hazlett
 date: '2026-10-10T12:00:26Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/space-x-starlink-1200x675.jpg
 summary: SpaceX's initial public offering (IPO) attracted intense interest for 2 trillion reasons. But one spectacular feature of this historic launch has barely blipped the public's radar screen. Radio spectrum, the "invisible resource," is the superhighway of the modern economy.
 tags:

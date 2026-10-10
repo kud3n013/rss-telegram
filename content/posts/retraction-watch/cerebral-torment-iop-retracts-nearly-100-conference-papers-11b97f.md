@@ -5,7 +5,7 @@ source: Retraction Watch
 source_url: https://retractionwatch.com/2026/10/09/iop-publishing-conference-proceedings-tortured-phrases/
 author: Avery Orrall
 date: '2026-10-09T16:06:52Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://retractionwatch.com/wp-content/uploads/2023/12/IOP_Publishing.png
 summary: IOP Publishing has retracted nearly 100 papers from three of its conference proceedings after the articles were flagged for containing tortured phrases. Tortured phrases are rephrasings and synonyms — often awkward and nonsensical — substituted in text to evade plagiarism detectors.
 tags:

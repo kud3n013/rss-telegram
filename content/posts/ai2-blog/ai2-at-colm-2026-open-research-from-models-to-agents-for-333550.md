@@ -5,7 +5,7 @@ source: Ai2 Blog
 source_url: https://allenai.org/blog/colm-2026-recap
 author: ''
 date: '2026-10-09T08:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://www.datocms-assets.com/64837/1791590717-colm-2026-recap-blog-google-docs-image-1.jpg
 summary: 'October 9, 2026 Ai2 This week Ai2 was at COLM 2026 in San Francisco. The work we shared reflects our wider mission: building AI research artifacts anyone can study and extend, and developing AI for science tools in collaboration with domain experts. Our evening gathering gave colleagues from across the COLM and wider open-source community another setting to connect.'
 tags: []
@@ -32,17 +32,17 @@ The research connects theory about what these architectures can represent with c
 
 That research is helping inform the next Olmo model, now in pre-training with a hybrid mixture-of-experts architecture. The hybrid design combines attention and recurrence. Mixture-of-experts offers another way to improve efficiency, routing each token through a subset of the model’s components.
 
-We are also opening up the infrastructure behind this direction. Released ahead of COLM, [Olmo-core 3](https://allenai.org/blog/olmocore3) adds a redesigned system for training large mixture-of-experts models. Researchers can use the code to develop their own models and investigate training decisions, alongside the checkpoints and technical reports available through the broader Olmo ecosystem. And Google [recently announced](https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/) that they recreated our Olmo 3 7B training run in MaxText on Google Cloud TPUs, highlighting the reproducibility that our fully open approach enables.
+We are also opening up the infrastructure behind this direction. Released ahead of COLM, [Olmo-core 3](https://allenai.org/blog/olmocore3) adds a redesigned system for training large mixture-of-experts models. Researchers can use the code to develop their own models and investigate training decisions, alongside the checkpoints and technical reports available through the broader Olmo ecosystem. And Google [recently announced](https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/) that they recreated our Olmo 3 7B training run in MaxText on Google Cloud TPUs, highlighting the reproducibility that our fully open approach enables.\
 In our conversation from the conference, Noah A. Smith, Ai2’s senior director of NLP research, joined our comms lead Kyle Wiggers to discuss the next iteration of Olmo and our work on agentic models:
 
 ![](https://allenai.org/_next/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlWQWw8lWxCo%2Fmaxresdefault.jpg&w=3840&q=75)
 
 #### **Developing AI for science with scientists**
 
-Scientific tools need to fit the tasks scientists actually do. That means creating them with researchers and studying both their capabilities and their limits—which we are doing in our development of Asta, our agentic platform for scientific work.
+Scientific tools need to fit the tasks scientists actually do. That means creating them with researchers and studying both their capabilities and their limits—which we are doing in our development of Asta, our agentic platform for scientific work.\
 The recently released [AstaBrief](https://allenai.org/blog/astabrief) is an open-weights model that generates cited reports from research questions and retrieved literature. Scientists can use it in Asta’s Fast mode or download the model to run on their own infrastructure.
 
-We are also working directly with scientific communities to understand where general-purpose models fall short and what future open models should support.
+We are also working directly with scientific communities to understand where general-purpose models fall short and what future open models should support.\
 Ai2 senior research scientist Bodhisattwa Prasad Majumder was at COLM to further these conversations, presenting a number of relevant papers:
 
 ![](https://allenai.org/_next/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FS6FNxk5Jh08%2Fmaxresdefault.jpg&w=3840&q=75)

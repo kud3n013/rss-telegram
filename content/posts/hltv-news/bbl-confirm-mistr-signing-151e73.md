@@ -5,7 +5,7 @@ source: HLTV News
 source_url: https://www.hltv.org/news/45690/bbl-confirm-mistr-signing
 author: MIRAA
 date: '2026-10-10T12:08:00Z'
-fetched: '2026-10-10T18:20:44Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://img-cdn.hltv.org/gallerypicture/BXH1WkaztavzHsadMIdgOh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=e311df3b3ece15f713b3c82bc97da0ca
 summary: BBL have announced that they have completed the signing of former Sashi member Mikkel "MistR" Thomsen, replacing Jonas "Boye" Boye Østergaard, who has been moved to the bench.
 tags: []
@@ -17,8 +17,6 @@ guid: hltvnews45690
 [MistR](https://www.hltv.org/player/21199/mistr)'s future had been up in the air since he and [Casper "Cabbi" Jensen](https://www.hltv.org/player/16723/cabbi) were benched by [Sashi](https://www.hltv.org/team/11712/sashi) in favor of Australian duo [Tynan "TjP" Purtell](https://www.hltv.org/player/20527/tjp) and [Jordan "Hatz" Bajic](https://www.hltv.org/player/11162/hatz) as the organization opted to switch to the Asian VRS region.
 
 The 22-year-old then announced that he had mutually parted ways with [Sashi](https://www.hltv.org/team/11712/sashi), thanking the organization for allowing him "to step away from this crazy situation."
-
-[![](https://img-cdn.hltv.org/gallerypicture/0LbwylJEFCHQPx8fLIHSZt.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=470&q=75&w=800&s=24c2736accbdd48e65be50506daf363c)](https://www.hltv.org/news/45678/mistr-mutually-parts-ways-with-sashi)
 
 His signing marks the first change to [BBL](https://www.hltv.org/team/13996/bbl)'s roster since the Turkish organization entered Counter-Strike with the acquisition of the [BBL](https://www.hltv.org/team/13996/bbl) roster.
 
@@ -32,10 +30,10 @@ His signing marks the first change to [BBL](https://www.hltv.org/team/13996/bbl)
 
 With this change, [BBL](https://www.hltv.org/team/13996/bbl) are now:
 
-![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Oliver "IceBerg" Berg](https://www.hltv.org/player/16731/iceberg)
-![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Jason "salazar" Salazar](https://www.hltv.org/player/21379/salazar)
-![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Jamie "leakz" Bugge West Jensen](https://www.hltv.org/player/21571/leakz)
-![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Nicky "NickyB" Bruhn](https://www.hltv.org/player/24104/nickyb)
+![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Oliver "IceBerg" Berg](https://www.hltv.org/player/16731/iceberg)\
+![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Jason "salazar" Salazar](https://www.hltv.org/player/21379/salazar)\
+![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Jamie "leakz" Bugge West Jensen](https://www.hltv.org/player/21571/leakz)\
+![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Nicky "NickyB" Bruhn](https://www.hltv.org/player/24104/nickyb)\
 ![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Mikkel "MistR" Thomsen](https://www.hltv.org/player/21199/mistr)
 
 ![Denmark](https://www.hltv.org/img/static/flags/30x20/DK.gif) [Kenni "wezx" Holmberg](https://www.hltv.org/coach/2391/wezx) (coach)

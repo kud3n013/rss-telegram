@@ -5,7 +5,7 @@ source: Retraction Watch
 source_url: https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/
 author: Alicia Gallegos
 date: '2026-10-08T22:20:59Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://retractionwatch.com/wp-content/uploads/2026/10/openai_math_withdrawals-1024x576.png
 summary: Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors. On Oct. 6, OpenAI published 722 preprints in a GitHub repository about purported progress in solving 372 math problems in geometry, computer science, algebra and other subjects.
 tags:
@@ -29,8 +29,8 @@ A spokesperson for OpenAI told us the company identified the errors during an au
 
 In [a post on X,](https://x.com/danintheory/status/2108065033070789090) Dan Roberts, a research lead for the company, announced the withdrawals and wrote OpenAI will “continue to update the repo with new formalizations and with any errata we notice.”
 
-The OpenAI spokesperson told us the company’s collaborators at the Advisory Group on Mathematics and Artificial Intelligence [recommended](https://agmai.org/) releasing the results without waiting for “full formalization,” and that roughly 50% of the results were released unconfirmed.
-
+The OpenAI spokesperson told us the company’s collaborators at the Advisory Group on Mathematics and Artificial Intelligence [recommended](https://agmai.org/) releasing the results without waiting for “full formalization,” and that roughly 50% of the results were released unconfirmed. \
+\
 “We hope to learn from feedback on this release and work with the AGMAI to understand if they have updated recommendations for release protocol moving forward,” the spokesperson said in an email. “Our intent is to follow their protocol as best we can.”
 
 [Andrew Sutherland](https://math.mit.edu/~drew/), a senior research scientist in the department of mathematics at the Massachusetts Institute of Technology, said he appreciated OpenAI acting quickly after finding the errors, calling it “the responsible thing to do.”

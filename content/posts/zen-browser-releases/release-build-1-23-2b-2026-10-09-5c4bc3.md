@@ -5,7 +5,7 @@ source: Zen Browser releases
 source_url: https://github.com/zen-browser/desktop/releases/tag/1.23.2b
 author: mr-cheffy
 date: '2026-10-09T19:11:58Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: Zen Stable Release New Features • Added an 'open library' command to the command palette. • You can now right-click the media tab in the Library to disable it. Fixes • Changed session backup file names to use local dates (#15806) • Fixed the library getting stuck after opening and closing it quickly (#15833) • Fixed blocked/unsafe downloads not having the choice to be opened or saved.
 tags: []

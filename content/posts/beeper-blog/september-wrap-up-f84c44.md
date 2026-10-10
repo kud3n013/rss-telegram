@@ -5,7 +5,7 @@ source: Beeper Blog
 source_url: https://blog.beeper.com/2026/10/02/september-wrap-up/
 author: G
 date: '2026-10-02T20:41:35Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://blog.beeper.com/wp-content/uploads/2026/10/viber-borders.png?w=1024
 summary: Hey, everyone! The Beeper team is here to share what we’ve got going on. Let’s dive in!
 tags:
@@ -16,8 +16,6 @@ guid: http://blog.beeper.com/?p=142604556
 Hey, everyone! ![👋🏽](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f44b-1f3fd.png) The Beeper team is here to share what we’ve got going on. Let’s dive in!
 
 #### Viber joins the conversation
-
-![Viber messaging application interface showing conversation inbox on a mobile device and a desktop. Messages from contacts, including timestamps and status indicators, are displayed.](https://blog.beeper.com/wp-content/uploads/2026/10/viber-borders.png?w=1024)
 
 There’s always that one conversation that keeps you switching to another app. If yours is on Viber, you can now bring it into Beeper.
 

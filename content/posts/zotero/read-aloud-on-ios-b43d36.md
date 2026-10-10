@@ -5,7 +5,7 @@ source: Zotero
 source_url: https://www.zotero.org/blog/read-aloud-on-ios/
 author: Dan Stillman
 date: '2026-10-05T16:34:57Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: ''
 summary: Zotero for iOS now includes Read Aloud. Like the desktop version, Read Aloud on iOS reads PDFs, EPUBs, and webpage snapshots to you in high-quality, natural-sounding voices. It automatically skips in-text citations, headers and footers, and tables, and you can quickly skip ahead by sentence or paragraph or start reading from a given spot.
 tags:

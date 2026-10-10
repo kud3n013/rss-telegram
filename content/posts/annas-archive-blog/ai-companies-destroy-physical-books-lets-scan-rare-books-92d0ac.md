@@ -5,7 +5,7 @@ source: Anna's Archive blog
 source_url: https://annas-archive.gl/blog/physical-destruction.html
 author: Anna and the team
 date: '2026-08-05T00:00:00Z'
-fetched: '2026-10-10T17:51:18Z'
+fetched: '2026-10-10T18:24:09Z'
 image: https://annas-archive.gl/blog/duxiu-examples/1.jpg
 summary: 'annas-archive.gl/blog, 2026-08-05 A guest post by Anna’s Archive volunteer “u” (translated from Chinese). TL;DR: AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers.'
 tags: []
