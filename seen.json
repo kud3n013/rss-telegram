@@ -482,10 +482,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791669367,
    "guid": "hltvnews45693",
+   "message_id": 85,
+   "notified_at": 1791669420,
    "slug": "mouz-beat-spirit-en-route-to-epl-final-243eb4",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MOUZ beat Spirit en route to EPL final"
   },
   "30aa466ecb": {
@@ -648,10 +650,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791669367,
    "guid": "hltvnews45692",
+   "message_id": 84,
+   "notified_at": 1791669418,
    "slug": "faze-knocking-on-the-door-of-top-15-with-roman-imperium-cup-6ea6e9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FaZe knocking on the door of top 15 with Roman Imperium Cup IX title"
   },
   "7612315361": {
@@ -758,10 +762,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1791669367,
    "guid": "https://retractionwatch.com/?p=136188",
+   "message_id": 83,
+   "notified_at": 1791669416,
    "slug": "weekend-reads-openais-preprint-dump-taylor-francis-to-leave-bbf298",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Weekend reads: OpenAI\u2019s preprint dump; Taylor & Francis to leave Informa; arXiv\u2019s preprint cap"
   },
   "bd50c64666": {
