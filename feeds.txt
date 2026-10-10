@@ -35,3 +35,5 @@ https://allenai.org/rss.xml  # Ai2 Blog
 https://www.thatprivacyguy.com/blog/feed.xml  # That Privacy Guy! Blog
 
 https://www.zotero.org/blog/feed/  # Zotero
+
+https://steamcommunity.com/groups/freegamesfinders/rss  # Weekly Free Games
