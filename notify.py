@@ -380,8 +380,30 @@ def feed_name(entry):
     return entry["label"] or entry["url"]
 
 
-def cmd_test():
-    """Returns the newest post of a random feed (as a message); nothing is marked as seen."""
+NOT_MIRRORED_NOTE = "<i>Not mirrored: this links to the original article.</i>"
+
+
+def mirrored_test_message(seen, entry):
+    """The mirror-page message for a /test post that is mirrored and live, else None."""
+    if not (MIRROR and SITE_URL and seen):
+        return None
+    post = seen.get("posts", {}).get(mposts.guid_hash(entry_id(entry) or ""))
+    if not post or post["status"] == "pruned":
+        return None
+    path = mposts.post_path(CONTENT_DIR, post["source_slug"], post["slug"])
+    url = site_post_url(post)
+    # announced posts were checked live; one still waiting may not be deployed yet
+    if not path.exists() or (post["status"] != "notified" and not check_link(url, tries=1)):
+        return None
+    fm, body = mposts.read_post(path)
+    return format_mirror_message(fm, body, url)
+
+
+def cmd_test(seen=None):
+    """Returns the newest post of a random feed (as a message); nothing is marked as seen.
+
+    It links to the mirror page when that post is mirrored, otherwise to the original and says so.
+    """
     feeds = load_feeds()
     random.shuffle(feeds)
     for url in feeds:  # skip feeds that fail or are empty
@@ -390,7 +412,11 @@ def cmd_test():
             continue
         # newest by date; undated items fall back to feed order (newest first)
         newest = min(enumerate(parsed.entries), key=lambda p: (-entry_time(p[1]), p[0]))[1]
-        return format_message(parsed.feed.get("title", ""), newest)
+        mirrored = mirrored_test_message(seen, newest)
+        if mirrored:
+            return mirrored
+        text, image = format_message(parsed.feed.get("title", ""), newest)
+        return f"{text}\n\n{NOT_MIRRORED_NOTE}", image
     return "I couldn't get a post from any feed. Check /list and the Actions log."
 
 
@@ -500,7 +526,7 @@ def handle_commands(seen):
         elif cmd == "/add":
             reply = cmd_add(arg)
         elif cmd == "/test":
-            reply = cmd_test()
+            reply = cmd_test(seen)
         elif cmd == "/remove":
             reply = cmd_remove(arg, seen)
         else:  # /start, /help and anything unknown

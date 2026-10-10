@@ -59,6 +59,8 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BACKFILL: ${{ inputs.backfill }}   # empty on scheduled runs
           REFETCH: ${{ inputs.refetch }}     # empty on scheduled runs
+          # for /test, which links to the mirror page when the post is mirrored
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
           NEW_FEED_BACKFILL: ${{ vars.NEW_FEED_BACKFILL || '0' }}
           READ_TTL_HOURS: ${{ vars.READ_TTL_HOURS || '24' }}
           UNREAD_TTL_HOURS: ${{ vars.UNREAD_TTL_HOURS || '72' }}

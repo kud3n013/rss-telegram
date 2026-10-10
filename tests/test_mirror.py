@@ -469,6 +469,43 @@ class PipelineTest(unittest.TestCase):
             self.assertEqual(after[key], post[key], key)
         self.assertEqual(notify.stage_notify(seen, log=lambda m: None, link_check=False), 0)
 
+    # -- /test
+    def run_test_command(self, seen, routes_feed):
+        parsed = feedparser.parse(routes_feed)
+        with mock.patch.object(notify, "fetch", return_value=parsed), \
+                mock.patch.object(notify, "MIRROR", True):
+            return notify.cmd_test(seen)
+
+    def test_test_command_links_to_the_mirror_page_when_mirrored(self):
+        seen = {"feeds": {FEED_URL: []}}
+        item = ("g", "Mirrored post", "https://blog.example/g", LONG)
+        self.fetch(self.feed(item), seen)
+        notify.stage_notify(seen, log=lambda m: None, link_check=False)
+        text, _ = self.run_test_command(seen, rss([item]))
+        slug = next(iter(seen["posts"].values()))["slug"]
+        self.assertIn(f'href="https://me.github.io/rss/posts/blog/{slug}/"', text)
+        self.assertNotIn("blog.example/g", text)
+        self.assertNotIn("Not mirrored", text)
+        self.assertEqual(len(self.sent), 1)  # /test itself didn't announce anything
+
+    def test_test_command_says_plainly_when_it_links_to_the_original(self):
+        seen = {"feeds": {FEED_URL: ["old"]}, "posts": {}}
+        text, _ = self.run_test_command(seen, rss([("old", "Old post", "https://blog.example/old", LONG)]))
+        self.assertIn('href="https://blog.example/old"', text)
+        self.assertTrue(text.endswith(notify.NOT_MIRRORED_NOTE))
+        self.assertIn("links to the original article", text)
+
+    def test_test_command_skips_expired_and_not_yet_live_posts(self):
+        seen = {"feeds": {FEED_URL: []}}
+        item = ("g", "T", "https://blog.example/g", LONG)
+        self.fetch(self.feed(item), seen)  # mirrored, not announced yet
+        with mock.patch.object(notify, "check_link", return_value=False):
+            text, _ = self.run_test_command(seen, rss([item]))
+        self.assertIn("Not mirrored", text)
+        next(iter(seen["posts"].values()))["status"] = "pruned"
+        text, _ = self.run_test_command(seen, rss([item]))
+        self.assertIn("Not mirrored", text)
+
     def test_unannounced_link_that_is_not_live_is_retried(self):
         seen = {"feeds": {FEED_URL: []}}
         self.fetch(self.feed(("g", "T", "https://blog.example/g", LONG)), seen)
