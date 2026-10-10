@@ -356,8 +356,8 @@
    "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"3430c-65d697956db4a-gzip\"",
-   "last_modified": "Fri, 09 Oct 2026 14:50:48 GMT"
+   "etag": "\"3430c-65d6975fe8659-gzip\"",
+   "last_modified": "Fri, 09 Oct 2026 14:49:52 GMT"
   },
   "https://reason.com/feed/": {
    "etag": "W/\"f2c773638c81337152f08ee45e8a44e3\"",
@@ -369,7 +369,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 10 Oct 2026 18:26:00 GMT"
+   "last_modified": "Sat, 10 Oct 2026 18:32:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -811,5 +811,5 @@
    "title": "September Wrap-Up"
   }
  },
- "tg_offset": 172773841
+ "tg_offset": 172773842
 }
