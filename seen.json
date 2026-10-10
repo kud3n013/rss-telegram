@@ -232,7 +232,8 @@
    "https://retractionwatch.com/?p=136127",
    "https://retractionwatch.com/?p=136122",
    "https://retractionwatch.com/?p=136110",
-   "https://retractionwatch.com/?p=136103"
+   "https://retractionwatch.com/?p=136103",
+   "https://retractionwatch.com/?p=136188"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -289,7 +290,9 @@
    "hltvnews45686",
    "hltvnews45685",
    "hltvnews45690",
-   "hltvnews45691"
+   "hltvnews45691",
+   "hltvnews45692",
+   "hltvnews45693"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -356,20 +359,20 @@
    "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"3430c-65d6977ac05cc-gzip\"",
-   "last_modified": "Fri, 09 Oct 2026 14:50:20 GMT"
+   "etag": "\"3430c-65d6975fe8659-gzip\"",
+   "last_modified": "Fri, 09 Oct 2026 14:49:52 GMT"
   },
   "https://reason.com/feed/": {
    "etag": "W/\"f2c773638c81337152f08ee45e8a44e3\"",
    "last_modified": "Sat, 10 Oct 2026 16:00:52 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"ee0ad10a4ee850be9b44b493c9e18831\"",
+   "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 10 Oct 2026 19:08:00 GMT"
+   "last_modified": "Sat, 10 Oct 2026 21:56:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -380,8 +383,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6aca8a59-53c4\"",
-   "last_modified": "Sat, 10 Oct 2026 18:56:25 GMT"
+   "etag": "W/\"6acab105-53c4\"",
+   "last_modified": "Sat, 10 Oct 2026 21:41:25 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -472,6 +475,18 @@
    "source_slug": "dhh",
    "status": "notified",
    "title": "Redundancy is the engine of progress"
+  },
+  "243eb48ac2": {
+   "date": 1791665700,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791669367,
+   "guid": "hltvnews45693",
+   "slug": "mouz-beat-spirit-en-route-to-epl-final-243eb4",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "MOUZ beat Spirit en route to EPL final"
   },
   "30aa466ecb": {
    "date": 1791633626,
@@ -627,6 +642,18 @@
    "status": "notified",
    "title": "Release build - 1.23.1b (2026-10-06)"
   },
+  "6ea6e9e61e": {
+   "date": 1791663300,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791669367,
+   "guid": "hltvnews45692",
+   "slug": "faze-knocking-on-the-door-of-top-15-with-roman-imperium-cup-6ea6e9",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FaZe knocking on the door of top 15 with Roman Imperium Cup IX title"
+  },
   "7612315361": {
    "date": 1786406400,
    "excerpt_only": false,
@@ -724,6 +751,18 @@
    "source_slug": "weekly-free-games",
    "status": "notified",
    "title": "Fireside Feelings free in the Steam Store"
+  },
+  "bbf2986ef7": {
+   "date": 1791626400,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1791669367,
+   "guid": "https://retractionwatch.com/?p=136188",
+   "slug": "weekend-reads-openais-preprint-dump-taylor-francis-to-leave-bbf298",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Weekend reads: OpenAI\u2019s preprint dump; Taylor & Francis to leave Informa; arXiv\u2019s preprint cap"
   },
   "bd50c64666": {
    "date": 1791543332,
