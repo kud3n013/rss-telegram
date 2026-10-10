@@ -326,7 +326,68 @@
    "https://www.zotero.org/blog/?p=2447"
   ]
  },
- "http": {},
+ "http": {
+  "https://allenai.org/rss.xml": {
+   "etag": null,
+   "last_modified": null
+  },
+  "https://annas-archive.gl/blog/rss.xml": {
+   "etag": null,
+   "last_modified": null
+  },
+  "https://blog.beeper.com/feed/": {
+   "etag": null,
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+  },
+  "https://github.com/imputnet/helium/releases.atom": {
+   "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
+   "last_modified": null
+  },
+  "https://github.com/zen-browser/desktop/releases.atom": {
+   "etag": "W/\"893123a15b21547700d7fa28a85c01a7\"",
+   "last_modified": null
+  },
+  "https://mastodon.social/@Z_Lib_official.rss": {
+   "etag": "W/\"40e749d4d9932e9f9a410e3e4455a22f\"",
+   "last_modified": null
+  },
+  "https://obsidian.md/feed.xml": {
+   "etag": "W/\"6ac92523-331ec\"",
+   "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
+  },
+  "https://proton.me/blog/feed": {
+   "etag": "\"3430c-65d697deeea18-gzip\"",
+   "last_modified": "Fri, 09 Oct 2026 14:52:06 GMT"
+  },
+  "https://reason.com/feed/": {
+   "etag": "W/\"f2c773638c81337152f08ee45e8a44e3\"",
+   "last_modified": "Sat, 10 Oct 2026 16:00:52 GMT"
+  },
+  "https://retractionwatch.com/feed/": {
+   "etag": "\"ee0ad10a4ee850be9b44b493c9e18831\"",
+   "last_modified": null
+  },
+  "https://steamcommunity.com/groups/freegamesfinders/rss": {
+   "etag": null,
+   "last_modified": "Sat, 10 Oct 2026 18:08:00 GMT"
+  },
+  "https://world.hey.com/dhh/feed.atom": {
+   "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
+   "last_modified": null
+  },
+  "https://www.hltv.org/rss/news": {
+   "etag": null,
+   "last_modified": null
+  },
+  "https://www.thatprivacyguy.com/blog/feed.xml": {
+   "etag": "W/\"6aca7c49-53c4\"",
+   "last_modified": "Sat, 10 Oct 2026 17:56:25 GMT"
+  },
+  "https://www.zotero.org/blog/feed/": {
+   "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
+   "last_modified": "Mon, 05 Oct 2026 16:38:20 GMT"
+  }
+ },
  "posts": {
   "0f0c98123d": {
    "date": 1791630019,
@@ -714,6 +775,7 @@
    "guid": "hltvnews45691",
    "message_id": 78,
    "notified_at": 1791654791,
+   "read_at": 1791655750,
    "slug": "vitality-beat-aurora-to-reach-epl-final-d089e6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
@@ -749,5 +811,5 @@
    "title": "September Wrap-Up"
   }
  },
- "tg_offset": 172773840
+ "tg_offset": 172773841
 }
