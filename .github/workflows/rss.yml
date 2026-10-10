@@ -15,6 +15,11 @@ on:
         required: false
         default: "0"
         type: string
+      refetch:
+        description: "Re-extract the live posts of feeds whose name or URL contains this text (blank = off)"
+        required: false
+        default: ""
+        type: string
 
 permissions:
   contents: write             # commit seen.json, feeds.yml and content/posts back to the repo
@@ -53,6 +58,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BACKFILL: ${{ inputs.backfill }}   # empty on scheduled runs
+          REFETCH: ${{ inputs.refetch }}     # empty on scheduled runs
           NEW_FEED_BACKFILL: ${{ vars.NEW_FEED_BACKFILL || '0' }}
           READ_TTL_HOURS: ${{ vars.READ_TTL_HOURS || '24' }}
           UNREAD_TTL_HOURS: ${{ vars.UNREAD_TTL_HOURS || '72' }}

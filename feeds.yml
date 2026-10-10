@@ -7,6 +7,8 @@
 #             fetch always fetch the page and extract the article
 #   client    plain (default) or impersonate (curl_cffi Chrome TLS fingerprint, for Cloudflare sites)
 #   selector  CSS selector to extract instead of the generic extractor (fetch mode)
+#   remove    CSS selectors of page elements to delete before extracting (widgets, embeds)
+#   subtitle_selector  CSS selector of the page's subtitle/standfirst: shown as the subtitle
 #   filter    {title_contains: [..]}: only items whose title has one of these words are mirrored
 #   min_chars minimum feed-content length for `auto` to skip the page fetch (default 600)
 #
@@ -42,10 +44,15 @@ feeds:
     name: Ai2 Blog
     mode: fetch
   # hltv.org is behind Cloudflare: impersonate Chrome; if still blocked the run carries on without it.
+  # The generic extractor also picks up HLTV's hidden player/team hover cards, so take only the
+  # article body and drop the match widgets (scoreboard, stats tables, embeds).
   - url: https://www.hltv.org/rss/news
     name: HLTV News
     mode: fetch
     client: impersonate
+    selector: "article.newsitem .newstext-con"
+    subtitle_selector: "article.newsitem p.headertext"
+    remove: [".image-con", ".videoCon", ".newsitem-match-result", ".newsitem-match-stats", ".event-matches-table"]
   - url: https://www.thatprivacyguy.com/blog/feed.xml
     name: That Privacy Guy! Blog
     mode: fetch

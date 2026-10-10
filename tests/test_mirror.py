@@ -115,6 +115,34 @@ class MarkdownTest(unittest.TestCase):
         self.assertNotIn("cookie", md.lower())
         self.assertTrue(meta["image"])
 
+    def hltv(self):
+        cfg = {f["url"]: f for f in feedconf.load_feeds(ROOT / "feeds.yml")}["https://www.hltv.org/rss/news"]
+        page = (FIXTURES / "hltv_page.html").read_text(encoding="utf-8")
+        url = "https://www.hltv.org/news/45691/vitality-beat-aurora-to-reach-epl-final"
+        content, meta = extract.extract_page(page, url, cfg["selector"], cfg["remove"], cfg["subtitle_selector"])
+        return extract.html_to_markdown(extract.sanitize_html(content, url)), meta
+
+    def test_hltv_overrides_keep_only_the_article(self):
+        md, meta = self.hltv()
+        self.assertEqual(meta["subtitle"], "apEX's troops will go up against Spirit or MOUZ in Sunday's title decider.")
+        self.assertTrue(md.startswith("[Vitality](https://www.hltv.org/team/9565/vitality) are through"))
+        self.assertIn("triple kill from [ZywOo]", md)  # the last paragraph is there
+        for junk in ("Past 3 months", "K - D", "Best of 3", "teamlogo", "flags/", "|", "apEX's troops"):
+            self.assertNotIn(junk, md)  # hover cards, stats tables, scoreboard, subtitle
+        self.assertLess(len(md), 4000)
+
+    def test_invisible_characters_are_removed(self):
+        md, _ = self.hltv()
+        self.assertIn('"woxic"', md)
+        self.assertNotRegex(md, "[⁠​﻿]")
+        self.assertIn("👨‍👩", extract.html_to_markdown("<p>👨‍👩</p>"))  # emoji joiners stay
+
+    def test_without_overrides_hltv_is_messy(self):
+        # documents why the overrides exist: the generic extractor keeps the hover cards
+        page = (FIXTURES / "hltv_page.html").read_text(encoding="utf-8")
+        content, _ = extract.extract_page(page, "https://www.hltv.org/news/1/x")
+        self.assertIn("Past 3 months", extract.html_to_markdown(extract.sanitize_html(content)))
+
     def test_sanitizer_strips_clutter(self):
         html = ('<div class="entry"><p>Real text here.</p><script>evil()</script>'
                 '<div class="sharedaddy sd-sharing"><a href="/s">Share on X</a></div>'
@@ -143,6 +171,11 @@ class MarkdownTest(unittest.TestCase):
         self.assertEqual(extract.drop_leading_title("Other\n\nBody", "Some Title"), "Other\n\nBody")
         md = "![x](https://c.example/a/pic-800x450.jpg)\n\nBody"
         self.assertEqual(extract.drop_leading_image(md, "https://c.example/b/pic-1200x675.jpg?q=1"), "Body")
+        md = "A standfirst line.\n\n![](https://c.example/a/pic.jpg?w=800&s=1)\n\nBody"  # image after a dek
+        self.assertEqual(extract.drop_leading_image(md, "https://c.example/a/pic.jpg?w=1600&s=2"),
+                         "A standfirst line.\n\nBody")
+        md = "One.\n\nTwo.\n\nThree.\n\n![](https://c.example/a/pic.jpg)"  # deep in the article: kept
+        self.assertEqual(extract.drop_leading_image(md, "https://c.example/a/pic.jpg"), md)
 
     def test_md_to_text_and_summary(self):
         text = mposts.md_to_text("## Head\n\nSome **bold** [link](http://x) text. Second one! Third? Fourth.\n\n- a\n- b\n\n![i](http://i)")
@@ -406,6 +439,30 @@ class PipelineTest(unittest.TestCase):
         self.assertEqual(self.files(), [])
         self.assertEqual(seen["posts"], {})
         self.assertIn("u", seen["feeds"][FEED_URL])  # dedup memory outlives the files
+
+    def test_refetch_regenerates_live_posts_in_place_without_reannouncing(self):
+        page_v1 = "<html><body><article><p>" + "Old messy version. " * 40 + "</p></article></body></html>"
+        page_v2 = ("<html><body><article><p class='dek'>The standfirst.</p><p>"
+                   + "Clean new version. " * 40 + "</p></article></body></html>")
+        self.feeds_file.write_text(f"feeds:\n  - url: {FEED_URL}\n    name: Blog\n    mode: fetch\n", encoding="utf-8")
+        seen = {"feeds": {FEED_URL: []}}
+        item = ("g", "T", "https://blog.example/g", "<p>teaser</p>")
+        self.fetch(self.feed(item, extra_routes={"https://blog.example/g": page_v1}), seen, now=1000)
+        notify.stage_notify(seen, log=lambda m: None, link_check=False)
+        post = dict(next(iter(seen["posts"].values())))
+        self.feeds_file.write_text(f"feeds:\n  - url: {FEED_URL}\n    name: Blog\n    mode: fetch\n"
+                                   "    subtitle_selector: p.dek\n", encoding="utf-8")
+        with mock.patch.object(notify, "REFETCH", "blog"):
+            summary = self.fetch(self.feed(item, extra_routes={"https://blog.example/g": page_v2}), seen, now=5000)
+        self.assertEqual((summary["refreshed"], summary["new"]), (1, 0))
+        fm, body = mposts.read_post(self.files()[0])
+        self.assertEqual(len(self.files()), 1)  # same file, same link
+        self.assertIn("Clean new version", body)
+        self.assertEqual(fm["subtitle"], "The standfirst.")
+        after = next(iter(seen["posts"].values()))
+        for key in ("slug", "status", "notified_at", "message_id", "fetched"):  # timer and announcement unchanged
+            self.assertEqual(after[key], post[key], key)
+        self.assertEqual(notify.stage_notify(seen, log=lambda m: None, link_check=False), 0)
 
     def test_unannounced_link_that_is_not_live_is_retried(self):
         seen = {"feeds": {FEED_URL: []}}

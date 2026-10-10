@@ -47,7 +47,12 @@ def _entry(raw):
     if isinstance(words, str):
         words = [words]
     min_chars = raw.get("min_chars")
+    remove = raw.get("remove") or []
+    if isinstance(remove, str):
+        remove = [remove]
     return {
+        "subtitle_selector": str(raw["subtitle_selector"]).strip() if raw.get("subtitle_selector") else None,
+        "remove": [str(r).strip() for r in remove if str(r).strip()],
         "url": str(raw["url"]).strip(),
         "label": str(raw.get("name") or "").strip(),
         "mode": mode,

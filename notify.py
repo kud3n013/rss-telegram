@@ -79,6 +79,8 @@ UNREAD_TTL_HOURS = clamp_int(os.environ.get("UNREAD_TTL_HOURS", ""), 1, 24 * 365
 STUB_DAYS = clamp_int(os.environ.get("STUB_DAYS", ""), 0, 3650, default=30)
 SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
 DOMAIN_DELAY = float(os.environ.get("DOMAIN_DELAY", "2"))
+# re-extract already-mirrored posts of feeds whose url or name contains this text (manual runs only)
+REFETCH = os.environ.get("REFETCH", "").strip().lower()
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
@@ -564,11 +566,12 @@ def iso_now(now):
     return time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(now))
 
 
-def mirror_entry(fc, parsed_feed, entry, fetcher, now, log):
+def mirror_entry(fc, parsed_feed, entry, fetcher, now, log, slug=None):
     """Build and write the Markdown file for one feed item. Returns its state record.
 
     Never raises for content problems: a page that can't be fetched or parsed falls back to
     the feed's own data and the post is marked excerpt_only. Only I/O errors propagate.
+    `slug` keeps an existing file name when a post is regenerated (its link must not change).
     """
     guid = entry_id(entry)
     link = entry.get("link") or ""
@@ -585,7 +588,8 @@ def mirror_entry(fc, parsed_feed, entry, fetcher, now, log):
     if mode == "fetch" and link:
         try:
             resp = fetcher.get(link, client=fc["client"], page=True)
-            html_body, page_meta = extract.extract_page(resp.text, link, fc["selector"])
+            html_body, page_meta = extract.extract_page(resp.text, link, fc["selector"], fc.get("remove") or (),
+                                                        fc.get("subtitle_selector"))
             base = link
         except http_client.FetchError as exc:
             kind = "BLOCKED" if exc.blocked else "FETCH FAILED"
@@ -609,10 +613,10 @@ def mirror_entry(fc, parsed_feed, entry, fetcher, now, log):
 
     fetched = iso_now(now)
     source_slug = mposts.slugify(source)
-    slug = mposts.make_slug(title, guid)
+    slug = slug or mposts.make_slug(title, guid)
     summary = mposts.first_sentences(mposts.md_to_text(md), 3, 400)
     tags = [t.get("term") for t in (entry.get("tags") or []) if t.get("term")]
-    fields = {"title": title, "subtitle": "", "source": source, "source_url": link, "author": author,
+    fields = {"title": title, "subtitle": page_meta.get("subtitle") or "", "source": source, "source_url": link, "author": author,
               "date": entry_date_iso(entry, fetched), "fetched": fetched, "image": image or "",
               "summary": summary, "tags": tags, "guid": guid}
     extra = {"excerpt_only": True} if excerpt_only else None
@@ -648,13 +652,36 @@ def expire_posts(seen, now, log):
     return changed
 
 
+def refresh_posts(seen, fc, parsed, fetcher, now, log, summary):
+    """Re-extract this feed's live (not yet expired) posts in place, e.g. after changing its
+    feeds.yml overrides. Same file name and link, same delete timer, never re-announced."""
+    count = 0
+    for entry in parsed.entries:
+        old = seen["posts"].get(mposts.guid_hash(entry_id(entry) or ""))
+        if not old or old["status"] == "pruned" or old["feed"] != fc["url"]:
+            continue
+        try:
+            rec = mirror_entry(fc, parsed, entry, fetcher, now, log, slug=old["slug"])
+        except Exception as exc:
+            log(f"REFRESH FAILED {entry.get('link')}: {type(exc).__name__}: {exc}")
+            summary["failed_items"].append(f"{fc['label'] or fc['url']}: {entry.get('title')}: refresh: {exc}")
+            continue
+        if rec["source_slug"] != old["source_slug"]:  # feed renamed since: keep the old path
+            mposts.post_path(CONTENT_DIR, rec["source_slug"], rec["slug"]).replace(
+                mposts.post_path(CONTENT_DIR, old["source_slug"], old["slug"]))
+        old.update(title=rec["title"], excerpt_only=rec["excerpt_only"])
+        count += 1
+        log(f"REFRESHED {old['source_slug']}/{old['slug']}")
+    return count
+
+
 def stage_fetch(seen, fetcher=None, now=None, log=print):
     """Feeds -> Markdown files + state. Returns a summary dict (also written for the workflow)."""
     now = now if now is not None else time.time()
     fetcher = fetcher or http_client.Fetcher(delay=DOMAIN_DELAY)
     seen.setdefault("posts", {})
     seen.setdefault("http", {})
-    summary = {"new": 0, "pruned": 0, "failed_feeds": [], "failed_items": [], "excerpt_only": []}
+    summary = {"new": 0, "pruned": 0, "refreshed": 0, "failed_feeds": [], "failed_items": [], "excerpt_only": []}
     summary["pruned"] = expire_posts(seen, now, log)
 
     entries = feed_entries()
@@ -664,8 +691,9 @@ def stage_fetch(seen, fetcher=None, now=None, log=print):
     for fc in entries:
         url = fc["url"]
         cache = seen["http"].get(url) or {}
+        refetch = bool(REFETCH) and (REFETCH in url.lower() or REFETCH in fc["label"].lower())
         try:
-            resp = fetcher.get(url, client=fc["client"], conditional=None if BACKFILL else cache)
+            resp = fetcher.get(url, client=fc["client"], conditional=None if (BACKFILL or refetch) else cache)
             if resp.status == 304:
                 log(f"UNCHANGED {url}")
                 continue
@@ -681,6 +709,9 @@ def stage_fetch(seen, fetcher=None, now=None, log=print):
             log(f"FAILED  {url}: {type(exc).__name__}: {exc}")
             summary["failed_feeds"].append(f"{fc['label'] or url}: {exc}")
             continue
+
+        if refetch:
+            summary["refreshed"] += refresh_posts(seen, fc, parsed, fetcher, now, log, summary)
 
         known = seen["feeds"].get(url)
         ids_now = [i for i in map(entry_id, parsed.entries) if i]
@@ -818,12 +849,13 @@ def run_fetch_stage():
         handle_commands(seen)  # may edit feeds.yml and mark posts read, so it runs first
     summary = stage_fetch(seen)
     save_seen(seen)
-    changed = summary["new"] > 0 or summary["pruned"] > 0
-    print(f"Fetch done: {summary['new']} new, {summary['pruned']} expired, "
+    changed = summary["new"] > 0 or summary["pruned"] > 0 or summary["refreshed"] > 0
+    print(f"Fetch done: {summary['new']} new, {summary['pruned']} expired, {summary['refreshed']} refreshed, "
           f"{len(summary['failed_feeds'])} feed failures, {len(summary['failed_items'])} item failures")
     write_github_output({"changed": str(changed).lower(), "new_count": summary["new"],
                          "pruned": summary["pruned"], "pending": summary["pending"]})
     lines = ["### Mirror fetch", f"- new posts: {summary['new']}", f"- expired posts: {summary['pruned']}",
+             f"- refreshed posts: {summary['refreshed']}",
              f"- pending announcement: {summary['pending']}"]
     for key, label in (("failed_feeds", "feed failures"), ("failed_items", "item failures"),
                        ("excerpt_only", "excerpt-only posts")):

@@ -17,6 +17,8 @@ _JUNK_RE = re.compile(
 _TRACKER_RE = re.compile(r"(feeds\.feedburner\.com/~|stats\.wp\.com|pixel|beacon|/track(ing)?[/?]|doubleclick|"
                          r"analytics|1x1\.|/wp-includes/images/smilies/)", re.I)
 _BOILERPLATE_START = ("share this", "like this", "related posts", "related:", "read more", "continue reading")
+# zero-width / word-joiner characters some sites wrap names in (HLTV: "⁠woxic⁠")
+_INVISIBLE_RE = re.compile("[​⁠﻿­]")  # not ZWJ: emoji sequences need it
 _KEEP_EMPTY = {"img", "br", "hr", "video", "audio", "source", "picture", "td", "th", "tr"}
 
 
@@ -87,6 +89,7 @@ class _Converter(MarkdownConverter):
 
 def html_to_markdown(markup):
     md = _Converter(heading_style="ATX", bullets="-", strip=["script", "style"]).convert(markup or "")
+    md = _INVISIBLE_RE.sub("", md)
     md = re.sub(r"[ \t]+\n", "\n", md.replace("\xa0", " "))
     return re.sub(r"\n{3,}", "\n\n", md).strip()
 
@@ -103,12 +106,15 @@ def drop_leading_title(md, title):
 
 
 def drop_leading_image(md, image):
-    """Remove the first image if it is the banner image the page template already shows."""
+    """Remove the banner image the page template already shows, if one of the first three
+    blocks is just that image (a subtitle or byline paragraph often comes before it)."""
     if not image:
         return md
-    m = re.match(r"\s*(?:\[\s*)?!\[[^\]]*\]\(([^)\s]+)[^)]*\)(?:\]\([^)]*\))?\s*", md)
-    if m and _image_key(m.group(1)) == _image_key(image):
-        return md[m.end():].strip()
+    blocks = md.split("\n\n")
+    for i, block in enumerate(blocks[:3]):
+        m = re.fullmatch(r"\s*(?:\[\s*)?!\[[^\]]*\]\(([^)\s]+)[^)]*\)(?:\]\([^)]*\))?\s*", block)
+        if m and _image_key(m.group(1)) == _image_key(image):
+            return "\n\n".join(blocks[:i] + blocks[i + 1:]).strip()
     return md
 
 
@@ -139,16 +145,31 @@ def choose_mode(feed_cfg, entry):
     return "feed" if text_len(feed_html(entry)) >= feed_cfg.get("min_chars", 600) else "fetch"
 
 
-def extract_page(page_html, url, selector=None):
-    """Main content of an article page -> (html, metadata dict). Raises ValueError if nothing usable."""
-    meta = {"image": None, "author": None}
+def extract_page(page_html, url, selector=None, remove=(), subtitle_selector=None):
+    """Main content of an article page -> (html, metadata dict). Raises ValueError if nothing usable.
+
+    Per-site overrides from feeds.yml: `subtitle_selector` moves that element's text into
+    meta["subtitle"], `remove` deletes matching elements first, `selector` picks the body.
+    """
+    meta = {"image": None, "author": None, "subtitle": None}
     try:
         import trafilatura
         md = trafilatura.extract_metadata(page_html)
         if md:
-            meta = {"image": md.image or None, "author": md.author or None}
+            meta.update(image=md.image or None, author=md.author or None)
     except Exception:
         pass
+    if remove or subtitle_selector:
+        soup = BeautifulSoup(page_html, "lxml")
+        if subtitle_selector:
+            node = soup.select_one(subtitle_selector)
+            if node is not None:
+                meta["subtitle"] = _INVISIBLE_RE.sub("", node.get_text(" ", strip=True)) or None
+                node.decompose()
+        for css in remove:
+            for node in soup.select(css):
+                node.decompose()
+        page_html = str(soup)
     if selector:
         node = BeautifulSoup(page_html, "lxml").select_one(selector)
         if node is None or not node.get_text(strip=True):

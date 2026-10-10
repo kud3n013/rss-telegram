@@ -99,9 +99,14 @@ Message the bot `/add <url> [name]`, or add to `feeds.yml`:
       mode: auto            # feed | fetch | auto
       client: plain         # plain | impersonate
       selector: "article"   # only if the generic extractor does poorly on this site
+      remove: [".share", ".match-widget"]   # page elements to delete before extracting
+      subtitle_selector: "p.standfirst"     # shown as the page's subtitle instead of in the body
       filter: {title_contains: [Epic]}   # optional
 
 Check the result with `DRY_RUN=1 MIRROR=1 BACKFILL=1 python notify.py fetch` (files go to `content/posts/`).
+After changing a feed's overrides, re-extract its posts that are still on the site: Actions > **RSS to
+Telegram** > **Run workflow**, and type part of the feed's name or URL in **refetch** (e.g. `hltv`). The pages
+are rebuilt in place (same links, same delete timer) and nothing is sent to Telegram again.
 
 ### Keeping the mirror out of search engines
 Every generated page has `<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">`, posts set
