@@ -334,10 +334,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791654678,
    "guid": "https://reason.com/?post_type=volokh-post&p=8365978",
+   "message_id": 74,
+   "notified_at": 1791654784,
    "slug": "today-in-supreme-court-history-october-10-2012-0f0c98",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Today in Supreme Court History: October 10, 2012"
   },
   "0fdb3ea22a": {
@@ -346,10 +348,12 @@
    "feed": "https://world.hey.com/dhh/feed.atom",
    "fetched": 1791654678,
    "guid": "tag:world.hey.com,2005:World::Post/49334",
+   "message_id": 61,
+   "notified_at": 1791654761,
    "slug": "over-my-dead-pencil-0fdb3e",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Over my dead pencil"
   },
   "11b97f2c8f": {
@@ -358,10 +362,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1791654678,
    "guid": "https://retractionwatch.com/?p=136186",
+   "message_id": 72,
+   "notified_at": 1791654781,
    "slug": "cerebral-torment-iop-retracts-nearly-100-conference-papers-11b97f",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "\u2018Cerebral torment\u2019: IOP retracts nearly 100 conference papers for tortured phrases"
   },
   "13f2275e85": {
@@ -370,10 +376,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791654678,
    "guid": "https://proton.me/business/blog/asos-data-breach",
+   "message_id": 71,
+   "notified_at": 1791654779,
    "slug": "why-did-the-asos-hackers-go-directly-to-their-customers-13f227",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Why did the ASOS hackers go directly to their customers?"
   },
   "151e734a33": {
@@ -382,10 +390,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791654678,
    "guid": "hltvnews45690",
+   "message_id": 77,
+   "notified_at": 1791654790,
    "slug": "bbl-confirm-mistr-signing-151e73",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BBL confirm MistR signing"
   },
   "1a00accb2e": {
@@ -394,10 +404,12 @@
    "feed": "https://world.hey.com/dhh/feed.atom",
    "fetched": 1791654678,
    "guid": "tag:world.hey.com,2005:World::Post/49362",
+   "message_id": 63,
+   "notified_at": 1791654765,
    "slug": "redundancy-is-the-engine-of-progress-1a00ac",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Redundancy is the engine of progress"
   },
   "30aa466ecb": {
@@ -406,10 +418,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791654678,
    "guid": "https://reason.com/?p=8405569",
+   "message_id": 76,
+   "notified_at": 1791654788,
    "slug": "spacex-found-a-way-around-the-fcc-30aa46",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "SpaceX Found a Way Around the FCC"
   },
   "333550bff6": {
@@ -418,10 +432,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1791654678,
    "guid": "https://allenai.org/blog/colm-2026-recap",
+   "message_id": 68,
+   "notified_at": 1791654774,
    "slug": "ai2-at-colm-2026-open-research-from-models-to-agents-for-333550",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Ai2 at COLM 2026: Open research, from models to agents for science"
   },
   "35add5da6b": {
@@ -430,10 +446,12 @@
    "feed": "https://www.thatprivacyguy.com/blog/feed.xml",
    "fetched": 1791654678,
    "guid": "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
+   "message_id": 57,
+   "notified_at": 1791654754,
    "slug": "shopifys-own-code-treats-silence-as-consent-on-every-store-35add5",
    "source": "That Privacy Guy! Blog",
    "source_slug": "that-privacy-guy-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Shopify's own code treats silence as consent on every store it hosts, while its DSA filings leave the user numbers blank"
   },
   "396c30e2f5": {
@@ -442,10 +460,12 @@
    "feed": "https://mastodon.social/@Z_Lib_official.rss",
    "fetched": 1791654678,
    "guid": "https://mastodon.social/@Z_Lib_official/117291996621050541",
+   "message_id": 56,
+   "notified_at": 1791654752,
    "slug": "hello-396c30",
    "source": "Z-Library Official",
    "source_slug": "z-library-official",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Hello \ud83d\udc4b"
   },
   "50b3e71406": {
@@ -454,10 +474,12 @@
    "feed": "https://mastodon.social/@Z_Lib_official.rss",
    "fetched": 1791654678,
    "guid": "https://mastodon.social/@Z_Lib_official/117184880166889287",
+   "message_id": 54,
+   "notified_at": 1791654749,
    "slug": "dear-z-librarians-50b3e7",
    "source": "Z-Library Official",
    "source_slug": "z-library-official",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Dear Z-Librarians,"
   },
   "5a7a77d5bf": {
@@ -466,10 +488,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1791654678,
    "guid": "https://retractionwatch.com/?p=136176",
+   "message_id": 67,
+   "notified_at": 1791654772,
    "slug": "openai-withdraws-three-preprints-a-day-after-releasing-722-5a7a77",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems"
   },
   "5ba622e911": {
@@ -478,10 +502,12 @@
    "feed": "https://www.zotero.org/blog/feed/",
    "fetched": 1791654678,
    "guid": "https://www.zotero.org/blog/?p=2736",
+   "message_id": 53,
+   "notified_at": 1791654747,
    "slug": "zotero-10-5ba622",
    "source": "Zotero",
    "source_slug": "zotero",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Zotero 10"
   },
   "5c4bc3ac99": {
@@ -490,10 +516,12 @@
    "feed": "https://github.com/zen-browser/desktop/releases.atom",
    "fetched": 1791654678,
    "guid": "tag:github.com,2008:Repository/778556932/1.23.2b",
+   "message_id": 73,
+   "notified_at": 1791654782,
    "slug": "release-build-1-23-2b-2026-10-09-5c4bc3",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Release build - 1.23.2b (2026-10-09)"
   },
   "64c20f3928": {
@@ -502,10 +530,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791654678,
    "guid": "https://proton.me/business/blog/what-zero-retention-data-means",
+   "message_id": 65,
+   "notified_at": 1791654768,
    "slug": "why-zero-data-retention-may-not-protect-your-business-data-64c20f",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Why \u201czero data retention\u201d may not protect your business data"
   },
   "6a5404c7b6": {
@@ -514,10 +544,12 @@
    "feed": "https://obsidian.md/feed.xml",
    "fetched": 1791654678,
    "guid": "https://obsidian.md/blog/cure53-tob-sync-audits/",
+   "message_id": 50,
+   "notified_at": 1791654741,
    "slug": "obsidian-sync-audits-by-cure53-and-trail-of-bits-6a5404",
    "source": "Obsidian Blog",
    "source_slug": "obsidian-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Obsidian Sync audits by Cure53 and Trail of Bits"
   },
   "6b1ea9229f": {
@@ -526,10 +558,12 @@
    "feed": "https://github.com/zen-browser/desktop/releases.atom",
    "fetched": 1791654678,
    "guid": "tag:github.com,2008:Repository/778556932/1.23.1b",
+   "message_id": 62,
+   "notified_at": 1791654763,
    "slug": "release-build-1-23-1b-2026-10-06-6b1ea9",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Release build - 1.23.1b (2026-10-06)"
   },
   "7612315361": {
@@ -538,10 +572,12 @@
    "feed": "https://www.thatprivacyguy.com/blog/feed.xml",
    "fetched": 1791654678,
    "guid": "https://www.thatprivacyguy.com/blog/locked-in-locked-out",
+   "message_id": 52,
+   "notified_at": 1791654745,
    "slug": "locked-in-locked-out-apples-walled-garden-should-come-with-761231",
    "source": "That Privacy Guy! Blog",
    "source_slug": "that-privacy-guy-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Locked In, Locked Out - Apple's Walled Garden Should Come With Liability"
   },
   "92d0acf4aa": {
@@ -550,10 +586,12 @@
    "feed": "https://annas-archive.gl/blog/rss.xml",
    "fetched": 1791654678,
    "guid": "https://annas-archive.gl/blog/physical-destruction.html",
+   "message_id": 51,
+   "notified_at": 1791654743,
    "slug": "ai-companies-destroy-physical-books-lets-scan-rare-books-92d0ac",
    "source": "Anna's Archive blog",
    "source_slug": "annas-archive-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "AI companies destroy physical books \u2014 let\u2019s scan rare books before it\u2019s too late"
   },
   "9ccf8ee367": {
@@ -562,10 +600,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1791654678,
    "guid": "https://allenai.org/blog/impactful-scheduling",
+   "message_id": 69,
+   "notified_at": 1791654775,
    "slug": "impactful-scheduling-for-gpu-clusters-9ccf8e",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Impactful scheduling for GPU clusters"
   },
   "a17c4aa7fb": {
@@ -574,10 +614,12 @@
    "feed": "https://blog.beeper.com/feed/",
    "fetched": 1791654678,
    "guid": "http://blog.beeper.com/?p=142604543",
+   "message_id": 55,
+   "notified_at": 1791654750,
    "slug": "tumblr-messages-are-here-a17c4a",
    "source": "Beeper Blog",
    "source_slug": "beeper-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Tumblr messages are here"
   },
   "a3138e3d09": {
@@ -586,10 +628,12 @@
    "feed": "https://github.com/imputnet/helium/releases.atom",
    "fetched": 1791654678,
    "guid": "tag:github.com,2008:Repository/933197458/0.19.1",
+   "message_id": 64,
+   "notified_at": 1791654766,
    "slug": "0-19-1-a3138e",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "0.19.1"
   },
   "b43d362736": {
@@ -598,10 +642,12 @@
    "feed": "https://www.zotero.org/blog/feed/",
    "fetched": 1791654678,
    "guid": "https://www.zotero.org/blog/?p=2770",
+   "message_id": 60,
+   "notified_at": 1791654759,
    "slug": "read-aloud-on-ios-b43d36",
    "source": "Zotero",
    "source_slug": "zotero",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Read Aloud on iOS"
   },
   "b59b8513c2": {
@@ -610,10 +656,12 @@
    "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
    "fetched": 1791654678,
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492473208",
+   "message_id": 75,
+   "notified_at": 1791654786,
    "slug": "fireside-feelings-free-in-the-steam-store-b59b85",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Fireside Feelings free in the Steam Store"
   },
   "bd50c64666": {
@@ -622,10 +670,12 @@
    "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
    "fetched": 1791654678,
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
+   "message_id": 70,
+   "notified_at": 1791654777,
    "slug": "pony-island-free-in-the-steam-store-bd50c6",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Pony Island free in the Steam Store"
   },
   "bf5b54cb9c": {
@@ -634,10 +684,12 @@
    "feed": "https://github.com/imputnet/helium/releases.atom",
    "fetched": 1791654678,
    "guid": "tag:github.com,2008:Repository/933197458/0.19.2",
+   "message_id": 66,
+   "notified_at": 1791654770,
    "slug": "0-19-2-bf5b54",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "0.19.2"
   },
   "c8feca95b1": {
@@ -646,10 +698,12 @@
    "feed": "https://obsidian.md/feed.xml",
    "fetched": 1791654678,
    "guid": "https://obsidian.md/blog/2026-obsidian-october/",
+   "message_id": 58,
+   "notified_at": 1791654756,
    "slug": "obsidian-october-2026-c8feca",
    "source": "Obsidian Blog",
    "source_slug": "obsidian-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Obsidian October 2026"
   },
   "d089e68fa6": {
@@ -658,10 +712,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791654678,
    "guid": "hltvnews45691",
+   "message_id": 78,
+   "notified_at": 1791654791,
    "slug": "vitality-beat-aurora-to-reach-epl-final-d089e6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Vitality beat Aurora to reach EPL final"
   },
   "d3ae0c4485": {
@@ -670,10 +726,12 @@
    "feed": "https://annas-archive.gl/blog/rss.xml",
    "fetched": 1791654678,
    "guid": "https://annas-archive.gl/blog/llms-txt.html",
+   "message_id": 49,
+   "notified_at": 1791654740,
    "slug": "if-youre-an-llm-please-read-this-d3ae0c",
    "source": "Anna's Archive blog",
    "source_slug": "annas-archive-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "If you\u2019re an LLM, please read this"
   },
   "f84c44e710": {
@@ -682,10 +740,12 @@
    "feed": "https://blog.beeper.com/feed/",
    "fetched": 1791654678,
    "guid": "http://blog.beeper.com/?p=142604556",
+   "message_id": 59,
+   "notified_at": 1791654758,
    "slug": "september-wrap-up-f84c44",
    "source": "Beeper Blog",
    "source_slug": "beeper-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "September Wrap-Up"
   }
  },
