@@ -10,7 +10,8 @@ import re
 import sys
 from pathlib import Path
 
-NOINDEX = re.compile(r"""<meta\s+[^>]*name=["']robots["'][^>]*content=["'][^"']*\bnoindex\b[^"']*["']""", re.I)
+# attribute quotes are optional so a minified page would still match
+NOINDEX = re.compile(r"""<meta\s+[^>]*name=["']?robots["']?[^>]*content=["']?[^"'>]*\bnoindex\b""", re.I)
 
 
 def check(public):

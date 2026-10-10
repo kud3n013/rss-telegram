@@ -5,6 +5,7 @@ title = "Reading mirror"
 # a private reading mirror and should be as hard to syndicate or index as GitHub Pages allows.
 disableKinds = ["sitemap", "RSS", "robotsTXT"]
 disableHugoGeneratorInject = true
+buildFuture = true   # a mislabelled-timezone pubDate must not make a post vanish from the build
 enableEmoji = false
 pagination.pagerSize = 100
 

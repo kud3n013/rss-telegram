@@ -72,9 +72,16 @@ def split_frontmatter(text):
     return (data if isinstance(data, dict) else {}), m.group(2)
 
 
+def neutralize_shortcodes(body):
+    """Hugo parses {{< and {{% anywhere in content, even in code fences; one article about
+    templates would fail the whole site build. A zero-width space defuses them."""
+    return re.sub(r"\{\{(?=[<%])", "{{​", body)
+
+
 def write_post(path, fields, body, extra=None):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
+    body = neutralize_shortcodes(body)
     path.write_text(build_frontmatter(fields, extra) + "\n" + body.strip() + "\n", encoding="utf-8", newline="\n")
 
 
@@ -92,6 +99,7 @@ def write_stub(path, fields):
 
 def md_to_text(md):
     """Plain text of a Markdown body (paragraph breaks kept), for Telegram snippets."""
+    md = md.replace("{{​", "{{")  # undo neutralize_shortcodes
     text = re.sub(r"```[^\n]*\n(.*?)```", r"\1", md, flags=re.S)
     text = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", text)
     text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)

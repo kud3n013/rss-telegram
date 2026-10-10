@@ -10,7 +10,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import check_site  # noqa: E402
+sys.path.insert(0, str(ROOT))
+from mirror import posts as mposts  # noqa: E402
 
+WORKFLOW_BUILD = ["hugo", "--baseURL", "https://me.github.io/rss/", "--destination", "public"]  # keep in sync with rss.yml
 NOINDEX = '<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">'
 
 
@@ -64,9 +67,15 @@ class HugoBuildTest(unittest.TestCase):
         post = ("---\ntitle: A post\nsource: Src\nsource_url: https://orig.example/a\ndate: '2026-10-10T00:00:00Z'\n"
                 "image: https://i.example/i.jpg\ntags: [one]\n---\n\nHello **world**.\n\n![pic](https://i.example/p.png)\n")
         write(cls.site / "content" / "posts" / "src" / "a-post-123456.md", post)
+        # an article about templates, and one dated in the future: neither may break or vanish from the build
+        mposts.write_post(cls.site / "content" / "posts" / "src" / "tmpl-111111.md",
+                          {"title": "Templates", "source": "Src", "source_url": "https://orig.example/t",
+                           "date": "2026-10-10T00:00:00Z"}, "```\n{{< foo >}} and {{% bar %}}\n```\n")
+        write(cls.site / "content" / "posts" / "src" / "future-222222.md",
+              "---\ntitle: From the future\nsource: Src\nsource_url: https://orig.example/f\ndate: '2099-01-01T00:00:00Z'\n---\n\nHi\n")
         write(cls.site / "content" / "posts" / "src" / "gone-abcdef.md",
               "---\ntitle: Gone\nsource: Src\nsource_url: https://orig.example/gone\nstub: true\n---\n")
-        result = subprocess.run(["hugo", "--baseURL", "https://me.github.io/rss/", "--destination", "public"],
+        result = subprocess.run(WORKFLOW_BUILD,
                                 cwd=cls.site, capture_output=True, text=True)
         assert result.returncode == 0, result.stderr
         cls.public = cls.site / "public"
@@ -100,6 +109,19 @@ class HugoBuildTest(unittest.TestCase):
         home = (self.public / "index.html").read_text(encoding="utf-8")
         self.assertIn("A post", home)
         self.assertNotIn("Gone", home)
+
+    def test_template_syntax_in_an_article_does_not_break_the_build(self):
+        html = (self.public / "posts" / "src" / "tmpl-111111" / "index.html").read_text(encoding="utf-8")
+        self.assertIn("foo", html)
+
+    def test_future_dated_post_is_still_built(self):
+        self.assertTrue((self.public / "posts" / "src" / "future-222222" / "index.html").exists())
+
+    def test_minified_pages_would_still_pass_the_check(self):
+        with tempfile.TemporaryDirectory() as d:
+            (Path(d) / "index.html").write_text('<meta name=robots content="noindex, nofollow">', encoding="utf-8")
+            (Path(d) / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
+            self.assertEqual(check_site.check(d), [])
 
     def test_no_sitemap_or_feeds(self):
         self.assertFalse((self.public / "sitemap.xml").exists())

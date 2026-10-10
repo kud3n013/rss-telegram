@@ -89,13 +89,13 @@ jobs:
 
       - uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.147.0"
+          hugo-version: "0.167.0"
 
       - id: pages
         uses: actions/configure-pages@v5
 
       - name: Build site
-        run: hugo --minify --baseURL "${{ vars.SITE_URL || steps.pages.outputs.base_url }}/" --destination public
+        run: hugo --baseURL "${{ vars.SITE_URL || steps.pages.outputs.base_url }}/" --destination public
 
       - name: Check noindex, robots.txt, no sitemap or feeds
         run: python scripts/check_site.py public

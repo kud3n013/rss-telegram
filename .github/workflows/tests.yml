@@ -16,6 +16,6 @@ jobs:
           cache: pip
       - uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.147.0"
+          hugo-version: "0.167.0"
       - run: pip install -r requirements.txt
       - run: python -m unittest tests.test_notify tests.test_mirror tests.test_site -v
