@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ if .Params.stub }}
+<h1>{{ .Title }}</h1>
+<p class="notice">{{ site.Params.removed_notice }}{{ with .Params.source_url }} Original: <a href="{{ . }}" rel="noopener noreferrer">{{ . }}</a>{{ end }}</p>
+{{ else }}
+<article>
+  {{ with .Params.image }}<img class="banner" src="{{ . }}" alt="" loading="lazy" referrerpolicy="no-referrer">{{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.subtitle }}<h2 class="subtitle">{{ . }}</h2>{{ end }}
+  <div class="meta">{{ .Params.source }}{{ with .Params.author }} · {{ . }}{{ end }}{{ with .Date }} · {{ .Format "2 Jan 2006" }}{{ end }}</div>
+  {{ $src := .Params.source | htmlEscape }}
+  {{ $url := .Params.source_url | htmlEscape }}
+  {{ $link := printf "<a href=\"%s\" rel=\"noopener noreferrer\">%s</a>" $url $url }}
+  {{ $notice := replace (replace site.Params.notice "{source}" $src) "{url}" $link }}
+  <p class="notice">{{ $notice | safeHTML }}</p>
+  {{ if .Params.excerpt_only }}<p class="notice">{{ site.Params.excerpt_only_notice }}</p>{{ end }}
+  {{ .Content }}
+  <p class="notice">{{ $notice | safeHTML }}</p>
+  {{ with .Params.tags }}<p class="meta">{{ range . }}<a href="{{ printf "tags/%s/" (. | urlize) | relURL }}">#{{ . }}</a> {{ end }}</p>{{ end }}
+</article>
+{{ end }}
+{{ end }}

@@ -1,0 +1,21 @@
+# Minimal reading mirror. baseURL is overridden at build time (hugo --baseURL ...).
+baseURL = "https://example.invalid/"
+title = "Reading mirror"
+# No sitemap, no RSS/Atom, no generated robots.txt (static/robots.txt is used): this site is
+# a private reading mirror and should be as hard to syndicate or index as GitHub Pages allows.
+disableKinds = ["sitemap", "RSS", "robotsTXT"]
+disableHugoGeneratorInject = true
+enableEmoji = false
+pagination.pagerSize = 100
+
+[taxonomies]
+tag = "tags"
+
+[params]
+# {source} and {url} are filled in per post by layouts/_default/single.html
+notice = "Excerpted from {source} for reading purposes, not distribution. Read the original: {url}"
+excerpt_only_notice = "Only the feed excerpt could be saved for this post. Read the full article at the original."
+removed_notice = "This mirror copy has been removed."
+
+[markup.goldmark.renderer]
+unsafe = false

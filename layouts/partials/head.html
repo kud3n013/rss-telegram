@@ -1,0 +1,37 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="referrer" content="no-referrer">
+{{- with .Params.source_url }}
+<link rel="canonical" href="{{ . }}">
+{{- end }}
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+{{- if and .Params.stub .Params.source_url }}
+<meta http-equiv="refresh" content="0; url={{ .Params.source_url }}">
+{{- end }}
+<style>
+:root{--bg:#fdfdfc;--fg:#1d1d1f;--muted:#6b6b70;--link:#0b5fd1;--rule:#e4e4e0;--box:#f3f3ef}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#e8e8ea;--muted:#9a9aa2;--link:#7db3ff;--rule:#2c2c31;--box:#1d1d21}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.65 Georgia,"Iowan Old Style",serif}
+main,header.site,footer.site{max-width:42rem;margin:0 auto;padding:0 16px}
+header.site{padding-top:20px;padding-bottom:8px;font:600 15px/1.4 system-ui,sans-serif}
+header.site a{color:var(--muted);text-decoration:none}
+a{color:var(--link)}
+h1{font-size:1.9rem;line-height:1.25;margin:.6em 0 .2em}
+h2.subtitle{font-size:1.2rem;font-weight:400;color:var(--muted);margin:0 0 1em}
+.meta{font:14px/1.5 system-ui,sans-serif;color:var(--muted);margin-bottom:1.2em}
+.notice{font:14px/1.5 system-ui,sans-serif;background:var(--box);border:1px solid var(--rule);border-radius:8px;padding:10px 14px;margin:1em 0;overflow-wrap:anywhere}
+img,video{max-width:100%;height:auto;border-radius:6px}
+.banner{display:block;width:100%;margin:.5em 0 1em}
+pre{overflow-x:auto;background:var(--box);padding:12px;border-radius:6px;font-size:.85rem}
+code{font-size:.9em}
+blockquote{margin:1em 0;padding-left:1em;border-left:3px solid var(--rule);color:var(--muted)}
+table{border-collapse:collapse;display:block;overflow-x:auto}
+td,th{border:1px solid var(--rule);padding:4px 8px}
+ul.posts{list-style:none;padding:0}
+ul.posts li{padding:12px 0;border-bottom:1px solid var(--rule)}
+ul.posts .meta{margin:0}
+footer.site{padding-bottom:40px;padding-top:20px;font:13px/1.5 system-ui,sans-serif;color:var(--muted)}
+</style>

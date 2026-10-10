@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+<header class="site"><a href="{{ "/" | relURL }}">{{ site.Title }}</a></header>
+<main>
+{{ block "main" . }}{{ end }}
+</main>
+<footer class="site">Personal reading mirror. Not indexed, not for distribution.</footer>
+</body>
+</html>

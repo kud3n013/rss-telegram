@@ -1,27 +1,42 @@
 name: RSS to Telegram
 
+# One run = three sequential jobs, so a "Read more" link never points at a page that isn't live yet:
+#   fetch         commands + feeds -> content/posts/*.md, expire old posts, commit   (every run)
+#   build-deploy  Hugo build -> noindex check -> GitHub Pages                         (only if the site changed)
+#   notify        Telegram messages for posts that are mirrored but not yet announced (only after a good deploy)
+
 on:
   schedule:
     - cron: "*/5 * * * *"    # every 5 minutes, GitHub's minimum (runs are often delayed by a few minutes)
   workflow_dispatch:          # lets you run it manually from the Actions tab
     inputs:
       backfill:
-        description: "Send the latest N posts from every feed once (0 = off)"
+        description: "Mirror and send the latest N posts of every feed once (0 = off)"
         required: false
         default: "0"
         type: string
 
 permissions:
-  contents: write             # needed to commit seen.json and feeds.txt back to the repo
+  contents: write             # commit seen.json, feeds.yml and content/posts back to the repo
+  pages: write                # deploy to GitHub Pages
+  id-token: write             # required by actions/deploy-pages
 
 concurrency:
   group: rss-telegram
   cancel-in-progress: false
 
+env:
+  MIRROR: "1"
+  PYTHONUTF8: "1"
+
 jobs:
-  notify:
+  fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    outputs:
+      changed: ${{ steps.fetch.outputs.changed }}
+      pending: ${{ steps.fetch.outputs.pending }}
+      sha: ${{ steps.save.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
 
@@ -32,24 +47,102 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Fetch feeds and send new items
+      - name: Fetch feeds, mirror new posts, expire old ones
+        id: fetch
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BACKFILL: ${{ inputs.backfill }}   # empty on scheduled runs
           NEW_FEED_BACKFILL: ${{ vars.NEW_FEED_BACKFILL || '0' }}
-          EXCERPT_CHARS: ${{ vars.EXCERPT_CHARS || '800' }}
-          LINK_PREVIEW: ${{ vars.LINK_PREVIEW || '0' }}
-          BANNERS: ${{ vars.BANNERS || '1' }}
-        run: python notify.py
+          READ_TTL_HOURS: ${{ vars.READ_TTL_HOURS || '24' }}
+          UNREAD_TTL_HOURS: ${{ vars.UNREAD_TTL_HOURS || '72' }}
+          STUB_DAYS: ${{ vars.STUB_DAYS || '30' }}
+        run: python notify.py fetch
 
-      - name: Save state
+      - name: Save state and posts
+        id: save
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen.json feeds.txt   # feeds.txt changes when you use /add or /remove
+          git add --all -- seen.json feeds.yml content   # explicit paths only
           git diff --staged --quiet || {
-            git commit -m "Update state"
+            git commit -m "Update state and mirrored posts"
+            git pull --rebase
+            git push
+          }
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  build-deploy:
+    needs: fetch
+    if: needs.fetch.outputs.changed == 'true' || needs.fetch.outputs.pending != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.fetch.outputs.sha }}   # the commit that has the posts just written
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.147.0"
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build site
+        run: hugo --minify --baseURL "${{ vars.SITE_URL || steps.pages.outputs.base_url }}/" --destination public
+
+      - name: Check noindex, robots.txt, no sitemap or feeds
+        run: python scripts/check_site.py public
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  notify:
+    needs: [fetch, build-deploy]
+    if: needs.fetch.result == 'success' && needs.build-deploy.result == 'success' && needs.fetch.outputs.pending != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # branch tip: includes the posts and state the fetch job pushed
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Send Telegram messages
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: ${{ vars.SITE_URL || needs.build-deploy.outputs.page_url }}
+          MIRROR_EXCERPT_CHARS: ${{ vars.MIRROR_EXCERPT_CHARS || '4096' }}
+          LINK_PREVIEW: ${{ vars.LINK_PREVIEW || '0' }}
+          BANNERS: ${{ vars.BANNERS || '1' }}
+          READ_TTL_HOURS: ${{ vars.READ_TTL_HOURS || '24' }}
+        run: python notify.py notify
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all -- seen.json
+          git diff --staged --quiet || {
+            git commit -m "Update notification state"
             git pull --rebase
             git push
           }

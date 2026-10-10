@@ -36,6 +36,16 @@ def rss(ids, summary=None, content=None, title="Blog", item_xml=""):
             f"<channel><title>{title}</title>{items}</channel></rss>").encode()
 
 
+def yml(*urls, names=None):
+    """A feeds.yml with the given urls (and optional {url: name})."""
+    out = "feeds:\n"
+    for u in urls:
+        out += f"  - url: {u}\n"
+        if names and u in names:
+            out += f"    name: {names[u]}\n"
+    return out
+
+
 class NotifyTest(unittest.TestCase):
     def setUp(self):
         tmp = tempfile.TemporaryDirectory()
@@ -50,7 +60,7 @@ class NotifyTest(unittest.TestCase):
         self.updates_ok = True
         patches = [
             mock.patch.object(notify, "SEEN_FILE", self.dir / "seen.json"),
-            mock.patch.object(notify, "FEEDS_FILE", self.dir / "feeds.txt"),
+            mock.patch.object(notify, "FEEDS_FILE", self.dir / "feeds.yml"),
             mock.patch.object(notify, "DRY_RUN", False),
             mock.patch.object(notify, "TOKEN", "t"),
             mock.patch.object(notify, "CHAT_ID", "c"),
@@ -87,8 +97,8 @@ class NotifyTest(unittest.TestCase):
         return mock.Mock(status_code=200 if ok else 500, ok=ok, text="err")
 
     def run_main(self, seen=None, feeds=(FEED,), feeds_text=None):
-        text = feeds_text if feeds_text is not None else "\n".join(feeds)
-        (self.dir / "feeds.txt").write_text(text, encoding="utf-8")
+        text = feeds_text if feeds_text is not None else yml(*feeds)
+        (self.dir / "feeds.yml").write_text(text, encoding="utf-8")
         # a pre-existing seen.json avoids the one-off "bot is live" message
         (self.dir / "seen.json").write_text(json.dumps(seen or {"feeds": {}}), encoding="utf-8")
         self.posts.clear()
@@ -99,7 +109,7 @@ class NotifyTest(unittest.TestCase):
         return [re.search(r">([^<]+)</a>", t).group(1) for t in self.posts]
 
     def feeds_text(self):
-        return (self.dir / "feeds.txt").read_text(encoding="utf-8")
+        return (self.dir / "feeds.yml").read_text(encoding="utf-8")
 
     def say(self, text, chat="c", uid=None):
         """Queue an incoming Telegram message for the next getUpdates call."""
@@ -240,7 +250,8 @@ class NotifyTest(unittest.TestCase):
     # ------------------------------------------------------------------ commands
 
     def test_list_numbers_feeds_with_labels(self):
-        text = "# header\n\n# Alpha (note)\nhttp://a.test/feed\n\nhttp://b.test/feed  # Beta\n\nhttp://c.test/feed\n"
+        text = yml("http://a.test/feed", "http://b.test/feed", "http://c.test/feed",
+                   names={"http://a.test/feed": "Alpha", "http://b.test/feed": "Beta"})
         self.feeds = {u: rss("a") for u in ("http://a.test/feed", "http://b.test/feed", "http://c.test/feed")}
         self.say("/list")
         self.run_main({"feeds": {}}, feeds_text=text)
@@ -256,7 +267,7 @@ class NotifyTest(unittest.TestCase):
         self.say(f"/add {new}")
         seen = self.run_main({"feeds": {FEED: list("abcde")}})
         self.assertIn("Added <b>New Blog</b>", self.posts[0])
-        self.assertIn(f"{new}  # New Blog", self.feeds_text())
+        self.assertEqual([(e["url"], e["label"]) for e in notify.feed_entries()][-1], (new, "New Blog"))
         self.assertEqual(len(self.posts), 1)  # nothing from the new feed itself
         self.assertEqual(sorted(seen["feeds"][new]), ["a", "b"])
 
@@ -266,7 +277,7 @@ class NotifyTest(unittest.TestCase):
         self.say(f"/add {new} My # Name")
         with mock.patch.object(notify, "NEW_FEED_BACKFILL", 2):
             seen = self.run_main({"feeds": {FEED: list("abcde")}})
-        self.assertIn(f"{new}  # My Name", self.feeds_text())
+        self.assertEqual([(e["url"], e["label"]) for e in notify.feed_entries()][-1], (new, "My Name"))
         self.assertEqual(len(self.posts), 3)  # reply + 2 backfilled posts
         self.posts.pop(0)  # the /add reply
         self.assertEqual(self.titles(), ["Tb", "Tc"])
@@ -277,7 +288,7 @@ class NotifyTest(unittest.TestCase):
         self.say("/add http://dead.test/feed")  # fetch fails
         self.say(f"/add {FEED}/")  # same feed, trailing slash
         self.say("/add")
-        before = "https://example.com/feed\n"
+        before = yml("https://example.com/feed")
         self.run_main({"feeds": {FEED: list("abcde")}}, feeds_text=before)
         self.assertEqual(len(self.posts), 4)
         self.assertIn("doesn't look like a link", self.posts[0])
@@ -289,18 +300,20 @@ class NotifyTest(unittest.TestCase):
     def test_remove_by_number_drops_feed_comment_and_state(self):
         a, b = "http://a.test/feed", "http://b.test/feed"
         self.feeds = {a: rss("a"), b: rss("a")}
-        text = "# top\n\n# Alpha\n" + a + "\n\n# Beta (x)\n" + b + "\n"
+        text = ("# top comment\nfeeds:\n  - url: " + a + "\n    name: Alpha\n"
+                "  # keep this comment\n  - url: " + b + "\n    name: Beta\n")
         self.say("/remove 1")
         seen = self.run_main({"feeds": {a: ["a"], b: ["a"]}}, feeds_text=text)
         self.assertIn("Removed <b>Alpha</b>", self.posts[0])
-        self.assertEqual(self.feeds_text(), "# top\n\n# Beta (x)\n" + b + "\n")
+        self.assertEqual([e["url"] for e in notify.feed_entries()], [b])
+        self.assertIn("# top comment", self.feeds_text())  # comments survive edits
         self.assertNotIn(a, seen["feeds"])
         self.assertIn(b, seen["feeds"])
 
     def test_remove_by_substring_and_ambiguous(self):
         a, b = "http://x.test/feed", "http://x.test/other"
         self.feeds = {a: rss("a"), b: rss("a")}
-        text = f"{a}  # One\n{b}  # Two\n"
+        text = yml(a, b, names={a: "One", b: "Two"})
         self.say("/remove x.test")  # ambiguous
         self.say("/remove two")  # unique via label
         self.say("/remove 9")  # out of range
@@ -308,7 +321,7 @@ class NotifyTest(unittest.TestCase):
         self.assertIn("More than one", self.posts[0])
         self.assertIn("Removed <b>Two</b>", self.posts[1])
         self.assertIn("No feed matches", self.posts[2])
-        self.assertEqual(self.feeds_text(), f"{a}  # One\n")
+        self.assertEqual([e["url"] for e in notify.feed_entries()], [a])
         self.assertEqual(list(seen["feeds"]), [a])
 
     def test_commands_from_other_chats_and_plain_text_are_ignored(self):
@@ -348,7 +361,7 @@ class NotifyTest(unittest.TestCase):
         self.assertIn(FEED, self.feeds_text())
 
     def test_first_run_message_mentions_help(self):
-        (self.dir / "feeds.txt").write_text(FEED + "\n", encoding="utf-8")
+        (self.dir / "feeds.yml").write_text(yml(FEED), encoding="utf-8")
         notify.main()
         self.assertIn("Send /help", self.posts[-1])
 

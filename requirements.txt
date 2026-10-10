@@ -1,2 +1,9 @@
 feedparser>=6.0
 requests>=2.31
+ruamel.yaml>=0.18
+beautifulsoup4>=4.12
+lxml>=5.0
+markdownify>=0.13
+trafilatura>=2.0
+readability-lxml>=0.8
+curl_cffi>=0.7

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ if .IsHome }}Latest{{ else }}{{ .Title }}{{ end }}</h1>
+{{ $pages := where (cond .IsHome site.RegularPages .Pages) "Params.stub" "ne" true }}
+{{ if not $pages }}<p class="meta">Nothing here.</p>{{ end }}
+<ul class="posts">
+{{ range $pages.ByDate.Reverse }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="meta">{{ .Params.source }}{{ with .Date }} · {{ .Format "2 Jan 2006" }}{{ end }}</div>
+  </li>
+{{ end }}
+</ul>
+{{ end }}
