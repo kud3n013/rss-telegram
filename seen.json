@@ -301,7 +301,10 @@
    "hltvnews45695",
    "hltvnews45694",
    "hltvnews45696",
-   "hltvnews45697"
+   "hltvnews45697",
+   "hltvnews45698",
+   "hltvnews45699",
+   "hltvnews45700"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -349,7 +352,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -368,12 +371,12 @@
    "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"3430c-65d697deeea18-gzip\"",
-   "last_modified": "Fri, 09 Oct 2026 14:52:06 GMT"
+   "etag": "\"3430c-65d69792a4786-gzip\"",
+   "last_modified": "Fri, 09 Oct 2026 14:50:46 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"b9365e90b8572b0adbfc0dec6b2c3cf5\"",
-   "last_modified": "Sun, 11 Oct 2026 12:12:37 GMT"
+   "etag": "W/\"636b9df94e33a28791d6bfe3b8f75b1c\"",
+   "last_modified": "Sun, 11 Oct 2026 14:22:31 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
@@ -381,7 +384,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 11 Oct 2026 13:24:00 GMT"
+   "last_modified": "Sun, 11 Oct 2026 18:20:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -392,8 +395,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acb8e81-53c4\"",
-   "last_modified": "Sun, 11 Oct 2026 13:26:25 GMT"
+   "etag": "W/\"6acbd14d-53c4\"",
+   "last_modified": "Sun, 11 Oct 2026 18:11:25 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -709,6 +712,18 @@
    "status": "notified",
    "title": "FaZe knocking on the door of top 15 with Roman Imperium Cup IX title"
   },
+  "72693ead9f": {
+   "date": 1791727500,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791742815,
+   "guid": "hltvnews45699",
+   "slug": "woxic-on-taking-bronze-its-always-good-to-at-least-have-72693e",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "woxic on taking bronze: \"It's always good to at least have something from the event\""
+  },
   "75422ae31e": {
    "date": 1791724080,
    "excerpt_only": false,
@@ -779,6 +794,18 @@
    "status": "notified",
    "title": "Impactful scheduling for GPU clusters"
   },
+  "a0469efdca": {
+   "date": 1791742680,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791742815,
+   "guid": "hltvnews45700",
+   "slug": "zywoo-shines-as-vitality-win-esl-pro-league-season-24-over-a0469e",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "ZywOo shines as Vitality win ESL Pro League Season 24 over MOUZ"
+  },
   "a17c4aa7fb": {
    "date": 1788462252,
    "excerpt_only": false,
@@ -806,6 +833,18 @@
    "source_slug": "helium-browser-releases",
    "status": "notified",
    "title": "0.19.1"
+  },
+  "aa59bbc2d3": {
+   "date": 1791725940,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791742815,
+   "guid": "hltvnews45698",
+   "slug": "aurora-claim-third-at-epl-with-spirit-sweep-aa59bb",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Aurora claim third at EPL with Spirit sweep"
   },
   "b43d362736": {
    "date": 1791218097,
@@ -941,11 +980,12 @@
    "guid": "hltvnews45691",
    "message_id": 78,
    "notified_at": 1791654791,
+   "pruned_at": 1791742815,
    "read_at": 1791655750,
    "slug": "vitality-beat-aurora-to-reach-epl-final-d089e6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Vitality beat Aurora to reach EPL final"
   },
   "d3ae0c4485": {
