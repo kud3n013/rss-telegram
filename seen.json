@@ -220,7 +220,12 @@
    "https://reason.com/?p=8401494",
    "https://reason.com/?p=8405437",
    "https://reason.com/?post_type=volokh-post&p=8365978",
-   "https://reason.com/?p=8405569"
+   "https://reason.com/?p=8405569",
+   "https://reason.com/?post_type=volokh-post&p=8405625",
+   "https://reason.com/?p=8401628",
+   "https://reason.com/?p=8401598",
+   "https://reason.com/?p=8405560",
+   "https://reason.com/?post_type=volokh-post&p=8365986"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -293,7 +298,10 @@
    "hltvnews45691",
    "hltvnews45692",
    "hltvnews45693",
-   "hltvnews45695"
+   "hltvnews45695",
+   "hltvnews45694",
+   "hltvnews45696",
+   "hltvnews45697"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -341,7 +349,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -360,12 +368,12 @@
    "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"3430c-65d6979bb4b44-gzip\"",
-   "last_modified": "Fri, 09 Oct 2026 14:50:55 GMT"
+   "etag": "\"3430c-65d697deeea18-gzip\"",
+   "last_modified": "Fri, 09 Oct 2026 14:52:06 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"8dfcc340a1477c5bd0ed7cb90c8dbba7\"",
-   "last_modified": "Sun, 11 Oct 2026 01:20:53 GMT"
+   "etag": "W/\"b9365e90b8572b0adbfc0dec6b2c3cf5\"",
+   "last_modified": "Sun, 11 Oct 2026 12:12:37 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
@@ -373,7 +381,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 11 Oct 2026 06:30:00 GMT"
+   "last_modified": "Sun, 11 Oct 2026 13:24:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -384,8 +392,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acb2c11-53c4\"",
-   "last_modified": "Sun, 11 Oct 2026 06:26:25 GMT"
+   "etag": "W/\"6acb8e81-53c4\"",
+   "last_modified": "Sun, 11 Oct 2026 13:26:25 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -435,6 +443,18 @@
    "status": "notified",
    "title": "\u2018Cerebral torment\u2019: IOP retracts nearly 100 conference papers for tortured phrases"
   },
+  "138906c323": {
+   "date": 1791714840,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791725179,
+   "guid": "hltvnews45696",
+   "slug": "live-updates-from-esl-pro-league-s24-grand-final-138906",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Live updates from ESL Pro League S24 grand final"
+  },
   "13f2275e85": {
    "date": 1791561417,
    "excerpt_only": false,
@@ -476,6 +496,18 @@
    "source_slug": "dhh",
    "status": "notified",
    "title": "Redundancy is the engine of progress"
+  },
+  "1e5cd997da": {
+   "date": 1791704700,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791725179,
+   "guid": "hltvnews45694",
+   "slug": "sycrone-sometimes-tactically-you-can-get-somewhere-with-a-1e5cd9",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "sycrone: \"Sometimes tactically you can get somewhere with a good look and a round doesn't convert, but xertioN always kept composure\""
   },
   "243eb48ac2": {
    "date": 1791665700,
@@ -532,6 +564,18 @@
    "source_slug": "that-privacy-guy-blog",
    "status": "notified",
    "title": "Shopify's own code treats silence as consent on every store it hosts, while its DSA filings leave the user numbers blank"
+  },
+  "393ed1636e": {
+   "date": 1791702000,
+   "excerpt_only": true,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791725179,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405625",
+   "slug": "open-thread-393ed1",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Open Thread"
   },
   "396c30e2f5": {
    "date": 1789733835,
@@ -659,6 +703,18 @@
    "status": "notified",
    "title": "FaZe knocking on the door of top 15 with Roman Imperium Cup IX title"
   },
+  "75422ae31e": {
+   "date": 1791724080,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791725179,
+   "guid": "hltvnews45697",
+   "slug": "flyquest-add-to-vrs-after-cruising-to-victory-at-anzc-75422a",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FlyQuest add to VRS after cruising to victory at ANZC Locals; Chinggis Warriors get big win over 5star in MESA Pro Series"
+  },
   "7612315361": {
    "date": 1786406400,
    "excerpt_only": false,
@@ -672,6 +728,18 @@
    "source_slug": "that-privacy-guy-blog",
    "status": "notified",
    "title": "Locked In, Locked Out - Apple's Walled Garden Should Come With Liability"
+  },
+  "92a2c4167b": {
+   "date": 1791712826,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791725179,
+   "guid": "https://reason.com/?p=8401628",
+   "slug": "new-yorks-controversial-anti-swastika-law-turns-prosecutors-92a2c4",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "New York's Controversial Anti-Swastika Law Turns Prosecutors Into Speech Police"
   },
   "92d0acf4aa": {
    "date": 1785888000,
@@ -743,6 +811,18 @@
    "status": "notified",
    "title": "Read Aloud on iOS"
   },
+  "b551685e43": {
+   "date": 1791716425,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791725179,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8365986",
+   "slug": "today-in-supreme-court-history-october-11-1972-b55168",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Today in Supreme Court History: October 11, 1972"
+  },
   "b59b8513c2": {
    "date": 1791631465,
    "excerpt_only": false,
@@ -784,6 +864,18 @@
    "source_slug": "weekly-free-games",
    "status": "notified",
    "title": "Pony Island free in the Steam Store"
+  },
+  "be94812617": {
+   "date": 1791714659,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791725179,
+   "guid": "https://reason.com/?p=8401598",
+   "slug": "canadas-first-nations-are-using-their-land-to-build-dense-be9481",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Canada's First Nations Are Using Their Land To Build Dense Housing"
   },
   "bf5b54cb9c": {
    "date": 1791485011,
@@ -855,6 +947,18 @@
    "source_slug": "annas-archive-blog",
    "status": "notified",
    "title": "If you\u2019re an LLM, please read this"
+  },
+  "de393e9a83": {
+   "date": 1791716414,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791725179,
+   "guid": "https://reason.com/?p=8405560",
+   "slug": "trump-has-been-trampling-free-speech-for-more-than-40-de393e",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Trump Has Been Trampling Free Speech for More Than 40 Years\u2014and It Keeps Getting Worse"
   },
   "f84c44e710": {
    "date": 1790973695,
