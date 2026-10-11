@@ -225,7 +225,9 @@
    "https://reason.com/?p=8401628",
    "https://reason.com/?p=8401598",
    "https://reason.com/?p=8405560",
-   "https://reason.com/?post_type=volokh-post&p=8365986"
+   "https://reason.com/?post_type=volokh-post&p=8365986",
+   "https://reason.com/?post_type=volokh-post&p=8405646",
+   "https://reason.com/?post_type=volokh-post&p=8405653"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -304,7 +306,9 @@
    "hltvnews45697",
    "hltvnews45698",
    "hltvnews45699",
-   "hltvnews45700"
+   "hltvnews45700",
+   "hltvnews45701",
+   "hltvnews45702"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -352,7 +356,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -371,12 +375,12 @@
    "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"3430c-65d69792a4786-gzip\"",
-   "last_modified": "Fri, 09 Oct 2026 14:50:46 GMT"
+   "etag": "\"3430c-65d697613b0ca-gzip\"",
+   "last_modified": "Fri, 09 Oct 2026 14:49:54 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"636b9df94e33a28791d6bfe3b8f75b1c\"",
-   "last_modified": "Sun, 11 Oct 2026 14:22:31 GMT"
+   "etag": "W/\"9af87c6b1d70f4e09338185087f2c714\"",
+   "last_modified": "Sun, 11 Oct 2026 21:15:46 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
@@ -384,7 +388,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 11 Oct 2026 18:20:00 GMT"
+   "last_modified": "Sun, 11 Oct 2026 22:10:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -395,8 +399,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acbd14d-53c4\"",
-   "last_modified": "Sun, 11 Oct 2026 18:11:25 GMT"
+   "etag": "W/\"6acc0609-53c4\"",
+   "last_modified": "Sun, 11 Oct 2026 21:56:25 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -404,6 +408,30 @@
   }
  },
  "posts": {
+  "085e5809e3": {
+   "date": 1791750251,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791756594,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405653",
+   "slug": "fusionism-in-the-twenty-first-century-085e58",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Fusionism in the Twenty-First Century"
+  },
+  "0be19cd70c": {
+   "date": 1791745200,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791756594,
+   "guid": "hltvnews45701",
+   "slug": "zywoo-claims-34th-career-mvp-at-esl-pro-league-s24-0be19c",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "ZywOo claims 34th career MVP at ESL Pro League S24"
+  },
   "0f0c98123d": {
    "date": 1791630019,
    "excerpt_only": false,
@@ -502,6 +530,18 @@
    "status": "notified",
    "title": "Redundancy is the engine of progress"
   },
+  "1d0e8bfb27": {
+   "date": 1791749242,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791756594,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405646",
+   "slug": "sixth-circuit-affirms-universal-injunction-against-1d0e8b",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs' Conduct"
+  },
   "1e5cd997da": {
    "date": 1791704700,
    "excerpt_only": false,
@@ -599,6 +639,18 @@
    "source_slug": "z-library-official",
    "status": "notified",
    "title": "Hello \ud83d\udc4b"
+  },
+  "47bda62ca1": {
+   "date": 1791747900,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791756594,
+   "guid": "hltvnews45702",
+   "slug": "zywoo-i-love-cache-too-much-47bda6",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "ZywOo: \"I love Cache too much\""
   },
   "50b3e71406": {
    "date": 1788099367,
