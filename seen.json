@@ -718,10 +718,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791742815,
    "guid": "hltvnews45699",
+   "message_id": 96,
+   "notified_at": 1791742863,
    "slug": "woxic-on-taking-bronze-its-always-good-to-at-least-have-72693e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "woxic on taking bronze: \"It's always good to at least have something from the event\""
   },
   "75422ae31e": {
@@ -800,10 +802,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791742815,
    "guid": "hltvnews45700",
+   "message_id": 97,
+   "notified_at": 1791742865,
    "slug": "zywoo-shines-as-vitality-win-esl-pro-league-season-24-over-a0469e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "ZywOo shines as Vitality win ESL Pro League Season 24 over MOUZ"
   },
   "a17c4aa7fb": {
@@ -840,10 +844,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791742815,
    "guid": "hltvnews45698",
+   "message_id": 95,
+   "notified_at": 1791742861,
    "slug": "aurora-claim-third-at-epl-with-spirit-sweep-aa59bb",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Aurora claim third at EPL with Spirit sweep"
   },
   "b43d362736": {
