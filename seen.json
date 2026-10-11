@@ -805,10 +805,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791679425,
    "guid": "hltvnews45695",
+   "message_id": 86,
+   "notified_at": 1791679495,
    "slug": "sashi-drop-chelleos-after-two-days-c8610c",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Sashi drop chelleos after two days"
   },
   "c8feca95b1": {
