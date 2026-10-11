@@ -414,10 +414,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791756594,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405653",
+   "message_id": 101,
+   "notified_at": 1791756654,
    "slug": "fusionism-in-the-twenty-first-century-085e58",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Fusionism in the Twenty-First Century"
   },
   "0be19cd70c": {
@@ -426,10 +428,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791756594,
    "guid": "hltvnews45701",
+   "message_id": 98,
+   "notified_at": 1791756648,
    "slug": "zywoo-claims-34th-career-mvp-at-esl-pro-league-s24-0be19c",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "ZywOo claims 34th career MVP at ESL Pro League S24"
   },
   "0f0c98123d": {
@@ -536,10 +540,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791756594,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405646",
+   "message_id": 100,
+   "notified_at": 1791756652,
    "slug": "sixth-circuit-affirms-universal-injunction-against-1d0e8b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs' Conduct"
   },
   "1e5cd997da": {
@@ -646,10 +652,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791756594,
    "guid": "hltvnews45702",
+   "message_id": 99,
+   "notified_at": 1791756650,
    "slug": "zywoo-i-love-cache-too-much-47bda6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "ZywOo: \"I love Cache too much\""
   },
   "50b3e71406": {
