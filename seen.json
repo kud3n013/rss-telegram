@@ -449,10 +449,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791725179,
    "guid": "hltvnews45696",
+   "message_id": 91,
+   "notified_at": 1791725232,
    "slug": "live-updates-from-esl-pro-league-s24-grand-final-138906",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Live updates from ESL Pro League S24 grand final"
   },
   "13f2275e85": {
@@ -503,10 +505,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791725179,
    "guid": "hltvnews45694",
+   "message_id": 88,
+   "notified_at": 1791725226,
    "slug": "sycrone-sometimes-tactically-you-can-get-somewhere-with-a-1e5cd9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "sycrone: \"Sometimes tactically you can get somewhere with a good look and a round doesn't convert, but xertioN always kept composure\""
   },
   "243eb48ac2": {
@@ -571,10 +575,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791725179,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405625",
+   "message_id": 87,
+   "notified_at": 1791725224,
    "slug": "open-thread-393ed1",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Open Thread"
   },
   "396c30e2f5": {
@@ -709,10 +715,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791725179,
    "guid": "hltvnews45697",
+   "message_id": 94,
+   "notified_at": 1791725237,
    "slug": "flyquest-add-to-vrs-after-cruising-to-victory-at-anzc-75422a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FlyQuest add to VRS after cruising to victory at ANZC Locals; Chinggis Warriors get big win over 5star in MESA Pro Series"
   },
   "7612315361": {
@@ -735,10 +743,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791725179,
    "guid": "https://reason.com/?p=8401628",
+   "message_id": 89,
+   "notified_at": 1791725228,
    "slug": "new-yorks-controversial-anti-swastika-law-turns-prosecutors-92a2c4",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "New York's Controversial Anti-Swastika Law Turns Prosecutors Into Speech Police"
   },
   "92d0acf4aa": {
@@ -817,10 +827,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791725179,
    "guid": "https://reason.com/?post_type=volokh-post&p=8365986",
+   "message_id": 93,
+   "notified_at": 1791725235,
    "slug": "today-in-supreme-court-history-october-11-1972-b55168",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Today in Supreme Court History: October 11, 1972"
   },
   "b59b8513c2": {
@@ -871,10 +883,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791725179,
    "guid": "https://reason.com/?p=8401598",
+   "message_id": 90,
+   "notified_at": 1791725230,
    "slug": "canadas-first-nations-are-using-their-land-to-build-dense-be9481",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Canada's First Nations Are Using Their Land To Build Dense Housing"
   },
   "bf5b54cb9c": {
@@ -954,10 +968,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791725179,
    "guid": "https://reason.com/?p=8405560",
+   "message_id": 92,
+   "notified_at": 1791725234,
    "slug": "trump-has-been-trampling-free-speech-for-more-than-40-de393e",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Trump Has Been Trampling Free Speech for More Than 40 Years\u2014and It Keeps Getting Worse"
   },
   "f84c44e710": {
