@@ -653,10 +653,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791790225,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405641",
+   "message_id": 102,
+   "notified_at": 1791790270,
    "slug": "open-thread-47160f",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Open Thread"
   },
   "47bda62ca1": {
