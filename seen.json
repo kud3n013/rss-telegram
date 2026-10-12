@@ -434,10 +434,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?post_type=volokh-post&p=8365996",
+   "message_id": 107,
+   "notified_at": 1791824312,
    "slug": "today-in-supreme-court-history-october-12-1977-032fd6",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Today in Supreme Court History: October 12, 1977"
   },
   "0355ed82df": {
@@ -446,10 +448,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8401589",
+   "message_id": 105,
+   "notified_at": 1791824309,
    "slug": "photo-fighting-flock-from-a-lawn-chair-0355ed",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Photo: Fighting Flock From a Lawn Chair"
   },
   "085e5809e3": {
@@ -528,10 +532,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791824237,
    "guid": "https://proton.me/business/blog/follow-up-email",
+   "message_id": 110,
+   "notified_at": 1791824318,
    "slug": "how-to-write-a-follow-up-email-a-practical-guide-12e130",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How to write a follow up email: a practical guide"
   },
   "138906c323": {
@@ -596,10 +602,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791824237,
    "guid": "hltvnews45709",
+   "message_id": 118,
+   "notified_at": 1791824332,
    "slug": "mvp-haters-come-here-ft-mauisnake-and-striker-1a5fbe",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MVP Haters Come Here ft. Mauisnake and Striker"
   },
   "1d0e8bfb27": {
@@ -650,10 +658,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8405703",
+   "message_id": 119,
+   "notified_at": 1791824334,
    "slug": "cambridge-decriminalizes-sex-worksort-of-2787c3",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Cambridge Decriminalizes Sex Work\u2014Sort Of"
   },
   "280f015714": {
@@ -662,10 +672,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791824237,
    "guid": "hltvnews45704",
+   "message_id": 106,
+   "notified_at": 1791824311,
    "slug": "tobiz-returns-to-mouz-as-head-of-talent-development-280f01",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "TOBIZ returns to MOUZ as head of talent development"
   },
   "2c324ef68e": {
@@ -674,10 +686,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791824237,
    "guid": "hltvnews45705",
+   "message_id": 111,
+   "notified_at": 1791824320,
    "slug": "live-updates-from-the-race-for-pgl-major-singapore-2c324e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Live updates from the race for PGL Major Singapore"
   },
   "30aa466ecb": {
@@ -700,10 +714,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8405514",
+   "message_id": 113,
+   "notified_at": 1791824323,
    "slug": "the-elon-assist-325495",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Elon Assist"
   },
   "333550bff6": {
@@ -740,10 +756,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791824237,
    "guid": "hltvnews45711",
+   "message_id": 120,
+   "notified_at": 1791824336,
    "slug": "falcons-announce-m0nesy-contract-extension-391b86",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Falcons announce m0NESY contract extension"
   },
   "393ed1636e": {
@@ -780,10 +798,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8405732",
+   "message_id": 121,
+   "notified_at": 1791824338,
    "slug": "the-government-doesnt-know-whats-best-for-you-why-let-it-414000",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Government Doesn't Know What's Best for You. Why Let It Decide What You Should Eat?"
   },
   "47160f724f": {
@@ -834,10 +854,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8405676",
+   "message_id": 114,
+   "notified_at": 1791824325,
    "slug": "inside-the-trump-administrations-war-on-the-hague-596c19",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Inside the Trump Administration's War on The Hague"
   },
   "5a7a77d5bf": {
@@ -986,10 +1008,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791824237,
    "guid": "hltvnews45703",
+   "message_id": 104,
+   "notified_at": 1791824307,
    "slug": "wildcards-major-chances-soar-with-frag-university-title-7f100b",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Wildcard's Major chances soar with FRAG University title"
   },
   "8c59cc2eec": {
@@ -998,10 +1022,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791824237,
    "guid": "https://proton.me/business/blog/workflow-automation",
+   "message_id": 109,
+   "notified_at": 1791824316,
    "slug": "a-simple-framework-for-deciding-what-to-automate-vs-keep-8c59cc",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A simple framework for deciding what to automate vs. keep manual"
   },
   "92a2c4167b": {
@@ -1094,10 +1120,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8405547",
+   "message_id": 115,
+   "notified_at": 1791824327,
    "slug": "protesters-in-france-and-spain-are-angry-at-government-a693fa",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Protesters in France and Spain Are Angry at Government Failure\u2014and Demanding More Government"
   },
   "aa59bbc2d3": {
@@ -1120,10 +1148,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8404961",
+   "message_id": 103,
+   "notified_at": 1791824305,
    "slug": "brickbat-if-you-cant-say-something-nice-acbb7a",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Brickbat: If You Can't Say Something Nice"
   },
   "b43d362736": {
@@ -1274,10 +1304,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791824237,
    "guid": "hltvnews45708",
+   "message_id": 116,
+   "notified_at": 1791824329,
    "slug": "short-news-week-41-d0a7f6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Short news: Week 41"
   },
   "d36d833f50": {
@@ -1286,10 +1318,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?post_type=video&p=8369359",
+   "message_id": 117,
+   "notified_at": 1791824330,
    "slug": "the-anti-government-rebel-who-turned-against-maga-d36d83",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Anti-Government Rebel Who Turned Against MAGA"
   },
   "d3ae0c4485": {
@@ -1312,10 +1346,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791824237,
    "guid": "https://reason.com/?p=8405664",
+   "message_id": 108,
+   "notified_at": 1791824314,
    "slug": "europe-grapples-with-hybrid-warfare-while-rebuilding-its-dc0f4b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Europe Grapples With 'Hybrid Warfare' While Rebuilding Its Defense Capabilities"
   },
   "de393e9a83": {
@@ -1338,10 +1374,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791824237,
    "guid": "hltvnews45706",
+   "message_id": 112,
+   "notified_at": 1791824321,
    "slug": "thunderpick-world-championship-teams-format-schedule-prizes-e34c90",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Thunderpick World Championship teams, format, schedule, prizes, talent, fantasy"
   },
   "f84c44e710": {
