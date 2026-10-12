@@ -240,7 +240,17 @@
    "https://reason.com/?p=8405547",
    "https://reason.com/?post_type=video&p=8369359",
    "https://reason.com/?p=8405703",
-   "https://reason.com/?p=8405732"
+   "https://reason.com/?p=8405732",
+   "https://reason.com/?p=8405712",
+   "https://reason.com/?post_type=volokh-post&p=8405766",
+   "https://reason.com/?p=8405701",
+   "https://reason.com/?p=8405782",
+   "https://reason.com/?p=8405772",
+   "https://reason.com/?p=8405669",
+   "https://reason.com/?p=8405810",
+   "https://reason.com/?post_type=podcast&p=8405751",
+   "https://reason.com/?p=8405815",
+   "https://reason.com/?post_type=volokh-post&p=8405841"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -328,7 +338,8 @@
    "hltvnews45706",
    "hltvnews45708",
    "hltvnews45709",
-   "hltvnews45711"
+   "hltvnews45711",
+   "hltvnews45710"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -376,7 +387,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sun, 04 Oct 2026 11:58:52 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -391,16 +402,16 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6ac92523-331ec\"",
-   "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"27309-65da45058623c-gzip\"",
-   "last_modified": "Mon, 12 Oct 2026 13:02:44 GMT"
+   "etag": "\"27309-65da45d2668c0-gzip\"",
+   "last_modified": "Mon, 12 Oct 2026 13:06:19 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"38a150714d591f0f601ef3a3d2b44f13\"",
-   "last_modified": "Mon, 12 Oct 2026 16:45:19 GMT"
+   "etag": "W/\"c5083641dbb919cd164f300a3fb909cd\"",
+   "last_modified": "Mon, 12 Oct 2026 23:15:47 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
@@ -408,7 +419,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 12 Oct 2026 16:54:00 GMT"
+   "last_modified": "Mon, 12 Oct 2026 23:32:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -419,8 +430,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acd1139-53c4\"",
-   "last_modified": "Mon, 12 Oct 2026 16:56:25 GMT"
+   "etag": "W/\"6acd6ca1-53c4\"",
+   "last_modified": "Mon, 12 Oct 2026 23:26:25 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -455,6 +466,30 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Photo: Fighting Flock From a Lawn Chair"
+  },
+  "05bcb7478a": {
+   "date": 1791839749,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?p=8405815",
+   "slug": "fbi-foils-plot-to-attack-mall-of-america-with-fbi-provided-05bcb7",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "FBI Foils Plot To Attack Mall of America With FBI-Provided AK-47"
+  },
+  "05c1c5d1ae": {
+   "date": 1791828945,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?p=8405701",
+   "slug": "tv-networks-protested-press-bans-by-declining-to-cover-05c1c5",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "TV Networks Protested Press Bans by Declining To Cover Trump. That Might Have Been Illegal, the DOJ Says."
   },
   "085e5809e3": {
    "date": 1791750251,
@@ -680,6 +715,18 @@
    "status": "notified",
    "title": "TOBIZ returns to MOUZ as head of talent development"
   },
+  "2a09431416": {
+   "date": 1791833146,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?p=8405782",
+   "slug": "are-warrantless-phone-searches-at-the-border-constitutional-2a0943",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Are Warrantless Phone Searches at the Border Constitutional? The Supreme Court May Soon Decide."
+  },
   "2c324ef68e": {
    "date": 1791807600,
    "excerpt_only": false,
@@ -904,6 +951,18 @@
    "status": "notified",
    "title": "Release build - 1.23.2b (2026-10-09)"
   },
+  "5e7e3beb3d": {
+   "date": 1791827419,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?p=8405712",
+   "slug": "michigan-congressman-proposes-using-tariff-revenue-for-5e7e3b",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Michigan Congressman Proposes Using Tariff Revenue for Tariff Relief Fund"
+  },
   "64c20f3928": {
    "date": 1791480926,
    "excerpt_only": false,
@@ -918,6 +977,18 @@
    "status": "notified",
    "title": "Why \u201czero data retention\u201d may not protect your business data"
   },
+  "69b761c916": {
+   "date": 1791837631,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?p=8405810",
+   "slug": "thinking-of-sending-a-nude-shrek-pic-to-an-ohio-official-69b761",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Thinking of Sending a Nude Shrek Pic to an Ohio Official? You Could Be Found Guilty of Harassment."
+  },
   "6a5404c7b6": {
    "date": 1778630400,
    "excerpt_only": false,
@@ -931,6 +1002,18 @@
    "source_slug": "obsidian-blog",
    "status": "notified",
    "title": "Obsidian Sync audits by Cure53 and Trail of Bits"
+  },
+  "6aec8df6df": {
+   "date": 1791835500,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791848025,
+   "guid": "hltvnews45710",
+   "slug": "falcons-and-aurora-players-are-most-picked-in-twc-2026-6aec8d",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Falcons and Aurora players are most-picked in TWC 2026 Fantasy"
   },
   "6b1ea9229f": {
    "date": 1791356167,
@@ -1015,6 +1098,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "Wildcard's Major chances soar with FRAG University title"
+  },
+  "8039a1f386": {
+   "date": 1791827874,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405766",
+   "slug": "the-forgotten-origins-of-columbus-day-8039a1",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "The Forgotten Origins of Columbus Day"
   },
   "8c59cc2eec": {
    "date": 1791805068,
@@ -1127,6 +1222,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Protesters in France and Spain Are Angry at Government Failure\u2014and Demanding More Government"
+  },
+  "a6cd4b985a": {
+   "date": 1791834015,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?p=8405772",
+   "slug": "dhs-searched-ilhan-omars-home-as-part-of-immigration-fraud-a6cd4b",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "DHS Searched Ilhan Omar's Home as Part of Immigration Fraud Investigation"
   },
   "aa59bbc2d3": {
    "date": 1791725940,
@@ -1282,6 +1389,18 @@
    "status": "notified",
    "title": "Obsidian October 2026"
   },
+  "ccb6b4bc54": {
+   "date": 1791838806,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?post_type=podcast&p=8405751",
+   "slug": "j-d-vance-is-playing-dumb-about-socialism-ccb6b4",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "J.D. Vance Is Playing Dumb About Socialism"
+  },
   "d089e68fa6": {
    "date": 1791651300,
    "excerpt_only": false,
@@ -1382,6 +1501,18 @@
    "status": "notified",
    "title": "Thunderpick World Championship teams, format, schedule, prizes, talent, fantasy"
   },
+  "e700dab71d": {
+   "date": 1791835919,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?p=8405669",
+   "slug": "release-the-kelly-clarkson-tapes-e700da",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Release the Kelly Clarkson Tapes"
+  },
   "f84c44e710": {
    "date": 1790973695,
    "excerpt_only": false,
@@ -1395,6 +1526,18 @@
    "source_slug": "beeper-blog",
    "status": "notified",
    "title": "September Wrap-Up"
+  },
+  "fd47509ead": {
+   "date": 1791846947,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791848025,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405841",
+   "slug": "congratulations-to-the-hoover-institutions-robert-e-hall-on-fd4750",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Congratulations to the Hoover Institution's Robert E. Hall, on His Economics Nobel Prize"
   }
  },
  "tg_offset": 172773843
