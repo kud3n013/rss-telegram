@@ -227,7 +227,8 @@
    "https://reason.com/?p=8405560",
    "https://reason.com/?post_type=volokh-post&p=8365986",
    "https://reason.com/?post_type=volokh-post&p=8405646",
-   "https://reason.com/?post_type=volokh-post&p=8405653"
+   "https://reason.com/?post_type=volokh-post&p=8405653",
+   "https://reason.com/?post_type=volokh-post&p=8405641"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -375,12 +376,12 @@
    "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"3430c-65d69792a4786-gzip\"",
-   "last_modified": "Fri, 09 Oct 2026 14:50:46 GMT"
+   "etag": "\"3430c-65d9d982d2e02-gzip\"",
+   "last_modified": "Mon, 12 Oct 2026 05:01:44 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"0d23f44f7b4141cd254c1b89cd7f12ac\"",
-   "last_modified": "Sun, 11 Oct 2026 23:54:34 GMT"
+   "etag": "W/\"075a8594ec003aefb2fa1b9a52974fef\"",
+   "last_modified": "Mon, 12 Oct 2026 07:00:00 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
@@ -388,7 +389,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 12 Oct 2026 01:20:00 GMT"
+   "last_modified": "Mon, 12 Oct 2026 07:30:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -399,8 +400,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acc33bd-53c4\"",
-   "last_modified": "Mon, 12 Oct 2026 01:11:25 GMT"
+   "etag": "W/\"6acc8ba1-53c4\"",
+   "last_modified": "Mon, 12 Oct 2026 07:26:25 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -645,6 +646,18 @@
    "source_slug": "z-library-official",
    "status": "notified",
    "title": "Hello \ud83d\udc4b"
+  },
+  "47160f724f": {
+   "date": 1791788400,
+   "excerpt_only": true,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791790225,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405641",
+   "slug": "open-thread-47160f",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Open Thread"
   },
   "47bda62ca1": {
    "date": 1791747900,
