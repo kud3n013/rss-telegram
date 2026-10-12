@@ -165,7 +165,9 @@
    "https://proton.me/blog/how-to-unsend-email-gmail",
    "https://proton.me/business/blog/offsite-backup",
    "https://proton.me/blog/how-to-delete-google-search-history",
-   "https://proton.me/blog/amazon-ai-training"
+   "https://proton.me/blog/amazon-ai-training",
+   "https://proton.me/business/blog/workflow-automation",
+   "https://proton.me/business/blog/follow-up-email"
   ],
   "https://reason.com/feed/": [
    "https://reason.com/?post_type=volokh-post&p=8405614",
@@ -228,7 +230,17 @@
    "https://reason.com/?post_type=volokh-post&p=8365986",
    "https://reason.com/?post_type=volokh-post&p=8405646",
    "https://reason.com/?post_type=volokh-post&p=8405653",
-   "https://reason.com/?post_type=volokh-post&p=8405641"
+   "https://reason.com/?post_type=volokh-post&p=8405641",
+   "https://reason.com/?p=8404961",
+   "https://reason.com/?p=8401589",
+   "https://reason.com/?post_type=volokh-post&p=8365996",
+   "https://reason.com/?p=8405664",
+   "https://reason.com/?p=8405514",
+   "https://reason.com/?p=8405676",
+   "https://reason.com/?p=8405547",
+   "https://reason.com/?post_type=video&p=8369359",
+   "https://reason.com/?p=8405703",
+   "https://reason.com/?p=8405732"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -309,7 +321,14 @@
    "hltvnews45699",
    "hltvnews45700",
    "hltvnews45701",
-   "hltvnews45702"
+   "hltvnews45702",
+   "hltvnews45703",
+   "hltvnews45704",
+   "hltvnews45705",
+   "hltvnews45706",
+   "hltvnews45708",
+   "hltvnews45709",
+   "hltvnews45711"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -357,7 +376,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -376,12 +395,12 @@
    "last_modified": "Fri, 09 Oct 2026 17:32:19 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"3430c-65d9d982d2e02-gzip\"",
-   "last_modified": "Mon, 12 Oct 2026 05:01:44 GMT"
+   "etag": "\"27309-65da45058623c-gzip\"",
+   "last_modified": "Mon, 12 Oct 2026 13:02:44 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"075a8594ec003aefb2fa1b9a52974fef\"",
-   "last_modified": "Mon, 12 Oct 2026 07:00:00 GMT"
+   "etag": "W/\"38a150714d591f0f601ef3a3d2b44f13\"",
+   "last_modified": "Mon, 12 Oct 2026 16:45:19 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
@@ -389,7 +408,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 12 Oct 2026 07:30:00 GMT"
+   "last_modified": "Mon, 12 Oct 2026 16:54:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -400,8 +419,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acc8ba1-53c4\"",
-   "last_modified": "Mon, 12 Oct 2026 07:26:25 GMT"
+   "etag": "W/\"6acd1139-53c4\"",
+   "last_modified": "Mon, 12 Oct 2026 16:56:25 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -409,6 +428,30 @@
   }
  },
  "posts": {
+  "032fd61c5e": {
+   "date": 1791802813,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8365996",
+   "slug": "today-in-supreme-court-history-october-12-1977-032fd6",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Today in Supreme Court History: October 12, 1977"
+  },
+  "0355ed82df": {
+   "date": 1791799217,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8401589",
+   "slug": "photo-fighting-flock-from-a-lawn-chair-0355ed",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Photo: Fighting Flock From a Lawn Chair"
+  },
   "085e5809e3": {
    "date": 1791750251,
    "excerpt_only": false,
@@ -479,6 +522,18 @@
    "status": "notified",
    "title": "\u2018Cerebral torment\u2019: IOP retracts nearly 100 conference papers for tortured phrases"
   },
+  "12e130d594": {
+   "date": 1791806142,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791824237,
+   "guid": "https://proton.me/business/blog/follow-up-email",
+   "slug": "how-to-write-a-follow-up-email-a-practical-guide-12e130",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "How to write a follow up email: a practical guide"
+  },
   "138906c323": {
    "date": 1791714840,
    "excerpt_only": false,
@@ -535,6 +590,18 @@
    "status": "notified",
    "title": "Redundancy is the engine of progress"
   },
+  "1a5fbe8f06": {
+   "date": 1791820620,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791824237,
+   "guid": "hltvnews45709",
+   "slug": "mvp-haters-come-here-ft-mauisnake-and-striker-1a5fbe",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "MVP Haters Come Here ft. Mauisnake and Striker"
+  },
   "1d0e8bfb27": {
    "date": 1791749242,
    "excerpt_only": false,
@@ -577,6 +644,42 @@
    "status": "notified",
    "title": "MOUZ beat Spirit en route to EPL final"
   },
+  "2787c3d7bb": {
+   "date": 1791822833,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8405703",
+   "slug": "cambridge-decriminalizes-sex-worksort-of-2787c3",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Cambridge Decriminalizes Sex Work\u2014Sort Of"
+  },
+  "280f015714": {
+   "date": 1791801240,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791824237,
+   "guid": "hltvnews45704",
+   "slug": "tobiz-returns-to-mouz-as-head-of-talent-development-280f01",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "TOBIZ returns to MOUZ as head of talent development"
+  },
+  "2c324ef68e": {
+   "date": 1791807600,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791824237,
+   "guid": "hltvnews45705",
+   "slug": "live-updates-from-the-race-for-pgl-major-singapore-2c324e",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Live updates from the race for PGL Major Singapore"
+  },
   "30aa466ecb": {
    "date": 1791633626,
    "excerpt_only": false,
@@ -590,6 +693,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "SpaceX Found a Way Around the FCC"
+  },
+  "325495a522": {
+   "date": 1791811850,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8405514",
+   "slug": "the-elon-assist-325495",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "The Elon Assist"
   },
   "333550bff6": {
    "date": 1791532800,
@@ -619,6 +734,18 @@
    "status": "notified",
    "title": "Shopify's own code treats silence as consent on every store it hosts, while its DSA filings leave the user numbers blank"
   },
+  "391b868013": {
+   "date": 1791822960,
+   "excerpt_only": true,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791824237,
+   "guid": "hltvnews45711",
+   "slug": "falcons-announce-m0nesy-contract-extension-391b86",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Falcons announce m0NESY contract extension"
+  },
   "393ed1636e": {
    "date": 1791702000,
    "excerpt_only": true,
@@ -646,6 +773,18 @@
    "source_slug": "z-library-official",
    "status": "notified",
    "title": "Hello \ud83d\udc4b"
+  },
+  "4140001c57": {
+   "date": 1791823519,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8405732",
+   "slug": "the-government-doesnt-know-whats-best-for-you-why-let-it-414000",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "The Government Doesn't Know What's Best for You. Why Let It Decide What You Should Eat?"
   },
   "47160f724f": {
    "date": 1791788400,
@@ -688,6 +827,18 @@
    "source_slug": "z-library-official",
    "status": "notified",
    "title": "Dear Z-Librarians,"
+  },
+  "596c199e8e": {
+   "date": 1791812723,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8405676",
+   "slug": "inside-the-trump-administrations-war-on-the-hague-596c19",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Inside the Trump Administration's War on The Hague"
   },
   "5a7a77d5bf": {
    "date": 1791498059,
@@ -829,6 +980,30 @@
    "status": "notified",
    "title": "Locked In, Locked Out - Apple's Walled Garden Should Come With Liability"
   },
+  "7f100bc7eb": {
+   "date": 1791796620,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791824237,
+   "guid": "hltvnews45703",
+   "slug": "wildcards-major-chances-soar-with-frag-university-title-7f100b",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Wildcard's Major chances soar with FRAG University title"
+  },
+  "8c59cc2eec": {
+   "date": 1791805068,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791824237,
+   "guid": "https://proton.me/business/blog/workflow-automation",
+   "slug": "a-simple-framework-for-deciding-what-to-automate-vs-keep-8c59cc",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "A simple framework for deciding what to automate vs. keep manual"
+  },
   "92a2c4167b": {
    "date": 1791712826,
    "excerpt_only": false,
@@ -913,6 +1088,18 @@
    "status": "notified",
    "title": "0.19.1"
   },
+  "a693fa4d0b": {
+   "date": 1791813643,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8405547",
+   "slug": "protesters-in-france-and-spain-are-angry-at-government-a693fa",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Protesters in France and Spain Are Angry at Government Failure\u2014and Demanding More Government"
+  },
   "aa59bbc2d3": {
    "date": 1791725940,
    "excerpt_only": false,
@@ -926,6 +1113,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "Aurora claim third at EPL with Spirit sweep"
+  },
+  "acbb7ab671": {
+   "date": 1791792053,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8404961",
+   "slug": "brickbat-if-you-cant-say-something-nice-acbb7a",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Brickbat: If You Can't Say Something Nice"
   },
   "b43d362736": {
    "date": 1791218097,
@@ -1069,6 +1268,30 @@
    "status": "pruned",
    "title": "Vitality beat Aurora to reach EPL final"
   },
+  "d0a7f6cf38": {
+   "date": 1791814680,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791824237,
+   "guid": "hltvnews45708",
+   "slug": "short-news-week-41-d0a7f6",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Short news: Week 41"
+  },
+  "d36d833f50": {
+   "date": 1791817256,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?post_type=video&p=8369359",
+   "slug": "the-anti-government-rebel-who-turned-against-maga-d36d83",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "The Anti-Government Rebel Who Turned Against MAGA"
+  },
   "d3ae0c4485": {
    "date": 1771372800,
    "excerpt_only": false,
@@ -1083,6 +1306,18 @@
    "status": "notified",
    "title": "If you\u2019re an LLM, please read this"
   },
+  "dc0f4bf016": {
+   "date": 1791802843,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791824237,
+   "guid": "https://reason.com/?p=8405664",
+   "slug": "europe-grapples-with-hybrid-warfare-while-rebuilding-its-dc0f4b",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Europe Grapples With 'Hybrid Warfare' While Rebuilding Its Defense Capabilities"
+  },
   "de393e9a83": {
    "date": 1791716414,
    "excerpt_only": false,
@@ -1096,6 +1331,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Trump Has Been Trampling Free Speech for More Than 40 Years\u2014and It Keeps Getting Worse"
+  },
+  "e34c90df2b": {
+   "date": 1791809520,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791824237,
+   "guid": "hltvnews45706",
+   "slug": "thunderpick-world-championship-teams-format-schedule-prizes-e34c90",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Thunderpick World Championship teams, format, schedule, prizes, talent, fantasy"
   },
   "f84c44e710": {
    "date": 1790973695,
