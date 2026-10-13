@@ -646,10 +646,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/cornell-bans-frat-parties-as-gang-rape-case-rocks-campus",
+   "message_id": 169,
+   "notified_at": 1791932344,
    "slug": "cornell-bans-frat-parties-as-gang-rape-case-rocks-campus-0c37c8",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Cornell Bans Frat Parties As Gang Rape Case Rocks Campus"
   },
   "0f0c98123d": {
@@ -761,10 +763,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/how-scammers-make-money-by-infesting-the-internet-with-bots",
+   "message_id": 170,
+   "notified_at": 1791932346,
    "slug": "how-scammers-make-money-by-infesting-the-internet-with-bots-1972d8",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How Scammers Make Money By Infesting The Internet With Bots"
   },
   "1a00accb2e": {
@@ -873,10 +877,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/hundreds-of-young-girls-have-been-married-off-to-muslim-men-in-just-one-state-new-inquiry-finds",
+   "message_id": 164,
+   "notified_at": 1791932335,
    "slug": "hundreds-of-young-girls-have-been-married-off-to-muslim-men-27e1d7",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Hundreds Of Young Girls Have Been Married Off To Muslim Men In Just One State, New Inquiry Finds"
   },
   "280f015714": {
@@ -955,10 +961,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1791932262,
    "guid": "https://allenai.org/blog/molmo2fish",
+   "message_id": 158,
+   "notified_at": 1791932325,
    "slug": "how-molmo-2s-open-release-helped-an-mit-researcher-rethink-2d98f8",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How Molmo 2\u2019s open release helped an MIT researcher rethink fish tracking"
   },
   "2e248182bf": {
@@ -1269,10 +1277,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/maga-musks-money-moves-come-into-focus-ahead-of-midterm-home-stretch",
+   "message_id": 162,
+   "notified_at": 1791932332,
    "slug": "maga-musks-money-moves-come-into-focus-ahead-of-midterm-5efd34",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MAGA & Musk\u2019s Money Moves Come Into Focus Ahead Of Midterm Home Stretch"
   },
   "6264f6033a": {
@@ -1309,10 +1319,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/maybe-the-left-will-care-if-we-start-calling-illegal-immigrants-frat-boys",
+   "message_id": 159,
+   "notified_at": 1791932327,
    "slug": "maybe-the-left-will-care-if-we-start-calling-illegal-64160d",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Maybe The Left Will Care If We Start Calling Illegal Immigrants \u2018Frat Boys\u2019"
   },
   "64c20f3928": {
@@ -1494,10 +1506,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791932262,
    "guid": "https://reason.com/?p=8405911",
+   "message_id": 175,
+   "notified_at": 1791932355,
    "slug": "trump-fired-kimberly-guilfoyle-for-influence-peddling-that-770e9b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering"
   },
   "7f100bc7eb": {
@@ -1548,10 +1562,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/republicans-get-major-windfall-as-hillary-clinton-returns-to-spotlight-ahead-of-midterms",
+   "message_id": 165,
+   "notified_at": 1791932337,
    "slug": "republicans-get-major-windfall-as-hillary-clinton-returns-863564",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Republicans Get Major Windfall As Hillary Clinton Returns To Spotlight Ahead Of Midterms"
   },
   "89ebea3f74": {
@@ -1560,10 +1576,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791932262,
    "guid": "https://reason.com/?post_type=volokh-post&p=8406014",
+   "message_id": 181,
+   "notified_at": 1791932365,
    "slug": "no-immunity-for-judge-who-locked-children-in-holding-cells-89ebea",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "No Immunity for Judge Who Locked Children in Holding Cells in Custody Case"
   },
   "8c59cc2eec": {
@@ -1586,10 +1604,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791932262,
    "guid": "hltvnews45715",
+   "message_id": 179,
+   "notified_at": 1791932362,
    "slug": "brnz4n-departs-mibr-8dde15",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "brnz4n departs MIBR"
   },
   "92a2c4167b": {
@@ -1627,10 +1647,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/watch-country-star-goes-on-fck-christopher-columbus-rant",
+   "message_id": 168,
+   "notified_at": 1791932342,
    "slug": "watch-country-star-goes-on-f-ck-christopher-columbus-rant-9569f4",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "WATCH: Country Star Goes On \u2018F*ck\u2019 Christopher Columbus Rant"
   },
   "99a3ce12dd": {
@@ -1639,10 +1661,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/greta-thunberg-finds-a-new-cause-as-violent-riots-rage",
+   "message_id": 161,
+   "notified_at": 1791932330,
    "slug": "greta-thunberg-finds-a-new-cause-as-violent-riots-rage-99a3ce",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Greta Thunberg Finds A New Cause As Violent Riots Rage"
   },
   "9ccf8ee367": {
@@ -1710,10 +1734,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791932262,
    "guid": "https://reason.com/?p=8405972",
+   "message_id": 178,
+   "notified_at": 1791932360,
    "slug": "the-shane-gillis-snl-backlash-is-really-stupid-a330ce",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Shane Gillis SNL Backlash Is Really Stupid"
   },
   "a693fa4d0b": {
@@ -1764,10 +1790,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/ilhan-omars-staff-altered-her-birthdate-after-she-was-elected-heres-why-that-matters",
+   "message_id": 174,
+   "notified_at": 1791932353,
    "slug": "ilhan-omars-staff-altered-her-birthdate-after-she-was-aa4e15",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Ilhan Omar\u2019s Staff Altered Her Birthdate After She Was Elected \u2014 Here\u2019s Why That Matters"
   },
   "aa59bbc2d3": {
@@ -1790,10 +1818,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/from-tammany-to-the-twin-cities-the-timeless-script-of-boss-politics",
+   "message_id": 163,
+   "notified_at": 1791932334,
    "slug": "from-tammany-to-the-twin-cities-the-timeless-script-of-boss-ab9ab7",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "From Tammany To The Twin Cities: The Timeless Script Of Boss Politics"
   },
   "acbb7ab671": {
@@ -1860,10 +1890,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/hackers-set-grocery-stores-ablaze-with-remote-freezer-attacks",
+   "message_id": 171,
+   "notified_at": 1791932348,
    "slug": "hackers-set-grocery-stores-ablaze-with-remote-freezer-b5b5b0",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Hackers Set Grocery Stores Ablaze With Remote Freezer Attacks"
   },
   "b7f45e746f": {
@@ -1872,10 +1904,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791932262,
    "guid": "hltvnews45714",
+   "message_id": 176,
+   "notified_at": 1791932357,
    "slug": "official-astralis-sign-siuhy-and-cmtry-b7f45e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Official: Astralis sign siuhy and cmtry"
   },
   "b9de315f4f": {
@@ -1898,10 +1932,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791932262,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405979",
+   "message_id": 177,
+   "notified_at": 1791932358,
    "slug": "submit-your-articles-to-the-journal-of-free-speech-law-bbe9a3",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Submit Your Articles to the Journal of Free Speech Law, Before You Circulate Them to the Law Reviews"
   },
   "bbf2986ef7": {
@@ -2012,10 +2048,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/half-naked-women-wandering-eyes-and-a-liberal-meltdown",
+   "message_id": 172,
+   "notified_at": 1791932349,
    "slug": "half-naked-women-wandering-eyes-and-a-liberal-meltdown-cae2e1",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Half-Naked Women, Wandering Eyes, And A Liberal Meltdown"
   },
   "ccb6b4bc54": {
@@ -2068,10 +2106,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/selma-blairs-defense-team-reveals-what-went-wrong-before-midflight-rampage",
+   "message_id": 160,
+   "notified_at": 1791932328,
    "slug": "selma-blairs-defense-team-reveals-what-went-wrong-before-d26f98",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Selma Blair\u2019s Defense Team Reveals What Went Wrong Before Midflight Rampage"
   },
   "d36d833f50": {
@@ -2137,10 +2177,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/pope-leo-diagnosed-with-lung-cancer",
+   "message_id": 167,
+   "notified_at": 1791932341,
    "slug": "pope-leo-diagnosed-with-lung-cancer-dceec8",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Pope Leo Diagnosed With Lung Cancer"
   },
   "dd4bd63361": {
@@ -2219,10 +2261,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/caught-on-camera-democrat-candidate-is-hiding-the-truth-about-his-veganism",
+   "message_id": 173,
+   "notified_at": 1791932351,
    "slug": "caught-on-camera-democrat-candidate-is-hiding-the-truth-f52b31",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "CAUGHT ON CAMERA: Democrat Candidate Is Hiding The Truth About His Veganism"
   },
   "f53e969026": {
@@ -2231,10 +2275,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791932262,
    "guid": "https://www.dailywire.com/news/they-didnt-care-nypd-detective-stabbed-by-illegal-immigrants-says-he-told-attackers-he-was-a-cop",
+   "message_id": 166,
+   "notified_at": 1791932339,
    "slug": "they-didnt-care-nypd-detective-stabbed-by-illegal-f53e96",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "\u2018They Didn\u2019t Care\u2019: NYPD Detective Stabbed By Illegal Immigrants Says He Told Attackers He Was A Cop"
   },
   "f8069e5d53": {
@@ -2300,10 +2346,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791932262,
    "guid": "https://reason.com/?p=8405983",
+   "message_id": 180,
+   "notified_at": 1791932364,
    "slug": "will-pennsylvanias-vape-ban-create-more-cigarette-smokers-ffc4ce",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Will Pennsylvania's Vape Ban Create More Cigarette Smokers?"
   }
  },
