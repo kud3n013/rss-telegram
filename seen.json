@@ -1052,10 +1052,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1791889967,
    "guid": "https://retractionwatch.com/?p=136193",
+   "message_id": 133,
+   "notified_at": 1791890012,
    "slug": "a-company-named-springer-that-isnt-the-publisher-is-6cc303",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A company named Springer that isn\u2019t the publisher is offering authorship for sale"
   },
   "6ea6e9e61e": {
@@ -1148,10 +1150,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791889967,
    "guid": "https://reason.com/?p=8405780",
+   "message_id": 137,
+   "notified_at": 1791890018,
    "slug": "a-new-supreme-court-case-tests-the-limits-of-judicial-850c10",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A New Supreme Court Case Tests the Limits of Judicial Deference to Federal Agencies"
   },
   "8c59cc2eec": {
@@ -1412,10 +1416,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791889967,
    "guid": "https://reason.com/?p=8405713",
+   "message_id": 135,
+   "notified_at": 1791890015,
    "slug": "brickbat-paying-the-piper-c1c539",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Brickbat: Paying the Piper"
   },
   "c8610cc0ce": {
@@ -1538,10 +1544,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791889967,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405672",
+   "message_id": 134,
+   "notified_at": 1791890013,
    "slug": "open-thread-dd4bd6",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Open Thread"
   },
   "de393e9a83": {
@@ -1592,10 +1600,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791889967,
    "guid": "https://reason.com/?post_type=volokh-post&p=8366006",
+   "message_id": 136,
+   "notified_at": 1791890017,
    "slug": "today-in-supreme-court-history-october-13-1890-f0e424",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Today in Supreme Court History: October 13, 1890"
   },
   "f84c44e710": {
