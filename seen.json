@@ -167,7 +167,10 @@
    "https://proton.me/blog/how-to-delete-google-search-history",
    "https://proton.me/blog/amazon-ai-training",
    "https://proton.me/business/blog/workflow-automation",
-   "https://proton.me/business/blog/follow-up-email"
+   "https://proton.me/business/blog/follow-up-email",
+   "https://proton.me/business/blog/meeting-notes",
+   "https://proton.me/business/blog/soc-1-vs-soc-2",
+   "https://proton.me/blog/palantir-modern-warfare"
   ],
   "https://reason.com/feed/": [
    "https://reason.com/?post_type=volokh-post&p=8405614",
@@ -254,7 +257,18 @@
    "https://reason.com/?post_type=volokh-post&p=8405672",
    "https://reason.com/?p=8405713",
    "https://reason.com/?post_type=volokh-post&p=8366006",
-   "https://reason.com/?p=8405780"
+   "https://reason.com/?p=8405780",
+   "https://reason.com/?post_type=volokh-post&p=8405337",
+   "https://reason.com/?post_type=volokh-post&p=8405648",
+   "https://reason.com/?post_type=volokh-post&p=8405870",
+   "https://reason.com/?p=8405839",
+   "https://reason.com/?p=8405889",
+   "https://reason.com/?p=8405900",
+   "https://reason.com/?p=8405859",
+   "https://reason.com/?post_type=volokh-post&p=8405946",
+   "https://reason.com/?p=8405920",
+   "https://reason.com/?p=8405916",
+   "https://reason.com/?post_type=volokh-post&p=8405967"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -268,7 +282,8 @@
    "https://retractionwatch.com/?p=136110",
    "https://retractionwatch.com/?p=136103",
    "https://retractionwatch.com/?p=136188",
-   "https://retractionwatch.com/?p=136193"
+   "https://retractionwatch.com/?p=136193",
+   "https://retractionwatch.com/?p=136221"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -315,6 +330,58 @@
    "tag:world.hey.com,2005:World::Post/45960",
    "tag:world.hey.com,2005:World::Post/45934"
   ],
+  "https://www.dailywire.com/feeds/rss.xml": [
+   "https://www.dailywire.com/news/trump-responds-to-calls-to-send-ilhan-omar-packing",
+   "https://www.dailywire.com/news/ilhan-omar-fundraising-off-ice-investigation",
+   "https://www.dailywire.com/news/michigans-el-sayed-denies-family-ties-to-muslim-brotherhood-his-sisters-posts-dont",
+   "https://www.dailywire.com/news/breaking-bad-stars-cause-of-death-revealed",
+   "https://www.dailywire.com/news/saudi-arabia-detains-americans-for-photographing-houthi-attack-sites",
+   "https://www.dailywire.com/news/kid-rocks-new-christian-album-includes-an-unlikely-cameo",
+   "https://www.dailywire.com/news/trump-calls-out-somali-gang-violence-after-shooting-sends-homecoming-game-into-frenzy",
+   "https://www.dailywire.com/news/michigans-el-sayed-trashed-police-as-military-demanded-cops-disarm-in-unearthed-audio",
+   "https://www.dailywire.com/news/bill-maher-says-trump-invited-him-back-to-the-white-house-with-a-promise",
+   "https://www.dailywire.com/news/kimberly-guilfoyle-vows-to-fight-corruption-charges-resigns-at-trumps-request",
+   "https://www.dailywire.com/news/james-bond-actress-delivers-ultimatum-over-trigger-warnings-in-movies",
+   "https://www.dailywire.com/news/whatever-happened-to-america-first",
+   "https://www.dailywire.com/news/leftist-official-dodges-questions-over-kill-list-targeting-right-wing-politicians",
+   "https://www.dailywire.com/news/tucker-carlsons-revisionist-guide-to-making-friends-and-influencing-liberals",
+   "https://www.dailywire.com/news/vance-says-he-didnt-have-advance-notice-of-ilhan-omar-raid",
+   "https://www.dailywire.com/news/why-zelensky-believes-drone-strikes-crippled-russias-massive-online-smear-machine",
+   "https://www.dailywire.com/news/trump-asks-kimberly-guilfoyle-to-resign-as-ambassador-to-greece",
+   "https://www.dailywire.com/news/how-a-destructive-ideology-captured-americas-institutions",
+   "https://www.dailywire.com/news/watch-live-karoline-leavitt-briefs-press-as-iran-troop-deployment-rumors-swirl",
+   "https://www.dailywire.com/news/exclusive-actor-zachary-levi-makes-big-endorsement-ahead-of-midterms",
+   "https://www.dailywire.com/news/ilhan-omars-sister-linked-to-central-figures-in-minnesotas-fraud-scandal",
+   "https://www.dailywire.com/news/trump-mocks-gays-for-palestine-with-rooftop-reality-check",
+   "https://www.dailywire.com/news/are-we-destroying-our-health-by-tracking-it",
+   "https://www.dailywire.com/news/911-audio-reveals-dispatcher-thought-christa-pikes-botched-execution-was-prank-call",
+   "https://www.dailywire.com/news/six-flags-roller-coaster-horror-as-man-plunges-to-death-captured-in-souvenir-photo",
+   "https://www.dailywire.com/news/lanterns-is-the-superhero-show-for-people-sick-of-superheroes",
+   "https://www.dailywire.com/news/the-new-rules-for-getting-canceled",
+   "https://www.dailywire.com/news/what-happened-when-capitalisms-worst-salesman-tried-selling-off-the-american-dream",
+   "https://www.dailywire.com/news/frances-education-collapse-is-a-warning-for-america",
+   "https://www.dailywire.com/news/shane-gillis-is-a-comedian-its-ok-to-laugh",
+   "https://www.dailywire.com/news/the-politics-behind-public-safetys-most-dangerous-narratives",
+   "https://www.dailywire.com/news/catholic-military-bishops-weigh-in-on-pentagons-planned-terrorist-execution",
+   "https://www.dailywire.com/news/several-men-found-dead-on-one-trail-sparking-serial-killer-fear",
+   "https://www.dailywire.com/news/real-housewives-star-takes-pardon-plea-straight-to-trumps-doorstep",
+   "https://www.dailywire.com/news/cornell-accuser-faces-new-legal-fight-over-what-she-can-say",
+   "https://www.dailywire.com/news/how-iran-played-the-american-media-for-fools",
+   "https://www.dailywire.com/news/haitian-illegal-immigrant-released-under-biden-accused-of-killing-boy-hours-before-birthday-party",
+   "https://www.dailywire.com/news/fbi-takes-action-after-actress-melts-down-midflight",
+   "https://www.dailywire.com/news/the-question-that-exposes-the-entire-game",
+   "https://www.dailywire.com/news/american-ally-sentences-man-to-death-for-insulting-mohammed-on-facebook",
+   "https://www.dailywire.com/news/what-really-happened-to-the-democrat-senate-candidate-who-disappeared-for-a-week",
+   "https://www.dailywire.com/news/new-left-is-funded-by-millions-from-unknown-muslim-donors",
+   "https://www.dailywire.com/news/ilhan-omar-welcomed-investigations-now-shes-getting-what-she-asked-for",
+   "https://www.dailywire.com/news/breaking-bad-star-dead-at-34",
+   "https://www.dailywire.com/news/diddys-prison-stay-takes-a-painful-turn",
+   "https://www.dailywire.com/news/sydney-sweeney-gives-the-left-even-more-to-cry-about-with-new-risque-ad",
+   "https://www.dailywire.com/news/i-watched-the-communist-make-9-11-jokes-so-you-dont-have-to",
+   "https://www.dailywire.com/news/trump-returns-to-the-midwest-as-white-house-celebrates-illegal-immigration-crackdown",
+   "https://www.dailywire.com/news/trump-officials-give-ilhan-omar-probe-a-mocking-nickname",
+   "https://www.dailywire.com/news/famous-actress-arrested-for-biting-flight-attendant-trying-to-open-plane-door"
+  ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
    "hltvnews45687",
@@ -344,7 +411,10 @@
    "hltvnews45708",
    "hltvnews45709",
    "hltvnews45711",
-   "hltvnews45710"
+   "hltvnews45710",
+   "hltvnews45712",
+   "hltvnews45713",
+   "hltvnews45707"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -392,7 +462,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -407,27 +477,31 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf0-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
+   "etag": "W/\"6acd4cf3-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"27309-65db503b3e364-gzip\"",
-   "last_modified": "Tue, 13 Oct 2026 08:58:12 GMT"
+   "etag": "\"2a86a-65dbbb0b4dc06-gzip\"",
+   "last_modified": "Tue, 13 Oct 2026 16:56:05 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"9a9909a322be78058bc68b920d11ab06\"",
-   "last_modified": "Tue, 13 Oct 2026 11:00:51 GMT"
+   "etag": "W/\"7ff84f5c346ea6bb70a3fa320577d0f9\"",
+   "last_modified": "Tue, 13 Oct 2026 18:18:43 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"9c5d449999167511b23b0e38cffd841d\"",
+   "etag": "\"3387659b6228b72bee64be5e410e4ede\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 13 Oct 2026 11:12:00 GMT"
+   "last_modified": "Tue, 13 Oct 2026 18:20:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
+   "last_modified": null
+  },
+  "https://www.dailywire.com/feeds/rss.xml": {
+   "etag": null,
    "last_modified": null
   },
   "https://www.hltv.org/rss/news": {
@@ -435,8 +509,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ace11de-53c4\"",
-   "last_modified": "Tue, 13 Oct 2026 11:11:26 GMT"
+   "etag": "W/\"6ace744f-53c4\"",
+   "last_modified": "Tue, 13 Oct 2026 18:11:27 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -500,6 +574,18 @@
    "status": "notified",
    "title": "TV Networks Protested Press Bans by Declining To Cover Trump. That Might Have Been Illegal, the DOJ Says."
   },
+  "07b7516c27": {
+   "date": 1791912582,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791915674,
+   "guid": "https://proton.me/business/blog/soc-1-vs-soc-2",
+   "slug": "soc-1-vs-soc-2-whats-the-difference-what-you-need-and-what-07b751",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "SOC 1 vs SOC 2: What\u2019s the difference, what you need, and what it costs"
+  },
   "085e5809e3": {
    "date": 1791750251,
    "excerpt_only": false,
@@ -536,10 +622,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8365978",
    "message_id": 74,
    "notified_at": 1791654784,
+   "pruned_at": 1791915674,
    "slug": "today-in-supreme-court-history-october-10-2012-0f0c98",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Today in Supreme Court History: October 10, 2012"
   },
   "0fdb3ea22a": {
@@ -550,10 +637,11 @@
    "guid": "tag:world.hey.com,2005:World::Post/49334",
    "message_id": 61,
    "notified_at": 1791654761,
+   "pruned_at": 1791915674,
    "slug": "over-my-dead-pencil-0fdb3e",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "notified",
+   "status": "pruned",
    "title": "Over my dead pencil"
   },
   "11b97f2c8f": {
@@ -564,10 +652,11 @@
    "guid": "https://retractionwatch.com/?p=136186",
    "message_id": 72,
    "notified_at": 1791654781,
+   "pruned_at": 1791915674,
    "slug": "cerebral-torment-iop-retracts-nearly-100-conference-papers-11b97f",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "\u2018Cerebral torment\u2019: IOP retracts nearly 100 conference papers for tortured phrases"
   },
   "12e130d594": {
@@ -606,10 +695,11 @@
    "guid": "https://proton.me/business/blog/asos-data-breach",
    "message_id": 71,
    "notified_at": 1791654779,
+   "pruned_at": 1791915674,
    "slug": "why-did-the-asos-hackers-go-directly-to-their-customers-13f227",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Why did the ASOS hackers go directly to their customers?"
   },
   "151e734a33": {
@@ -620,10 +710,11 @@
    "guid": "hltvnews45690",
    "message_id": 77,
    "notified_at": 1791654790,
+   "pruned_at": 1791915674,
    "slug": "bbl-confirm-mistr-signing-151e73",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BBL confirm MistR signing"
   },
   "1a00accb2e": {
@@ -634,10 +725,11 @@
    "guid": "tag:world.hey.com,2005:World::Post/49362",
    "message_id": 63,
    "notified_at": 1791654765,
+   "pruned_at": 1791915674,
    "slug": "redundancy-is-the-engine-of-progress-1a00ac",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "notified",
+   "status": "pruned",
    "title": "Redundancy is the engine of progress"
   },
   "1a5fbe8f06": {
@@ -681,6 +773,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "sycrone: \"Sometimes tactically you can get somewhere with a good look and a round doesn't convert, but xertioN always kept composure\""
+  },
+  "22d4602962": {
+   "date": 1791892891,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405337",
+   "slug": "someone-trying-to-vanish-articles-about-forged-u-k-court-22d460",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Someone Trying to Vanish Articles About Forged U.K. Court Order Aimed at Vanishing Article About Businessman Mason Soiza"
   },
   "243eb48ac2": {
    "date": 1791665700,
@@ -752,6 +856,54 @@
    "status": "notified",
    "title": "Live updates from the race for PGL Major Singapore"
   },
+  "2cec334edc": {
+   "date": 1791896491,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405870",
+   "slug": "new-essay-the-establishment-clause-at-the-second-founding-2cec33",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "New Essay: \"The Establishment Clause At The Second Founding\""
+  },
+  "2cf96e4e1f": {
+   "date": 1791892800,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791915674,
+   "guid": "hltvnews45712",
+   "slug": "closed-beta-of-hltv-brain-launched-2cf96e",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Closed beta of HLTV Brain launched"
+  },
+  "2e248182bf": {
+   "date": 1791906055,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?p=8405889",
+   "slug": "aaron-sorkins-new-anti-facebook-movie-is-a-stunning-act-of-2e2481",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Aaron Sorkin's New Anti-Facebook Movie Is a Stunning Act of Self-Satisfied Cowardice"
+  },
+  "2e3b4156d0": {
+   "date": 1791915303,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?p=8405916",
+   "slug": "code-games-2-0-2e3b41",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Code Games 2.0"
+  },
   "30aa466ecb": {
    "date": 1791633626,
    "excerpt_only": false,
@@ -760,11 +912,24 @@
    "guid": "https://reason.com/?p=8405569",
    "message_id": 76,
    "notified_at": 1791654788,
+   "pruned_at": 1791915674,
    "slug": "spacex-found-a-way-around-the-fcc-30aa46",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "SpaceX Found a Way Around the FCC"
+  },
+  "311b9bf2a5": {
+   "date": 1791904143,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://retractionwatch.com/?p=136221",
+   "slug": "authors-respond-with-a-bit-like-a-threat-after-journal-311b9b",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Authors respond with \u2018a bit like a threat\u2019 after journal reveals postdoc\u2019s identity"
   },
   "325495a522": {
    "date": 1791811850,
@@ -788,11 +953,24 @@
    "guid": "https://allenai.org/blog/colm-2026-recap",
    "message_id": 68,
    "notified_at": 1791654774,
+   "pruned_at": 1791915674,
    "slug": "ai2-at-colm-2026-open-research-from-models-to-agents-for-333550",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Ai2 at COLM 2026: Open research, from models to agents for science"
+  },
+  "35a2e3f1fd": {
+   "date": 1791901020,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791915674,
+   "guid": "hltvnews45713",
+   "slug": "cybershoke-disband-team-35a2e3",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "CYBERSHOKE disband team"
   },
   "35add5da6b": {
    "date": 1790294400,
@@ -802,10 +980,11 @@
    "guid": "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
    "message_id": 57,
    "notified_at": 1791654754,
+   "pruned_at": 1791915674,
    "slug": "shopifys-own-code-treats-silence-as-consent-on-every-store-35add5",
    "source": "That Privacy Guy! Blog",
    "source_slug": "that-privacy-guy-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Shopify's own code treats silence as consent on every store it hosts, while its DSA filings leave the user numbers blank"
   },
   "391b868013": {
@@ -844,10 +1023,11 @@
    "guid": "https://mastodon.social/@Z_Lib_official/117291996621050541",
    "message_id": 56,
    "notified_at": 1791654752,
+   "pruned_at": 1791915674,
    "slug": "hello-396c30",
    "source": "Z-Library Official",
    "source_slug": "z-library-official",
-   "status": "notified",
+   "status": "pruned",
    "title": "Hello \ud83d\udc4b"
   },
   "4140001c57": {
@@ -900,11 +1080,24 @@
    "guid": "https://mastodon.social/@Z_Lib_official/117184880166889287",
    "message_id": 54,
    "notified_at": 1791654749,
+   "pruned_at": 1791915674,
    "slug": "dear-z-librarians-50b3e7",
    "source": "Z-Library Official",
    "source_slug": "z-library-official",
-   "status": "notified",
+   "status": "pruned",
    "title": "Dear Z-Librarians,"
+  },
+  "583c45aa21": {
+   "date": 1791898265,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?p=8405839",
+   "slug": "settling-the-school-wars-583c45",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Settling the School Wars"
   },
   "596c199e8e": {
    "date": 1791812723,
@@ -928,10 +1121,11 @@
    "guid": "https://retractionwatch.com/?p=136176",
    "message_id": 67,
    "notified_at": 1791654772,
+   "pruned_at": 1791915674,
    "slug": "openai-withdraws-three-preprints-a-day-after-releasing-722-5a7a77",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems"
   },
   "5ba622e911": {
@@ -942,10 +1136,11 @@
    "guid": "https://www.zotero.org/blog/?p=2736",
    "message_id": 53,
    "notified_at": 1791654747,
+   "pruned_at": 1791915674,
    "slug": "zotero-10-5ba622",
    "source": "Zotero",
    "source_slug": "zotero",
-   "status": "notified",
+   "status": "pruned",
    "title": "Zotero 10"
   },
   "5c4bc3ac99": {
@@ -956,10 +1151,11 @@
    "guid": "tag:github.com,2008:Repository/778556932/1.23.2b",
    "message_id": 73,
    "notified_at": 1791654782,
+   "pruned_at": 1791915674,
    "slug": "release-build-1-23-2b-2026-10-09-5c4bc3",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "Release build - 1.23.2b (2026-10-09)"
   },
   "5e7e3beb3d": {
@@ -976,6 +1172,30 @@
    "status": "notified",
    "title": "Michigan Congressman Proposes Using Tariff Revenue for Tariff Relief Fund"
   },
+  "6264f6033a": {
+   "date": 1791906921,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?p=8405900",
+   "slug": "mlbs-salary-cap-fight-isnt-about-competitive-balance-its-6264f6",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "MLB's Salary Cap Fight Isn't About Competitive Balance, It's About Limiting Labor Costs"
+  },
+  "639705887c": {
+   "date": 1791915523,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405967",
+   "slug": "interesting-criminal-case-on-proving-intent-to-cause-fear-639705",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Interesting Criminal Case on Proving Intent to Cause Fear, Stemming from Confrontation at Protest"
+  },
   "64c20f3928": {
    "date": 1791480926,
    "excerpt_only": false,
@@ -984,10 +1204,11 @@
    "guid": "https://proton.me/business/blog/what-zero-retention-data-means",
    "message_id": 65,
    "notified_at": 1791654768,
+   "pruned_at": 1791915674,
    "slug": "why-zero-data-retention-may-not-protect-your-business-data-64c20f",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Why \u201czero data retention\u201d may not protect your business data"
   },
   "69b761c916": {
@@ -1012,11 +1233,24 @@
    "guid": "https://obsidian.md/blog/cure53-tob-sync-audits/",
    "message_id": 50,
    "notified_at": 1791654741,
+   "pruned_at": 1791915674,
    "slug": "obsidian-sync-audits-by-cure53-and-trail-of-bits-6a5404",
    "source": "Obsidian Blog",
    "source_slug": "obsidian-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Obsidian Sync audits by Cure53 and Trail of Bits"
+  },
+  "6a913a6af6": {
+   "date": 1791913570,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405946",
+   "slug": "claiming-video-was-deepfake-not-enough-to-require-excluding-6a913a",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Claiming Video Was \"Deepfake\" Not Enough to Require Excluding It, Even Absent Evidence of Who Recorded It"
   },
   "6aec8df6df": {
    "date": 1791835500,
@@ -1040,11 +1274,24 @@
    "guid": "tag:github.com,2008:Repository/778556932/1.23.1b",
    "message_id": 62,
    "notified_at": 1791654763,
+   "pruned_at": 1791915674,
    "slug": "release-build-1-23-1b-2026-10-06-6b1ea9",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "Release build - 1.23.1b (2026-10-06)"
+  },
+  "6c58682433": {
+   "date": 1791914840,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791915674,
+   "guid": "https://proton.me/blog/palantir-modern-warfare",
+   "slug": "the-palantir-mafia-is-changing-the-business-of-war-and-6c5868",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "The Palantir  Mafia is changing the business of war and surveillance"
   },
   "6cc303e50b": {
    "date": 1791831833,
@@ -1110,10 +1357,11 @@
    "guid": "https://www.thatprivacyguy.com/blog/locked-in-locked-out",
    "message_id": 52,
    "notified_at": 1791654745,
+   "pruned_at": 1791915674,
    "slug": "locked-in-locked-out-apples-walled-garden-should-come-with-761231",
    "source": "That Privacy Guy! Blog",
    "source_slug": "that-privacy-guy-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Locked In, Locked Out - Apple's Walled Garden Should Come With Liability"
   },
   "7f100bc7eb": {
@@ -1194,10 +1442,11 @@
    "guid": "https://annas-archive.gl/blog/physical-destruction.html",
    "message_id": 51,
    "notified_at": 1791654743,
+   "pruned_at": 1791915674,
    "slug": "ai-companies-destroy-physical-books-lets-scan-rare-books-92d0ac",
    "source": "Anna's Archive blog",
    "source_slug": "annas-archive-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "AI companies destroy physical books \u2014 let\u2019s scan rare books before it\u2019s too late"
   },
   "9ccf8ee367": {
@@ -1208,10 +1457,11 @@
    "guid": "https://allenai.org/blog/impactful-scheduling",
    "message_id": 69,
    "notified_at": 1791654775,
+   "pruned_at": 1791915674,
    "slug": "impactful-scheduling-for-gpu-clusters-9ccf8e",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Impactful scheduling for GPU clusters"
   },
   "a0469efdca": {
@@ -1236,10 +1486,11 @@
    "guid": "http://blog.beeper.com/?p=142604543",
    "message_id": 55,
    "notified_at": 1791654750,
+   "pruned_at": 1791915674,
    "slug": "tumblr-messages-are-here-a17c4a",
    "source": "Beeper Blog",
    "source_slug": "beeper-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Tumblr messages are here"
   },
   "a3138e3d09": {
@@ -1250,10 +1501,11 @@
    "guid": "tag:github.com,2008:Repository/933197458/0.19.1",
    "message_id": 64,
    "notified_at": 1791654766,
+   "pruned_at": 1791915674,
    "slug": "0-19-1-a3138e",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "0.19.1"
   },
   "a693fa4d0b": {
@@ -1283,6 +1535,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "DHS Searched Ilhan Omar's Home as Part of Immigration Fraud Investigation"
+  },
+  "a7bbb9b985": {
+   "date": 1791902991,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791915674,
+   "guid": "https://proton.me/business/blog/meeting-notes",
+   "slug": "how-to-take-effective-meeting-notes-that-drive-real-action-a7bbb9",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "How to take effective meeting notes that drive real action"
   },
   "aa59bbc2d3": {
    "date": 1791725940,
@@ -1320,10 +1584,11 @@
    "guid": "https://www.zotero.org/blog/?p=2770",
    "message_id": 60,
    "notified_at": 1791654759,
+   "pruned_at": 1791915674,
    "slug": "read-aloud-on-ios-b43d36",
    "source": "Zotero",
    "source_slug": "zotero",
-   "status": "notified",
+   "status": "pruned",
    "title": "Read Aloud on iOS"
   },
   "b551685e43": {
@@ -1348,11 +1613,24 @@
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492473208",
    "message_id": 75,
    "notified_at": 1791654786,
+   "pruned_at": 1791915674,
    "slug": "fireside-feelings-free-in-the-steam-store-b59b85",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "notified",
+   "status": "pruned",
    "title": "Fireside Feelings free in the Steam Store"
+  },
+  "b9de315f4f": {
+   "date": 1791909540,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791915674,
+   "guid": "hltvnews45707",
+   "slug": "strike-11-another-loophole-bites-the-dust-or-does-it-b9de31",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Strike #11: Another loophole bites the dust... or does it?"
   },
   "bbf2986ef7": {
    "date": 1791626400,
@@ -1376,10 +1654,11 @@
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
    "message_id": 70,
    "notified_at": 1791654777,
+   "pruned_at": 1791915674,
    "slug": "pony-island-free-in-the-steam-store-bd50c6",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "notified",
+   "status": "pruned",
    "title": "Pony Island free in the Steam Store"
   },
   "be94812617": {
@@ -1404,10 +1683,11 @@
    "guid": "tag:github.com,2008:Repository/933197458/0.19.2",
    "message_id": 66,
    "notified_at": 1791654770,
+   "pruned_at": 1791915674,
    "slug": "0-19-2-bf5b54",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "0.19.2"
   },
   "c1c53955f9": {
@@ -1446,10 +1726,11 @@
    "guid": "https://obsidian.md/blog/2026-obsidian-october/",
    "message_id": 58,
    "notified_at": 1791654756,
+   "pruned_at": 1791915674,
    "slug": "obsidian-october-2026-c8feca",
    "source": "Obsidian Blog",
    "source_slug": "obsidian-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Obsidian October 2026"
   },
   "ccb6b4bc54": {
@@ -1518,11 +1799,24 @@
    "guid": "https://annas-archive.gl/blog/llms-txt.html",
    "message_id": 49,
    "notified_at": 1791654740,
+   "pruned_at": 1791915674,
    "slug": "if-youre-an-llm-please-read-this-d3ae0c",
    "source": "Anna's Archive blog",
    "source_slug": "annas-archive-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "If you\u2019re an LLM, please read this"
+  },
+  "d70c3701f6": {
+   "date": 1791914422,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?p=8405920",
+   "slug": "no-giving-immigrants-research-jobs-is-not-fraud-d70c37",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "No, Giving Immigrants Research Jobs Is Not Fraud\u200b"
   },
   "dc0f4bf016": {
    "date": 1791802843,
@@ -1608,6 +1902,18 @@
    "status": "notified",
    "title": "Today in Supreme Court History: October 13, 1890"
   },
+  "f8069e5d53": {
+   "date": 1791913542,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?p=8405859",
+   "slug": "an-illinois-college-tried-to-cancel-its-flock-contract-f8069e",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "An Illinois College Tried To Cancel Its Flock Contract. Flock Refused."
+  },
   "f84c44e710": {
    "date": 1790973695,
    "excerpt_only": false,
@@ -1616,10 +1922,11 @@
    "guid": "http://blog.beeper.com/?p=142604556",
    "message_id": 59,
    "notified_at": 1791654758,
+   "pruned_at": 1791915674,
    "slug": "september-wrap-up-f84c44",
    "source": "Beeper Blog",
    "source_slug": "beeper-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "September Wrap-Up"
   },
   "fd47509ead": {
@@ -1635,7 +1942,19 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Congratulations to the Hoover Institution's Robert E. Hall, on His Economics Nobel Prize"
+  },
+  "fe035c2636": {
+   "date": 1791894854,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791915674,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405648",
+   "slug": "may-an-employer-fire-a-white-woman-for-wearing-hair-in-fe035c",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "May an Employer Fire a White Woman for Wearing Hair in Cornrows?"
   }
  },
- "tg_offset": 172773843
+ "tg_offset": 172773844
 }
