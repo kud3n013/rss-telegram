@@ -250,7 +250,11 @@
    "https://reason.com/?p=8405810",
    "https://reason.com/?post_type=podcast&p=8405751",
    "https://reason.com/?p=8405815",
-   "https://reason.com/?post_type=volokh-post&p=8405841"
+   "https://reason.com/?post_type=volokh-post&p=8405841",
+   "https://reason.com/?post_type=volokh-post&p=8405672",
+   "https://reason.com/?p=8405713",
+   "https://reason.com/?post_type=volokh-post&p=8366006",
+   "https://reason.com/?p=8405780"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -263,7 +267,8 @@
    "https://retractionwatch.com/?p=136122",
    "https://retractionwatch.com/?p=136110",
    "https://retractionwatch.com/?p=136103",
-   "https://retractionwatch.com/?p=136188"
+   "https://retractionwatch.com/?p=136188",
+   "https://retractionwatch.com/?p=136193"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -387,7 +392,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -402,24 +407,24 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"27309-65da44c223a49-gzip\"",
-   "last_modified": "Mon, 12 Oct 2026 13:01:33 GMT"
+   "etag": "\"27309-65db503b3e364-gzip\"",
+   "last_modified": "Tue, 13 Oct 2026 08:58:12 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"b446ad266c26e969eb28363e11ac38d5\"",
-   "last_modified": "Mon, 12 Oct 2026 23:42:30 GMT"
+   "etag": "W/\"9a9909a322be78058bc68b920d11ab06\"",
+   "last_modified": "Tue, 13 Oct 2026 11:00:51 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"92429c3c591e632e30d07654e478d8c4\"",
+   "etag": "\"9c5d449999167511b23b0e38cffd841d\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 13 Oct 2026 03:50:00 GMT"
+   "last_modified": "Tue, 13 Oct 2026 11:12:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -430,8 +435,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acda866-53c4\"",
-   "last_modified": "Tue, 13 Oct 2026 03:41:26 GMT"
+   "etag": "W/\"6ace11de-53c4\"",
+   "last_modified": "Tue, 13 Oct 2026 11:11:26 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1041,6 +1046,18 @@
    "status": "notified",
    "title": "Release build - 1.23.1b (2026-10-06)"
   },
+  "6cc303e50b": {
+   "date": 1791831833,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1791889967,
+   "guid": "https://retractionwatch.com/?p=136193",
+   "slug": "a-company-named-springer-that-isnt-the-publisher-is-6cc303",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "A company named Springer that isn\u2019t the publisher is offering authorship for sale"
+  },
   "6ea6e9e61e": {
    "date": 1791663300,
    "excerpt_only": false,
@@ -1124,6 +1141,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "The Forgotten Origins of Columbus Day"
+  },
+  "850c10e9d1": {
+   "date": 1791889251,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791889967,
+   "guid": "https://reason.com/?p=8405780",
+   "slug": "a-new-supreme-court-case-tests-the-limits-of-judicial-850c10",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "A New Supreme Court Case Tests the Limits of Judicial Deference to Federal Agencies"
   },
   "8c59cc2eec": {
    "date": 1791805068,
@@ -1377,6 +1406,18 @@
    "status": "notified",
    "title": "0.19.2"
   },
+  "c1c53955f9": {
+   "date": 1791878432,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791889967,
+   "guid": "https://reason.com/?p=8405713",
+   "slug": "brickbat-paying-the-piper-c1c539",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Brickbat: Paying the Piper"
+  },
   "c8610cc0ce": {
    "date": 1791675180,
    "excerpt_only": false,
@@ -1491,6 +1532,18 @@
    "status": "notified",
    "title": "Europe Grapples With 'Hybrid Warfare' While Rebuilding Its Defense Capabilities"
   },
+  "dd4bd63361": {
+   "date": 1791874800,
+   "excerpt_only": true,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791889967,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405672",
+   "slug": "open-thread-dd4bd6",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Open Thread"
+  },
   "de393e9a83": {
    "date": 1791716414,
    "excerpt_only": false,
@@ -1532,6 +1585,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Release the Kelly Clarkson Tapes"
+  },
+  "f0e424cc75": {
+   "date": 1791889211,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791889967,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8366006",
+   "slug": "today-in-supreme-court-history-october-13-1890-f0e424",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Today in Supreme Court History: October 13, 1890"
   },
   "f84c44e710": {
    "date": 1790973695,
