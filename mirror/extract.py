@@ -76,6 +76,11 @@ def sanitize_html(markup, base_url=""):
 
 
 class _Converter(MarkdownConverter):
+    def escape(self, text, parent_tags):
+        # literal "<" in the text ("H&lt;sub>2&lt;/sub>O") would otherwise reach Markdown as raw HTML,
+        # which Hugo drops; code spans and blocks don't pass through here
+        return super().escape(text, parent_tags).replace("<", "\\<")
+
     def convert_pre(self, el, text, parent_tags=None, **kwargs):
         code = el.find("code")
         lang = ""

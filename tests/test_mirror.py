@@ -166,6 +166,12 @@ class MarkdownTest(unittest.TestCase):
         self.assertEqual(md, "Line one\\\nLine two\\\nLine three\n\nNext")
         self.assertEqual(mposts.md_to_text(md), "Line one\nLine two\nLine three\n\nNext")
 
+    def test_literal_angle_brackets_stay_text(self):
+        md = extract.html_to_markdown("<p>finds “H&lt;sub>2&lt;/sub>O”</p><pre><code>a &lt; b</code></pre>")
+        self.assertIn("H\\<sub>2\\</sub>O", md)  # escaped, or Hugo drops it as raw HTML
+        self.assertIn("a < b", md)  # code is left alone
+        self.assertIn("finds “H<sub>2</sub>O”", mposts.md_to_text(md))
+
     def test_h1_in_body_is_demoted(self):
         md = extract.html_to_markdown(extract.sanitize_html("<h1>Top</h1><p>x</p><h2>Sub</h2>"))
         self.assertIn("## Top", md)

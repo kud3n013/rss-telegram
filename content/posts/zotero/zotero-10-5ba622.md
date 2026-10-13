@@ -29,7 +29,7 @@ Finally, we’ve added various new search conditions for annotations (e.g., “A
 
 ## Accent-insensitive searching and other search improvements
 
-Most searching throughout Zotero now ignores accents, typographic characters, and formatting. Searching for “cafe” will find “café”, “can't” will find “can’t”, and “h2o” will find “H<sub>2</sub>O” and “H₂O”, and vice versa.
+Most searching throughout Zotero now ignores accents, typographic characters, and formatting. Searching for “cafe” will find “café”, “can't” will find “can’t”, and “h2o” will find “H\<sub>2\</sub>O” and “H₂O”, and vice versa.
 
 Full-text content searches — the “Attachment Content” condition in advanced search and quoted phrases in the quick-search bar — are also now much faster, returning results nearly instantly instead of scanning files on disk.
 
