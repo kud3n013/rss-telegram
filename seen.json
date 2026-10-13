@@ -580,10 +580,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791915674,
    "guid": "https://proton.me/business/blog/soc-1-vs-soc-2",
+   "message_id": 151,
+   "notified_at": 1791915751,
    "slug": "soc-1-vs-soc-2-whats-the-difference-what-you-need-and-what-07b751",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "SOC 1 vs SOC 2: What\u2019s the difference, what you need, and what it costs"
   },
   "085e5809e3": {
@@ -780,10 +782,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405337",
+   "message_id": 141,
+   "notified_at": 1791915732,
    "slug": "someone-trying-to-vanish-articles-about-forged-u-k-court-22d460",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Someone Trying to Vanish Articles About Forged U.K. Court Order Aimed at Vanishing Article About Businessman Mason Soiza"
   },
   "243eb48ac2": {
@@ -862,10 +866,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405870",
+   "message_id": 143,
+   "notified_at": 1791915736,
    "slug": "new-essay-the-establishment-clause-at-the-second-founding-2cec33",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "New Essay: \"The Establishment Clause At The Second Founding\""
   },
   "2cf96e4e1f": {
@@ -874,10 +880,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791915674,
    "guid": "hltvnews45712",
+   "message_id": 140,
+   "notified_at": 1791915730,
    "slug": "closed-beta-of-hltv-brain-launched-2cf96e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Closed beta of HLTV Brain launched"
   },
   "2e248182bf": {
@@ -886,10 +894,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?p=8405889",
+   "message_id": 148,
+   "notified_at": 1791915745,
    "slug": "aaron-sorkins-new-anti-facebook-movie-is-a-stunning-act-of-2e2481",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Aaron Sorkin's New Anti-Facebook Movie Is a Stunning Act of Self-Satisfied Cowardice"
   },
   "2e3b4156d0": {
@@ -898,10 +908,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?p=8405916",
+   "message_id": 156,
+   "notified_at": 1791915760,
    "slug": "code-games-2-0-2e3b41",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Code Games 2.0"
   },
   "30aa466ecb": {
@@ -925,10 +937,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1791915674,
    "guid": "https://retractionwatch.com/?p=136221",
+   "message_id": 147,
+   "notified_at": 1791915743,
    "slug": "authors-respond-with-a-bit-like-a-threat-after-journal-311b9b",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Authors respond with \u2018a bit like a threat\u2019 after journal reveals postdoc\u2019s identity"
   },
   "325495a522": {
@@ -966,10 +980,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791915674,
    "guid": "hltvnews45713",
+   "message_id": 145,
+   "notified_at": 1791915740,
    "slug": "cybershoke-disband-team-35a2e3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "CYBERSHOKE disband team"
   },
   "35add5da6b": {
@@ -1093,10 +1109,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?p=8405839",
+   "message_id": 144,
+   "notified_at": 1791915738,
    "slug": "settling-the-school-wars-583c45",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Settling the School Wars"
   },
   "596c199e8e": {
@@ -1178,10 +1196,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?p=8405900",
+   "message_id": 149,
+   "notified_at": 1791915747,
    "slug": "mlbs-salary-cap-fight-isnt-about-competitive-balance-its-6264f6",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MLB's Salary Cap Fight Isn't About Competitive Balance, It's About Limiting Labor Costs"
   },
   "639705887c": {
@@ -1190,10 +1210,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405967",
+   "message_id": 157,
+   "notified_at": 1791915762,
    "slug": "interesting-criminal-case-on-proving-intent-to-cause-fear-639705",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Interesting Criminal Case on Proving Intent to Cause Fear, Stemming from Confrontation at Protest"
   },
   "64c20f3928": {
@@ -1246,10 +1268,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405946",
+   "message_id": 153,
+   "notified_at": 1791915755,
    "slug": "claiming-video-was-deepfake-not-enough-to-require-excluding-6a913a",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Claiming Video Was \"Deepfake\" Not Enough to Require Excluding It, Even Absent Evidence of Who Recorded It"
   },
   "6aec8df6df": {
@@ -1287,10 +1311,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791915674,
    "guid": "https://proton.me/blog/palantir-modern-warfare",
+   "message_id": 155,
+   "notified_at": 1791915758,
    "slug": "the-palantir-mafia-is-changing-the-business-of-war-and-6c5868",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Palantir  Mafia is changing the business of war and surveillance"
   },
   "6cc303e50b": {
@@ -1542,10 +1568,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791915674,
    "guid": "https://proton.me/business/blog/meeting-notes",
+   "message_id": 146,
+   "notified_at": 1791915741,
    "slug": "how-to-take-effective-meeting-notes-that-drive-real-action-a7bbb9",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How to take effective meeting notes that drive real action"
   },
   "aa59bbc2d3": {
@@ -1626,10 +1654,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791915674,
    "guid": "hltvnews45707",
+   "message_id": 150,
+   "notified_at": 1791915749,
    "slug": "strike-11-another-loophole-bites-the-dust-or-does-it-b9de31",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Strike #11: Another loophole bites the dust... or does it?"
   },
   "bbf2986ef7": {
@@ -1812,10 +1842,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?p=8405920",
+   "message_id": 154,
+   "notified_at": 1791915756,
    "slug": "no-giving-immigrants-research-jobs-is-not-fraud-d70c37",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "No, Giving Immigrants Research Jobs Is Not Fraud\u200b"
   },
   "dc0f4bf016": {
@@ -1908,10 +1940,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?p=8405859",
+   "message_id": 152,
+   "notified_at": 1791915753,
    "slug": "an-illinois-college-tried-to-cancel-its-flock-contract-f8069e",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "An Illinois College Tried To Cancel Its Flock Contract. Flock Refused."
   },
   "f84c44e710": {
@@ -1949,10 +1983,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791915674,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405648",
+   "message_id": 142,
+   "notified_at": 1791915734,
    "slug": "may-an-employer-fire-a-white-woman-for-wearing-hair-in-fe035c",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "May an Employer Fire a White Woman for Wearing Hair in Cornrows?"
   }
  },
