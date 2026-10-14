@@ -274,7 +274,9 @@
    "https://reason.com/?post_type=volokh-post&p=8405979",
    "https://reason.com/?p=8405972",
    "https://reason.com/?p=8405983",
-   "https://reason.com/?post_type=volokh-post&p=8406014"
+   "https://reason.com/?post_type=volokh-post&p=8406014",
+   "https://reason.com/?post_type=volokh-post&p=8406020",
+   "https://reason.com/?p=8405882"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -488,7 +490,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -507,20 +509,20 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2a86a-65dbbadb29dfc-gzip\"",
-   "last_modified": "Tue, 13 Oct 2026 16:55:14 GMT"
+   "etag": "\"2a86a-65dbbae321752-gzip\"",
+   "last_modified": "Tue, 13 Oct 2026 16:55:23 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"41a14166da5ae7edf10f1d58a3aff123\"",
-   "last_modified": "Tue, 13 Oct 2026 21:57:09 GMT"
+   "etag": "W/\"11e7331b0927045099ba02c4bc6ff7a0\"",
+   "last_modified": "Wed, 14 Oct 2026 04:01:09 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"3387659b6228b72bee64be5e410e4ede\"",
+   "etag": "\"10a137d5106e126d323e465df2f1200c\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 14 Oct 2026 01:46:00 GMT"
+   "last_modified": "Wed, 14 Oct 2026 06:44:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -535,8 +537,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6aceddc7-53c4\"",
-   "last_modified": "Wed, 14 Oct 2026 01:41:27 GMT"
+   "etag": "W/\"6acf2417-53c4\"",
+   "last_modified": "Wed, 14 Oct 2026 06:41:27 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -2015,6 +2017,18 @@
    "status": "pruned",
    "title": "0.19.2"
   },
+  "bf8ba26748": {
+   "date": 1791948998,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791960334,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8406020",
+   "slug": "court-issues-preliminary-injunction-requiring-cnn-ms-now-bf8ba2",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Court Issues Preliminary Injunction Requiring CNN, MS NOW, and Politico to Be Readmitted to White House Briefings"
+  },
   "c1c53955f9": {
    "date": 1791878432,
    "excerpt_only": false,
@@ -2342,6 +2356,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Major U.S. Bank Hit With $1.21 Billion In Penalties After Ignoring Red Flags"
+  },
+  "f91625544e": {
+   "date": 1791950469,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791960334,
+   "guid": "https://reason.com/?p=8405882",
+   "slug": "other-courts-should-heed-a-federal-judges-warning-about-f91625",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Other Courts Should Heed a Federal Judge's Warning About Flock-Enabled Mass Surveillance"
   },
   "fd47509ead": {
    "date": 1791846947,
