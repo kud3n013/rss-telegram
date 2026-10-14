@@ -1963,10 +1963,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791942375,
    "guid": "https://www.dailywire.com/news/teen-girl-wakes-up-in-coffin-during-her-own-funeral",
+   "message_id": 183,
+   "notified_at": 1791942444,
    "slug": "teen-girl-wakes-up-in-coffin-during-her-own-funeral-bcc7f4",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Teen Girl Wakes Up In Coffin During Her Own Funeral"
   },
   "bd50c64666": {
@@ -2333,10 +2335,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791942375,
    "guid": "https://www.dailywire.com/news/major-u-s-bank-hit-with-1-21-billion-in-penalties-after-ignoring-red-flags",
+   "message_id": 182,
+   "notified_at": 1791942442,
    "slug": "major-u-s-bank-hit-with-1-21-billion-in-penalties-after-f88cb7",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Major U.S. Bank Hit With $1.21 Billion In Penalties After Ignoring Red Flags"
   },
   "fd47509ead": {
