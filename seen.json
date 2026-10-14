@@ -621,10 +621,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/how-the-unhinged-left-just-doubled-down-on-woke",
+   "message_id": 240,
+   "notified_at": 1792011496,
    "slug": "how-the-unhinged-left-just-doubled-down-on-woke-000976",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How The Unhinged Left Just Doubled Down On Woke"
   },
   "015984e5f3": {
@@ -745,10 +747,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?p=8406055",
+   "message_id": 250,
+   "notified_at": 1792011513,
    "slug": "a-trump-appointee-says-the-president-likely-violated-the-09a1e9",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A Trump Appointee Says the President Likely Violated the First Amendment by Banishing Disfavored Journalists"
   },
   "0be19cd70c": {
@@ -785,10 +789,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/karoline-leavitt-answers-the-personal-questions-everyones-asking",
+   "message_id": 234,
+   "notified_at": 1792011486,
    "slug": "karoline-leavitt-answers-the-personal-questions-everyones-0c9518",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Karoline Leavitt Answers The Personal Questions Everyone\u2019s Asking"
   },
   "0f0c98123d": {
@@ -972,10 +978,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/countless-maga-religious-groups-were-debanked-during-biden-administration-explosive-report-finds",
+   "message_id": 239,
+   "notified_at": 1792011494,
    "slug": "biden-administration-pushed-banks-to-target-conservative-1dede7",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Biden Administration Pushed Banks To Target Conservative And Religious Groups, Report Finds"
   },
   "1e5cd997da": {
@@ -1027,10 +1035,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?post_type=volokh-post&p=8406074",
+   "message_id": 243,
+   "notified_at": 1792011501,
    "slug": "new-on-scotusblog-witnessing-a-reorientation-of-the-first-23187f",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "New on SCOTUSBlog: \"Witnessing a reorientation of the First and Second Amendments on the Roberts court\""
   },
   "239a784eaf": {
@@ -1039,10 +1049,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?p=8406025",
+   "message_id": 242,
+   "notified_at": 1792011499,
    "slug": "how-local-governments-turn-minor-violations-into-financial-239a78",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How Local Governments Turn Minor Violations Into Financial Ruin"
   },
   "243eb48ac2": {
@@ -1108,10 +1120,12 @@
    "feed": "https://github.com/imputnet/helium/releases.atom",
    "fetched": 1792011414,
    "guid": "tag:github.com,2008:Repository/933197458/0.19.3",
+   "message_id": 252,
+   "notified_at": 1792011516,
    "slug": "0-19-3-28f5b8",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "0.19.3"
   },
   "29d06b0a83": {
@@ -1148,10 +1162,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/read-the-prologue-to-andrew-klavans-upcoming-book-find-me-nowhere",
+   "message_id": 233,
+   "notified_at": 1792011484,
    "slug": "read-the-prologue-to-andrew-klavans-upcoming-book-find-me-2a1022",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Read The Prologue To Andrew Klavan\u2019s Upcoming Book: \u2018Find Me Nowhere\u2019"
   },
   "2c324ef68e": {
@@ -1344,10 +1360,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/ilhan-omars-husband-defiant-when-pressed-on-federal-raid-of-d-c-home",
+   "message_id": 230,
+   "notified_at": 1792011479,
    "slug": "ilhan-omars-husband-defiant-when-pressed-on-federal-raid-of-3465ad",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Ilhan Omar\u2019s Husband Defiant When Pressed On Federal Raid Of D.C. Home"
   },
   "35a2e3f1fd": {
@@ -1385,10 +1403,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?post_type=volokh-post&p=8406110",
+   "message_id": 253,
+   "notified_at": 1792011518,
    "slug": "second-amendment-rights-forfeited-by-past-terroristic-36997b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Second Amendment Rights Forfeited by Past Terroristic Threats Conviction"
   },
   "36dd733113": {
@@ -1425,10 +1445,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/kamala-takes-aim-at-biden-over-israel-policy-she-once-defended",
+   "message_id": 236,
+   "notified_at": 1792011489,
    "slug": "kamala-takes-aim-at-biden-over-israel-policy-she-once-38afe2",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Kamala Takes Aim At Biden Over Israel Policy She Once Defended"
   },
   "390dcda86e": {
@@ -1437,10 +1459,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?post_type=volokh-post&p=8406091",
+   "message_id": 251,
+   "notified_at": 1792011515,
    "slug": "america-democracy-or-republic-390dcd",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "America: Democracy or Republic?"
   },
   "391b868013": {
@@ -1521,10 +1545,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792011414,
    "guid": "hltvnews45721",
+   "message_id": 246,
+   "notified_at": 1792011506,
    "slug": "new-look-astralis-top-group-at-stake-pulse-beat-3c83b8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "New-look Astralis top group at Stake Pulse Beat"
   },
   "3f14d4dae9": {
@@ -1561,10 +1587,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?p=8406100",
+   "message_id": 254,
+   "notified_at": 1792011520,
    "slug": "trumps-90-checks-to-seniors-look-a-lot-like-vote-buying-4394af",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Trump's $90 Checks to Seniors Look a Lot Like Vote Buying"
   },
   "447f98d23c": {
@@ -1615,10 +1643,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/netflix-drops-the-ax-in-biggest-shakeup-in-years",
+   "message_id": 231,
+   "notified_at": 1792011481,
    "slug": "netflix-drops-the-ax-in-biggest-shakeup-in-years-47ca8e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Netflix Drops The Ax In Biggest Shakeup In Years"
   },
   "50b3e71406": {
@@ -2086,10 +2116,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/high-school-football-coach-fired-after-controversial-move-up-57-0",
+   "message_id": 232,
+   "notified_at": 1792011483,
    "slug": "high-school-football-coach-fired-after-controversial-move-7e399c",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "High School Football Coach Fired After Controversial Move Up 57-0"
   },
   "7f100bc7eb": {
@@ -2168,10 +2200,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/exclusive-arrest-records-show-illegal-whose-sob-story-captured-the-nation-is-a-wife-beater",
+   "message_id": 241,
+   "notified_at": 1792011498,
    "slug": "exclusive-arrest-records-show-illegal-whose-sob-story-838ad8",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "EXCLUSIVE: Arrest Records Show Illegal Whose Sob Story Captured The Nation Is A Wife Beater"
   },
   "850584be35": {
@@ -2364,10 +2398,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?post_type=volokh-post&p=8406082",
+   "message_id": 247,
+   "notified_at": 1792011508,
    "slug": "second-amendment-rights-not-forfeited-by-past-drunk-driving-966a08",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Second Amendment Rights Not Forfeited by Past Drunk Driving Conviction"
   },
   "99a3ce12dd": {
@@ -2390,10 +2426,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/jeopardy-host-doubles-down-on-lies-leaving-washington-taxpayers-searching-for-answers",
+   "message_id": 235,
+   "notified_at": 1792011488,
    "slug": "jeopardy-host-doubles-down-on-lies-leaving-washington-99ab2b",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Jeopardy! Host Doubles Down On Lies Leaving Washington Taxpayers Searching For Answers"
   },
   "9a742da152": {
@@ -2402,10 +2440,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/seniors-set-for-a-social-security-raise-to-combat-rising-inflation",
+   "message_id": 238,
+   "notified_at": 1792011493,
    "slug": "seniors-set-for-a-social-security-raise-to-combat-rising-9a742d",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Seniors Set For A Social Security Raise To Combat Rising Inflation"
   },
   "9a844a7a56": {
@@ -2457,10 +2497,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792011414,
    "guid": "https://www.dailywire.com/news/americas-terrorist-enemy-is-working-on-a-terrifying-weapon-china-is-supplying-the-parts",
+   "message_id": 237,
+   "notified_at": 1792011491,
    "slug": "americas-terrorist-enemy-is-working-on-a-terrifying-weapon-9ea3a6",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "America\u2019s Terrorist Enemy Is Working On A Terrifying Weapon. China Is Supplying The Parts."
   },
   "9f9ccfdb18": {
@@ -2469,10 +2511,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?p=8406036",
+   "message_id": 245,
+   "notified_at": 1792011504,
    "slug": "posting-about-this-robot-sexual-assault-in-germany-could-be-9f9ccf",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Posting About This 'Robot Sexual Assault' in Germany Could Be a Crime"
   },
   "a0469efdca": {
@@ -2540,10 +2584,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792011414,
    "guid": "hltvnews45720",
+   "message_id": 249,
+   "notified_at": 1792011511,
    "slug": "zonic-what-people-dont-see-is-finn-is-bringing-5-10-extra-a656a8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "zonic: \"What people don't see is Finn is bringing 5-10% extra to some of the other players, especially Maxim, when things are going well\""
   },
   "a693fa4d0b": {
@@ -2738,10 +2784,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1792011414,
    "guid": "https://reason.com/?p=8405909",
+   "message_id": 244,
+   "notified_at": 1792011503,
    "slug": "trumps-plan-to-buy-russian-diesel-would-violate-federal-law-b71114",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Trump's Plan To Buy Russian Diesel Would Violate Federal Law"
   },
   "b7f45e746f": {
@@ -3391,10 +3439,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792011414,
    "guid": "https://retractionwatch.com/?p=136230",
+   "message_id": 248,
+   "notified_at": 1792011510,
    "slug": "former-crick-ph-d-student-loses-covid-vaccine-paper-for-fe6b47",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Former Crick Ph.D. student loses COVID vaccine paper for fabrication"
   },
   "ffc4ce1b0f": {
