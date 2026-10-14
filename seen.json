@@ -171,7 +171,10 @@
    "https://proton.me/business/blog/follow-up-email",
    "https://proton.me/business/blog/meeting-notes",
    "https://proton.me/business/blog/soc-1-vs-soc-2",
-   "https://proton.me/blog/palantir-modern-warfare"
+   "https://proton.me/blog/palantir-modern-warfare",
+   "https://proton.me/business/blog/meet-waiting-rooms-chat-threads",
+   "https://proton.me/business/blog/business-meeting",
+   "https://proton.me/blog/how-to-delete-your-facebook-account"
   ],
   "https://reason.com/feed/": [
    "https://reason.com/?post_type=volokh-post&p=8405614",
@@ -276,7 +279,12 @@
    "https://reason.com/?p=8405983",
    "https://reason.com/?post_type=volokh-post&p=8406014",
    "https://reason.com/?post_type=volokh-post&p=8406020",
-   "https://reason.com/?p=8405882"
+   "https://reason.com/?p=8405882",
+   "https://reason.com/?post_type=volokh-post&p=8405860",
+   "https://reason.com/?p=8405737",
+   "https://reason.com/?post_type=volokh-post&p=8366016",
+   "https://reason.com/?p=8405971",
+   "https://reason.com/?post_type=volokh-post&p=8405975"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -406,7 +414,16 @@
    "https://www.dailywire.com/news/caught-on-camera-democrat-candidate-is-hiding-the-truth-about-his-veganism",
    "https://www.dailywire.com/news/ilhan-omars-staff-altered-her-birthdate-after-she-was-elected-heres-why-that-matters",
    "https://www.dailywire.com/news/major-u-s-bank-hit-with-1-21-billion-in-penalties-after-ignoring-red-flags",
-   "https://www.dailywire.com/news/teen-girl-wakes-up-in-coffin-during-her-own-funeral"
+   "https://www.dailywire.com/news/teen-girl-wakes-up-in-coffin-during-her-own-funeral",
+   "https://www.dailywire.com/news/why-sexual-assault-statistics-dont-add-up-amidst-the-danger-of-accusations",
+   "https://www.dailywire.com/news/how-commercial-surrogacy-weaponizes-the-law-against-life",
+   "https://www.dailywire.com/news/a-physicians-case-for-rfks-microbiome-medicine",
+   "https://www.dailywire.com/news/bernie-sanders-and-the-rise-of-the-jews-of-privilege",
+   "https://www.dailywire.com/news/when-your-toddlers-favorite-youtube-star-goes-political",
+   "https://www.dailywire.com/news/exclusive-white-house-shuts-down-fraudsters-double-dipping-from-government-healthcare",
+   "https://www.dailywire.com/news/you-do-not-need-an-ai-matchmaker-you-need-to-go-outside",
+   "https://www.dailywire.com/news/the-latest-joke-the-left-is-melting-down-over",
+   "https://www.dailywire.com/news/doctors-sound-alarm-about-h-1b-pipeline-threatening-american-lives"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -442,7 +459,9 @@
    "hltvnews45713",
    "hltvnews45707",
    "hltvnews45714",
-   "hltvnews45715"
+   "hltvnews45715",
+   "hltvnews45717",
+   "hltvnews45718"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -490,7 +509,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
@@ -509,12 +528,12 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2a86a-65dbbae321752-gzip\"",
-   "last_modified": "Tue, 13 Oct 2026 16:55:23 GMT"
+   "etag": "\"2d884-65dcbe28c5435-gzip\"",
+   "last_modified": "Wed, 14 Oct 2026 12:15:20 GMT"
   },
   "https://reason.com/feed/": {
-   "etag": "W/\"11e7331b0927045099ba02c4bc6ff7a0\"",
-   "last_modified": "Wed, 14 Oct 2026 04:01:09 GMT"
+   "etag": "W/\"990319a39a8e16f40e15dbe09063f16b\"",
+   "last_modified": "Wed, 14 Oct 2026 12:01:59 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"10a137d5106e126d323e465df2f1200c\"",
@@ -522,7 +541,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 14 Oct 2026 06:44:00 GMT"
+   "last_modified": "Wed, 14 Oct 2026 12:28:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -537,8 +556,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acf2417-53c4\"",
-   "last_modified": "Wed, 14 Oct 2026 06:41:27 GMT"
+   "etag": "W/\"6acf74f4-53c4\"",
+   "last_modified": "Wed, 14 Oct 2026 12:26:28 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -546,6 +565,18 @@
   }
  },
  "posts": {
+  "015984e5f3": {
+   "date": 1791977160,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791980948,
+   "guid": "hltvnews45717",
+   "slug": "sdy-headlines-new-look-monte-lineup-015984",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "sdy headlines new-look Monte lineup*"
+  },
   "032fd61c5e": {
    "date": 1791802813,
    "excerpt_only": false,
@@ -559,6 +590,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Today in Supreme Court History: October 12, 1977"
+  },
+  "034a1e91b6": {
+   "date": 1791961257,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/the-latest-joke-the-left-is-melting-down-over",
+   "slug": "the-latest-joke-the-left-is-melting-down-over-034a1e",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "The Latest Joke The Left Is Melting Down Over"
   },
   "0355ed82df": {
    "date": 1791799217,
@@ -1001,6 +1044,18 @@
    "status": "notified",
    "title": "Code Games 2.0"
   },
+  "2e96211699": {
+   "date": 1791975612,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791980948,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8366016",
+   "slug": "today-in-supreme-court-history-october-14-1911-2e9621",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Today in Supreme Court History: October 14, 1911"
+  },
   "30aa466ecb": {
    "date": 1791633626,
    "excerpt_only": false,
@@ -1029,6 +1084,18 @@
    "source_slug": "retraction-watch",
    "status": "notified",
    "title": "Authors respond with \u2018a bit like a threat\u2019 after journal reveals postdoc\u2019s identity"
+  },
+  "31cf5eec0f": {
+   "date": 1791979319,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791980948,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405975",
+   "slug": "fortunately-for-society-plaintiffs-framework-for-31cf5e",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "\"Fortunately for Society, Plaintiff's Framework for Retrospectively Punishing News Outlets Is Not the Law\""
   },
   "325495a522": {
    "date": 1791811850,
@@ -1088,6 +1155,18 @@
    "status": "pruned",
    "title": "Shopify's own code treats silence as consent on every store it hosts, while its DSA filings leave the user numbers blank"
   },
+  "3847cb3e3f": {
+   "date": 1791978540,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1791980948,
+   "guid": "hltvnews45718",
+   "slug": "9z-beat-aurora-2-0-to-kick-off-twc-2026-3847cb",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "9z beat Aurora 2-0 to kick off TWC 2026"
+  },
   "391b868013": {
    "date": 1791822960,
    "excerpt_only": true,
@@ -1145,6 +1224,18 @@
    "status": "notified",
    "title": "The Government Doesn't Know What's Best for You. Why Let It Decide What You Should Eat?"
   },
+  "447f98d23c": {
+   "date": 1791979061,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791980948,
+   "guid": "https://proton.me/business/blog/meet-waiting-rooms-chat-threads",
+   "slug": "run-more-secure-organized-meetings-with-new-proton-meet-447f98",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "Run more secure, organized meetings with new Proton Meet features"
+  },
   "47160f724f": {
    "date": 1791788400,
    "excerpt_only": true,
@@ -1187,6 +1278,18 @@
    "source_slug": "z-library-official",
    "status": "pruned",
    "title": "Dear Z-Librarians,"
+  },
+  "5321a379cb": {
+   "date": 1791961200,
+   "excerpt_only": true,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791980948,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8405860",
+   "slug": "open-thread-5321a3",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Open Thread"
   },
   "583c45aa21": {
    "date": 1791898265,
@@ -1288,6 +1391,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "MAGA & Musk\u2019s Money Moves Come Into Focus Ahead Of Midterm Home Stretch"
+  },
+  "61b8c68b58": {
+   "date": 1791951307,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/why-sexual-assault-statistics-dont-add-up-amidst-the-danger-of-accusations",
+   "slug": "why-sexual-assault-statistics-dont-add-up-amidst-the-danger-61b8c6",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Why Sexual Assault Statistics Don\u2019t Add Up Amidst The Danger Of Accusations"
   },
   "6264f6033a": {
    "date": 1791906921,
@@ -1446,6 +1561,18 @@
    "status": "notified",
    "title": "A company named Springer that isn\u2019t the publisher is offering authorship for sale"
   },
+  "6e02dccfdf": {
+   "date": 1791952244,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/a-physicians-case-for-rfks-microbiome-medicine",
+   "slug": "a-physicians-case-for-rfks-microbiome-medicine-6e02dc",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "A Physician\u2019s Case For RFK\u2019s Microbiome Medicine"
+  },
   "6ea6e9e61e": {
    "date": 1791663300,
    "excerpt_only": false,
@@ -1546,6 +1673,18 @@
    "status": "notified",
    "title": "The Forgotten Origins of Columbus Day"
   },
+  "850584be35": {
+   "date": 1791964837,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791980948,
+   "guid": "https://reason.com/?p=8405737",
+   "slug": "brickbat-not-counting-every-penny-850584",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Brickbat: Not Counting Every Penny"
+  },
   "850c10e9d1": {
    "date": 1791889251,
    "excerpt_only": false,
@@ -1616,6 +1755,18 @@
    "status": "notified",
    "title": "brnz4n departs MIBR"
   },
+  "904ce81ef6": {
+   "date": 1791984280,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791980948,
+   "guid": "https://proton.me/business/blog/business-meeting",
+   "slug": "7-types-of-business-meetings-and-top-tips-for-each-904ce8",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "7 types of business meetings and top tips for each"
+  },
   "92a2c4167b": {
    "date": 1791712826,
    "excerpt_only": false,
@@ -1672,6 +1823,30 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Greta Thunberg Finds A New Cause As Violent Riots Rage"
+  },
+  "9a844a7a56": {
+   "date": 1791957652,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/you-do-not-need-an-ai-matchmaker-you-need-to-go-outside",
+   "slug": "you-do-not-need-an-ai-matchmaker-you-need-to-go-outside-9a844a",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "You Do Not Need An AI Matchmaker. You Need To Go Outside."
+  },
+  "9b0f8c643a": {
+   "date": 1791986657,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1791980948,
+   "guid": "https://proton.me/blog/how-to-delete-your-facebook-account",
+   "slug": "how-to-delete-your-facebook-account-9b0f8c",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "How to delete your Facebook account"
   },
   "9ccf8ee367": {
    "date": 1791532800,
@@ -1843,6 +2018,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Brickbat: If You Can't Say Something Nice"
+  },
+  "acf845559d": {
+   "date": 1791975628,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1791980948,
+   "guid": "https://reason.com/?p=8405971",
+   "slug": "college-still-has-a-future-but-its-no-longer-the-default-acf845",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "College Still Has a Future, but It's No Longer the Default Choice"
   },
   "b43d362736": {
    "date": 1791218097,
@@ -2089,6 +2276,18 @@
    "status": "notified",
    "title": "Half-Naked Women, Wandering Eyes, And A Liberal Meltdown"
   },
+  "cc656b5d6f": {
+   "date": 1791952233,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/how-commercial-surrogacy-weaponizes-the-law-against-life",
+   "slug": "how-commercial-surrogacy-weaponizes-the-law-against-life-cc656b",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "How Commercial Surrogacy Weaponizes The Law Against Life"
+  },
   "ccb6b4bc54": {
    "date": 1791838806,
    "excerpt_only": false,
@@ -2102,6 +2301,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "J.D. Vance Is Playing Dumb About Socialism"
+  },
+  "cd84650ae9": {
+   "date": 1791961285,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/doctors-sound-alarm-about-h-1b-pipeline-threatening-american-lives",
+   "slug": "doctors-sound-alarm-about-h-1b-pipeline-threatening-cd8465",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Doctors Sound Alarm About H-1B Pipeline Threatening American Lives"
   },
   "d089e68fa6": {
    "date": 1791651300,
@@ -2288,6 +2499,18 @@
    "status": "notified",
    "title": "Today in Supreme Court History: October 13, 1890"
   },
+  "f47d9e1a29": {
+   "date": 1791954000,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/bernie-sanders-and-the-rise-of-the-jews-of-privilege",
+   "slug": "bernie-sanders-and-the-rise-of-the-jews-of-privilege-f47d9e",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Bernie Sanders And The Rise Of The Jews Of Privilege"
+  },
   "f52b31bc7d": {
    "date": 1791911917,
    "excerpt_only": false,
@@ -2373,6 +2596,18 @@
    "status": "notified",
    "title": "Other Courts Should Heed a Federal Judge's Warning About Flock-Enabled Mass Surveillance"
   },
+  "faf4616bd9": {
+   "date": 1791954013,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/when-your-toddlers-favorite-youtube-star-goes-political",
+   "slug": "when-your-toddlers-favorite-youtube-star-goes-political-faf461",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "When Your Toddler\u2019s Favorite YouTube Star Goes Political"
+  },
   "fd47509ead": {
    "date": 1791846947,
    "excerpt_only": false,
@@ -2386,6 +2621,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Congratulations to the Hoover Institution's Robert E. Hall, on His Economics Nobel Prize"
+  },
+  "fdfb01c1e4": {
+   "date": 1791957641,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1791980948,
+   "guid": "https://www.dailywire.com/news/exclusive-white-house-shuts-down-fraudsters-double-dipping-from-government-healthcare",
+   "slug": "exclusive-white-house-shuts-down-fraudsters-double-dipping-fdfb01",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "EXCLUSIVE: White House Shuts Down Fraudsters Double-Dipping From Government Healthcare"
   },
   "fe035c2636": {
    "date": 1791894854,
