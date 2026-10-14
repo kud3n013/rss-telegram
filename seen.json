@@ -571,10 +571,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791980948,
    "guid": "hltvnews45717",
+   "message_id": 199,
+   "notified_at": 1791981025,
    "slug": "sdy-headlines-new-look-monte-lineup-015984",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "sdy headlines new-look Monte lineup*"
   },
   "032fd61c5e": {
@@ -597,10 +599,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/the-latest-joke-the-left-is-melting-down-over",
+   "message_id": 194,
+   "notified_at": 1791981015,
    "slug": "the-latest-joke-the-left-is-melting-down-over-034a1e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Latest Joke The Left Is Melting Down Over"
   },
   "0355ed82df": {
@@ -1050,10 +1054,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791980948,
    "guid": "https://reason.com/?post_type=volokh-post&p=8366016",
+   "message_id": 197,
+   "notified_at": 1791981021,
    "slug": "today-in-supreme-court-history-october-14-1911-2e9621",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Today in Supreme Court History: October 14, 1911"
   },
   "30aa466ecb": {
@@ -1091,10 +1097,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791980948,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405975",
+   "message_id": 202,
+   "notified_at": 1791981031,
    "slug": "fortunately-for-society-plaintiffs-framework-for-31cf5e",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "\"Fortunately for Society, Plaintiff's Framework for Retrospectively Punishing News Outlets Is Not the Law\""
   },
   "325495a522": {
@@ -1161,10 +1169,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791980948,
    "guid": "hltvnews45718",
+   "message_id": 200,
+   "notified_at": 1791981027,
    "slug": "9z-beat-aurora-2-0-to-kick-off-twc-2026-3847cb",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "9z beat Aurora 2-0 to kick off TWC 2026"
   },
   "391b868013": {
@@ -1230,10 +1240,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791980948,
    "guid": "https://proton.me/business/blog/meet-waiting-rooms-chat-threads",
+   "message_id": 201,
+   "notified_at": 1791981029,
    "slug": "run-more-secure-organized-meetings-with-new-proton-meet-447f98",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Run more secure, organized meetings with new Proton Meet features"
   },
   "47160f724f": {
@@ -1285,10 +1297,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791980948,
    "guid": "https://reason.com/?post_type=volokh-post&p=8405860",
+   "message_id": 193,
+   "notified_at": 1791981013,
    "slug": "open-thread-5321a3",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Open Thread"
   },
   "583c45aa21": {
@@ -1398,10 +1412,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/why-sexual-assault-statistics-dont-add-up-amidst-the-danger-of-accusations",
+   "message_id": 186,
+   "notified_at": 1791980999,
    "slug": "why-sexual-assault-statistics-dont-add-up-amidst-the-danger-61b8c6",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Why Sexual Assault Statistics Don\u2019t Add Up Amidst The Danger Of Accusations"
   },
   "6264f6033a": {
@@ -1567,10 +1583,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/a-physicians-case-for-rfks-microbiome-medicine",
+   "message_id": 188,
+   "notified_at": 1791981003,
    "slug": "a-physicians-case-for-rfks-microbiome-medicine-6e02dc",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A Physician\u2019s Case For RFK\u2019s Microbiome Medicine"
   },
   "6ea6e9e61e": {
@@ -1679,10 +1697,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791980948,
    "guid": "https://reason.com/?p=8405737",
+   "message_id": 196,
+   "notified_at": 1791981019,
    "slug": "brickbat-not-counting-every-penny-850584",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Brickbat: Not Counting Every Penny"
   },
   "850c10e9d1": {
@@ -1761,10 +1781,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791980948,
    "guid": "https://proton.me/business/blog/business-meeting",
+   "message_id": 203,
+   "notified_at": 1791981033,
    "slug": "7-types-of-business-meetings-and-top-tips-for-each-904ce8",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "7 types of business meetings and top tips for each"
   },
   "92a2c4167b": {
@@ -1830,10 +1852,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/you-do-not-need-an-ai-matchmaker-you-need-to-go-outside",
+   "message_id": 192,
+   "notified_at": 1791981011,
    "slug": "you-do-not-need-an-ai-matchmaker-you-need-to-go-outside-9a844a",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "You Do Not Need An AI Matchmaker. You Need To Go Outside."
   },
   "9b0f8c643a": {
@@ -1842,10 +1866,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1791980948,
    "guid": "https://proton.me/blog/how-to-delete-your-facebook-account",
+   "message_id": 204,
+   "notified_at": 1791981035,
    "slug": "how-to-delete-your-facebook-account-9b0f8c",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How to delete your Facebook account"
   },
   "9ccf8ee367": {
@@ -2025,10 +2051,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791980948,
    "guid": "https://reason.com/?p=8405971",
+   "message_id": 198,
+   "notified_at": 1791981024,
    "slug": "college-still-has-a-future-but-its-no-longer-the-default-acf845",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "College Still Has a Future, but It's No Longer the Default Choice"
   },
   "b43d362736": {
@@ -2282,10 +2310,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/how-commercial-surrogacy-weaponizes-the-law-against-life",
+   "message_id": 187,
+   "notified_at": 1791981001,
    "slug": "how-commercial-surrogacy-weaponizes-the-law-against-life-cc656b",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How Commercial Surrogacy Weaponizes The Law Against Life"
   },
   "ccb6b4bc54": {
@@ -2308,10 +2338,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/doctors-sound-alarm-about-h-1b-pipeline-threatening-american-lives",
+   "message_id": 195,
+   "notified_at": 1791981017,
    "slug": "doctors-sound-alarm-about-h-1b-pipeline-threatening-cd8465",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Doctors Sound Alarm About H-1B Pipeline Threatening American Lives"
   },
   "d089e68fa6": {
@@ -2505,10 +2537,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/bernie-sanders-and-the-rise-of-the-jews-of-privilege",
+   "message_id": 189,
+   "notified_at": 1791981005,
    "slug": "bernie-sanders-and-the-rise-of-the-jews-of-privilege-f47d9e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Bernie Sanders And The Rise Of The Jews Of Privilege"
   },
   "f52b31bc7d": {
@@ -2602,10 +2636,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/when-your-toddlers-favorite-youtube-star-goes-political",
+   "message_id": 190,
+   "notified_at": 1791981007,
    "slug": "when-your-toddlers-favorite-youtube-star-goes-political-faf461",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "When Your Toddler\u2019s Favorite YouTube Star Goes Political"
   },
   "fd47509ead": {
@@ -2628,10 +2664,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791980948,
    "guid": "https://www.dailywire.com/news/exclusive-white-house-shuts-down-fraudsters-double-dipping-from-government-healthcare",
+   "message_id": 191,
+   "notified_at": 1791981009,
    "slug": "exclusive-white-house-shuts-down-fraudsters-double-dipping-fdfb01",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "EXCLUSIVE: White House Shuts Down Fraudsters Double-Dipping From Government Healthcare"
   },
   "fe035c2636": {
