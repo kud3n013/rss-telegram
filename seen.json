@@ -2023,10 +2023,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791960334,
    "guid": "https://reason.com/?post_type=volokh-post&p=8406020",
+   "message_id": 184,
+   "notified_at": 1791960382,
    "slug": "court-issues-preliminary-injunction-requiring-cnn-ms-now-bf8ba2",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Court Issues Preliminary Injunction Requiring CNN, MS NOW, and Politico to Be Readmitted to White House Briefings"
   },
   "c1c53955f9": {
@@ -2363,10 +2365,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791960334,
    "guid": "https://reason.com/?p=8405882",
+   "message_id": 185,
+   "notified_at": 1791960383,
    "slug": "other-courts-should-heed-a-federal-judges-warning-about-f91625",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Other Courts Should Heed a Federal Judge's Warning About Flock-Enabled Mass Surveillance"
   },
   "fd47509ead": {
