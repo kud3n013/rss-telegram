@@ -778,10 +778,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/hollywood-has-a-problem-it-cant-throw-money-at",
+   "message_id": 256,
+   "notified_at": 1792021727,
    "slug": "hollywood-has-a-problem-it-cant-throw-money-at-14a6b8",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Hollywood Has A Problem It Can\u2019t Throw Money At"
   },
   "151e734a33": {
@@ -1216,10 +1218,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+   "message_id": 257,
+   "notified_at": 1792021729,
    "slug": "more-ships-sink-as-iran-makes-ominous-claim-about-deadly-320378",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "More Ships Sink As Iran Makes Ominous Claim About Deadly Attacks"
   },
   "325495a522": {
@@ -1342,10 +1346,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/hilary-swank-is-pregnant-again-at-an-age-that-turns-heads",
+   "message_id": 261,
+   "notified_at": 1792021736,
    "slug": "hilary-swank-is-pregnant-again-at-an-age-that-turns-heads-36ed66",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Hilary Swank Is Pregnant Again At An Age That Turns Heads"
   },
   "3847cb3e3f": {
@@ -1440,10 +1446,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/feds-subpoena-ilhan-omars-family-seize-her-phone-in-raid",
+   "message_id": 262,
+   "notified_at": 1792021737,
    "slug": "feds-subpoena-ilhan-omars-family-seize-her-phone-in-raid-39aeb6",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Feds Subpoena Ilhan Omar\u2019s Family, Seize Her Phone In Raid"
   },
   "3a6c160739": {
@@ -1636,10 +1644,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792021670,
    "guid": "hltvnews45723",
+   "message_id": 264,
+   "notified_at": 1792021741,
    "slug": "furia-fend-off-betboom-to-end-day-one-of-twc-556280",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA fend off BETBOOM to end day one of TWC"
   },
   "583c45aa21": {
@@ -1977,10 +1987,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792021670,
    "guid": "hltvnews45722",
+   "message_id": 265,
+   "notified_at": 1792021743,
    "slug": "art-on-losing-momentum-we-have-to-look-ahead-and-realize-we-7002a8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "arT on losing momentum: \"We have to look ahead and realize we have a new opportunity here\""
   },
   "72693ead9f": {
@@ -2372,10 +2384,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/marsha-blackburn-stands-by-ai-video-that-set-off-liberals",
+   "message_id": 260,
+   "notified_at": 1792021734,
    "slug": "marsha-blackburn-stands-by-ai-video-that-set-off-liberals-97b577",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Marsha Blackburn Stands By AI Video That Set Off Liberals"
   },
   "99a3ce12dd": {
@@ -2812,10 +2826,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/fbi-makes-lefty-network-regret-its-kash-patel-scoop",
+   "message_id": 255,
+   "notified_at": 1792021726,
    "slug": "fbi-makes-lefty-network-regret-its-kash-patel-scoop-bbd70f",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FBI Makes Lefty Network Regret Its Kash Patel Scoop"
   },
   "bbe9a33ec0": {
@@ -2940,10 +2956,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/democratic-senate-candidates-grandfather-was-suspected-serial-killer",
+   "message_id": 258,
+   "notified_at": 1792021731,
    "slug": "democrat-senate-candidates-grandfather-was-suspected-serial-c08901",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Democrat Senate Candidate\u2019s Grandfather Was Suspected Serial Killer"
   },
   "c1c53955f9": {
@@ -3224,10 +3242,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792021670,
    "guid": "https://www.dailywire.com/news/deep-dive-how-civil-asset-forfeiture-is-robbing-americans-blind",
+   "message_id": 259,
+   "notified_at": 1792021732,
    "slug": "deep-dive-how-civil-asset-forfeiture-is-robbing-americans-e1cc5a",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "DEEP DIVE: How \u2018Civil Asset Forfeiture\u2019 Is Robbing Americans Blind"
   },
   "e34c90df2b": {
@@ -3264,10 +3284,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792021670,
    "guid": "https://retractionwatch.com/?p=136234",
+   "message_id": 263,
+   "notified_at": 1792021739,
    "slug": "paper-touted-by-md-anderson-gets-expression-of-concern-for-ef46ab",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Paper touted by MD Anderson gets expression of concern for data \u2018concerns\u2019"
   },
   "efdeaef04c": {
