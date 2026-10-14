@@ -192,7 +192,8 @@
    "https://retractionwatch.com/?p=136188",
    "https://retractionwatch.com/?p=136193",
    "https://retractionwatch.com/?p=136221",
-   "https://retractionwatch.com/?p=136230"
+   "https://retractionwatch.com/?p=136230",
+   "https://retractionwatch.com/?p=136234"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -347,7 +348,15 @@
    "https://www.dailywire.com/news/seniors-set-for-a-social-security-raise-to-combat-rising-inflation",
    "https://www.dailywire.com/news/countless-maga-religious-groups-were-debanked-during-biden-administration-explosive-report-finds",
    "https://www.dailywire.com/news/how-the-unhinged-left-just-doubled-down-on-woke",
-   "https://www.dailywire.com/news/exclusive-arrest-records-show-illegal-whose-sob-story-captured-the-nation-is-a-wife-beater"
+   "https://www.dailywire.com/news/exclusive-arrest-records-show-illegal-whose-sob-story-captured-the-nation-is-a-wife-beater",
+   "https://www.dailywire.com/news/fbi-makes-lefty-network-regret-its-kash-patel-scoop",
+   "https://www.dailywire.com/news/hollywood-has-a-problem-it-cant-throw-money-at",
+   "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+   "https://www.dailywire.com/news/democratic-senate-candidates-grandfather-was-suspected-serial-killer",
+   "https://www.dailywire.com/news/deep-dive-how-civil-asset-forfeiture-is-robbing-americans-blind",
+   "https://www.dailywire.com/news/marsha-blackburn-stands-by-ai-video-that-set-off-liberals",
+   "https://www.dailywire.com/news/hilary-swank-is-pregnant-again-at-an-age-that-turns-heads",
+   "https://www.dailywire.com/news/feds-subpoena-ilhan-omars-family-seize-her-phone-in-raid"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -388,7 +397,9 @@
    "hltvnews45718",
    "hltvnews45719",
    "hltvnews45721",
-   "hltvnews45720"
+   "hltvnews45720",
+   "hltvnews45723",
+   "hltvnews45722"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -436,7 +447,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"c0994509abce5208a4e97f91316b8b0b\"",
@@ -451,20 +462,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2d884-65dcd42b60982-gzip\"",
-   "last_modified": "Wed, 14 Oct 2026 13:53:49 GMT"
+   "etag": "\"2d884-65dcd40a5bf39-gzip\"",
+   "last_modified": "Wed, 14 Oct 2026 13:53:14 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"c2a043b6bfe3256a19d4ff2f24d257d6\"",
-   "last_modified": null
+   "etag": "\"bcd81e336491c9bd46e9c57afdfea5da\"",
+   "last_modified": "Wed, 14 Oct 2026 23:12:45 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 14 Oct 2026 20:56:00 GMT"
+   "last_modified": "Wed, 14 Oct 2026 23:48:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -479,8 +490,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acfec7c-53c4\"",
-   "last_modified": "Wed, 14 Oct 2026 20:56:28 GMT"
+   "etag": "W/\"6ad01328-53c4\"",
+   "last_modified": "Wed, 14 Oct 2026 23:41:28 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -608,10 +619,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8405653",
    "message_id": 101,
    "notified_at": 1791756654,
+   "pruned_at": 1792021670,
    "slug": "fusionism-in-the-twenty-first-century-085e58",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Fusionism in the Twenty-First Century"
   },
   "09a1e914c7": {
@@ -636,10 +648,11 @@
    "guid": "hltvnews45701",
    "message_id": 98,
    "notified_at": 1791756648,
+   "pruned_at": 1792021670,
    "slug": "zywoo-claims-34th-career-mvp-at-esl-pro-league-s24-0be19c",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "ZywOo claims 34th career MVP at ESL Pro League S24"
   },
   "0c37c8c2ed": {
@@ -759,6 +772,18 @@
    "status": "pruned",
    "title": "Why did the ASOS hackers go directly to their customers?"
   },
+  "14a6b8d7a5": {
+   "date": 1791993631,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/hollywood-has-a-problem-it-cant-throw-money-at",
+   "slug": "hollywood-has-a-problem-it-cant-throw-money-at-14a6b8",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Hollywood Has A Problem It Can\u2019t Throw Money At"
+  },
   "151e734a33": {
    "date": 1791634080,
    "excerpt_only": false,
@@ -839,10 +864,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8405646",
    "message_id": 100,
    "notified_at": 1791756652,
+   "pruned_at": 1792021670,
    "slug": "sixth-circuit-affirms-universal-injunction-against-1d0e8b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs' Conduct"
   },
   "1dede7d12c": {
@@ -1184,6 +1210,18 @@
    "status": "notified",
    "title": "\"Fortunately for Society, Plaintiff's Framework for Retrospectively Punishing News Outlets Is Not the Law\""
   },
+  "3203784857": {
+   "date": 1791995433,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+   "slug": "more-ships-sink-as-iran-makes-ominous-claim-about-deadly-320378",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "More Ships Sink As Iran Makes Ominous Claim About Deadly Attacks"
+  },
   "325495a522": {
    "date": 1791811850,
    "excerpt_only": false,
@@ -1298,6 +1336,18 @@
    "status": "notified",
    "title": "The Daily Wire\u2019s New Film \u2018Confession\u2019 Is Full Of Oscar Nominees"
   },
+  "36ed663c7e": {
+   "date": 1791999103,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/hilary-swank-is-pregnant-again-at-an-age-that-turns-heads",
+   "slug": "hilary-swank-is-pregnant-again-at-an-age-that-turns-heads-36ed66",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Hilary Swank Is Pregnant Again At An Age That Turns Heads"
+  },
   "3847cb3e3f": {
    "date": 1791978540,
    "excerpt_only": false,
@@ -1383,6 +1433,18 @@
    "source_slug": "z-library-official",
    "status": "pruned",
    "title": "Hello \ud83d\udc4b"
+  },
+  "39aeb6cd2c": {
+   "date": 1792002034,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/feds-subpoena-ilhan-omars-family-seize-her-phone-in-raid",
+   "slug": "feds-subpoena-ilhan-omars-family-seize-her-phone-in-raid-39aeb6",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Feds Subpoena Ilhan Omar\u2019s Family, Seize Her Phone In Raid"
   },
   "3a6c160739": {
    "date": 1791980970,
@@ -1504,10 +1566,11 @@
    "guid": "hltvnews45702",
    "message_id": 99,
    "notified_at": 1791756650,
+   "pruned_at": 1792021670,
    "slug": "zywoo-i-love-cache-too-much-47bda6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "ZywOo: \"I love Cache too much\""
   },
   "47ca8e470e": {
@@ -1566,6 +1629,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Iran Sentences Young Woman To Death For Insulting Muhammad"
+  },
+  "55628009f1": {
+   "date": 1792014180,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792021670,
+   "guid": "hltvnews45723",
+   "slug": "furia-fend-off-betboom-to-end-day-one-of-twc-556280",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA fend off BETBOOM to end day one of TWC"
   },
   "583c45aa21": {
    "date": 1791898265,
@@ -1895,6 +1970,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "FaZe knocking on the door of top 15 with Roman Imperium Cup IX title"
+  },
+  "7002a8c150": {
+   "date": 1792016100,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792021670,
+   "guid": "hltvnews45722",
+   "slug": "art-on-losing-momentum-we-have-to-look-ahead-and-realize-we-7002a8",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "arT on losing momentum: \"We have to look ahead and realize we have a new opportunity here\""
   },
   "72693ead9f": {
    "date": 1791727500,
@@ -2278,6 +2365,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Second Amendment Rights Not Forfeited by Past Drunk Driving Conviction"
+  },
+  "97b5779384": {
+   "date": 1791997653,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/marsha-blackburn-stands-by-ai-video-that-set-off-liberals",
+   "slug": "marsha-blackburn-stands-by-ai-video-that-set-off-liberals-97b577",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Marsha Blackburn Stands By AI Video That Set Off Liberals"
   },
   "99a3ce12dd": {
    "date": 1791899902,
@@ -2707,6 +2806,18 @@
    "status": "notified",
    "title": "TV Station News Managers Fired for Allegedly Anti-Gay Memo Win >$4M from Nexstar Media"
   },
+  "bbd70fd558": {
+   "date": 1791993470,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/fbi-makes-lefty-network-regret-its-kash-patel-scoop",
+   "slug": "fbi-makes-lefty-network-regret-its-kash-patel-scoop-bbd70f",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "FBI Makes Lefty Network Regret Its Kash Patel Scoop"
+  },
   "bbe9a33ec0": {
    "date": 1791919840,
    "excerpt_only": false,
@@ -2822,6 +2933,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "The NFL Still Sees Everything In Black And White, But It Doesn\u2019t Have To Be That Way"
+  },
+  "c08901613f": {
+   "date": 1791995761,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/democratic-senate-candidates-grandfather-was-suspected-serial-killer",
+   "slug": "democrat-senate-candidates-grandfather-was-suspected-serial-c08901",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Democrat Senate Candidate\u2019s Grandfather Was Suspected Serial Killer"
   },
   "c1c53955f9": {
    "date": 1791878432,
@@ -3095,6 +3218,18 @@
    "status": "notified",
    "title": "Former Miss Israel Has Unfinished Business With Mamdani\u2019s Wife"
   },
+  "e1cc5a8235": {
+   "date": 1791996330,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792021670,
+   "guid": "https://www.dailywire.com/news/deep-dive-how-civil-asset-forfeiture-is-robbing-americans-blind",
+   "slug": "deep-dive-how-civil-asset-forfeiture-is-robbing-americans-e1cc5a",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "DEEP DIVE: How \u2018Civil Asset Forfeiture\u2019 Is Robbing Americans Blind"
+  },
   "e34c90df2b": {
    "date": 1791809520,
    "excerpt_only": false,
@@ -3122,6 +3257,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Release the Kelly Clarkson Tapes"
+  },
+  "ef46abd75f": {
+   "date": 1792004944,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792021670,
+   "guid": "https://retractionwatch.com/?p=136234",
+   "slug": "paper-touted-by-md-anderson-gets-expression-of-concern-for-ef46ab",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Paper touted by MD Anderson gets expression of concern for data \u2018concerns\u2019"
   },
   "efdeaef04c": {
    "date": 1791964541,
