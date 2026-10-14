@@ -76,7 +76,8 @@
    "tag:github.com,2008:Repository/933197458/0.17.1",
    "tag:github.com,2008:Repository/933197458/0.17.0",
    "tag:github.com,2008:Repository/933197458/0.16.6",
-   "tag:github.com,2008:Repository/933197458/0.16.5"
+   "tag:github.com,2008:Repository/933197458/0.16.5",
+   "tag:github.com,2008:Repository/933197458/0.19.3"
   ],
   "https://github.com/zen-browser/desktop/releases.atom": [
    "tag:github.com,2008:Repository/778556932/1.23.2b",
@@ -289,7 +290,16 @@
    "https://reason.com/?post_type=volokh-post&p=8406023",
    "https://reason.com/?p=8405881",
    "https://reason.com/?p=8406052",
-   "https://reason.com/?post_type=podcast&p=8405419"
+   "https://reason.com/?post_type=podcast&p=8405419",
+   "https://reason.com/?p=8406025",
+   "https://reason.com/?post_type=volokh-post&p=8406074",
+   "https://reason.com/?p=8405909",
+   "https://reason.com/?p=8406036",
+   "https://reason.com/?post_type=volokh-post&p=8406082",
+   "https://reason.com/?p=8406055",
+   "https://reason.com/?post_type=volokh-post&p=8406091",
+   "https://reason.com/?post_type=volokh-post&p=8406110",
+   "https://reason.com/?p=8406100"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -304,7 +314,8 @@
    "https://retractionwatch.com/?p=136103",
    "https://retractionwatch.com/?p=136188",
    "https://retractionwatch.com/?p=136193",
-   "https://retractionwatch.com/?p=136221"
+   "https://retractionwatch.com/?p=136221",
+   "https://retractionwatch.com/?p=136230"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -447,7 +458,19 @@
    "https://www.dailywire.com/news/former-miss-israel-has-unfinished-business-with-mamdanis-wife",
    "https://www.dailywire.com/news/a-familiar-group-holds-the-key-to-gop-hopes-in-november",
    "https://www.dailywire.com/news/former-democratic-senator-backs-republican-in-key-house-race",
-   "https://www.dailywire.com/news/kacey-musgraves-can-say-what-she-wants-just-dont-expect-everyone-to-keep-buying-records"
+   "https://www.dailywire.com/news/kacey-musgraves-can-say-what-she-wants-just-dont-expect-everyone-to-keep-buying-records",
+   "https://www.dailywire.com/news/ilhan-omars-husband-defiant-when-pressed-on-federal-raid-of-d-c-home",
+   "https://www.dailywire.com/news/netflix-drops-the-ax-in-biggest-shakeup-in-years",
+   "https://www.dailywire.com/news/high-school-football-coach-fired-after-controversial-move-up-57-0",
+   "https://www.dailywire.com/news/read-the-prologue-to-andrew-klavans-upcoming-book-find-me-nowhere",
+   "https://www.dailywire.com/news/karoline-leavitt-answers-the-personal-questions-everyones-asking",
+   "https://www.dailywire.com/news/jeopardy-host-doubles-down-on-lies-leaving-washington-taxpayers-searching-for-answers",
+   "https://www.dailywire.com/news/kamala-takes-aim-at-biden-over-israel-policy-she-once-defended",
+   "https://www.dailywire.com/news/americas-terrorist-enemy-is-working-on-a-terrifying-weapon-china-is-supplying-the-parts",
+   "https://www.dailywire.com/news/seniors-set-for-a-social-security-raise-to-combat-rising-inflation",
+   "https://www.dailywire.com/news/countless-maga-religious-groups-were-debanked-during-biden-administration-explosive-report-finds",
+   "https://www.dailywire.com/news/how-the-unhinged-left-just-doubled-down-on-woke",
+   "https://www.dailywire.com/news/exclusive-arrest-records-show-illegal-whose-sob-story-captured-the-nation-is-a-wife-beater"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -486,7 +509,9 @@
    "hltvnews45715",
    "hltvnews45717",
    "hltvnews45718",
-   "hltvnews45719"
+   "hltvnews45719",
+   "hltvnews45721",
+   "hltvnews45720"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -534,10 +559,10 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
-   "etag": "W/\"f7729b6dbbd480c82a67463a05584a84\"",
+   "etag": "W/\"c0994509abce5208a4e97f91316b8b0b\"",
    "last_modified": null
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
@@ -549,24 +574,24 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf0-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
+   "etag": "W/\"6acd4cf3-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2d884-65dcd418a7e3f-gzip\"",
-   "last_modified": "Wed, 14 Oct 2026 13:53:29 GMT"
+   "etag": "\"2d884-65dcd42b60982-gzip\"",
+   "last_modified": "Wed, 14 Oct 2026 13:53:49 GMT"
   },
   "https://reason.com/feed/": {
    "etag": "W/\"990319a39a8e16f40e15dbe09063f16b\"",
    "last_modified": "Wed, 14 Oct 2026 12:01:59 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"10a137d5106e126d323e465df2f1200c\"",
+   "etag": "\"c2a043b6bfe3256a19d4ff2f24d257d6\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 14 Oct 2026 17:32:00 GMT"
+   "last_modified": "Wed, 14 Oct 2026 20:56:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -581,8 +606,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6acfbb44-53c4\"",
-   "last_modified": "Wed, 14 Oct 2026 17:26:28 GMT"
+   "etag": "W/\"6acfec7c-53c4\"",
+   "last_modified": "Wed, 14 Oct 2026 20:56:28 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -590,6 +615,18 @@
   }
  },
  "posts": {
+  "0009765198": {
+   "date": 1791991184,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/how-the-unhinged-left-just-doubled-down-on-woke",
+   "slug": "how-the-unhinged-left-just-doubled-down-on-woke-000976",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "How The Unhinged Left Just Doubled Down On Woke"
+  },
   "015984e5f3": {
    "date": 1791977160,
    "excerpt_only": false,
@@ -702,6 +739,18 @@
    "status": "notified",
    "title": "Fusionism in the Twenty-First Century"
   },
+  "09a1e914c7": {
+   "date": 1792002045,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?p=8406055",
+   "slug": "a-trump-appointee-says-the-president-likely-violated-the-09a1e9",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "A Trump Appointee Says the President Likely Violated the First Amendment by Banishing Disfavored Journalists"
+  },
   "0be19cd70c": {
    "date": 1791745200,
    "excerpt_only": false,
@@ -729,6 +778,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Cornell Bans Frat Parties As Gang Rape Case Rocks Campus"
+  },
+  "0c9518a733": {
+   "date": 1791983312,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/karoline-leavitt-answers-the-personal-questions-everyones-asking",
+   "slug": "karoline-leavitt-answers-the-personal-questions-everyones-0c9518",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Karoline Leavitt Answers The Personal Questions Everyone\u2019s Asking"
   },
   "0f0c98123d": {
    "date": 1791630019,
@@ -905,6 +966,18 @@
    "status": "notified",
    "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs' Conduct"
   },
+  "1dede7d12c": {
+   "date": 1791988689,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/countless-maga-religious-groups-were-debanked-during-biden-administration-explosive-report-finds",
+   "slug": "biden-administration-pushed-banks-to-target-conservative-1dede7",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Biden Administration Pushed Banks To Target Conservative And Religious Groups, Report Finds"
+  },
   "1e5cd997da": {
    "date": 1791704700,
    "excerpt_only": false,
@@ -947,6 +1020,30 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Someone Trying to Vanish Articles About Forged U.K. Court Order Aimed at Vanishing Article About Businessman Mason Soiza"
+  },
+  "23187ff15f": {
+   "date": 1791993608,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8406074",
+   "slug": "new-on-scotusblog-witnessing-a-reorientation-of-the-first-23187f",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "New on SCOTUSBlog: \"Witnessing a reorientation of the First and Second Amendments on the Roberts court\""
+  },
+  "239a784eaf": {
+   "date": 1791992878,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?p=8406025",
+   "slug": "how-local-governments-turn-minor-violations-into-financial-239a78",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "How Local Governments Turn Minor Violations Into Financial Ruin"
   },
   "243eb48ac2": {
    "date": 1791665700,
@@ -1005,6 +1102,18 @@
    "status": "notified",
    "title": "TOBIZ returns to MOUZ as head of talent development"
   },
+  "28f5b8a04c": {
+   "date": 1792007323,
+   "excerpt_only": false,
+   "feed": "https://github.com/imputnet/helium/releases.atom",
+   "fetched": 1792011414,
+   "guid": "tag:github.com,2008:Repository/933197458/0.19.3",
+   "slug": "0-19-3-28f5b8",
+   "source": "Helium browser releases",
+   "source_slug": "helium-browser-releases",
+   "status": "mirrored",
+   "title": "0.19.3"
+  },
   "29d06b0a83": {
    "date": 1791966676,
    "excerpt_only": false,
@@ -1032,6 +1141,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Are Warrantless Phone Searches at the Border Constitutional? The Supreme Court May Soon Decide."
+  },
+  "2a1022aafa": {
+   "date": 1791983009,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/read-the-prologue-to-andrew-klavans-upcoming-book-find-me-nowhere",
+   "slug": "read-the-prologue-to-andrew-klavans-upcoming-book-find-me-2a1022",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Read The Prologue To Andrew Klavan\u2019s Upcoming Book: \u2018Find Me Nowhere\u2019"
   },
   "2c324ef68e": {
    "date": 1791807600,
@@ -1217,6 +1338,18 @@
    "status": "notified",
    "title": "Brooklyn Shop Owner: \u2018Kelly Clarkson Has Put Us All In Danger\u2019"
   },
+  "3465ad32ed": {
+   "date": 1791981399,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/ilhan-omars-husband-defiant-when-pressed-on-federal-raid-of-d-c-home",
+   "slug": "ilhan-omars-husband-defiant-when-pressed-on-federal-raid-of-3465ad",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Ilhan Omar\u2019s Husband Defiant When Pressed On Federal Raid Of D.C. Home"
+  },
   "35a2e3f1fd": {
    "date": 1791901020,
    "excerpt_only": false,
@@ -1246,6 +1379,18 @@
    "status": "pruned",
    "title": "Shopify's own code treats silence as consent on every store it hosts, while its DSA filings leave the user numbers blank"
   },
+  "36997b3fbe": {
+   "date": 1792008402,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8406110",
+   "slug": "second-amendment-rights-forfeited-by-past-terroristic-36997b",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Second Amendment Rights Forfeited by Past Terroristic Threats Conviction"
+  },
   "36dd733113": {
    "date": 1791979196,
    "excerpt_only": false,
@@ -1273,6 +1418,30 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "9z beat Aurora 2-0 to kick off TWC 2026"
+  },
+  "38afe26ca9": {
+   "date": 1791984333,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/kamala-takes-aim-at-biden-over-israel-policy-she-once-defended",
+   "slug": "kamala-takes-aim-at-biden-over-israel-policy-she-once-38afe2",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Kamala Takes Aim At Biden Over Israel Policy She Once Defended"
+  },
+  "390dcda86e": {
+   "date": 1792004879,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8406091",
+   "slug": "america-democracy-or-republic-390dcd",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "America: Democracy or Republic?"
   },
   "391b868013": {
    "date": 1791822960,
@@ -1346,6 +1515,18 @@
    "status": "notified",
    "title": "BIT: \"If we make it back to the playoffs consistently, I'm sure at some point we'll win another tournament\""
   },
+  "3c83b82704": {
+   "date": 1791995280,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792011414,
+   "guid": "hltvnews45721",
+   "slug": "new-look-astralis-top-group-at-stake-pulse-beat-3c83b8",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "New-look Astralis top group at Stake Pulse Beat"
+  },
   "3f14d4dae9": {
    "date": 1791988615,
    "excerpt_only": false,
@@ -1373,6 +1554,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "The Government Doesn't Know What's Best for You. Why Let It Decide What You Should Eat?"
+  },
+  "4394af4193": {
+   "date": 1792008982,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?p=8406100",
+   "slug": "trumps-90-checks-to-seniors-look-a-lot-like-vote-buying-4394af",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Trump's $90 Checks to Seniors Look a Lot Like Vote Buying"
   },
   "447f98d23c": {
    "date": 1791979061,
@@ -1415,6 +1608,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "ZywOo: \"I love Cache too much\""
+  },
+  "47ca8e470e": {
+   "date": 1791982176,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/netflix-drops-the-ax-in-biggest-shakeup-in-years",
+   "slug": "netflix-drops-the-ax-in-biggest-shakeup-in-years-47ca8e",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Netflix Drops The Ax In Biggest Shakeup In Years"
   },
   "50b3e71406": {
    "date": 1788099367,
@@ -1796,10 +2001,11 @@
    "guid": "hltvnews45699",
    "message_id": 96,
    "notified_at": 1791742863,
+   "pruned_at": 1792011414,
    "slug": "woxic-on-taking-bronze-its-always-good-to-at-least-have-72693e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "woxic on taking bronze: \"It's always good to at least have something from the event\""
   },
   "75422ae31e": {
@@ -1874,6 +2080,18 @@
    "status": "notified",
    "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering"
   },
+  "7e399ce9b1": {
+   "date": 1791982411,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/high-school-football-coach-fired-after-controversial-move-up-57-0",
+   "slug": "high-school-football-coach-fired-after-controversial-move-7e399c",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "High School Football Coach Fired After Controversial Move Up 57-0"
+  },
   "7f100bc7eb": {
    "date": 1791796620,
    "excerpt_only": false,
@@ -1943,6 +2161,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Mark Cuban: 'I'd Get Rid of All Political Parties'"
+  },
+  "838ad87e4b": {
+   "date": 1791991810,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/exclusive-arrest-records-show-illegal-whose-sob-story-captured-the-nation-is-a-wife-beater",
+   "slug": "exclusive-arrest-records-show-illegal-whose-sob-story-838ad8",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "EXCLUSIVE: Arrest Records Show Illegal Whose Sob Story Captured The Nation Is A Wife Beater"
   },
   "850584be35": {
    "date": 1791964837,
@@ -2128,6 +2358,18 @@
    "status": "notified",
    "title": "Kacey Musgraves Can Say What She Wants. Just Don\u2019t Expect Everyone to Keep Buying Records"
   },
+  "966a08f47c": {
+   "date": 1792000280,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?post_type=volokh-post&p=8406082",
+   "slug": "second-amendment-rights-not-forfeited-by-past-drunk-driving-966a08",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Second Amendment Rights Not Forfeited by Past Drunk Driving Conviction"
+  },
   "99a3ce12dd": {
    "date": 1791899902,
    "excerpt_only": false,
@@ -2141,6 +2383,30 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Greta Thunberg Finds A New Cause As Violent Riots Rage"
+  },
+  "99ab2b3276": {
+   "date": 1791983989,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/jeopardy-host-doubles-down-on-lies-leaving-washington-taxpayers-searching-for-answers",
+   "slug": "jeopardy-host-doubles-down-on-lies-leaving-washington-99ab2b",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Jeopardy! Host Doubles Down On Lies Leaving Washington Taxpayers Searching For Answers"
+  },
+  "9a742da152": {
+   "date": 1791985861,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/seniors-set-for-a-social-security-raise-to-combat-rising-inflation",
+   "slug": "seniors-set-for-a-social-security-raise-to-combat-rising-9a742d",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Seniors Set For A Social Security Raise To Combat Rising Inflation"
   },
   "9a844a7a56": {
    "date": 1791957652,
@@ -2185,6 +2451,30 @@
    "status": "pruned",
    "title": "Impactful scheduling for GPU clusters"
   },
+  "9ea3a6cf77": {
+   "date": 1791984437,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792011414,
+   "guid": "https://www.dailywire.com/news/americas-terrorist-enemy-is-working-on-a-terrifying-weapon-china-is-supplying-the-parts",
+   "slug": "americas-terrorist-enemy-is-working-on-a-terrifying-weapon-9ea3a6",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "America\u2019s Terrorist Enemy Is Working On A Terrifying Weapon. China Is Supplying The Parts."
+  },
+  "9f9ccfdb18": {
+   "date": 1791994524,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?p=8406036",
+   "slug": "posting-about-this-robot-sexual-assault-in-germany-could-be-9f9ccf",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Posting About This 'Robot Sexual Assault' in Germany Could Be a Crime"
+  },
   "a0469efdca": {
    "date": 1791742680,
    "excerpt_only": false,
@@ -2193,10 +2483,11 @@
    "guid": "hltvnews45700",
    "message_id": 97,
    "notified_at": 1791742865,
+   "pruned_at": 1792011414,
    "slug": "zywoo-shines-as-vitality-win-esl-pro-league-season-24-over-a0469e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "ZywOo shines as Vitality win ESL Pro League Season 24 over MOUZ"
   },
   "a17c4aa7fb": {
@@ -2242,6 +2533,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "The Shane Gillis SNL Backlash Is Really Stupid"
+  },
+  "a656a8bbb5": {
+   "date": 1792001520,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792011414,
+   "guid": "hltvnews45720",
+   "slug": "zonic-what-people-dont-see-is-finn-is-bringing-5-10-extra-a656a8",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "zonic: \"What people don't see is Finn is bringing 5-10% extra to some of the other players, especially Maxim, when things are going well\""
   },
   "a693fa4d0b": {
    "date": 1791813643,
@@ -2321,10 +2624,11 @@
    "guid": "hltvnews45698",
    "message_id": 95,
    "notified_at": 1791742861,
+   "pruned_at": 1792011414,
    "slug": "aurora-claim-third-at-epl-with-spirit-sweep-aa59bb",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Aurora claim third at EPL with Spirit sweep"
   },
   "ab9ab7d0c8": {
@@ -2427,6 +2731,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Hackers Set Grocery Stores Ablaze With Remote Freezer Attacks"
+  },
+  "b7111480bb": {
+   "date": 1791993619,
+   "excerpt_only": false,
+   "feed": "https://reason.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://reason.com/?p=8405909",
+   "slug": "trumps-plan-to-buy-russian-diesel-would-violate-federal-law-b71114",
+   "source": "Reason Magazine",
+   "source_slug": "reason-magazine",
+   "status": "mirrored",
+   "title": "Trump's Plan To Buy Russian Diesel Would Violate Federal Law"
   },
   "b7f45e746f": {
    "date": 1791917880,
@@ -3068,6 +3384,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "May an Employer Fire a White Woman for Wearing Hair in Cornrows?"
+  },
+  "fe6b4704c4": {
+   "date": 1792000800,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792011414,
+   "guid": "https://retractionwatch.com/?p=136230",
+   "slug": "former-crick-ph-d-student-loses-covid-vaccine-paper-for-fe6b47",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Former Crick Ph.D. student loses COVID vaccine paper for fabrication"
   },
   "ffc4ce1b0f": {
    "date": 1791924691,
