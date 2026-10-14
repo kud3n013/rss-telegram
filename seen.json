@@ -840,10 +840,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/grateful-dead-helmets-and-1990s-themed-unis-college-football-is-in-its-throwback-era",
+   "message_id": 217,
+   "notified_at": 1791999357,
    "slug": "grateful-dead-helmets-and-1990s-themed-unis-college-1656d1",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Grateful Dead Helmets And 1990s-Themed Unis: College Football Is In Its Throwback Era"
   },
   "1972d821e7": {
@@ -924,10 +926,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/heres-what-you-need-to-know-about-the-houthis-and-their-escalating-war-against-saudi-arabia",
+   "message_id": 213,
+   "notified_at": 1791999350,
    "slug": "how-the-houthis-are-raining-hell-on-an-american-armed-oil-20b719",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How The Houthis Are Raining Hell On An American-Armed Oil Titan"
   },
   "22d4602962": {
@@ -1007,10 +1011,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/mom-arrested-in-brutal-murder-of-3-year-old-son-and-husband",
+   "message_id": 209,
+   "notified_at": 1791999342,
    "slug": "mom-who-confessed-to-killing-toddler-and-husband-had-a-29d06b",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Mom Who Confessed To Killing Toddler And Husband Had A Twisted Final Wish"
   },
   "2a09431416": {
@@ -1203,10 +1209,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/brooklyn-shop-owner-kelly-clarkson-has-put-us-all-in-danger",
+   "message_id": 219,
+   "notified_at": 1791999361,
    "slug": "brooklyn-shop-owner-kelly-clarkson-has-put-us-all-in-danger-33b752",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Brooklyn Shop Owner: \u2018Kelly Clarkson Has Put Us All In Danger\u2019"
   },
   "35a2e3f1fd": {
@@ -1244,10 +1252,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/the-daily-wires-new-film-confession-is-full-of-oscar-nominees",
+   "message_id": 220,
+   "notified_at": 1791999363,
    "slug": "the-daily-wires-new-film-confession-is-full-of-oscar-36dd73",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Daily Wire\u2019s New Film \u2018Confession\u2019 Is Full Of Oscar Nominees"
   },
   "3847cb3e3f": {
@@ -1314,10 +1324,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/former-democratic-senator-backs-republican-in-key-house-race",
+   "message_id": 223,
+   "notified_at": 1791999368,
    "slug": "former-democratic-senator-backs-republican-in-key-house-race-3a6c16",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Former Democratic Senator Backs Republican In Key House Race"
   },
   "3ae34ab475": {
@@ -1326,10 +1338,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1791999185,
    "guid": "hltvnews45719",
+   "message_id": 226,
+   "notified_at": 1791999374,
    "slug": "bit-if-we-make-it-back-to-the-playoffs-consistently-im-sure-3ae34a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BIT: \"If we make it back to the playoffs consistently, I'm sure at some point we'll win another tournament\""
   },
   "3f14d4dae9": {
@@ -1338,10 +1352,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791999185,
    "guid": "https://reason.com/?p=8406052",
+   "message_id": 228,
+   "notified_at": 1791999388,
    "slug": "mental-illness-doesnt-cancel-your-right-to-say-no-3f14d4",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Mental Illness Doesn't Cancel Your Right to Say No"
   },
   "4140001c57": {
@@ -1435,10 +1451,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/iran-sentences-young-woman-to-death-for-insulting-muhammad",
+   "message_id": 215,
+   "notified_at": 1791999353,
    "slug": "iran-sentences-young-woman-to-death-for-insulting-muhammad-532a9e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Iran Sentences Young Woman To Death For Insulting Muhammad"
   },
   "583c45aa21": {
@@ -1520,10 +1538,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791999185,
    "guid": "https://reason.com/?p=8405881",
+   "message_id": 227,
+   "notified_at": 1791999376,
    "slug": "ohios-democrat-momentum-5c630f",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Ohio's Democrat Momentum"
   },
   "5e7e3beb3d": {
@@ -1674,10 +1694,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1791999185,
    "guid": "https://allenai.org/blog/hiro-acev2",
+   "message_id": 207,
+   "notified_at": 1791999338,
    "slug": "hiro-acev2-simulating-extreme-weather-at-3-km-resolution-6ac667",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
   },
   "6aec8df6df": {
@@ -1801,10 +1823,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/5-crimes-that-could-be-behind-the-ilhan-omar-raid",
+   "message_id": 206,
+   "notified_at": 1791999336,
    "slug": "5-crimes-that-could-be-behind-the-ilhan-omar-raid-75ebe6",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "5 Crimes That Could Be Behind The Ilhan Omar Raid"
   },
   "7612315361": {
@@ -1828,10 +1852,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/obama-erases-over-3000-years-of-jewish-history",
+   "message_id": 218,
+   "notified_at": 1791999359,
    "slug": "obama-erases-over-3-000-years-of-jewish-history-766dc4",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Obama Erases Over 3,000 Years Of Jewish History"
   },
   "770e9b9fe7": {
@@ -1882,10 +1908,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/three-visionary-solutions-for-americas-data-center-crisis",
+   "message_id": 216,
+   "notified_at": 1791999355,
    "slug": "three-visionary-solutions-for-americas-data-center-crisis-80c059",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Three Visionary Solutions For America\u2019s Data Center Crisis"
   },
   "81467ec42b": {
@@ -1894,10 +1922,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/high-school-girls-walk-off-track-to-protest-trans-identifying-athlete",
+   "message_id": 208,
+   "notified_at": 1791999340,
    "slug": "watch-high-school-girls-walk-off-track-to-protest-trans-81467e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "WATCH: High School Girls Walk Off Track To Protest Trans-Identifying Athlete"
   },
   "8290eccc40": {
@@ -1906,10 +1936,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791999185,
    "guid": "https://reason.com/?post_type=podcast&p=8405419",
+   "message_id": 229,
+   "notified_at": 1791999390,
    "slug": "mark-cuban-id-get-rid-of-all-political-parties-8290ec",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Mark Cuban: 'I'd Get Rid of All Political Parties'"
   },
   "850584be35": {
@@ -1974,10 +2006,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/shane-gillis-and-the-masterclass-of-modern-meltdowns",
+   "message_id": 211,
+   "notified_at": 1791999346,
    "slug": "shane-gillis-and-the-masterclass-of-modern-meltdowns-8b2d9d",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Shane Gillis And The Masterclass Of Modern Meltdowns"
   },
   "8c59cc2eec": {
@@ -2028,10 +2062,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/dem-candidates-interview-goes-from-bad-to-downright-bizarre",
+   "message_id": 212,
+   "notified_at": 1791999348,
    "slug": "dem-candidates-interview-goes-from-bad-to-downright-bizarre-9238a7",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Dem Candidate\u2019s Interview Goes From Bad To Downright Bizarre"
   },
   "92a2c4167b": {
@@ -2084,10 +2120,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/kacey-musgraves-can-say-what-she-wants-just-dont-expect-everyone-to-keep-buying-records",
+   "message_id": 224,
+   "notified_at": 1791999370,
    "slug": "kacey-musgraves-can-say-what-she-wants-just-dont-expect-96002e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Kacey Musgraves Can Say What She Wants. Just Don\u2019t Expect Everyone to Keep Buying Records"
   },
   "99a3ce12dd": {
@@ -2253,10 +2291,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/dems-turn-to-vulgar-mommy-vlogger-in-critical-midterm-race",
+   "message_id": 214,
+   "notified_at": 1791999351,
    "slug": "dems-turn-to-vulgar-mommy-vlogger-in-critical-midterm-race-a837aa",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Dems Turn To Vulgar \u2018Mommy Vlogger\u2019 In Critical Midterm Race"
   },
   "aa4e15510d": {
@@ -2422,10 +2462,12 @@
    "feed": "https://reason.com/feed/",
    "fetched": 1791999185,
    "guid": "https://reason.com/?post_type=volokh-post&p=8406023",
+   "message_id": 225,
+   "notified_at": 1791999372,
    "slug": "tv-station-news-managers-fired-for-allegedly-anti-gay-memo-ba850d",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "mirrored",
+   "status": "notified",
    "title": "TV Station News Managers Fired for Allegedly Anti-Gay Memo Win >$4M from Nexstar Media"
   },
   "bbe9a33ec0": {
@@ -2536,10 +2578,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/the-nfl-still-sees-everything-in-black-and-white-but-it-doesnt-have-to-be-that-way",
+   "message_id": 210,
+   "notified_at": 1791999344,
    "slug": "the-nfl-still-sees-everything-in-black-and-white-but-it-bfe2be",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The NFL Still Sees Everything In Black And White, But It Doesn\u2019t Have To Be That Way"
   },
   "c1c53955f9": {
@@ -2562,10 +2606,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/a-familiar-group-holds-the-key-to-gop-hopes-in-november",
+   "message_id": 222,
+   "notified_at": 1791999367,
    "slug": "a-familiar-group-holds-the-key-to-gop-hopes-in-november-c4377c",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A Familiar Group Holds The Key To GOP Hopes in November"
   },
   "c8610cc0ce": {
@@ -2804,10 +2850,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/former-miss-israel-has-unfinished-business-with-mamdanis-wife",
+   "message_id": 221,
+   "notified_at": 1791999365,
    "slug": "former-miss-israel-has-unfinished-business-with-mamdanis-e178eb",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Former Miss Israel Has Unfinished Business With Mamdani\u2019s Wife"
   },
   "e34c90df2b": {
@@ -2844,10 +2892,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1791999185,
    "guid": "https://www.dailywire.com/news/americans-get-final-inflation-report-before-midterms-heres-what-it-shows",
+   "message_id": 205,
+   "notified_at": 1791999334,
    "slug": "americans-get-final-inflation-report-before-midterms-heres-efdeae",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Americans Get Final Inflation Report Before Midterms. Here\u2019s What It Shows."
   },
   "f0e424cc75": {
