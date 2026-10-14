@@ -202,7 +202,7 @@ class FeedConfigTest(unittest.TestCase):
         self.assertGreaterEqual(len(feeds), 11)
         self.assertEqual(len({f["url"] for f in feeds}), len(feeds))
         by = {f["url"]: f for f in feeds}
-        self.assertEqual(by["https://reason.com/feed/"]["mode"], "feed")
+        self.assertEqual(by["https://www.zotero.org/blog/feed/"]["mode"], "feed")
         self.assertEqual(by["https://allenai.org/rss.xml"]["mode"], "fetch")
         self.assertEqual(by["https://www.hltv.org/rss/news"]["client"], "impersonate")
 

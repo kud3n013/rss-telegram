@@ -37,9 +37,6 @@ feeds:
     name: Z-Library Official
     mode: feed
     min_chars: 0
-  - url: https://reason.com/feed/
-    name: Reason Magazine
-    mode: feed
   - url: https://allenai.org/rss.xml
     name: Ai2 Blog
     mode: fetch
