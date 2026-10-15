@@ -368,7 +368,21 @@
    "https://www.dailywire.com/news/the-dangerous-consequences-of-concept-creep-in-dating",
    "https://www.dailywire.com/news/the-grandparent-debate-exposes-a-broken-cultural-framework-for-family",
    "https://www.dailywire.com/news/floridas-stop-woke-act-will-reclaim-the-classroom",
-   "https://www.dailywire.com/news/watch-catholic-voter-rebukes-talarico-to-his-face-over-abortion-stance"
+   "https://www.dailywire.com/news/watch-catholic-voter-rebukes-talarico-to-his-face-over-abortion-stance",
+   "https://www.dailywire.com/news/michigans-el-sayed-cornered-by-liberal-outlet-over-muslim-brotherhood-then-lashes-out",
+   "https://www.dailywire.com/news/the-california-paradox-and-the-search-for-a-reform-coalition",
+   "https://www.dailywire.com/news/the-cornell-case-shouldnt-become-a-death-sentence-for-brotherhood",
+   "https://www.dailywire.com/news/trump-lays-out-why-hes-canceling-plans-to-live-stream-terrorist-execution",
+   "https://www.dailywire.com/news/floyd-mayweather-jr-is-latest-sports-legend-to-join-trumps-star-studded-rally-lineup",
+   "https://www.dailywire.com/news/talarico-echoes-hamas-talking-points-when-pressed-by-concerned-jewish-voter",
+   "https://www.dailywire.com/news/yes-i-will-be-cruel-to-claude",
+   "https://www.dailywire.com/news/the-israel-question-pete-buttigieg-answered-that-el-sayed-couldnt",
+   "https://www.dailywire.com/news/from-chinese-prostitutes-to-oppression-the-woke-research-taxpayers-still-fund",
+   "https://www.dailywire.com/news/dodgers-player-slams-soft-porn-during-baseball-games-as-sweeneys-nude-ad-hits-screens",
+   "https://www.dailywire.com/news/the-dangerous-spectacle-of-an-almost-public-execution",
+   "https://www.dailywire.com/news/dem-pushes-back-on-claims-she-wants-to-abolish-prisons-argues-for-jailing-opponent",
+   "https://www.dailywire.com/news/5-positions-talarico-abandoned-in-one-night",
+   "https://www.dailywire.com/news/oh-god-oh-my-god-hayden-panettieres-final-moments-captured-in-911-call"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -412,7 +426,11 @@
    "hltvnews45720",
    "hltvnews45723",
    "hltvnews45722",
-   "hltvnews45724"
+   "hltvnews45724",
+   "hltvnews45725",
+   "hltvnews45726",
+   "hltvnews45727",
+   "hltvnews45728"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -475,12 +493,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65ddfe297fbcd-gzip\"",
-   "last_modified": "Thu, 15 Oct 2026 12:07:00 GMT"
+   "etag": "\"2c3c8-65de297f1b0b7-gzip\"",
+   "last_modified": "Thu, 15 Oct 2026 15:20:53 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"a1c4a5671b155af595a172ba8482100f\"",
@@ -488,7 +506,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 15 Oct 2026 12:36:00 GMT"
+   "last_modified": "Thu, 15 Oct 2026 17:20:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -503,8 +521,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad0c675-53c4\"",
-   "last_modified": "Thu, 15 Oct 2026 12:26:29 GMT"
+   "etag": "W/\"6ad10941-53c4\"",
+   "last_modified": "Thu, 15 Oct 2026 17:11:29 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -525,6 +543,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "How The Unhinged Left Just Doubled Down On Woke"
+  },
+  "00e62f44c2": {
+   "date": 1792058966,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/yes-i-will-be-cruel-to-claude",
+   "slug": "yes-i-will-be-cruel-to-claude-00e62f",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Yes, I Will Be Cruel To Claude"
   },
   "015984e5f3": {
    "date": 1791977160,
@@ -548,10 +578,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8365996",
    "message_id": 107,
    "notified_at": 1791824312,
+   "pruned_at": 1792084848,
    "slug": "today-in-supreme-court-history-october-12-1977-032fd6",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Today in Supreme Court History: October 12, 1977"
   },
   "034a1e91b6": {
@@ -590,10 +621,11 @@
    "guid": "https://reason.com/?p=8401589",
    "message_id": 105,
    "notified_at": 1791824309,
+   "pruned_at": 1792084848,
    "slug": "photo-fighting-flock-from-a-lawn-chair-0355ed",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Photo: Fighting Flock From a Lawn Chair"
   },
   "05bcb7478a": {
@@ -623,6 +655,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "TV Networks Protested Press Bans by Declining To Cover Trump. That Might Have Been Illegal, the DOJ Says."
+  },
+  "07b29887d1": {
+   "date": 1792057531,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/trump-lays-out-why-hes-canceling-plans-to-live-stream-terrorist-execution",
+   "slug": "trump-lays-out-why-hes-canceling-plans-to-live-stream-07b298",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Trump Lays Out Why He\u2019s Canceling Plans To Live-Stream Terrorist Execution"
   },
   "07b7516c27": {
    "date": 1791912582,
@@ -763,10 +807,11 @@
    "guid": "https://proton.me/business/blog/follow-up-email",
    "message_id": 110,
    "notified_at": 1791824318,
+   "pruned_at": 1792084848,
    "slug": "how-to-write-a-follow-up-email-a-practical-guide-12e130",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "How to write a follow up email: a practical guide"
   },
   "138906c323": {
@@ -812,6 +857,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Hollywood Has A Problem It Can\u2019t Throw Money At"
+  },
+  "14e80b5939": {
+   "date": 1792064435,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/the-dangerous-spectacle-of-an-almost-public-execution",
+   "slug": "the-dangerous-spectacle-of-an-almost-public-execution-14e80b",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "The Dangerous Spectacle Of An Almost-Public Execution"
   },
   "151e734a33": {
    "date": 1791634080,
@@ -879,11 +936,24 @@
    "guid": "hltvnews45709",
    "message_id": 118,
    "notified_at": 1791824332,
+   "pruned_at": 1792084848,
    "slug": "mvp-haters-come-here-ft-mauisnake-and-striker-1a5fbe",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "MVP Haters Come Here ft. Mauisnake and Striker"
+  },
+  "1af7152c6a": {
+   "date": 1792074840,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792084848,
+   "guid": "hltvnews45728",
+   "slug": "falcons-secure-playoff-berth-at-twc-2026-1af715",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Falcons secure playoff berth at TWC 2026"
   },
   "1d0e8bfb27": {
    "date": 1791749242,
@@ -1008,10 +1078,11 @@
    "guid": "https://reason.com/?p=8405703",
    "message_id": 119,
    "notified_at": 1791824334,
+   "pruned_at": 1792084848,
    "slug": "cambridge-decriminalizes-sex-worksort-of-2787c3",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Cambridge Decriminalizes Sex Work\u2014Sort Of"
   },
   "27e1d7002d": {
@@ -1036,10 +1107,11 @@
    "guid": "hltvnews45704",
    "message_id": 106,
    "notified_at": 1791824311,
+   "pruned_at": 1792084848,
    "slug": "tobiz-returns-to-mouz-as-head-of-talent-development-280f01",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "TOBIZ returns to MOUZ as head of talent development"
   },
   "28f5b8a04c": {
@@ -1106,10 +1178,11 @@
    "guid": "hltvnews45705",
    "message_id": 111,
    "notified_at": 1791824320,
+   "pruned_at": 1792084848,
    "slug": "live-updates-from-the-race-for-pgl-major-singapore-2c324e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Live updates from the race for PGL Major Singapore"
   },
   "2cec334edc": {
@@ -1261,10 +1334,11 @@
    "guid": "https://reason.com/?p=8405514",
    "message_id": 113,
    "notified_at": 1791824323,
+   "pruned_at": 1792084848,
    "slug": "the-elon-assist-325495",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "The Elon Assist"
   },
   "333550bff6": {
@@ -1309,6 +1383,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Ilhan Omar\u2019s Husband Defiant When Pressed On Federal Raid Of D.C. Home"
+  },
+  "3507705237": {
+   "date": 1792058681,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/talarico-echoes-hamas-talking-points-when-pressed-by-concerned-jewish-voter",
+   "slug": "talarico-echoes-hamas-talking-points-when-pressed-by-350770",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Talarico Echoes Hamas Talking Points When Pressed By Concerned Jewish Voter"
   },
   "35a2e3f1fd": {
    "date": 1791901020,
@@ -1431,10 +1517,11 @@
    "guid": "hltvnews45711",
    "message_id": 120,
    "notified_at": 1791824336,
+   "pruned_at": 1792084848,
    "slug": "falcons-announce-m0nesy-contract-extension-391b86",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Falcons announce m0NESY contract extension"
   },
   "393ed1636e": {
@@ -1545,10 +1632,11 @@
    "guid": "https://reason.com/?p=8405732",
    "message_id": 121,
    "notified_at": 1791824338,
+   "pruned_at": 1792084848,
    "slug": "the-government-doesnt-know-whats-best-for-you-why-let-it-414000",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "The Government Doesn't Know What's Best for You. Why Let It Decide What You Should Eat?"
   },
   "4394af4193": {
@@ -1636,6 +1724,30 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Netflix Drops The Ax In Biggest Shakeup In Years"
+  },
+  "4a70cb7801": {
+   "date": 1792055757,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/the-california-paradox-and-the-search-for-a-reform-coalition",
+   "slug": "the-california-paradox-and-the-search-for-a-reform-coalition-4a70cb",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "The California Paradox And The Search For A Reform Coalition"
+  },
+  "4c0d43330f": {
+   "date": 1792057025,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/the-cornell-case-shouldnt-become-a-death-sentence-for-brotherhood",
+   "slug": "the-cornell-case-shouldnt-become-a-death-sentence-for-4c0d43",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "The Cornell Case Shouldn\u2019t Become A Death Sentence For Brotherhood"
   },
   "4d13403e64": {
    "date": 1792041207,
@@ -1730,10 +1842,11 @@
    "guid": "https://reason.com/?p=8405676",
    "message_id": 114,
    "notified_at": 1791824325,
+   "pruned_at": 1792084848,
    "slug": "inside-the-trump-administrations-war-on-the-hague-596c19",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Inside the Trump Administration's War on The Hague"
   },
   "5a7a77d5bf": {
@@ -2051,6 +2164,18 @@
    "status": "notified",
    "title": "arT on losing momentum: \"We have to look ahead and realize we have a new opportunity here\""
   },
+  "723ff33dfe": {
+   "date": 1792060036,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/the-israel-question-pete-buttigieg-answered-that-el-sayed-couldnt",
+   "slug": "the-israel-question-pete-buttigieg-answered-that-el-sayed-723ff3",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "The Israel Question Pete Buttigieg Answered That El-Sayed Couldn\u2019t"
+  },
   "72693ead9f": {
    "date": 1791727500,
    "excerpt_only": false,
@@ -2065,6 +2190,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "woxic on taking bronze: \"It's always good to at least have something from the event\""
+  },
+  "72bfe115af": {
+   "date": 1792065739,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/5-positions-talarico-abandoned-in-one-night",
+   "slug": "5-positions-talarico-abandoned-in-one-night-72bfe1",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "5 Positions Talarico Abandoned In One Night"
   },
   "75422ae31e": {
    "date": 1791724080,
@@ -2138,6 +2275,18 @@
    "status": "notified",
    "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering"
   },
+  "7d05837d84": {
+   "date": 1792064970,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/dem-pushes-back-on-claims-she-wants-to-abolish-prisons-argues-for-jailing-opponent",
+   "slug": "dem-pushes-back-on-claims-she-wants-to-abolish-prisons-7d0583",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Dem Pushes Back On Claims She Wants To Abolish Prisons, Argues For Jailing Opponent"
+  },
   "7e2f98d44c": {
    "date": 1792024085,
    "excerpt_only": false,
@@ -2174,10 +2323,11 @@
    "guid": "hltvnews45703",
    "message_id": 104,
    "notified_at": 1791824307,
+   "pruned_at": 1792084848,
    "slug": "wildcards-major-chances-soar-with-frag-university-title-7f100b",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Wildcard's Major chances soar with FRAG University title"
   },
   "8039a1f386": {
@@ -2342,10 +2492,11 @@
    "guid": "https://proton.me/business/blog/workflow-automation",
    "message_id": 109,
    "notified_at": 1791824316,
+   "pruned_at": 1792084848,
    "slug": "a-simple-framework-for-deciding-what-to-automate-vs-keep-8c59cc",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "A simple framework for deciding what to automate vs. keep manual"
   },
   "8dde15868b": {
@@ -2375,6 +2526,18 @@
    "source_slug": "proton-blog",
    "status": "notified",
    "title": "7 types of business meetings and top tips for each"
+  },
+  "912a7e7fe5": {
+   "date": 1792070100,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792084848,
+   "guid": "hltvnews45726",
+   "slug": "balblna-steps-down-from-k27-912a7e",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "balblna steps down from K27"
   },
   "9238a7f483": {
    "date": 1791972190,
@@ -2684,10 +2847,11 @@
    "guid": "https://reason.com/?p=8405547",
    "message_id": 115,
    "notified_at": 1791824327,
+   "pruned_at": 1792084848,
    "slug": "protesters-in-france-and-spain-are-angry-at-government-a693fa",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Protesters in France and Spain Are Angry at Government Failure\u2014and Demanding More Government"
   },
   "a6cd4b985a": {
@@ -2783,10 +2947,11 @@
    "guid": "https://reason.com/?p=8404961",
    "message_id": 103,
    "notified_at": 1791824305,
+   "pruned_at": 1792084848,
    "slug": "brickbat-if-you-cant-say-something-nice-acbb7a",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Brickbat: If You Can't Say Something Nice"
   },
   "acf845559d": {
@@ -2803,6 +2968,18 @@
    "status": "notified",
    "title": "College Still Has a Future, but It's No Longer the Default Choice"
   },
+  "b2fc824ec7": {
+   "date": 1792060075,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/from-chinese-prostitutes-to-oppression-the-woke-research-taxpayers-still-fund",
+   "slug": "from-chinese-prostitutes-to-oppression-the-woke-research-b2fc82",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "From Chinese Prostitutes To \u2018Oppression\u2019: The Woke Research Taxpayers Still Fund"
+  },
   "b43d362736": {
    "date": 1791218097,
    "excerpt_only": false,
@@ -2817,6 +2994,18 @@
    "source_slug": "zotero",
    "status": "pruned",
    "title": "Read Aloud on iOS"
+  },
+  "b4c7908dbb": {
+   "date": 1792061564,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/dodgers-player-slams-soft-porn-during-baseball-games-as-sweeneys-nude-ad-hits-screens",
+   "slug": "dodgers-player-slams-soft-porn-during-baseball-games-as-b4c790",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Dodgers Player Slams \u2018Soft Porn\u2019 During Baseball Games As Sweeney\u2019s Nude Ad Hits Screens"
   },
   "b551685e43": {
    "date": 1791716425,
@@ -2890,6 +3079,18 @@
    "status": "notified",
    "title": "Official: Astralis sign siuhy and cmtry"
   },
+  "b911c69eb5": {
+   "date": 1792057681,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/floyd-mayweather-jr-is-latest-sports-legend-to-join-trumps-star-studded-rally-lineup",
+   "slug": "floyd-mayweather-jr-is-latest-sports-legend-to-join-trumps-b911c6",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Floyd Mayweather Jr. Is Latest Sports Legend To Join Trump\u2019s Star-Studded Rally Lineup"
+  },
   "b9de315f4f": {
    "date": 1791909540,
    "excerpt_only": false,
@@ -2960,6 +3161,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "Weekend reads: OpenAI\u2019s preprint dump; Taylor & Francis to leave Informa; arXiv\u2019s preprint cap"
+  },
+  "bcc124f9ce": {
+   "date": 1792050892,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/michigans-el-sayed-cornered-by-liberal-outlet-over-muslim-brotherhood-then-lashes-out",
+   "slug": "michigans-el-sayed-cornered-by-liberal-outlet-over-muslim-bcc124",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Michigan\u2019s El-Sayed Cornered By Liberal Outlet Over Muslim Brotherhood, Then Lashes Out"
   },
   "bcc7f41c87": {
    "date": 1791919967,
@@ -3176,6 +3389,30 @@
    "status": "notified",
    "title": "Doctors Sound Alarm About H-1B Pipeline Threatening American Lives"
   },
+  "cede6d62fe": {
+   "date": 1792066205,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792084848,
+   "guid": "https://www.dailywire.com/news/oh-god-oh-my-god-hayden-panettieres-final-moments-captured-in-911-call",
+   "slug": "oh-god-oh-my-god-hayden-panettieres-final-moments-captured-cede6d",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "\u2018Oh God, Oh My God\u2019: Hayden Panettiere\u2019s Final Moments Captured In 911 Call"
+  },
+  "cf6406b2dc": {
+   "date": 1792068780,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792084848,
+   "guid": "hltvnews45725",
+   "slug": "krimbo-on-hectic-schedule-its-not-normal-but-its-unique-and-cf6406",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Krimbo on hectic schedule: \"It's not normal but it's unique, and I think it makes us stronger\""
+  },
   "d089e68fa6": {
    "date": 1791651300,
    "excerpt_only": false,
@@ -3200,10 +3437,11 @@
    "guid": "hltvnews45708",
    "message_id": 116,
    "notified_at": 1791824329,
+   "pruned_at": 1792084848,
    "slug": "short-news-week-41-d0a7f6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Short news: Week 41"
   },
   "d0fdb04396": {
@@ -3242,10 +3480,11 @@
    "guid": "https://reason.com/?post_type=video&p=8369359",
    "message_id": 117,
    "notified_at": 1791824330,
+   "pruned_at": 1792084848,
    "slug": "the-anti-government-rebel-who-turned-against-maga-d36d83",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "The Anti-Government Rebel Who Turned Against MAGA"
   },
   "d3ae0c4485": {
@@ -3285,10 +3524,11 @@
    "guid": "https://reason.com/?p=8405664",
    "message_id": 108,
    "notified_at": 1791824314,
+   "pruned_at": 1792084848,
    "slug": "europe-grapples-with-hybrid-warfare-while-rebuilding-its-dc0f4b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Europe Grapples With 'Hybrid Warfare' While Rebuilding Its Defense Capabilities"
   },
   "dceec8ef51": {
@@ -3370,11 +3610,24 @@
    "guid": "hltvnews45706",
    "message_id": 112,
    "notified_at": 1791824321,
+   "pruned_at": 1792084848,
    "slug": "thunderpick-world-championship-teams-format-schedule-prizes-e34c90",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Thunderpick World Championship teams, format, schedule, prizes, talent, fantasy"
+  },
+  "e35234179e": {
+   "date": 1792073160,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792084848,
+   "guid": "hltvnews45727",
+   "slug": "esic-bans-nomercy-for-match-manipulation-e35234",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "ESIC bans NOMERCY for match manipulation"
   },
   "e511985829": {
    "date": 1792066007,

@@ -5,12 +5,12 @@ source: HLTV News
 source_url: https://www.hltv.org/news/45711/falcons-announce-m0nesy-contract-extension
 author: ''
 date: '2026-10-12T16:36:00Z'
-fetched: '2026-10-12T16:57:17Z'
+fetched: ''
 image: ''
-summary: The Russian sniper has committed his future to the Saudi organization.
+summary: ''
 tags: []
 guid: hltvnews45711
-excerpt_only: true
+stub: true
 ---
 
-The Russian sniper has committed his future to the Saudi organization.
+
