@@ -574,10 +574,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792067766,
    "guid": "https://proton.me/blog/introducing-pass-folders-url-matching",
+   "message_id": 278,
+   "notified_at": 1792067835,
    "slug": "folders-url-matching-and-compromised-password-alerts-are-03547f",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Folders, URL matching, and compromised password alerts are now available for Proton Pass"
   },
   "0355ed82df": {
@@ -1641,10 +1643,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/ann-coulter-selective-outrage-on-campus",
+   "message_id": 271,
+   "notified_at": 1792067822,
    "slug": "ann-coulter-selective-outrage-on-campus-4d1340",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Ann Coulter: Selective Outrage On Campus"
   },
   "50b3e71406": {
@@ -2224,10 +2228,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/bill-hagerty-memphis-is-the-model-for-a-safer-america",
+   "message_id": 269,
+   "notified_at": 1792067818,
    "slug": "bill-hagerty-memphis-is-the-model-for-a-safer-america-82759e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Bill Hagerty: Memphis Is The Model For A Safer America"
   },
   "8290eccc40": {
@@ -2462,10 +2468,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/womens-basketball-has-become-the-wwe-with-free-throws",
+   "message_id": 270,
+   "notified_at": 1792067820,
    "slug": "womens-basketball-has-become-the-wwe-with-free-throws-97aaa2",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Women\u2019s Basketball Has Become The WWE With Free Throws"
   },
   "97b5779384": {
@@ -3204,10 +3212,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/the-grandparent-debate-exposes-a-broken-cultural-framework-for-family",
+   "message_id": 273,
+   "notified_at": 1792067826,
    "slug": "the-grandparent-debate-exposes-a-broken-cultural-framework-d0fdb0",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The \u2018Grandparent Debate\u2019 Exposes A Broken Cultural Framework For Family"
   },
   "d26f988cd6": {
@@ -3372,10 +3382,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792067766,
    "guid": "https://proton.me/blog/2026-autumn-winter-roadmaps",
+   "message_id": 277,
+   "notified_at": 1792067833,
    "slug": "proton-product-roadmaps-for-autumn-and-winter-2026-e51198",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Proton product roadmaps for autumn and winter 2026"
   },
   "e700dab71d": {
@@ -3398,10 +3410,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/watch-catholic-voter-rebukes-talarico-to-his-face-over-abortion-stance",
+   "message_id": 275,
+   "notified_at": 1792067830,
    "slug": "watch-catholic-voter-rebukes-talarico-to-his-face-over-e72b49",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "WATCH: Catholic Voter Rebukes Talarico To His Face Over Abortion Stance"
   },
   "e75e12d4a6": {
@@ -3410,10 +3424,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/the-dangerous-consequences-of-concept-creep-in-dating",
+   "message_id": 272,
+   "notified_at": 1792067824,
    "slug": "the-dangerous-consequences-of-concept-creep-in-dating-e75e12",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Dangerous Consequences Of \u2018Concept Creep\u2019 In Dating"
   },
   "eae3616b88": {
@@ -3422,10 +3438,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/at-cornell-the-progressive-mob-exchanged-due-process-for-bloodlust",
+   "message_id": 268,
+   "notified_at": 1792067816,
    "slug": "at-cornell-the-progressive-mob-exchanged-due-process-for-eae361",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "At Cornell, The Progressive Mob Exchanged Due Process For Bloodlust"
   },
   "ef46abd75f": {
@@ -3518,10 +3536,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792067766,
    "guid": "hltvnews45724",
+   "message_id": 276,
+   "notified_at": 1792067832,
    "slug": "nip-spared-scheduling-headache-after-early-thunderpick-f64e51",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NIP spared scheduling headache after early Thunderpick World Championship exit"
   },
   "f8069e5d53": {
@@ -3601,10 +3621,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792067766,
    "guid": "https://www.dailywire.com/news/floridas-stop-woke-act-will-reclaim-the-classroom",
+   "message_id": 274,
+   "notified_at": 1792067828,
    "slug": "floridas-stop-woke-act-will-reclaim-the-classroom-fcba2d",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Florida\u2019s Stop WOKE Act Will Reclaim The Classroom"
   },
   "fd47509ead": {
