@@ -195,7 +195,8 @@
    "https://retractionwatch.com/?p=136193",
    "https://retractionwatch.com/?p=136221",
    "https://retractionwatch.com/?p=136230",
-   "https://retractionwatch.com/?p=136234"
+   "https://retractionwatch.com/?p=136234",
+   "https://retractionwatch.com/?p=136239"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -398,7 +399,18 @@
    "https://www.dailywire.com/news/disgraced-congressman-matt-gaetz-hit-with-sex-trafficking-lawsuit",
    "https://www.dailywire.com/news/this-homeschooling-mom-is-fighting-an-oregon-school-for-religious-freedom",
    "https://www.dailywire.com/news/nancy-maces-ex-fiance-charged-with-sex-crime",
-   "https://www.dailywire.com/news/talaricos-answer-to-navy-veteran-on-voter-id-doesnt-add-up"
+   "https://www.dailywire.com/news/talaricos-answer-to-navy-veteran-on-voter-id-doesnt-add-up",
+   "https://www.dailywire.com/news/dem-run-state-faces-a-midterm-ballot-showdown-over-whos-eligible-to-vote",
+   "https://www.dailywire.com/news/americas-me-first-meltdown",
+   "https://www.dailywire.com/news/the-future-through-red-green-colored-glasses",
+   "https://www.dailywire.com/news/ms-rachel-can-be-replaced-your-values-cannot",
+   "https://www.dailywire.com/news/customer-service-is-so-bad-that-im-siding-with-a-spoiled-celebrity",
+   "https://www.dailywire.com/news/multiple-people-including-children-shot-at-oregon-elementary-school",
+   "https://www.dailywire.com/news/cornell-7-accusers-lawyer-gets-called-out-for-wanting-it-both-ways",
+   "https://www.dailywire.com/news/u-s-military-may-be-considering-dusting-off-the-moab-for-iran",
+   "https://www.dailywire.com/news/socialist-sanders-to-barnstorm-key-red-states-ahead-of-midterms",
+   "https://www.dailywire.com/news/will-not-tolerate-rubio-hits-cuban-bank-for-helping-blacklisted-iranian-lender",
+   "https://www.dailywire.com/news/jd-vance-wants-politicians-to-make-six-promises-about-your-tax-dollars"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -447,7 +459,8 @@
    "hltvnews45726",
    "hltvnews45727",
    "hltvnews45728",
-   "hltvnews45729"
+   "hltvnews45729",
+   "hltvnews45730"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -495,7 +508,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"c0994509abce5208a4e97f91316b8b0b\"",
@@ -514,16 +527,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65de294c17767-gzip\"",
-   "last_modified": "Thu, 15 Oct 2026 15:19:59 GMT"
+   "etag": "\"2c3c8-65de2966b740c-gzip\"",
+   "last_modified": "Thu, 15 Oct 2026 15:20:27 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"a1c4a5671b155af595a172ba8482100f\"",
-   "last_modified": null
+   "etag": "\"4b9d9822b5d568bf7ad6e7a5b248fa2e\"",
+   "last_modified": "Thu, 15 Oct 2026 20:55:10 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 15 Oct 2026 20:26:00 GMT"
+   "last_modified": "Thu, 15 Oct 2026 23:12:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -538,8 +551,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad13371-53c4\"",
-   "last_modified": "Thu, 15 Oct 2026 20:11:29 GMT"
+   "etag": "W/\"6ad15da1-53c4\"",
+   "last_modified": "Thu, 15 Oct 2026 23:11:29 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -949,6 +962,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Grateful Dead Helmets And 1990s-Themed Unis: College Football Is In Its Throwback Era"
+  },
+  "1821f2291a": {
+   "date": 1792080047,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/americas-me-first-meltdown",
+   "slug": "americas-me-first-meltdown-1821f2",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "America\u2019s \u2018Me First\u2019 Meltdown"
   },
   "1972d821e7": {
    "date": 1791909034,
@@ -1693,6 +1718,18 @@
    "status": "notified",
    "title": "New-look Astralis top group at Stake Pulse Beat"
   },
+  "3db594e2df": {
+   "date": 1792097709,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792105911,
+   "guid": "https://retractionwatch.com/?p=136239",
+   "slug": "journal-retracts-republishes-paper-on-long-covid-treatment-3db594",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Journal retracts, republishes paper on Long COVID treatment trial"
+  },
   "3f14d4dae9": {
    "date": 1791988615,
    "excerpt_only": false,
@@ -1808,6 +1845,18 @@
    "status": "notified",
    "title": "Netflix Drops The Ax In Biggest Shakeup In Years"
   },
+  "4815271c00": {
+   "date": 1792101900,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792105911,
+   "guid": "hltvnews45730",
+   "slug": "furia-make-twc-playoffs-over-legacy-481527",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA make TWC playoffs over Legacy"
+  },
   "4a70cb7801": {
    "date": 1792055757,
    "excerpt_only": false,
@@ -1892,6 +1941,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Iran Sentences Young Woman To Death For Insulting Muhammad"
+  },
+  "552b96a879": {
+   "date": 1792079130,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/dem-run-state-faces-a-midterm-ballot-showdown-over-whos-eligible-to-vote",
+   "slug": "dem-run-state-faces-a-midterm-ballot-showdown-over-whos-552b96",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Dem-Run State Faces A Midterm Ballot Showdown Over Who\u2019s Eligible To Vote"
   },
   "55628009f1": {
    "date": 1792014180,
@@ -2008,6 +2069,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Ohio's Democrat Momentum"
+  },
+  "5d1b27ac69": {
+   "date": 1792080523,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/the-future-through-red-green-colored-glasses",
+   "slug": "the-future-through-red-green-colored-glasses-5d1b27",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "The Future Through Red-Green Colored Glasses"
   },
   "5e7e3beb3d": {
    "date": 1791827419,
@@ -2192,6 +2265,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "Falcons and Aurora players are most-picked in TWC 2026 Fantasy"
+  },
+  "6afbd78883": {
+   "date": 1792083333,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/cornell-7-accusers-lawyer-gets-called-out-for-wanting-it-both-ways",
+   "slug": "cornell-7-accusers-lawyer-gets-called-out-for-wanting-it-6afbd7",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "\u2018Cornell 7\u2019 Accuser\u2019s Lawyer Gets Called Out For Wanting It Both Ways"
   },
   "6b1ea9229f": {
    "date": 1791356167,
@@ -2407,6 +2492,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering"
+  },
+  "78397517fc": {
+   "date": 1792081410,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/ms-rachel-can-be-replaced-your-values-cannot",
+   "slug": "ms-rachel-can-be-replaced-your-values-cannot-783975",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Ms. Rachel Can Be Replaced. Your Values Cannot."
   },
   "7ccb4272f6": {
    "date": 1792074047,
@@ -2704,6 +2801,18 @@
    "status": "notified",
    "title": "7 types of business meetings and top tips for each"
   },
+  "90672ff02b": {
+   "date": 1792082678,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/multiple-people-including-children-shot-at-oregon-elementary-school",
+   "slug": "several-children-adult-killed-in-shooting-at-oregon-90672f",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Several Children, Adult Killed In Shooting At Oregon Elementary School"
+  },
   "912a7e7fe5": {
    "date": 1792070100,
    "excerpt_only": false,
@@ -2845,6 +2954,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Marsha Blackburn Stands By AI Video That Set Off Liberals"
+  },
+  "99767db0c2": {
+   "date": 1792086021,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/jd-vance-wants-politicians-to-make-six-promises-about-your-tax-dollars",
+   "slug": "jd-vance-wants-politicians-to-make-six-promises-about-your-99767d",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "JD Vance Wants Politicians To Make Six Promises About Your Tax Dollars"
   },
   "99a3ce12dd": {
    "date": 1791899902,
@@ -3719,6 +3840,18 @@
    "status": "notified",
    "title": "The \u2018Grandparent Debate\u2019 Exposes A Broken Cultural Framework For Family"
   },
+  "d16ea6b893": {
+   "date": 1792084876,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/will-not-tolerate-rubio-hits-cuban-bank-for-helping-blacklisted-iranian-lender",
+   "slug": "will-not-tolerate-rubio-hits-cuban-bank-for-helping-d16ea6",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "\u2018Will Not Tolerate\u2019: Rubio Hits Cuban Bank For Helping Blacklisted Iranian Lender"
+  },
   "d26f988cd6": {
    "date": 1791899865,
    "excerpt_only": false,
@@ -3776,6 +3909,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "No, Giving Immigrants Research Jobs Is Not Fraud\u200b"
+  },
+  "d8972eefe9": {
+   "date": 1792083399,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/socialist-sanders-to-barnstorm-key-red-states-ahead-of-midterms",
+   "slug": "socialist-sanders-to-barnstorm-key-red-states-ahead-of-d8972e",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Socialist Sanders To Barnstorm Key Red States Ahead Of Midterms"
   },
   "dc0f4bf016": {
    "date": 1791802843,
@@ -4018,6 +4163,18 @@
    "status": "notified",
    "title": "Today in Supreme Court History: October 13, 1890"
   },
+  "f46d154d76": {
+   "date": 1792081858,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/customer-service-is-so-bad-that-im-siding-with-a-spoiled-celebrity",
+   "slug": "customer-service-is-so-bad-that-im-siding-with-a-spoiled-f46d15",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Customer Service Is So Bad That I\u2019m Siding With A Spoiled Celebrity"
+  },
   "f47d9e1a29": {
    "date": 1791954000,
    "excerpt_only": false,
@@ -4087,6 +4244,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "An Illinois College Tried To Cancel Its Flock Contract. Flock Refused."
+  },
+  "f83c3406a5": {
+   "date": 1792083396,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792105911,
+   "guid": "https://www.dailywire.com/news/u-s-military-may-be-considering-dusting-off-the-moab-for-iran",
+   "slug": "u-s-military-may-be-considering-dusting-off-the-moab-for-f83c34",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "U.S. Military May Be Considering Dusting Off The MOAB For Iran"
   },
   "f84c44e710": {
    "date": 1790973695,
