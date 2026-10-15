@@ -208,7 +208,8 @@
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/717916455762395361",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/717916455762395359",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/717916455762395357",
-   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492473208"
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492473208",
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/702156483742138678"
   ],
   "https://world.hey.com/dhh/feed.atom": [
    "tag:world.hey.com,2005:World::Post/49362",
@@ -382,7 +383,22 @@
    "https://www.dailywire.com/news/the-dangerous-spectacle-of-an-almost-public-execution",
    "https://www.dailywire.com/news/dem-pushes-back-on-claims-she-wants-to-abolish-prisons-argues-for-jailing-opponent",
    "https://www.dailywire.com/news/5-positions-talarico-abandoned-in-one-night",
-   "https://www.dailywire.com/news/oh-god-oh-my-god-hayden-panettieres-final-moments-captured-in-911-call"
+   "https://www.dailywire.com/news/oh-god-oh-my-god-hayden-panettieres-final-moments-captured-in-911-call",
+   "https://www.dailywire.com/news/mom-accused-of-killing-husband-and-toddler-had-chilling-complaint-about-her-little-boy",
+   "https://www.dailywire.com/news/curiosity-not-conceit-we-all-should-be-so-lucky-to-have-boss-like-carlie-irsay-gordon",
+   "https://www.dailywire.com/news/americas-new-weapon-could-change-the-rules-of-war",
+   "https://www.dailywire.com/news/the-best-story-in-college-football-you-dont-know-about-is-at-oregon-state",
+   "https://www.dailywire.com/news/kai-trump-reveals-surgery-setback-not-how-i-envisioned-the-next-few-months",
+   "https://www.dailywire.com/news/exclusive-rfk-jr-issues-final-warning-to-transgender-groups",
+   "https://www.dailywire.com/news/whiskey-distillery-goes-belly-up-as-booze-industry-faces-a-nasty-hangover",
+   "https://www.dailywire.com/news/only-1-in-3-tiktok-users-think-israel-should-exist-shock-poll-finds",
+   "https://www.dailywire.com/news/breaking-bad-star-was-caught-between-two-women-before-tragic-death",
+   "https://www.dailywire.com/news/unearthed-video-reveals-how-far-talarico-has-shifted-on-border-security",
+   "https://www.dailywire.com/news/gop-senate-campaign-goes-dark-during-home-stretch",
+   "https://www.dailywire.com/news/disgraced-congressman-matt-gaetz-hit-with-sex-trafficking-lawsuit",
+   "https://www.dailywire.com/news/this-homeschooling-mom-is-fighting-an-oregon-school-for-religious-freedom",
+   "https://www.dailywire.com/news/nancy-maces-ex-fiance-charged-with-sex-crime",
+   "https://www.dailywire.com/news/talaricos-answer-to-navy-veteran-on-voter-id-doesnt-add-up"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -430,7 +446,8 @@
    "hltvnews45725",
    "hltvnews45726",
    "hltvnews45727",
-   "hltvnews45728"
+   "hltvnews45728",
+   "hltvnews45729"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -497,8 +514,8 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65de297f1b0b7-gzip\"",
-   "last_modified": "Thu, 15 Oct 2026 15:20:53 GMT"
+   "etag": "\"2c3c8-65de294c17767-gzip\"",
+   "last_modified": "Thu, 15 Oct 2026 15:19:59 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"a1c4a5671b155af595a172ba8482100f\"",
@@ -506,7 +523,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 15 Oct 2026 17:20:00 GMT"
+   "last_modified": "Thu, 15 Oct 2026 20:26:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -521,8 +538,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad10941-53c4\"",
-   "last_modified": "Thu, 15 Oct 2026 17:11:29 GMT"
+   "etag": "W/\"6ad13371-53c4\"",
+   "last_modified": "Thu, 15 Oct 2026 20:11:29 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -571,6 +588,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "sdy headlines new-look Monte lineup*"
+  },
+  "01c8cb136e": {
+   "date": 1792086379,
+   "excerpt_only": false,
+   "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
+   "fetched": 1792095959,
+   "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/702156483742138678",
+   "slug": "agent-a-a-puzzle-in-disguise-and-bad-cheese-free-from-epic-01c8cb",
+   "source": "Weekly Free Games",
+   "source_slug": "weekly-free-games",
+   "status": "mirrored",
+   "title": "Agent A: A puzzle in disguise -and- Bad Cheese  free from Epic Store"
   },
   "032fd61c5e": {
    "date": 1791802813,
@@ -629,6 +658,18 @@
    "source_slug": "reason-magazine",
    "status": "pruned",
    "title": "Photo: Fighting Flock From a Lawn Chair"
+  },
+  "0389c7092a": {
+   "date": 1792067124,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/curiosity-not-conceit-we-all-should-be-so-lucky-to-have-boss-like-carlie-irsay-gordon",
+   "slug": "curiosity-not-conceit-we-all-should-be-so-lucky-to-have-0389c7",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Curiosity Not Conceit: We All Should Be So Lucky To Have Boss Like Carlie Irsay-Gordon"
   },
   "05bcb7478a": {
    "date": 1791839749,
@@ -1306,6 +1347,18 @@
    "status": "notified",
    "title": "Authors respond with \u2018a bit like a threat\u2019 after journal reveals postdoc\u2019s identity"
   },
+  "31b021929e": {
+   "date": 1792077430,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/talaricos-answer-to-navy-veteran-on-voter-id-doesnt-add-up",
+   "slug": "talaricos-answer-to-navy-veteran-on-voter-id-doesnt-add-up-31b021",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Talarico\u2019s Answer To Navy Veteran On Voter ID Doesn\u2019t Add Up"
+  },
   "31cf5eec0f": {
    "date": 1791979319,
    "excerpt_only": false,
@@ -1578,6 +1631,18 @@
    "status": "notified",
    "title": "Feds Subpoena Ilhan Omar\u2019s Family, Seize Her Phone In Raid"
   },
+  "39c0dd84a4": {
+   "date": 1792074911,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/this-homeschooling-mom-is-fighting-an-oregon-school-for-religious-freedom",
+   "slug": "this-homeschooling-mom-is-fighting-an-oregon-school-for-39c0dd",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "This Homeschooling Mom Is Fighting An Oregon School For Religious Freedom"
+  },
   "3a6c160739": {
    "date": 1791980970,
    "excerpt_only": false,
@@ -1834,6 +1899,18 @@
    "status": "notified",
    "title": "FURIA fend off BETBOOM to end day one of TWC"
   },
+  "57aa75cba5": {
+   "date": 1792068662,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/exclusive-rfk-jr-issues-final-warning-to-transgender-groups",
+   "slug": "exclusive-rfk-jr-issues-final-warning-to-transgender-groups-57aa75",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "EXCLUSIVE: RFK Jr. Issues Final Warning To Transgender Groups"
+  },
   "583c45aa21": {
    "date": 1791898265,
    "excerpt_only": false,
@@ -1949,6 +2026,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "MAGA & Musk\u2019s Money Moves Come Into Focus Ahead Of Midterm Home Stretch"
+  },
+  "5fd6abbcaa": {
+   "date": 1792074239,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/disgraced-congressman-matt-gaetz-hit-with-sex-trafficking-lawsuit",
+   "slug": "disgraced-congressman-matt-gaetz-hit-with-sex-trafficking-5fd6ab",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Disgraced Congressman Matt Gaetz Hit With Sex Trafficking Lawsuit"
   },
   "61b8c68b58": {
    "date": 1791951307,
@@ -2221,6 +2310,18 @@
    "status": "notified",
    "title": "5 Positions Talarico Abandoned In One Night"
   },
+  "73f3a78356": {
+   "date": 1792068514,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/kai-trump-reveals-surgery-setback-not-how-i-envisioned-the-next-few-months",
+   "slug": "kai-trump-reveals-surgery-setback-not-how-i-envisioned-the-73f3a7",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Kai Trump Reveals Surgery Setback: \u2018Not How I Envisioned The Next Few Months\u2019"
+  },
   "75422ae31e": {
    "date": 1791724080,
    "excerpt_only": false,
@@ -2292,6 +2393,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering"
+  },
+  "7ccb4272f6": {
+   "date": 1792074047,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/gop-senate-campaign-goes-dark-during-home-stretch",
+   "slug": "gop-senate-campaign-goes-dark-during-home-stretch-7ccb42",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "GOP Senate Campaign Goes Dark During Home Stretch"
   },
   "7d05837d84": {
    "date": 1792064970,
@@ -2504,6 +2617,30 @@
    "status": "notified",
    "title": "Shane Gillis And The Masterclass Of Modern Meltdowns"
   },
+  "8b470fc2fe": {
+   "date": 1792075183,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/nancy-maces-ex-fiance-charged-with-sex-crime",
+   "slug": "nancy-maces-ex-fiance-charged-with-sex-crime-8b470f",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Nancy Mace\u2019s Ex-Fianc\u00e9 Charged With Sex Crime"
+  },
+  "8bbc9320f2": {
+   "date": 1792067271,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/americas-new-weapon-could-change-the-rules-of-war",
+   "slug": "americas-new-weapon-could-change-the-rules-of-war-8bbc93",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "America\u2019s New Weapon Could Change The Rules Of War"
+  },
   "8c59cc2eec": {
    "date": 1791805068,
    "excerpt_only": false,
@@ -2560,6 +2697,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "balblna steps down from K27"
+  },
+  "918e614fee": {
+   "date": 1792088100,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792095959,
+   "guid": "hltvnews45729",
+   "slug": "betboom-eliminate-parivision-from-twc-918e61",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BETBOOM eliminate PARIVISION from TWC"
   },
   "9238a7f483": {
    "date": 1791972190,
@@ -2990,6 +3139,42 @@
    "status": "notified",
    "title": "College Still Has a Future, but It's No Longer the Default Choice"
   },
+  "ad34868dda": {
+   "date": 1792070249,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/only-1-in-3-tiktok-users-think-israel-should-exist-shock-poll-finds",
+   "slug": "only-1-in-3-tiktok-users-think-israel-should-exist-shock-ad3486",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Only 1 in 3 TikTok Users Think Israel Should Exist, Shock Poll Finds"
+  },
+  "af9f86ee90": {
+   "date": 1792073370,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/unearthed-video-reveals-how-far-talarico-has-shifted-on-border-security",
+   "slug": "unearthed-video-reveals-how-far-talarico-has-shifted-on-af9f86",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Unearthed Video Reveals How Far Talarico Has Shifted On Border Security"
+  },
+  "b2cad6b3b8": {
+   "date": 1792069146,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/whiskey-distillery-goes-belly-up-as-booze-industry-faces-a-nasty-hangover",
+   "slug": "whiskey-distillery-goes-belly-up-as-booze-industry-faces-a-b2cad6",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Whiskey Distillery Goes Belly Up As Booze Industry Faces A Nasty Hangover"
+  },
   "b2fc824ec7": {
    "date": 1792060075,
    "excerpt_only": false,
@@ -3332,6 +3517,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "A Familiar Group Holds The Key To GOP Hopes in November"
+  },
+  "c5f3180797": {
+   "date": 1792064820,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/mom-accused-of-killing-husband-and-toddler-had-chilling-complaint-about-her-little-boy",
+   "slug": "mom-accused-of-killing-husband-and-toddler-had-chilling-c5f318",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Mom Accused Of Killing Husband And Toddler Had Chilling Complaint About Her Little Boy"
   },
   "c8610cc0ce": {
    "date": 1791675180,
@@ -3763,6 +3960,18 @@
    "status": "notified",
    "title": "Americans Get Final Inflation Report Before Midterms. Here\u2019s What It Shows."
   },
+  "f039e44a2b": {
+   "date": 1792067567,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/the-best-story-in-college-football-you-dont-know-about-is-at-oregon-state",
+   "slug": "the-best-story-in-college-football-you-dont-know-about-is-f039e4",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "The Best Story In College Football You Don\u2019t Know About Is At Oregon State"
+  },
   "f0e424cc75": {
    "date": 1791889211,
    "excerpt_only": false,
@@ -3889,6 +4098,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Other Courts Should Heed a Federal Judge's Warning About Flock-Enabled Mass Surveillance"
+  },
+  "f9813d5896": {
+   "date": 1792070345,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792095959,
+   "guid": "https://www.dailywire.com/news/breaking-bad-star-was-caught-between-two-women-before-tragic-death",
+   "slug": "breaking-bad-star-was-caught-between-two-women-before-f9813d",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "\u2018Breaking Bad\u2019 Star Was Caught Between Two Women Before Tragic Death"
   },
   "faf4616bd9": {
    "date": 1791954013,
