@@ -2104,10 +2104,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792047535,
    "guid": "https://www.dailywire.com/news/doj-gives-california-a-voter-roll-ultimatum",
+   "message_id": 267,
+   "notified_at": 1792047600,
    "slug": "doj-gives-california-a-voter-roll-ultimatum-7e2f98",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "DOJ Gives California A Voter Roll Ultimatum"
   },
   "7e399ce9b1": {
