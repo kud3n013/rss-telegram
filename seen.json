@@ -550,10 +550,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/yes-i-will-be-cruel-to-claude",
+   "message_id": 285,
+   "notified_at": 1792084912,
    "slug": "yes-i-will-be-cruel-to-claude-00e62f",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Yes, I Will Be Cruel To Claude"
   },
   "015984e5f3": {
@@ -662,10 +664,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/trump-lays-out-why-hes-canceling-plans-to-live-stream-terrorist-execution",
+   "message_id": 282,
+   "notified_at": 1792084907,
    "slug": "trump-lays-out-why-hes-canceling-plans-to-live-stream-07b298",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Trump Lays Out Why He\u2019s Canceling Plans To Live-Stream Terrorist Execution"
   },
   "07b7516c27": {
@@ -864,10 +868,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/the-dangerous-spectacle-of-an-almost-public-execution",
+   "message_id": 289,
+   "notified_at": 1792084919,
    "slug": "the-dangerous-spectacle-of-an-almost-public-execution-14e80b",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Dangerous Spectacle Of An Almost-Public Execution"
   },
   "151e734a33": {
@@ -949,10 +955,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792084848,
    "guid": "hltvnews45728",
+   "message_id": 296,
+   "notified_at": 1792084930,
    "slug": "falcons-secure-playoff-berth-at-twc-2026-1af715",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Falcons secure playoff berth at TWC 2026"
   },
   "1d0e8bfb27": {
@@ -1390,10 +1398,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/talarico-echoes-hamas-talking-points-when-pressed-by-concerned-jewish-voter",
+   "message_id": 284,
+   "notified_at": 1792084910,
    "slug": "talarico-echoes-hamas-talking-points-when-pressed-by-350770",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Talarico Echoes Hamas Talking Points When Pressed By Concerned Jewish Voter"
   },
   "35a2e3f1fd": {
@@ -1731,10 +1741,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/the-california-paradox-and-the-search-for-a-reform-coalition",
+   "message_id": 280,
+   "notified_at": 1792084903,
    "slug": "the-california-paradox-and-the-search-for-a-reform-coalition-4a70cb",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The California Paradox And The Search For A Reform Coalition"
   },
   "4c0d43330f": {
@@ -1743,10 +1755,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/the-cornell-case-shouldnt-become-a-death-sentence-for-brotherhood",
+   "message_id": 281,
+   "notified_at": 1792084905,
    "slug": "the-cornell-case-shouldnt-become-a-death-sentence-for-4c0d43",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Cornell Case Shouldn\u2019t Become A Death Sentence For Brotherhood"
   },
   "4d13403e64": {
@@ -2170,10 +2184,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/the-israel-question-pete-buttigieg-answered-that-el-sayed-couldnt",
+   "message_id": 286,
+   "notified_at": 1792084913,
    "slug": "the-israel-question-pete-buttigieg-answered-that-el-sayed-723ff3",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Israel Question Pete Buttigieg Answered That El-Sayed Couldn\u2019t"
   },
   "72693ead9f": {
@@ -2197,10 +2213,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/5-positions-talarico-abandoned-in-one-night",
+   "message_id": 291,
+   "notified_at": 1792084922,
    "slug": "5-positions-talarico-abandoned-in-one-night-72bfe1",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "5 Positions Talarico Abandoned In One Night"
   },
   "75422ae31e": {
@@ -2281,10 +2299,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/dem-pushes-back-on-claims-she-wants-to-abolish-prisons-argues-for-jailing-opponent",
+   "message_id": 290,
+   "notified_at": 1792084920,
    "slug": "dem-pushes-back-on-claims-she-wants-to-abolish-prisons-7d0583",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Dem Pushes Back On Claims She Wants To Abolish Prisons, Argues For Jailing Opponent"
   },
   "7e2f98d44c": {
@@ -2533,10 +2553,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792084848,
    "guid": "hltvnews45726",
+   "message_id": 294,
+   "notified_at": 1792084927,
    "slug": "balblna-steps-down-from-k27-912a7e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "balblna steps down from K27"
   },
   "9238a7f483": {
@@ -2974,10 +2996,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/from-chinese-prostitutes-to-oppression-the-woke-research-taxpayers-still-fund",
+   "message_id": 287,
+   "notified_at": 1792084915,
    "slug": "from-chinese-prostitutes-to-oppression-the-woke-research-b2fc82",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "From Chinese Prostitutes To \u2018Oppression\u2019: The Woke Research Taxpayers Still Fund"
   },
   "b43d362736": {
@@ -3001,10 +3025,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/dodgers-player-slams-soft-porn-during-baseball-games-as-sweeneys-nude-ad-hits-screens",
+   "message_id": 288,
+   "notified_at": 1792084917,
    "slug": "dodgers-player-slams-soft-porn-during-baseball-games-as-b4c790",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Dodgers Player Slams \u2018Soft Porn\u2019 During Baseball Games As Sweeney\u2019s Nude Ad Hits Screens"
   },
   "b551685e43": {
@@ -3085,10 +3111,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/floyd-mayweather-jr-is-latest-sports-legend-to-join-trumps-star-studded-rally-lineup",
+   "message_id": 283,
+   "notified_at": 1792084908,
    "slug": "floyd-mayweather-jr-is-latest-sports-legend-to-join-trumps-b911c6",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Floyd Mayweather Jr. Is Latest Sports Legend To Join Trump\u2019s Star-Studded Rally Lineup"
   },
   "b9de315f4f": {
@@ -3168,10 +3196,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/michigans-el-sayed-cornered-by-liberal-outlet-over-muslim-brotherhood-then-lashes-out",
+   "message_id": 279,
+   "notified_at": 1792084901,
    "slug": "michigans-el-sayed-cornered-by-liberal-outlet-over-muslim-bcc124",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Michigan\u2019s El-Sayed Cornered By Liberal Outlet Over Muslim Brotherhood, Then Lashes Out"
   },
   "bcc7f41c87": {
@@ -3395,10 +3425,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792084848,
    "guid": "https://www.dailywire.com/news/oh-god-oh-my-god-hayden-panettieres-final-moments-captured-in-911-call",
+   "message_id": 292,
+   "notified_at": 1792084924,
    "slug": "oh-god-oh-my-god-hayden-panettieres-final-moments-captured-cede6d",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "\u2018Oh God, Oh My God\u2019: Hayden Panettiere\u2019s Final Moments Captured In 911 Call"
   },
   "cf6406b2dc": {
@@ -3407,10 +3439,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792084848,
    "guid": "hltvnews45725",
+   "message_id": 293,
+   "notified_at": 1792084925,
    "slug": "krimbo-on-hectic-schedule-its-not-normal-but-its-unique-and-cf6406",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Krimbo on hectic schedule: \"It's not normal but it's unique, and I think it makes us stronger\""
   },
   "d089e68fa6": {
@@ -3623,10 +3657,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792084848,
    "guid": "hltvnews45727",
+   "message_id": 295,
+   "notified_at": 1792084929,
    "slug": "esic-bans-nomercy-for-match-manipulation-e35234",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "ESIC bans NOMERCY for match manipulation"
   },
   "e511985829": {
