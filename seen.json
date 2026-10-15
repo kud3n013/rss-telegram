@@ -969,10 +969,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/americas-me-first-meltdown",
+   "message_id": 315,
+   "notified_at": 1792105970,
    "slug": "americas-me-first-meltdown-1821f2",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "America\u2019s \u2018Me First\u2019 Meltdown"
   },
   "1972d821e7": {
@@ -1724,10 +1726,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792105911,
    "guid": "https://retractionwatch.com/?p=136239",
+   "message_id": 325,
+   "notified_at": 1792105990,
    "slug": "journal-retracts-republishes-paper-on-long-covid-treatment-3db594",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Journal retracts, republishes paper on Long COVID treatment trial"
   },
   "3f14d4dae9": {
@@ -1851,10 +1855,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792105911,
    "guid": "hltvnews45730",
+   "message_id": 326,
+   "notified_at": 1792105992,
    "slug": "furia-make-twc-playoffs-over-legacy-481527",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA make TWC playoffs over Legacy"
   },
   "4a70cb7801": {
@@ -1948,10 +1954,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/dem-run-state-faces-a-midterm-ballot-showdown-over-whos-eligible-to-vote",
+   "message_id": 314,
+   "notified_at": 1792105969,
    "slug": "dem-run-state-faces-a-midterm-ballot-showdown-over-whos-552b96",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Dem-Run State Faces A Midterm Ballot Showdown Over Who\u2019s Eligible To Vote"
   },
   "55628009f1": {
@@ -2076,10 +2084,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/the-future-through-red-green-colored-glasses",
+   "message_id": 316,
+   "notified_at": 1792105972,
    "slug": "the-future-through-red-green-colored-glasses-5d1b27",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The Future Through Red-Green Colored Glasses"
   },
   "5e7e3beb3d": {
@@ -2272,10 +2282,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/cornell-7-accusers-lawyer-gets-called-out-for-wanting-it-both-ways",
+   "message_id": 320,
+   "notified_at": 1792105980,
    "slug": "cornell-7-accusers-lawyer-gets-called-out-for-wanting-it-6afbd7",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "\u2018Cornell 7\u2019 Accuser\u2019s Lawyer Gets Called Out For Wanting It Both Ways"
   },
   "6b1ea9229f": {
@@ -2499,10 +2511,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/ms-rachel-can-be-replaced-your-values-cannot",
+   "message_id": 317,
+   "notified_at": 1792105974,
    "slug": "ms-rachel-can-be-replaced-your-values-cannot-783975",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Ms. Rachel Can Be Replaced. Your Values Cannot."
   },
   "7ccb4272f6": {
@@ -2807,10 +2821,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/multiple-people-including-children-shot-at-oregon-elementary-school",
+   "message_id": 319,
+   "notified_at": 1792105978,
    "slug": "several-children-adult-killed-in-shooting-at-oregon-90672f",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Several Children, Adult Killed In Shooting At Oregon Elementary School"
   },
   "912a7e7fe5": {
@@ -2961,10 +2977,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/jd-vance-wants-politicians-to-make-six-promises-about-your-tax-dollars",
+   "message_id": 324,
+   "notified_at": 1792105988,
    "slug": "jd-vance-wants-politicians-to-make-six-promises-about-your-99767d",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "JD Vance Wants Politicians To Make Six Promises About Your Tax Dollars"
   },
   "99a3ce12dd": {
@@ -3846,10 +3864,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/will-not-tolerate-rubio-hits-cuban-bank-for-helping-blacklisted-iranian-lender",
+   "message_id": 323,
+   "notified_at": 1792105986,
    "slug": "will-not-tolerate-rubio-hits-cuban-bank-for-helping-d16ea6",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "\u2018Will Not Tolerate\u2019: Rubio Hits Cuban Bank For Helping Blacklisted Iranian Lender"
   },
   "d26f988cd6": {
@@ -3916,10 +3936,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/socialist-sanders-to-barnstorm-key-red-states-ahead-of-midterms",
+   "message_id": 322,
+   "notified_at": 1792105984,
    "slug": "socialist-sanders-to-barnstorm-key-red-states-ahead-of-d8972e",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Socialist Sanders To Barnstorm Key Red States Ahead Of Midterms"
   },
   "dc0f4bf016": {
@@ -4169,10 +4191,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/customer-service-is-so-bad-that-im-siding-with-a-spoiled-celebrity",
+   "message_id": 318,
+   "notified_at": 1792105976,
    "slug": "customer-service-is-so-bad-that-im-siding-with-a-spoiled-f46d15",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Customer Service Is So Bad That I\u2019m Siding With A Spoiled Celebrity"
   },
   "f47d9e1a29": {
@@ -4251,10 +4275,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792105911,
    "guid": "https://www.dailywire.com/news/u-s-military-may-be-considering-dusting-off-the-moab-for-iran",
+   "message_id": 321,
+   "notified_at": 1792105982,
    "slug": "u-s-military-may-be-considering-dusting-off-the-moab-for-f83c34",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "U.S. Military May Be Considering Dusting Off The MOAB For Iran"
   },
   "f84c44e710": {
