@@ -1559,10 +1559,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792029276,
    "guid": "https://www.dailywire.com/news/ultimate-aim-of-ilhan-omar-probe-is-to-strip-her-citizenship-and-deport-her",
+   "message_id": 266,
+   "notified_at": 1792029326,
    "slug": "ultimate-aim-of-ilhan-omar-probe-is-to-strip-her-460db9",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Ultimate Aim Of Ilhan Omar Probe Is To Strip Her Citizenship And Deport Her"
   },
   "47160f724f": {
