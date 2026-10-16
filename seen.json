@@ -1485,10 +1485,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792187717,
    "guid": "hltvnews45739",
+   "message_id": 349,
+   "notified_at": 1792187776,
    "slug": "betboom-qualify-for-twc-playoffs-over-legacy-ae1630",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BETBOOM qualify for TWC playoffs over Legacy"
   },
   "b43d362736": {
@@ -1631,10 +1633,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792187717,
    "guid": "hltvnews45738",
+   "message_id": 348,
+   "notified_at": 1792187774,
    "slug": "nip-comeback-and-insani-hard-carry-headline-quarter-final-ced5d8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NIP comeback and insani hard-carry headline quarter-final day at Stake Pulse Beat III"
   },
   "cf6406b2dc": {
