@@ -652,10 +652,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792176883,
    "guid": "hltvnews45736",
+   "message_id": 341,
+   "notified_at": 1792176925,
    "slug": "aurora-beat-9z-to-secure-third-consecutive-top-four-264dca",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Aurora beat 9z to secure third consecutive top-four appearance"
   },
   "266a13b6c7": {
@@ -664,10 +666,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792176883,
    "guid": "https://proton.me/business/blog/cyber-insurance-requirements",
+   "message_id": 342,
+   "notified_at": 1792176927,
    "slug": "how-to-prepare-for-a-cyber-insurance-assessment-what-266a13",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How to prepare for a cyber insurance assessment: What underwriters check and how to qualify"
   },
   "280f015714": {
@@ -1218,10 +1222,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792176883,
    "guid": "https://proton.me/blog/google-selfie-video",
+   "message_id": 346,
+   "notified_at": 1792176934,
    "slug": "googles-selfie-video-sign-in-puts-your-face-on-its-servers-78d011",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Google\u2019s selfie video sign-in puts your face on its servers"
   },
   "7bdce12e5b": {
@@ -1671,10 +1677,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792176883,
    "guid": "https://proton.me/business/blog/security-incident-log",
+   "message_id": 344,
+   "notified_at": 1792176930,
    "slug": "security-incident-logs-how-to-create-logs-that-satisfy-gdpr-d83778",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Security incident logs: How to create logs that satisfy GDPR and regulators"
   },
   "deba9900f7": {
@@ -1683,10 +1691,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792176883,
    "guid": "hltvnews45737",
+   "message_id": 345,
+   "notified_at": 1792176932,
    "slug": "ash-maybe-wicadia-gets-top-20-this-year-maybe-not-but-deba99",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "ash: \"Maybe Wicadia gets top 20 this year, maybe not, but there's potential to be significantly more than that\""
   },
   "e34c90df2b": {
@@ -1738,10 +1748,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792176883,
    "guid": "https://proton.me/business/blog/vendor-risk-management",
+   "message_id": 343,
+   "notified_at": 1792176929,
    "slug": "third-party-vendor-risk-management-how-to-assess-and-e9b708",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Third-party vendor risk management: How to assess and monitor your supply chain security"
   },
   "ef46abd75f": {
