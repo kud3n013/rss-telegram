@@ -413,7 +413,10 @@
    "https://www.dailywire.com/news/jd-vance-wants-politicians-to-make-six-promises-about-your-tax-dollars",
    "https://www.dailywire.com/news/hundreds-of-troops-head-to-latin-america-to-deal-with-drug-traffickers",
    "https://www.dailywire.com/news/shut-up-dem-snaps-at-susan-collins-in-fiery-maine-senate-debate",
-   "https://www.dailywire.com/news/bright-side-the-one-band-that-ditches-politics"
+   "https://www.dailywire.com/news/bright-side-the-one-band-that-ditches-politics",
+   "https://www.dailywire.com/news/why-labeling-ordinary-unkindness-is-making-our-daughters-relationally-fragile",
+   "https://www.dailywire.com/news/why-these-high-school-girls-walked-away-for-truth-when-adults-refused",
+   "https://www.dailywire.com/news/flipping-the-15-million-bird-kelly-clarksons-asymmetric-social-warfare-on-atlantic-avenue"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -463,7 +466,9 @@
    "hltvnews45727",
    "hltvnews45728",
    "hltvnews45729",
-   "hltvnews45730"
+   "hltvnews45730",
+   "hltvnews45731",
+   "hltvnews45732"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -511,7 +516,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"c0994509abce5208a4e97f91316b8b0b\"",
@@ -526,20 +531,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf0-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
+   "etag": "W/\"6acd4cf3-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65de294c17767-gzip\"",
-   "last_modified": "Thu, 15 Oct 2026 15:19:59 GMT"
+   "etag": "\"2c3c8-65df29633acd6-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 10:25:43 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"a1c4a5671b155af595a172ba8482100f\"",
+   "etag": "\"4b9d9822b5d568bf7ad6e7a5b248fa2e\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 16 Oct 2026 06:04:00 GMT"
+   "last_modified": "Fri, 16 Oct 2026 11:16:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -554,8 +559,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad1bc8e-53c4\"",
-   "last_modified": "Fri, 16 Oct 2026 05:56:30 GMT"
+   "etag": "W/\"6ad20662-53c4\"",
+   "last_modified": "Fri, 16 Oct 2026 11:11:30 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -866,6 +871,18 @@
    "status": "pruned",
    "title": "\u2018Cerebral torment\u2019: IOP retracts nearly 100 conference papers for tortured phrases"
   },
+  "126a7917a1": {
+   "date": 1792147680,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792149376,
+   "guid": "hltvnews45732",
+   "slug": "fallen-theres-a-real-boost-from-winning-a-tournament-it-126a79",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FalleN: \"There's a real boost from winning a tournament; it would be great if we could feel that again\""
+  },
   "12e130d594": {
    "date": 1791806142,
    "excerpt_only": false,
@@ -1154,6 +1171,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "MOUZ beat Spirit en route to EPL final"
+  },
+  "2732a02d8a": {
+   "date": 1792116046,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792149376,
+   "guid": "https://www.dailywire.com/news/why-labeling-ordinary-unkindness-is-making-our-daughters-relationally-fragile",
+   "slug": "why-labeling-ordinary-unkindness-is-making-our-daughters-2732a0",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Why Labeling Ordinary Unkindness Is Making Our Daughters Relationally Fragile"
   },
   "2787c3d7bb": {
    "date": 1791822833,
@@ -1940,6 +1969,18 @@
    "status": "pruned",
    "title": "Dear Z-Librarians,"
   },
+  "516869ece7": {
+   "date": 1792144080,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792149376,
+   "guid": "hltvnews45731",
+   "slug": "opening-matchups-set-for-pgl-masters-bucharest-516869",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Opening matchups set for PGL Masters Bucharest"
+  },
   "5321a379cb": {
    "date": 1791961200,
    "excerpt_only": true,
@@ -2350,10 +2391,11 @@
    "guid": "https://retractionwatch.com/?p=136193",
    "message_id": 133,
    "notified_at": 1791890012,
+   "pruned_at": 1792149376,
    "slug": "a-company-named-springer-that-isnt-the-publisher-is-6cc303",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "A company named Springer that isn\u2019t the publisher is offering authorship for sale"
   },
   "6e02dccfdf": {
@@ -2720,10 +2762,11 @@
    "guid": "https://reason.com/?p=8405780",
    "message_id": 137,
    "notified_at": 1791890018,
+   "pruned_at": 1792149376,
    "slug": "a-new-supreme-court-case-tests-the-limits-of-judicial-850c10",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "A New Supreme Court Case Tests the Limits of Judicial Deference to Federal Agencies"
   },
   "863564f638": {
@@ -2739,6 +2782,18 @@
    "source_slug": "the-daily-wire",
    "status": "notified",
    "title": "Republicans Get Major Windfall As Hillary Clinton Returns To Spotlight Ahead Of Midterms"
+  },
+  "89e21aa5af": {
+   "date": 1792124109,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792149376,
+   "guid": "https://www.dailywire.com/news/why-these-high-school-girls-walked-away-for-truth-when-adults-refused",
+   "slug": "why-these-high-school-girls-walked-away-for-truth-when-89e21a",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Why These High School Girls Walked Away For Truth When Adults Refused"
   },
   "89ebea3f74": {
    "date": 1791928423,
@@ -3690,10 +3745,11 @@
    "guid": "https://reason.com/?p=8405713",
    "message_id": 135,
    "notified_at": 1791890015,
+   "pruned_at": 1792149376,
    "slug": "brickbat-paying-the-piper-c1c539",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Brickbat: Paying the Piper"
   },
   "c4377c3f52": {
@@ -3738,6 +3794,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Sashi drop chelleos after two days"
+  },
+  "c8cf4f6ade": {
+   "date": 1792124218,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792149376,
+   "guid": "https://www.dailywire.com/news/flipping-the-15-million-bird-kelly-clarksons-asymmetric-social-warfare-on-atlantic-avenue",
+   "slug": "flipping-the-15-million-bird-kelly-clarksons-asymmetric-c8cf4f",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Flipping The $15 Million Bird: Kelly Clarkson\u2019s Asymmetric Social Warfare On Atlantic Avenue"
   },
   "c8feca95b1": {
    "date": 1790812800,
@@ -4021,10 +4089,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8405672",
    "message_id": 134,
    "notified_at": 1791890013,
+   "pruned_at": 1792149376,
    "slug": "open-thread-dd4bd6",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Open Thread"
   },
   "de393e9a83": {
@@ -4220,10 +4289,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8366006",
    "message_id": 136,
    "notified_at": 1791890017,
+   "pruned_at": 1792149376,
    "slug": "today-in-supreme-court-history-october-13-1890-f0e424",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Today in Supreme Court History: October 13, 1890"
   },
   "f46d154d76": {
