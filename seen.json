@@ -530,10 +530,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792164266,
    "guid": "hltvnews45733",
+   "message_id": 337,
+   "notified_at": 1792164318,
    "slug": "blast-rivals-season-2-team-list-revealed-12fb57",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BLAST Rivals Season 2 team list revealed"
   },
   "138906c323": {
@@ -1185,10 +1187,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792164266,
    "guid": "hltvnews45735",
+   "message_id": 339,
+   "notified_at": 1792164321,
    "slug": "esic-imposes-lifetime-ban-on-playn-77613d",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "ESIC imposes lifetime ban on playN"
   },
   "7bdce12e5b": {
@@ -1197,10 +1201,12 @@
    "feed": "https://github.com/imputnet/helium/releases.atom",
    "fetched": 1792164266,
    "guid": "tag:github.com,2008:Repository/933197458/0.19.4",
+   "message_id": 340,
+   "notified_at": 1792164323,
    "slug": "0-19-4-7bdce1",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "0.19.4"
   },
   "7f100bc7eb": {
@@ -1310,10 +1316,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792164266,
    "guid": "hltvnews45734",
+   "message_id": 338,
+   "notified_at": 1792164320,
    "slug": "stikle-takes-over-as-head-coach-of-inner-circle-96082e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "stikle- takes over as head coach of Inner Circle"
   },
   "9b0f8c643a": {
