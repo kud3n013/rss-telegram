@@ -62,5 +62,3 @@ feeds:
     mode: feed
     min_chars: 0
     # filter: {title_contains: [Epic]}   # uncomment to mirror only the Epic freebies
-  - url: https://www.dailywire.com/feeds/rss.xml
-    name: The Daily Wire
