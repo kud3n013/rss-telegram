@@ -877,10 +877,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792149376,
    "guid": "hltvnews45732",
+   "message_id": 334,
+   "notified_at": 1792149440,
    "slug": "fallen-theres-a-real-boost-from-winning-a-tournament-it-126a79",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FalleN: \"There's a real boost from winning a tournament; it would be great if we could feel that again\""
   },
   "12e130d594": {
@@ -1178,10 +1180,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792149376,
    "guid": "https://www.dailywire.com/news/why-labeling-ordinary-unkindness-is-making-our-daughters-relationally-fragile",
+   "message_id": 330,
+   "notified_at": 1792149433,
    "slug": "why-labeling-ordinary-unkindness-is-making-our-daughters-2732a0",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Why Labeling Ordinary Unkindness Is Making Our Daughters Relationally Fragile"
   },
   "2787c3d7bb": {
@@ -1975,10 +1979,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792149376,
    "guid": "hltvnews45731",
+   "message_id": 333,
+   "notified_at": 1792149439,
    "slug": "opening-matchups-set-for-pgl-masters-bucharest-516869",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Opening matchups set for PGL Masters Bucharest"
   },
   "5321a379cb": {
@@ -2789,10 +2795,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792149376,
    "guid": "https://www.dailywire.com/news/why-these-high-school-girls-walked-away-for-truth-when-adults-refused",
+   "message_id": 331,
+   "notified_at": 1792149435,
    "slug": "why-these-high-school-girls-walked-away-for-truth-when-89e21a",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Why These High School Girls Walked Away For Truth When Adults Refused"
   },
   "89ebea3f74": {
@@ -3801,10 +3809,12 @@
    "feed": "https://www.dailywire.com/feeds/rss.xml",
    "fetched": 1792149376,
    "guid": "https://www.dailywire.com/news/flipping-the-15-million-bird-kelly-clarksons-asymmetric-social-warfare-on-atlantic-avenue",
+   "message_id": 332,
+   "notified_at": 1792149437,
    "slug": "flipping-the-15-million-bird-kelly-clarksons-asymmetric-c8cf4f",
    "source": "The Daily Wire",
    "source_slug": "the-daily-wire",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Flipping The $15 Million Bird: Kelly Clarkson\u2019s Asymmetric Social Warfare On Atlantic Avenue"
   },
   "c8feca95b1": {
