@@ -77,7 +77,8 @@
    "tag:github.com,2008:Repository/933197458/0.17.0",
    "tag:github.com,2008:Repository/933197458/0.16.6",
    "tag:github.com,2008:Repository/933197458/0.16.5",
-   "tag:github.com,2008:Repository/933197458/0.19.3"
+   "tag:github.com,2008:Repository/933197458/0.19.3",
+   "tag:github.com,2008:Repository/933197458/0.19.4"
   ],
   "https://github.com/zen-browser/desktop/releases.atom": [
    "tag:github.com,2008:Repository/778556932/1.23.2b",
@@ -294,7 +295,10 @@
    "hltvnews45729",
    "hltvnews45730",
    "hltvnews45731",
-   "hltvnews45732"
+   "hltvnews45732",
+   "hltvnews45733",
+   "hltvnews45734",
+   "hltvnews45735"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -342,10 +346,10 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
-   "etag": "W/\"c0994509abce5208a4e97f91316b8b0b\"",
+   "etag": "W/\"1651e0ead0ea28a3fc99947f044b65f7\"",
    "last_modified": null
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
@@ -357,12 +361,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65df29633acd6-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 10:25:43 GMT"
+   "etag": "\"2c3c8-65df29cd5b846-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 10:27:34 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4b9d9822b5d568bf7ad6e7a5b248fa2e\"",
@@ -370,7 +374,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 16 Oct 2026 11:16:00 GMT"
+   "last_modified": "Fri, 16 Oct 2026 15:24:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -381,8 +385,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad20662-53c4\"",
-   "last_modified": "Fri, 16 Oct 2026 11:11:30 GMT"
+   "etag": "W/\"6ad23ea2-53c4\"",
+   "last_modified": "Fri, 16 Oct 2026 15:11:30 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -519,6 +523,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "How to write a follow up email: a practical guide"
+  },
+  "12fb575d9a": {
+   "date": 1792150560,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792164266,
+   "guid": "hltvnews45733",
+   "slug": "blast-rivals-season-2-team-list-revealed-12fb57",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BLAST Rivals Season 2 team list revealed"
   },
   "138906c323": {
    "date": 1791714840,
@@ -1163,6 +1179,30 @@
    "status": "pruned",
    "title": "Locked In, Locked Out - Apple's Walled Garden Should Come With Liability"
   },
+  "77613d727c": {
+   "date": 1792159920,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792164266,
+   "guid": "hltvnews45735",
+   "slug": "esic-imposes-lifetime-ban-on-playn-77613d",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "ESIC imposes lifetime ban on playN"
+  },
+  "7bdce12e5b": {
+   "date": 1792161717,
+   "excerpt_only": false,
+   "feed": "https://github.com/imputnet/helium/releases.atom",
+   "fetched": 1792164266,
+   "guid": "tag:github.com,2008:Repository/933197458/0.19.4",
+   "slug": "0-19-4-7bdce1",
+   "source": "Helium browser releases",
+   "source_slug": "helium-browser-releases",
+   "status": "mirrored",
+   "title": "0.19.4"
+  },
   "7f100bc7eb": {
    "date": 1791796620,
    "excerpt_only": false,
@@ -1263,6 +1303,18 @@
    "source_slug": "annas-archive-blog",
    "status": "pruned",
    "title": "AI companies destroy physical books \u2014 let\u2019s scan rare books before it\u2019s too late"
+  },
+  "96082e8cf3": {
+   "date": 1792157100,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792164266,
+   "guid": "hltvnews45734",
+   "slug": "stikle-takes-over-as-head-coach-of-inner-circle-96082e",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "stikle- takes over as head coach of Inner Circle"
   },
   "9b0f8c643a": {
    "date": 1791986657,
@@ -1675,5 +1727,5 @@
    "title": "Former Crick Ph.D. student loses COVID vaccine paper for fabrication"
   }
  },
- "tg_offset": 172773844
+ "tg_offset": 172773846
 }
