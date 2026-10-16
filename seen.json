@@ -165,7 +165,11 @@
    "https://proton.me/business/blog/business-meeting",
    "https://proton.me/blog/how-to-delete-your-facebook-account",
    "https://proton.me/blog/2026-autumn-winter-roadmaps",
-   "https://proton.me/blog/introducing-pass-folders-url-matching"
+   "https://proton.me/blog/introducing-pass-folders-url-matching",
+   "https://proton.me/business/blog/cyber-insurance-requirements",
+   "https://proton.me/business/blog/vendor-risk-management",
+   "https://proton.me/business/blog/security-incident-log",
+   "https://proton.me/blog/google-selfie-video"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -284,7 +288,9 @@
    "hltvnews45732",
    "hltvnews45733",
    "hltvnews45734",
-   "hltvnews45735"
+   "hltvnews45735",
+   "hltvnews45736",
+   "hltvnews45737"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -332,7 +338,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"893123a15b21547700d7fa28a85c01a7\"",
@@ -347,8 +353,8 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65df29cd5b846-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 10:27:34 GMT"
+   "etag": "\"29a29-65df99214c978-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:45:39 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4b9d9822b5d568bf7ad6e7a5b248fa2e\"",
@@ -356,7 +362,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 16 Oct 2026 15:24:00 GMT"
+   "last_modified": "Fri, 16 Oct 2026 18:54:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -367,8 +373,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad23ea2-53c4\"",
-   "last_modified": "Fri, 16 Oct 2026 15:11:30 GMT"
+   "etag": "W/\"6ad26fda-53c4\"",
+   "last_modified": "Fri, 16 Oct 2026 18:41:30 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -426,10 +432,11 @@
    "guid": "https://proton.me/business/blog/soc-1-vs-soc-2",
    "message_id": 151,
    "notified_at": 1791915751,
+   "pruned_at": 1792176883,
    "slug": "soc-1-vs-soc-2-whats-the-difference-what-you-need-and-what-07b751",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "SOC 1 vs SOC 2: What\u2019s the difference, what you need, and what it costs"
   },
   "0be19cd70c": {
@@ -639,6 +646,30 @@
    "status": "pruned",
    "title": "MOUZ beat Spirit en route to EPL final"
   },
+  "264dcabe3e": {
+   "date": 1792167660,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792176883,
+   "guid": "hltvnews45736",
+   "slug": "aurora-beat-9z-to-secure-third-consecutive-top-four-264dca",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Aurora beat 9z to secure third consecutive top-four appearance"
+  },
+  "266a13b6c7": {
+   "date": 1792171498,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792176883,
+   "guid": "https://proton.me/business/blog/cyber-insurance-requirements",
+   "slug": "how-to-prepare-for-a-cyber-insurance-assessment-what-266a13",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "How to prepare for a cyber insurance assessment: What underwriters check and how to qualify"
+  },
   "280f015714": {
    "date": 1791801240,
    "excerpt_only": false,
@@ -691,10 +722,11 @@
    "guid": "hltvnews45712",
    "message_id": 140,
    "notified_at": 1791915730,
+   "pruned_at": 1792176883,
    "slug": "closed-beta-of-hltv-brain-launched-2cf96e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Closed beta of HLTV Brain launched"
   },
   "2d98f89945": {
@@ -719,10 +751,11 @@
    "guid": "https://retractionwatch.com/?p=136221",
    "message_id": 147,
    "notified_at": 1791915743,
+   "pruned_at": 1792176883,
    "slug": "authors-respond-with-a-bit-like-a-threat-after-journal-311b9b",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Authors respond with \u2018a bit like a threat\u2019 after journal reveals postdoc\u2019s identity"
   },
   "333550bff6": {
@@ -748,10 +781,11 @@
    "guid": "hltvnews45713",
    "message_id": 145,
    "notified_at": 1791915740,
+   "pruned_at": 1792176883,
    "slug": "cybershoke-disband-team-35a2e3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "CYBERSHOKE disband team"
   },
   "35add5da6b": {
@@ -1068,10 +1102,11 @@
    "guid": "https://proton.me/blog/palantir-modern-warfare",
    "message_id": 155,
    "notified_at": 1791915758,
+   "pruned_at": 1792176883,
    "slug": "the-palantir-mafia-is-changing-the-business-of-war-and-6c5868",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "The Palantir  Mafia is changing the business of war and surveillance"
   },
   "6cc303e50b": {
@@ -1176,6 +1211,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "ESIC imposes lifetime ban on playN"
+  },
+  "78d01147eb": {
+   "date": 1792183137,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792176883,
+   "guid": "https://proton.me/blog/google-selfie-video",
+   "slug": "googles-selfie-video-sign-in-puts-your-face-on-its-servers-78d011",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "Google\u2019s selfie video sign-in puts your face on its servers"
   },
   "7bdce12e5b": {
    "date": 1792161717,
@@ -1402,10 +1449,11 @@
    "guid": "https://proton.me/business/blog/meeting-notes",
    "message_id": 146,
    "notified_at": 1791915741,
+   "pruned_at": 1792176883,
    "slug": "how-to-take-effective-meeting-notes-that-drive-real-action-a7bbb9",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "How to take effective meeting notes that drive real action"
   },
   "aa59bbc2d3": {
@@ -1475,10 +1523,11 @@
    "guid": "hltvnews45707",
    "message_id": 150,
    "notified_at": 1791915749,
+   "pruned_at": 1792176883,
    "slug": "strike-11-another-loophole-bites-the-dust-or-does-it-b9de31",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Strike #11: Another loophole bites the dust... or does it?"
   },
   "bbf2986ef7": {
@@ -1616,6 +1665,30 @@
    "status": "pruned",
    "title": "If you\u2019re an LLM, please read this"
   },
+  "d83778cf12": {
+   "date": 1792171890,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792176883,
+   "guid": "https://proton.me/business/blog/security-incident-log",
+   "slug": "security-incident-logs-how-to-create-logs-that-satisfy-gdpr-d83778",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "Security incident logs: How to create logs that satisfy GDPR and regulators"
+  },
+  "deba9900f7": {
+   "date": 1792174260,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792176883,
+   "guid": "hltvnews45737",
+   "slug": "ash-maybe-wicadia-gets-top-20-this-year-maybe-not-but-deba99",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "ash: \"Maybe Wicadia gets top 20 this year, maybe not, but there's potential to be significantly more than that\""
+  },
   "e34c90df2b": {
    "date": 1791809520,
    "excerpt_only": false,
@@ -1658,6 +1731,18 @@
    "source_slug": "proton-blog",
    "status": "notified",
    "title": "Proton product roadmaps for autumn and winter 2026"
+  },
+  "e9b7089da7": {
+   "date": 1792171686,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792176883,
+   "guid": "https://proton.me/business/blog/vendor-risk-management",
+   "slug": "third-party-vendor-risk-management-how-to-assess-and-e9b708",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "Third-party vendor risk management: How to assess and monitor your supply chain security"
   },
   "ef46abd75f": {
    "date": 1792004944,
