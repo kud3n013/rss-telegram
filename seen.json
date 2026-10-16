@@ -412,7 +412,8 @@
    "https://www.dailywire.com/news/will-not-tolerate-rubio-hits-cuban-bank-for-helping-blacklisted-iranian-lender",
    "https://www.dailywire.com/news/jd-vance-wants-politicians-to-make-six-promises-about-your-tax-dollars",
    "https://www.dailywire.com/news/hundreds-of-troops-head-to-latin-america-to-deal-with-drug-traffickers",
-   "https://www.dailywire.com/news/shut-up-dem-snaps-at-susan-collins-in-fiery-maine-senate-debate"
+   "https://www.dailywire.com/news/shut-up-dem-snaps-at-susan-collins-in-fiery-maine-senate-debate",
+   "https://www.dailywire.com/news/bright-side-the-one-band-that-ditches-politics"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -510,7 +511,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"c0994509abce5208a4e97f91316b8b0b\"",
@@ -529,8 +530,8 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65de29565bb29-gzip\"",
-   "last_modified": "Thu, 15 Oct 2026 15:20:10 GMT"
+   "etag": "\"2c3c8-65de294c17767-gzip\"",
+   "last_modified": "Thu, 15 Oct 2026 15:19:59 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"a1c4a5671b155af595a172ba8482100f\"",
@@ -538,7 +539,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 16 Oct 2026 01:22:00 GMT"
+   "last_modified": "Fri, 16 Oct 2026 06:04:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -553,8 +554,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad179c1-53c4\"",
-   "last_modified": "Fri, 16 Oct 2026 01:11:29 GMT"
+   "etag": "W/\"6ad1bc8e-53c4\"",
+   "last_modified": "Fri, 16 Oct 2026 05:56:30 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1353,6 +1354,18 @@
    "source_slug": "reason-magazine",
    "status": "notified",
    "title": "Today in Supreme Court History: October 14, 1911"
+  },
+  "30258558c9": {
+   "date": 1792112457,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792130751,
+   "guid": "https://www.dailywire.com/news/bright-side-the-one-band-that-ditches-politics",
+   "slug": "bright-side-the-one-band-that-ditches-politics-302585",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Bright Side: The One Band That Ditches Politics"
   },
   "30aa466ecb": {
    "date": 1791633626,
