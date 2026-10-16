@@ -410,7 +410,9 @@
    "https://www.dailywire.com/news/u-s-military-may-be-considering-dusting-off-the-moab-for-iran",
    "https://www.dailywire.com/news/socialist-sanders-to-barnstorm-key-red-states-ahead-of-midterms",
    "https://www.dailywire.com/news/will-not-tolerate-rubio-hits-cuban-bank-for-helping-blacklisted-iranian-lender",
-   "https://www.dailywire.com/news/jd-vance-wants-politicians-to-make-six-promises-about-your-tax-dollars"
+   "https://www.dailywire.com/news/jd-vance-wants-politicians-to-make-six-promises-about-your-tax-dollars",
+   "https://www.dailywire.com/news/hundreds-of-troops-head-to-latin-america-to-deal-with-drug-traffickers",
+   "https://www.dailywire.com/news/shut-up-dem-snaps-at-susan-collins-in-fiery-maine-senate-debate"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -508,7 +510,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/imputnet/helium/releases.atom": {
    "etag": "W/\"c0994509abce5208a4e97f91316b8b0b\"",
@@ -527,16 +529,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2c3c8-65de2966b740c-gzip\"",
-   "last_modified": "Thu, 15 Oct 2026 15:20:27 GMT"
+   "etag": "\"2c3c8-65de29565bb29-gzip\"",
+   "last_modified": "Thu, 15 Oct 2026 15:20:10 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"4b9d9822b5d568bf7ad6e7a5b248fa2e\"",
-   "last_modified": "Thu, 15 Oct 2026 20:55:10 GMT"
+   "etag": "\"a1c4a5671b155af595a172ba8482100f\"",
+   "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 15 Oct 2026 23:12:00 GMT"
+   "last_modified": "Fri, 16 Oct 2026 01:22:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -551,8 +553,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad15da1-53c4\"",
-   "last_modified": "Thu, 15 Oct 2026 23:11:29 GMT"
+   "etag": "W/\"6ad179c1-53c4\"",
+   "last_modified": "Fri, 16 Oct 2026 01:11:29 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -696,10 +698,11 @@
    "guid": "https://reason.com/?p=8405815",
    "message_id": 131,
    "notified_at": 1791848084,
+   "pruned_at": 1792113824,
    "slug": "fbi-foils-plot-to-attack-mall-of-america-with-fbi-provided-05bcb7",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "FBI Foils Plot To Attack Mall of America With FBI-Provided AK-47"
   },
   "05c1c5d1ae": {
@@ -710,10 +713,11 @@
    "guid": "https://reason.com/?p=8405701",
    "message_id": 124,
    "notified_at": 1791848073,
+   "pruned_at": 1792113824,
    "slug": "tv-networks-protested-press-bans-by-declining-to-cover-05c1c5",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "TV Networks Protested Press Bans by Declining To Cover Trump. That Might Have Been Illegal, the DOJ Says."
   },
   "07b29887d1": {
@@ -1230,10 +1234,11 @@
    "guid": "https://reason.com/?p=8405782",
    "message_id": 125,
    "notified_at": 1791848074,
+   "pruned_at": 1792113824,
    "slug": "are-warrantless-phone-searches-at-the-border-constitutional-2a0943",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Are Warrantless Phone Searches at the Border Constitutional? The Supreme Court May Soon Decide."
   },
   "2a1022aafa": {
@@ -2100,10 +2105,11 @@
    "guid": "https://reason.com/?p=8405712",
    "message_id": 122,
    "notified_at": 1791848069,
+   "pruned_at": 1792113824,
    "slug": "michigan-congressman-proposes-using-tariff-revenue-for-5e7e3b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Michigan Congressman Proposes Using Tariff Revenue for Tariff Relief Fund"
   },
   "5efd34a037": {
@@ -2213,10 +2219,11 @@
    "guid": "https://reason.com/?p=8405810",
    "message_id": 129,
    "notified_at": 1791848081,
+   "pruned_at": 1792113824,
    "slug": "thinking-of-sending-a-nude-shrek-pic-to-an-ohio-official-69b761",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Thinking of Sending a Nude Shrek Pic to an Ohio Official? You Could Be Found Guilty of Harassment."
   },
   "6a5404c7b6": {
@@ -2270,10 +2277,11 @@
    "guid": "hltvnews45710",
    "message_id": 127,
    "notified_at": 1791848078,
+   "pruned_at": 1792113824,
    "slug": "falcons-and-aurora-players-are-most-picked-in-twc-2026-6aec8d",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Falcons and Aurora players are most-picked in TWC 2026 Fantasy"
   },
   "6afbd78883": {
@@ -2598,10 +2606,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8405766",
    "message_id": 123,
    "notified_at": 1791848071,
+   "pruned_at": 1792113824,
    "slug": "the-forgotten-origins-of-columbus-day-8039a1",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "The Forgotten Origins of Columbus Day"
   },
   "80c0597a97": {
@@ -3194,10 +3203,11 @@
    "guid": "https://reason.com/?p=8405772",
    "message_id": 126,
    "notified_at": 1791848076,
+   "pruned_at": 1792113824,
    "slug": "dhs-searched-ilhan-omars-home-as-part-of-immigration-fraud-a6cd4b",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "DHS Searched Ilhan Omar's Home as Part of Immigration Fraud Investigation"
   },
   "a7bbb9b985": {
@@ -3765,10 +3775,11 @@
    "guid": "https://reason.com/?post_type=podcast&p=8405751",
    "message_id": 130,
    "notified_at": 1791848083,
+   "pruned_at": 1792113824,
    "slug": "j-d-vance-is-playing-dumb-about-socialism-ccb6b4",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "J.D. Vance Is Playing Dumb About Socialism"
   },
   "cd84650ae9": {
@@ -3915,6 +3926,18 @@
    "source_slug": "annas-archive-blog",
    "status": "pruned",
    "title": "If you\u2019re an LLM, please read this"
+  },
+  "d4100b653f": {
+   "date": 1792091442,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792113824,
+   "guid": "https://www.dailywire.com/news/hundreds-of-troops-head-to-latin-america-to-deal-with-drug-traffickers",
+   "slug": "hundreds-of-troops-head-to-latin-america-to-deal-with-drug-d4100b",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "Hundreds Of Troops Head To Latin America To Deal With Drug Traffickers"
   },
   "d70c3701f6": {
    "date": 1791914422,
@@ -4081,10 +4104,11 @@
    "guid": "https://reason.com/?p=8405669",
    "message_id": 128,
    "notified_at": 1791848079,
+   "pruned_at": 1792113824,
    "slug": "release-the-kelly-clarkson-tapes-e700da",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Release the Kelly Clarkson Tapes"
   },
   "e72b49ce10": {
@@ -4255,6 +4279,18 @@
    "status": "notified",
    "title": "NIP spared scheduling headache after early Thunderpick World Championship exit"
   },
+  "f66d3868f2": {
+   "date": 1792094166,
+   "excerpt_only": false,
+   "feed": "https://www.dailywire.com/feeds/rss.xml",
+   "fetched": 1792113824,
+   "guid": "https://www.dailywire.com/news/shut-up-dem-snaps-at-susan-collins-in-fiery-maine-senate-debate",
+   "slug": "shut-up-dem-snaps-at-susan-collins-in-fiery-maine-senate-f66d38",
+   "source": "The Daily Wire",
+   "source_slug": "the-daily-wire",
+   "status": "mirrored",
+   "title": "\u2018Shut Up\u2019: Dem Snaps At Susan Collins In Fiery Maine Senate Debate"
+  },
   "f8069e5d53": {
    "date": 1791913542,
    "excerpt_only": false,
@@ -4376,10 +4412,11 @@
    "guid": "https://reason.com/?post_type=volokh-post&p=8405841",
    "message_id": 132,
    "notified_at": 1791848086,
+   "pruned_at": 1792113824,
    "slug": "congratulations-to-the-hoover-institutions-robert-e-hall-on-fd4750",
    "source": "Reason Magazine",
    "source_slug": "reason-magazine",
-   "status": "notified",
+   "status": "pruned",
    "title": "Congratulations to the Hoover Institution's Robert E. Hall, on His Economics Nobel Prize"
   },
   "fdfb01c1e4": {
