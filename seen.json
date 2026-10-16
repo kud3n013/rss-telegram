@@ -290,7 +290,9 @@
    "hltvnews45734",
    "hltvnews45735",
    "hltvnews45736",
-   "hltvnews45737"
+   "hltvnews45737",
+   "hltvnews45738",
+   "hltvnews45739"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -338,7 +340,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"893123a15b21547700d7fa28a85c01a7\"",
@@ -349,12 +351,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf0-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
+   "etag": "W/\"6acd4cf3-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df99214c978-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:45:39 GMT"
+   "etag": "\"29a29-65df990802afa-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:45:12 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4b9d9822b5d568bf7ad6e7a5b248fa2e\"",
@@ -362,7 +364,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 16 Oct 2026 18:54:00 GMT"
+   "last_modified": "Fri, 16 Oct 2026 21:54:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -373,8 +375,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad26fda-53c4\"",
-   "last_modified": "Fri, 16 Oct 2026 18:41:30 GMT"
+   "etag": "W/\"6ad29a0b-53c4\"",
+   "last_modified": "Fri, 16 Oct 2026 21:41:31 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1477,6 +1479,18 @@
    "status": "pruned",
    "title": "Aurora claim third at EPL with Spirit sweep"
   },
+  "ae1630535d": {
+   "date": 1792183680,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792187717,
+   "guid": "hltvnews45739",
+   "slug": "betboom-qualify-for-twc-playoffs-over-legacy-ae1630",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BETBOOM qualify for TWC playoffs over Legacy"
+  },
   "b43d362736": {
    "date": 1791218097,
    "excerpt_only": false,
@@ -1610,6 +1624,18 @@
    "source_slug": "obsidian-blog",
    "status": "pruned",
    "title": "Obsidian October 2026"
+  },
+  "ced5d8491e": {
+   "date": 1792179120,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792187717,
+   "guid": "hltvnews45738",
+   "slug": "nip-comeback-and-insani-hard-carry-headline-quarter-final-ced5d8",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "NIP comeback and insani hard-carry headline quarter-final day at Stake Pulse Beat III"
   },
   "cf6406b2dc": {
    "date": 1792068780,
@@ -1814,5 +1840,5 @@
    "title": "Former Crick Ph.D. student loses COVID vaccine paper for fabrication"
   }
  },
- "tg_offset": 172773846
+ "tg_offset": 172773848
 }
