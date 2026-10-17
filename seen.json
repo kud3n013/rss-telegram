@@ -76,7 +76,8 @@
    "tag:github.com,2008:Repository/778556932/1.22b",
    "tag:github.com,2008:Repository/778556932/1.21.16b",
    "tag:github.com,2008:Repository/778556932/1.21.15b",
-   "tag:github.com,2008:Repository/778556932/1.21.14b"
+   "tag:github.com,2008:Repository/778556932/1.21.14b",
+   "tag:github.com,2008:Repository/778556932/1.23.3b"
   ],
   "https://mastodon.social/@Z_Lib_official.rss": [
    "https://mastodon.social/@Z_Lib_official/117291996621050541",
@@ -340,10 +341,10 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
-   "etag": "W/\"893123a15b21547700d7fa28a85c01a7\"",
+   "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
@@ -351,12 +352,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df990802afa-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:45:12 GMT"
+   "etag": "\"29a29-65df99214c978-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:45:39 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4b9d9822b5d568bf7ad6e7a5b248fa2e\"",
@@ -364,7 +365,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 16 Oct 2026 21:54:00 GMT"
+   "last_modified": "Sat, 17 Oct 2026 00:10:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -375,8 +376,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad29a0b-53c4\"",
-   "last_modified": "Fri, 16 Oct 2026 21:41:31 GMT"
+   "etag": "W/\"6ad2b9af-53c4\"",
+   "last_modified": "Fri, 16 Oct 2026 23:56:31 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -743,10 +744,11 @@
    "guid": "https://allenai.org/blog/molmo2fish",
    "message_id": 158,
    "notified_at": 1791932325,
+   "pruned_at": 1792195829,
    "slug": "how-molmo-2s-open-release-helped-an-mit-researcher-rethink-2d98f8",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "How Molmo 2\u2019s open release helped an MIT researcher rethink fish tracking"
   },
   "311b9bf2a5": {
@@ -1284,10 +1286,11 @@
    "guid": "hltvnews45715",
    "message_id": 179,
    "notified_at": 1791932362,
+   "pruned_at": 1792195829,
    "slug": "brnz4n-departs-mibr-8dde15",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "brnz4n departs MIBR"
   },
   "904ce81ef6": {
@@ -1531,10 +1534,11 @@
    "guid": "hltvnews45714",
    "message_id": 176,
    "notified_at": 1791932357,
+   "pruned_at": 1792195829,
    "slug": "official-astralis-sign-siuhy-and-cmtry-b7f45e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Official: Astralis sign siuhy and cmtry"
   },
   "b9de315f4f": {
@@ -1728,6 +1732,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "ash: \"Maybe Wicadia gets top 20 this year, maybe not, but there's potential to be significantly more than that\""
+  },
+  "e084840a2d": {
+   "date": 1792188530,
+   "excerpt_only": false,
+   "feed": "https://github.com/zen-browser/desktop/releases.atom",
+   "fetched": 1792195829,
+   "guid": "tag:github.com,2008:Repository/778556932/1.23.3b",
+   "slug": "release-build-1-23-3b-2026-10-16-e08484",
+   "source": "Zen Browser releases",
+   "source_slug": "zen-browser-releases",
+   "status": "mirrored",
+   "title": "Release build - 1.23.3b (2026-10-16)"
   },
   "e34c90df2b": {
    "date": 1791809520,
