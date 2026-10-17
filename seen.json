@@ -473,10 +473,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792269102,
    "guid": "hltvnews45746",
+   "message_id": 359,
+   "notified_at": 1792269181,
    "slug": "betboom-stun-falcons-to-make-twc-grand-final-0c66fd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BETBOOM stun Falcons to make TWC grand final"
   },
   "0fdb3ea22a": {
@@ -941,10 +943,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792269102,
    "guid": "hltvnews45745",
+   "message_id": 358,
+   "notified_at": 1792269179,
    "slug": "vitality-headquarters-in-paris-vandalized-4211c5",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Vitality headquarters in Paris vandalized"
   },
   "447f98d23c": {
