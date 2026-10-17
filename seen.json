@@ -298,7 +298,9 @@
    "hltvnews45739",
    "hltvnews45740",
    "hltvnews45741",
-   "hltvnews45742"
+   "hltvnews45742",
+   "hltvnews45743",
+   "hltvnews45744"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -361,8 +363,8 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df98f37c594-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:44:51 GMT"
+   "etag": "\"29a29-65df98e074b89-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:44:31 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"698bdd92ec575a6cef989c56f719fcee\"",
@@ -370,7 +372,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 17 Oct 2026 15:52:00 GMT"
+   "last_modified": "Sat, 17 Oct 2026 18:06:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -381,8 +383,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad3972c-53c4\"",
-   "last_modified": "Sat, 17 Oct 2026 15:41:32 GMT"
+   "etag": "W/\"6ad3b6d0-53c4\"",
+   "last_modified": "Sat, 17 Oct 2026 17:56:32 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -884,10 +886,11 @@
    "guid": "hltvnews45719",
    "message_id": 226,
    "notified_at": 1791999374,
+   "pruned_at": 1792260351,
    "slug": "bit-if-we-make-it-back-to-the-playoffs-consistently-im-sure-3ae34a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BIT: \"If we make it back to the playoffs consistently, I'm sure at some point we'll win another tournament\""
   },
   "3c83b82704": {
@@ -932,6 +935,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "Run more secure, organized meetings with new Proton Meet features"
+  },
+  "4779bcf848": {
+   "date": 1792253100,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792260351,
+   "guid": "hltvnews45743",
+   "slug": "furia-ease-past-aurora-into-twc-final-4779bc",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA ease past Aurora into TWC final"
   },
   "47bda62ca1": {
    "date": 1791747900,
@@ -1088,10 +1103,11 @@
    "guid": "https://allenai.org/blog/hiro-acev2",
    "message_id": 207,
    "notified_at": 1791999338,
+   "pruned_at": 1792260351,
    "slug": "hiro-acev2-simulating-extreme-weather-at-3-km-resolution-6ac667",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
   },
   "6aec8df6df": {
@@ -1897,6 +1913,18 @@
    "source_slug": "retraction-watch",
    "status": "notified",
    "title": "Paper touted by MD Anderson gets expression of concern for data \u2018concerns\u2019"
+  },
+  "f28551b23b": {
+   "date": 1792255800,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792260351,
+   "guid": "hltvnews45744",
+   "slug": "yuurih-wed-be-very-happy-to-win-this-event-especially-if-f28551",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "yuurih: \"We'd be very happy [to win this event], especially if it's against Falcons; we're trying to beat the best teams\""
   },
   "f64e51f549": {
    "date": 1792062540,
