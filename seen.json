@@ -189,7 +189,8 @@
    "https://retractionwatch.com/?p=136230",
    "https://retractionwatch.com/?p=136234",
    "https://retractionwatch.com/?p=136239",
-   "https://retractionwatch.com/?p=136256"
+   "https://retractionwatch.com/?p=136256",
+   "https://retractionwatch.com/?p=136250"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -360,16 +361,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df99214c978-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:45:39 GMT"
+   "etag": "\"29a29-65df98f37c594-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:44:51 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"ea7f854fd558db3ae4dbd4ea24870ff7\"",
+   "etag": "\"698bdd92ec575a6cef989c56f719fcee\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 17 Oct 2026 12:28:00 GMT"
+   "last_modified": "Sat, 17 Oct 2026 15:52:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -380,8 +381,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad36978-53c4\"",
-   "last_modified": "Sat, 17 Oct 2026 12:26:32 GMT"
+   "etag": "W/\"6ad3972c-53c4\"",
+   "last_modified": "Sat, 17 Oct 2026 15:41:32 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -397,10 +398,11 @@
    "guid": "hltvnews45717",
    "message_id": 199,
    "notified_at": 1791981025,
+   "pruned_at": 1792252371,
    "slug": "sdy-headlines-new-look-monte-lineup-015984",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "sdy headlines new-look Monte lineup*"
   },
   "01c8cb136e": {
@@ -837,10 +839,11 @@
    "guid": "hltvnews45718",
    "message_id": 200,
    "notified_at": 1791981027,
+   "pruned_at": 1792252371,
    "slug": "9z-beat-aurora-2-0-to-kick-off-twc-2026-3847cb",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "9z beat Aurora 2-0 to kick off TWC 2026"
   },
   "391b868013": {
@@ -923,10 +926,11 @@
    "guid": "https://proton.me/business/blog/meet-waiting-rooms-chat-threads",
    "message_id": 201,
    "notified_at": 1791981029,
+   "pruned_at": 1792252371,
    "slug": "run-more-secure-organized-meetings-with-new-proton-meet-447f98",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Run more secure, organized meetings with new Proton Meet features"
   },
   "47bda62ca1": {
@@ -1238,6 +1242,18 @@
    "status": "notified",
    "title": "ESIC imposes lifetime ban on playN"
   },
+  "77acae39c0": {
+   "date": 1792235096,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792252371,
+   "guid": "https://retractionwatch.com/?p=136250",
+   "slug": "weekend-reads-computer-science-conferences-impose-caps-77acae",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Weekend reads: Computer science conferences impose caps; Lancet strikes to continue; Is this the \u2018mathocalypse\u2019?"
+  },
   "78d01147eb": {
    "date": 1792183137,
    "excerpt_only": false,
@@ -1333,10 +1349,11 @@
    "guid": "https://proton.me/business/blog/business-meeting",
    "message_id": 203,
    "notified_at": 1791981033,
+   "pruned_at": 1792252371,
    "slug": "7-types-of-business-meetings-and-top-tips-for-each-904ce8",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "7 types of business meetings and top tips for each"
   },
   "912a7e7fe5": {
@@ -1404,10 +1421,11 @@
    "guid": "https://proton.me/blog/how-to-delete-your-facebook-account",
    "message_id": 204,
    "notified_at": 1791981035,
+   "pruned_at": 1792252371,
    "slug": "how-to-delete-your-facebook-account-9b0f8c",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "How to delete your Facebook account"
   },
   "9ccf8ee367": {
