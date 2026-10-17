@@ -773,10 +773,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792211242,
    "guid": "https://retractionwatch.com/?p=136256",
+   "message_id": 351,
+   "notified_at": 1792211297,
    "slug": "springer-agency-website-offering-authorship-for-sale-goes-313bae",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "\u2018Springer\u2019 agency website offering authorship for sale goes down following Retraction Watch story"
   },
   "333550bff6": {
