@@ -1248,10 +1248,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792252371,
    "guid": "https://retractionwatch.com/?p=136250",
+   "message_id": 355,
+   "notified_at": 1792252413,
    "slug": "weekend-reads-computer-science-conferences-impose-caps-77acae",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Weekend reads: Computer science conferences impose caps; Lancet strikes to continue; Is this the \u2018mathocalypse\u2019?"
   },
   "78d01147eb": {
