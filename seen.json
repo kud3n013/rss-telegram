@@ -942,10 +942,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792260351,
    "guid": "hltvnews45743",
+   "message_id": 356,
+   "notified_at": 1792260410,
    "slug": "furia-ease-past-aurora-into-twc-final-4779bc",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA ease past Aurora into TWC final"
   },
   "47bda62ca1": {
@@ -1920,10 +1922,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792260351,
    "guid": "hltvnews45744",
+   "message_id": 357,
+   "notified_at": 1792260412,
    "slug": "yuurih-wed-be-very-happy-to-win-this-event-especially-if-f28551",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "yuurih: \"We'd be very happy [to win this event], especially if it's against Falcons; we're trying to beat the best teams\""
   },
   "f64e51f549": {
