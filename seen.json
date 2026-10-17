@@ -302,7 +302,8 @@
    "hltvnews45743",
    "hltvnews45744",
    "hltvnews45745",
-   "hltvnews45746"
+   "hltvnews45746",
+   "hltvnews45747"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -350,7 +351,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -365,16 +366,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df98f9eab17-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:44:58 GMT"
+   "etag": "\"29a29-65df99259e18a-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:45:43 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"9943624cece26e46526ee30355221b2d\"",
-   "last_modified": "Sat, 17 Oct 2026 12:57:34 GMT"
+   "etag": "\"698bdd92ec575a6cef989c56f719fcee\"",
+   "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 17 Oct 2026 20:32:00 GMT"
+   "last_modified": "Sat, 17 Oct 2026 22:36:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -385,8 +386,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad3d9f8-53c4\"",
-   "last_modified": "Sat, 17 Oct 2026 20:26:32 GMT"
+   "etag": "W/\"6ad3f618-53c4\"",
+   "last_modified": "Sat, 17 Oct 2026 22:26:32 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -724,10 +725,11 @@
    "guid": "tag:github.com,2008:Repository/933197458/0.19.3",
    "message_id": 252,
    "notified_at": 1792011516,
+   "pruned_at": 1792276618,
    "slug": "0-19-3-28f5b8",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "0.19.3"
   },
   "2c324ef68e": {
@@ -917,10 +919,11 @@
    "guid": "hltvnews45721",
    "message_id": 246,
    "notified_at": 1792011506,
+   "pruned_at": 1792276618,
    "slug": "new-look-astralis-top-group-at-stake-pulse-beat-3c83b8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "New-look Astralis top group at Stake Pulse Beat"
   },
   "3db594e2df": {
@@ -1546,10 +1549,11 @@
    "guid": "hltvnews45720",
    "message_id": 249,
    "notified_at": 1792011511,
+   "pruned_at": 1792276618,
    "slug": "zonic-what-people-dont-see-is-finn-is-bringing-5-10-extra-a656a8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "zonic: \"What people don't see is Finn is bringing 5-10% extra to some of the other players, especially Maxim, when things are going well\""
   },
   "a7bbb9b985": {
@@ -1847,6 +1851,18 @@
    "status": "notified",
    "title": "Security incident logs: How to create logs that satisfy GDPR and regulators"
   },
+  "de4a35c031": {
+   "date": 1792270980,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792276618,
+   "guid": "hltvnews45747",
+   "slug": "nip-beat-mibr-to-win-stake-pulse-beat-iii-de4a35",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "NIP beat MIBR to win Stake Pulse Beat III"
+  },
   "deba9900f7": {
    "date": 1792174260,
    "excerpt_only": false,
@@ -1997,10 +2013,11 @@
    "guid": "https://retractionwatch.com/?p=136230",
    "message_id": 248,
    "notified_at": 1792011510,
+   "pruned_at": 1792276618,
    "slug": "former-crick-ph-d-student-loses-covid-vaccine-paper-for-fe6b47",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Former Crick Ph.D. student loses COVID vaccine paper for fabrication"
   }
  },
