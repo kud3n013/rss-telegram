@@ -300,7 +300,9 @@
    "hltvnews45741",
    "hltvnews45742",
    "hltvnews45743",
-   "hltvnews45744"
+   "hltvnews45744",
+   "hltvnews45745",
+   "hltvnews45746"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -348,7 +350,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -363,16 +365,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df98e074b89-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:44:31 GMT"
+   "etag": "\"29a29-65df98f9eab17-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:44:58 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"698bdd92ec575a6cef989c56f719fcee\"",
-   "last_modified": null
+   "etag": "\"9943624cece26e46526ee30355221b2d\"",
+   "last_modified": "Sat, 17 Oct 2026 12:57:34 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 17 Oct 2026 18:06:00 GMT"
+   "last_modified": "Sat, 17 Oct 2026 20:32:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -383,8 +385,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad3b6d0-53c4\"",
-   "last_modified": "Sat, 17 Oct 2026 17:56:32 GMT"
+   "etag": "W/\"6ad3d9f8-53c4\"",
+   "last_modified": "Sat, 17 Oct 2026 20:26:32 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -464,6 +466,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "ZywOo claims 34th career MVP at ESL Pro League S24"
+  },
+  "0c66fd9540": {
+   "date": 1792268760,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792269102,
+   "guid": "hltvnews45746",
+   "slug": "betboom-stun-falcons-to-make-twc-grand-final-0c66fd",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BETBOOM stun Falcons to make TWC grand final"
   },
   "0fdb3ea22a": {
    "date": 1791271710,
@@ -920,6 +934,18 @@
    "source_slug": "retraction-watch",
    "status": "notified",
    "title": "Journal retracts, republishes paper on Long COVID treatment trial"
+  },
+  "4211c5bb4b": {
+   "date": 1792266840,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792269102,
+   "guid": "hltvnews45745",
+   "slug": "vitality-headquarters-in-paris-vandalized-4211c5",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Vitality headquarters in Paris vandalized"
   },
   "447f98d23c": {
    "date": 1791979061,
