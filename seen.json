@@ -1317,10 +1317,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792240109,
    "guid": "hltvnews45742",
+   "message_id": 354,
+   "notified_at": 1792240159,
    "slug": "fissure-playground-4-to-take-place-in-georgia-8f2aca",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FISSURE Playground 4 to take place in Georgia"
   },
   "904ce81ef6": {
@@ -1637,10 +1639,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792240109,
    "guid": "hltvnews45741",
+   "message_id": 353,
+   "notified_at": 1792240158,
    "slug": "boombl4-this-tournament-were-playing-better-and-i-feel-the-c0461a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Boombl4: \"This tournament we're playing better, and I feel the progress\""
   },
   "c8610cc0ce": {
@@ -1707,10 +1711,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792240109,
    "guid": "hltvnews45740",
+   "message_id": 352,
+   "notified_at": 1792240156,
    "slug": "pgl-adjusts-2028-calendar-d0070d",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "PGL adjusts 2028 calendar"
   },
   "d089e68fa6": {
