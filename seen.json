@@ -1739,10 +1739,12 @@
    "feed": "https://github.com/zen-browser/desktop/releases.atom",
    "fetched": 1792195829,
    "guid": "tag:github.com,2008:Repository/778556932/1.23.3b",
+   "message_id": 350,
+   "notified_at": 1792195874,
    "slug": "release-build-1-23-3b-2026-10-16-e08484",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Release build - 1.23.3b (2026-10-16)"
   },
   "e34c90df2b": {
