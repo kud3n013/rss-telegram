@@ -1857,10 +1857,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792276618,
    "guid": "hltvnews45747",
+   "message_id": 360,
+   "notified_at": 1792276661,
    "slug": "nip-beat-mibr-to-win-stake-pulse-beat-iii-de4a35",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NIP beat MIBR to win Stake Pulse Beat III"
   },
   "deba9900f7": {
