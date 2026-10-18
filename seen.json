@@ -351,7 +351,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -366,8 +366,8 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df99259e18a-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:45:43 GMT"
+   "etag": "\"29a29-65df990802afa-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:45:12 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"698bdd92ec575a6cef989c56f719fcee\"",
@@ -375,7 +375,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 17 Oct 2026 22:36:00 GMT"
+   "last_modified": "Sun, 18 Oct 2026 00:18:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -386,8 +386,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad3f618-53c4\"",
-   "last_modified": "Sat, 17 Oct 2026 22:26:32 GMT"
+   "etag": "W/\"6ad40eb4-53c4\"",
+   "last_modified": "Sun, 18 Oct 2026 00:11:32 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1049,10 +1049,11 @@
    "guid": "hltvnews45723",
    "message_id": 264,
    "notified_at": 1792021741,
+   "pruned_at": 1792282704,
    "slug": "furia-fend-off-betboom-to-end-day-one-of-twc-556280",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FURIA fend off BETBOOM to end day one of TWC"
   },
   "5a7a77d5bf": {
@@ -1228,10 +1229,11 @@
    "guid": "hltvnews45722",
    "message_id": 265,
    "notified_at": 1792021743,
+   "pruned_at": 1792282704,
    "slug": "art-on-losing-momentum-we-have-to-look-ahead-and-realize-we-7002a8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "arT on losing momentum: \"We have to look ahead and realize we have a new opportunity here\""
   },
   "72693ead9f": {
@@ -1958,10 +1960,11 @@
    "guid": "https://retractionwatch.com/?p=136234",
    "message_id": 263,
    "notified_at": 1792021739,
+   "pruned_at": 1792282704,
    "slug": "paper-touted-by-md-anderson-gets-expression-of-concern-for-ef46ab",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Paper touted by MD Anderson gets expression of concern for data \u2018concerns\u2019"
   },
   "f28551b23b": {
