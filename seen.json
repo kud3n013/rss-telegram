@@ -1111,10 +1111,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792341439,
    "guid": "hltvnews45750",
+   "message_id": 363,
+   "notified_at": 1792341488,
    "slug": "aurora-pass-falcons-in-the-vrs-after-third-place-decider-5ce0fe",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Aurora pass Falcons in the VRS after third-place decider victory at TWC"
   },
   "64c20f3928": {
