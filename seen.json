@@ -365,12 +365,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df98e074b89-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:44:31 GMT"
+   "etag": "\"29a29-65df98f1e6601-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:44:49 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"9943624cece26e46526ee30355221b2d\"",
@@ -378,7 +378,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 18 Oct 2026 16:36:00 GMT"
+   "last_modified": "Sun, 18 Oct 2026 18:56:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -389,8 +389,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad4f339-53c4\"",
-   "last_modified": "Sun, 18 Oct 2026 16:26:33 GMT"
+   "etag": "W/\"6ad51661-53c4\"",
+   "last_modified": "Sun, 18 Oct 2026 18:56:33 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -642,10 +642,11 @@
    "guid": "hltvnews45728",
    "message_id": 296,
    "notified_at": 1792084930,
+   "pruned_at": 1792349788,
    "slug": "falcons-secure-playoff-berth-at-twc-2026-1af715",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Falcons secure playoff berth at TWC 2026"
   },
   "1e5cd997da": {
@@ -1451,10 +1452,11 @@
    "guid": "hltvnews45726",
    "message_id": 294,
    "notified_at": 1792084927,
+   "pruned_at": 1792349788,
    "slug": "balblna-steps-down-from-k27-912a7e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "balblna steps down from K27"
   },
   "918e614fee": {
@@ -1819,10 +1821,11 @@
    "guid": "hltvnews45725",
    "message_id": 293,
    "notified_at": 1792084925,
+   "pruned_at": 1792349788,
    "slug": "krimbo-on-hectic-schedule-its-not-normal-but-its-unique-and-cf6406",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Krimbo on hectic schedule: \"It's not normal but it's unique, and I think it makes us stronger\""
   },
   "d0070d0862": {
@@ -1964,10 +1967,11 @@
    "guid": "hltvnews45727",
    "message_id": 295,
    "notified_at": 1792084929,
+   "pruned_at": 1792349788,
    "slug": "esic-bans-nomercy-for-match-manipulation-e35234",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "ESIC bans NOMERCY for match manipulation"
   },
   "e511985829": {
