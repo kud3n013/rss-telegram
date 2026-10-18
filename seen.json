@@ -1275,10 +1275,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792329503,
    "guid": "hltvnews45748",
+   "message_id": 361,
+   "notified_at": 1792329548,
    "slug": "nexvoid-upset-flyquest-to-win-dfrag-logitech-g-pro-series-75760f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NEXVOID upset FlyQuest to win DFRAG Logitech G Pro Series"
   },
   "7612315361": {
@@ -1742,10 +1744,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792329503,
    "guid": "hltvnews45749",
+   "message_id": 362,
+   "notified_at": 1792329550,
    "slug": "xizt-super-proud-of-everyone-of-how-strong-they-are-c503e0",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Xizt: \"Super proud of everyone, of how strong they are mentally and what a fight they've been putting up every day\""
   },
   "c8610cc0ce": {
