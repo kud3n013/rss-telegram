@@ -306,7 +306,9 @@
    "hltvnews45747",
    "hltvnews45748",
    "hltvnews45749",
-   "hltvnews45750"
+   "hltvnews45750",
+   "hltvnews45752",
+   "hltvnews45753"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -354,7 +356,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -365,12 +367,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df98f1e6601-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:44:49 GMT"
+   "etag": "\"29a29-65df99259e18a-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:45:43 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"9943624cece26e46526ee30355221b2d\"",
@@ -378,7 +380,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 18 Oct 2026 21:18:00 GMT"
+   "last_modified": "Sun, 18 Oct 2026 23:22:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -389,8 +391,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad53605-53c4\"",
-   "last_modified": "Sun, 18 Oct 2026 21:11:33 GMT"
+   "etag": "W/\"6ad55225-53c4\"",
+   "last_modified": "Sun, 18 Oct 2026 23:11:33 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -940,10 +942,11 @@
    "guid": "https://retractionwatch.com/?p=136239",
    "message_id": 325,
    "notified_at": 1792105990,
+   "pruned_at": 1792365811,
    "slug": "journal-retracts-republishes-paper-on-long-covid-treatment-3db594",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Journal retracts, republishes paper on Long COVID treatment trial"
   },
   "4211c5bb4b": {
@@ -1012,10 +1015,11 @@
    "guid": "hltvnews45730",
    "message_id": 326,
    "notified_at": 1792105992,
+   "pruned_at": 1792365811,
    "slug": "furia-make-twc-playoffs-over-legacy-481527",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FURIA make TWC playoffs over Legacy"
   },
   "50b3e71406": {
@@ -1135,6 +1139,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "Why \u201czero data retention\u201d may not protect your business data"
+  },
+  "667e5451f8": {
+   "date": 1792360500,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792365811,
+   "guid": "hltvnews45753",
+   "slug": "kscerato-crowned-thunderpick-world-championship-2026-mvp-667e54",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "KSCERATO crowned Thunderpick World Championship 2026 MVP"
   },
   "6a5404c7b6": {
    "date": 1778630400,
@@ -2004,6 +2020,18 @@
    "source_slug": "proton-blog",
    "status": "notified",
    "title": "Third-party vendor risk management: How to assess and monitor your supply chain security"
+  },
+  "ec4dfe32e3": {
+   "date": 1792359240,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792365811,
+   "guid": "hltvnews45752",
+   "slug": "furia-go-back-to-back-at-thunderpick-world-championship-to-ec4dfe",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA go back-to-back at Thunderpick World Championship to secure first title of 2026"
   },
   "ef46abd75f": {
    "date": 1792004944,
