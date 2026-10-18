@@ -1146,10 +1146,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792365811,
    "guid": "hltvnews45753",
+   "message_id": 365,
+   "notified_at": 1792365858,
    "slug": "kscerato-crowned-thunderpick-world-championship-2026-mvp-667e54",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "KSCERATO crowned Thunderpick World Championship 2026 MVP"
   },
   "6a5404c7b6": {
@@ -2027,10 +2029,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792365811,
    "guid": "hltvnews45752",
+   "message_id": 364,
+   "notified_at": 1792365856,
    "slug": "furia-go-back-to-back-at-thunderpick-world-championship-to-ec4dfe",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA go back-to-back at Thunderpick World Championship to secure first title of 2026"
   },
   "ef46abd75f": {
