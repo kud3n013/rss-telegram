@@ -303,7 +303,9 @@
    "hltvnews45744",
    "hltvnews45745",
    "hltvnews45746",
-   "hltvnews45747"
+   "hltvnews45747",
+   "hltvnews45748",
+   "hltvnews45749"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -351,7 +353,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -366,8 +368,8 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df99214c978-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:45:39 GMT"
+   "etag": "\"29a29-65df98f37c594-gzip\"",
+   "last_modified": "Fri, 16 Oct 2026 18:44:51 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"9943624cece26e46526ee30355221b2d\"",
@@ -375,7 +377,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 18 Oct 2026 09:10:00 GMT"
+   "last_modified": "Sun, 18 Oct 2026 13:18:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -386,8 +388,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad489c1-53c4\"",
-   "last_modified": "Sun, 18 Oct 2026 08:56:33 GMT"
+   "etag": "W/\"6ad4c585-53c4\"",
+   "last_modified": "Sun, 18 Oct 2026 13:11:33 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -432,10 +434,11 @@
    "guid": "https://proton.me/blog/introducing-pass-folders-url-matching",
    "message_id": 278,
    "notified_at": 1792067835,
+   "pruned_at": 1792329503,
    "slug": "folders-url-matching-and-compromised-password-alerts-are-03547f",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Folders, URL matching, and compromised password alerts are now available for Proton Pass"
   },
   "07b7516c27": {
@@ -1266,6 +1269,18 @@
    "status": "pruned",
    "title": "FlyQuest add to VRS after cruising to victory at ANZC Locals; Chinggis Warriors get big win over 5star in MESA Pro Series"
   },
+  "75760f49ca": {
+   "date": 1792320060,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792329503,
+   "guid": "hltvnews45748",
+   "slug": "nexvoid-upset-flyquest-to-win-dfrag-logitech-g-pro-series-75760f",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "NEXVOID upset FlyQuest to win DFRAG Logitech G Pro Series"
+  },
   "7612315361": {
    "date": 1786406400,
    "excerpt_only": false,
@@ -1721,6 +1736,18 @@
    "status": "notified",
    "title": "Boombl4: \"This tournament we're playing better, and I feel the progress\""
   },
+  "c503e033d1": {
+   "date": 1792323120,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792329503,
+   "guid": "hltvnews45749",
+   "slug": "xizt-super-proud-of-everyone-of-how-strong-they-are-c503e0",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Xizt: \"Super proud of everyone, of how strong they are mentally and what a fight they've been putting up every day\""
+  },
   "c8610cc0ce": {
    "date": 1791675180,
    "excerpt_only": false,
@@ -1932,10 +1959,11 @@
    "guid": "https://proton.me/blog/2026-autumn-winter-roadmaps",
    "message_id": 277,
    "notified_at": 1792067833,
+   "pruned_at": 1792329503,
    "slug": "proton-product-roadmaps-for-autumn-and-winter-2026-e51198",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Proton product roadmaps for autumn and winter 2026"
   },
   "e9b7089da7": {
@@ -1989,10 +2017,11 @@
    "guid": "hltvnews45724",
    "message_id": 276,
    "notified_at": 1792067832,
+   "pruned_at": 1792329503,
    "slug": "nip-spared-scheduling-headache-after-early-thunderpick-f64e51",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "NIP spared scheduling headache after early Thunderpick World Championship exit"
   },
   "f84c44e710": {
