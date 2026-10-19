@@ -973,10 +973,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792418513,
    "guid": "hltvnews45755",
+   "message_id": 368,
+   "notified_at": 1792418609,
    "slug": "hltv-attributes-receive-an-overhaul-with-29-new-metrics-439931",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "HLTV Attributes receive an overhaul with 29 new metrics"
   },
   "447f98d23c": {
@@ -1973,10 +1975,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792418513,
    "guid": "hltvnews45754",
+   "message_id": 366,
+   "notified_at": 1792418606,
    "slug": "kscerato-on-close-final-a-goal-is-a-goal-even-if-its-ugly-df6950",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "KSCERATO on close final: \"A goal is a goal, even if it's ugly\""
   },
   "e084840a2d": {
@@ -2044,10 +2048,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792418513,
    "guid": "hltvnews45751",
+   "message_id": 367,
+   "notified_at": 1792418607,
    "slug": "the-evps-and-all-stars-of-esl-pro-league-s24-e63826",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The EVPs and All-Stars of ESL Pro League S24"
   },
   "e9b7089da7": {
