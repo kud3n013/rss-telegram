@@ -308,7 +308,10 @@
    "hltvnews45749",
    "hltvnews45750",
    "hltvnews45752",
-   "hltvnews45753"
+   "hltvnews45753",
+   "hltvnews45754",
+   "hltvnews45751",
+   "hltvnews45755"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -356,7 +359,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -367,12 +370,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65df98f156e55-gzip\"",
-   "last_modified": "Fri, 16 Oct 2026 18:44:49 GMT"
+   "etag": "\"29a29-65e2cfb06b78c-gzip\"",
+   "last_modified": "Mon, 19 Oct 2026 08:05:43 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"9943624cece26e46526ee30355221b2d\"",
@@ -380,7 +383,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 19 Oct 2026 06:42:00 GMT"
+   "last_modified": "Mon, 19 Oct 2026 14:02:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -391,8 +394,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad5bb9e-53c4\"",
-   "last_modified": "Mon, 19 Oct 2026 06:41:34 GMT"
+   "etag": "W/\"6ad62192-53c4\"",
+   "last_modified": "Mon, 19 Oct 2026 13:56:34 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -527,10 +530,11 @@
    "guid": "hltvnews45732",
    "message_id": 334,
    "notified_at": 1792149440,
+   "pruned_at": 1792418513,
    "slug": "fallen-theres-a-real-boost-from-winning-a-tournament-it-126a79",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FalleN: \"There's a real boost from winning a tournament; it would be great if we could feel that again\""
   },
   "12e130d594": {
@@ -963,6 +967,18 @@
    "status": "notified",
    "title": "Vitality headquarters in Paris vandalized"
   },
+  "43993113b9": {
+   "date": 1792412340,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792418513,
+   "guid": "hltvnews45755",
+   "slug": "hltv-attributes-receive-an-overhaul-with-29-new-metrics-439931",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "HLTV Attributes receive an overhaul with 29 new metrics"
+  },
   "447f98d23c": {
    "date": 1791979061,
    "excerpt_only": false,
@@ -1045,10 +1061,11 @@
    "guid": "hltvnews45731",
    "message_id": 333,
    "notified_at": 1792149439,
+   "pruned_at": 1792418513,
    "slug": "opening-matchups-set-for-pgl-masters-bucharest-516869",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Opening matchups set for PGL Masters Bucharest"
   },
   "55628009f1": {
@@ -1950,6 +1967,18 @@
    "status": "notified",
    "title": "ash: \"Maybe Wicadia gets top 20 this year, maybe not, but there's potential to be significantly more than that\""
   },
+  "df69508b9f": {
+   "date": 1792401960,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792418513,
+   "guid": "hltvnews45754",
+   "slug": "kscerato-on-close-final-a-goal-is-a-goal-even-if-its-ugly-df6950",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "KSCERATO on close final: \"A goal is a goal, even if it's ugly\""
+  },
   "e084840a2d": {
    "date": 1792188530,
    "excerpt_only": false,
@@ -2008,6 +2037,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "Proton product roadmaps for autumn and winter 2026"
+  },
+  "e6382619dd": {
+   "date": 1792406340,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792418513,
+   "guid": "hltvnews45751",
+   "slug": "the-evps-and-all-stars-of-esl-pro-league-s24-e63826",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "The EVPs and All-Stars of ESL Pro League S24"
   },
   "e9b7089da7": {
    "date": 1792171686,
