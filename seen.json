@@ -964,10 +964,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792439343,
    "guid": "hltvnews45756",
+   "message_id": 369,
+   "notified_at": 1792439390,
    "slug": "krasnal-enters-free-agency-419848",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "kRaSnaL enters free agency"
   },
   "4211c5bb4b": {
@@ -1850,10 +1852,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792439343,
    "guid": "hltvnews45757",
+   "message_id": 370,
+   "notified_at": 1792439391,
    "slug": "vrs-fans-come-here-ft-mischief-c8bde3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "VRS Fans Come Here ft. Mischief"
   },
   "c8feca95b1": {
