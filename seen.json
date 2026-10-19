@@ -190,7 +190,8 @@
    "https://retractionwatch.com/?p=136234",
    "https://retractionwatch.com/?p=136239",
    "https://retractionwatch.com/?p=136256",
-   "https://retractionwatch.com/?p=136250"
+   "https://retractionwatch.com/?p=136250",
+   "https://retractionwatch.com/?p=136270"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -313,7 +314,8 @@
    "hltvnews45751",
    "hltvnews45755",
    "hltvnews45756",
-   "hltvnews45757"
+   "hltvnews45757",
+   "hltvnews45758"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -361,7 +363,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -376,16 +378,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65e325dc3cbb1-gzip\"",
-   "last_modified": "Mon, 19 Oct 2026 14:31:14 GMT"
+   "etag": "\"29a29-65e3263dbb7c0-gzip\"",
+   "last_modified": "Mon, 19 Oct 2026 14:32:56 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"9943624cece26e46526ee30355221b2d\"",
-   "last_modified": null
+   "etag": "\"d322edf6067851ba9cdecdf5817e9b50\"",
+   "last_modified": "Mon, 19 Oct 2026 20:34:25 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 19 Oct 2026 19:48:00 GMT"
+   "last_modified": "Mon, 19 Oct 2026 23:08:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -396,8 +398,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad6726e-53c4\"",
-   "last_modified": "Mon, 19 Oct 2026 19:41:34 GMT"
+   "etag": "W/\"6ad6a023-53c4\"",
+   "last_modified": "Mon, 19 Oct 2026 22:56:35 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1415,6 +1417,18 @@
    "status": "pruned",
    "title": "Google\u2019s selfie video sign-in puts your face on its servers"
   },
+  "7a37383a83": {
+   "date": 1792439171,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792451386,
+   "guid": "https://retractionwatch.com/?p=136270",
+   "slug": "japanese-institute-finds-materials-researcher-with-41-7a3738",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Japanese institute finds materials researcher with 41 retractions guilty of \u2018extensive\u2019 manipulation"
+  },
   "7bdce12e5b": {
    "date": 1792161717,
    "excerpt_only": false,
@@ -1692,10 +1706,11 @@
    "guid": "hltvnews45739",
    "message_id": 349,
    "notified_at": 1792187776,
+   "pruned_at": 1792451386,
    "slug": "betboom-qualify-for-twc-playoffs-over-legacy-ae1630",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BETBOOM qualify for TWC playoffs over Legacy"
   },
   "b43d362736": {
@@ -1757,6 +1772,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Strike #11: Another loophole bites the dust... or does it?"
+  },
+  "ba5c9f2820": {
+   "date": 1792443600,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792451386,
+   "guid": "hltvnews45758",
+   "slug": "magnojez-extends-betboom-contract-ba5c9f",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Magnojez extends BETBOOM contract"
   },
   "bbf2986ef7": {
    "date": 1791626400,
@@ -1883,10 +1910,11 @@
    "guid": "hltvnews45738",
    "message_id": 348,
    "notified_at": 1792187774,
+   "pruned_at": 1792451386,
    "slug": "nip-comeback-and-insani-hard-carry-headline-quarter-final-ced5d8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "NIP comeback and insani hard-carry headline quarter-final day at Stake Pulse Beat III"
   },
   "cf6406b2dc": {
