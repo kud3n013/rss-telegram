@@ -1423,10 +1423,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792451386,
    "guid": "https://retractionwatch.com/?p=136270",
+   "message_id": 371,
+   "notified_at": 1792451435,
    "slug": "japanese-institute-finds-materials-researcher-with-41-7a3738",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Japanese institute finds materials researcher with 41 retractions guilty of \u2018extensive\u2019 manipulation"
   },
   "7bdce12e5b": {
@@ -1779,10 +1781,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792451386,
    "guid": "hltvnews45758",
+   "message_id": 372,
+   "notified_at": 1792451437,
    "slug": "magnojez-extends-betboom-contract-ba5c9f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Magnojez extends BETBOOM contract"
   },
   "bbf2986ef7": {
