@@ -311,7 +311,9 @@
    "hltvnews45753",
    "hltvnews45754",
    "hltvnews45751",
-   "hltvnews45755"
+   "hltvnews45755",
+   "hltvnews45756",
+   "hltvnews45757"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -359,7 +361,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -370,12 +372,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf0-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
+   "etag": "W/\"6acd4cf3-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65e2cfb06b78c-gzip\"",
-   "last_modified": "Mon, 19 Oct 2026 08:05:43 GMT"
+   "etag": "\"29a29-65e325dc3cbb1-gzip\"",
+   "last_modified": "Mon, 19 Oct 2026 14:31:14 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"9943624cece26e46526ee30355221b2d\"",
@@ -383,7 +385,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 19 Oct 2026 14:02:00 GMT"
+   "last_modified": "Mon, 19 Oct 2026 19:48:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -394,8 +396,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad62192-53c4\"",
-   "last_modified": "Mon, 19 Oct 2026 13:56:34 GMT"
+   "etag": "W/\"6ad6726e-53c4\"",
+   "last_modified": "Mon, 19 Oct 2026 19:41:34 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -560,10 +562,11 @@
    "guid": "hltvnews45733",
    "message_id": 337,
    "notified_at": 1792164318,
+   "pruned_at": 1792439343,
    "slug": "blast-rivals-season-2-team-list-revealed-12fb57",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BLAST Rivals Season 2 team list revealed"
   },
   "138906c323": {
@@ -694,10 +697,11 @@
    "guid": "hltvnews45736",
    "message_id": 341,
    "notified_at": 1792176925,
+   "pruned_at": 1792439343,
    "slug": "aurora-beat-9z-to-secure-third-consecutive-top-four-264dca",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Aurora beat 9z to secure third consecutive top-four appearance"
   },
   "266a13b6c7": {
@@ -708,10 +712,11 @@
    "guid": "https://proton.me/business/blog/cyber-insurance-requirements",
    "message_id": 342,
    "notified_at": 1792176927,
+   "pruned_at": 1792439343,
    "slug": "how-to-prepare-for-a-cyber-insurance-assessment-what-266a13",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "How to prepare for a cyber insurance assessment: What underwriters check and how to qualify"
   },
   "280f015714": {
@@ -952,6 +957,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "Journal retracts, republishes paper on Long COVID treatment trial"
+  },
+  "4198488a8e": {
+   "date": 1792427400,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792439343,
+   "guid": "hltvnews45756",
+   "slug": "krasnal-enters-free-agency-419848",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "kRaSnaL enters free agency"
   },
   "4211c5bb4b": {
    "date": 1792266840,
@@ -1360,10 +1377,11 @@
    "guid": "hltvnews45735",
    "message_id": 339,
    "notified_at": 1792164321,
+   "pruned_at": 1792439343,
    "slug": "esic-imposes-lifetime-ban-on-playn-77613d",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "ESIC imposes lifetime ban on playN"
   },
   "77acae39c0": {
@@ -1388,10 +1406,11 @@
    "guid": "https://proton.me/blog/google-selfie-video",
    "message_id": 346,
    "notified_at": 1792176934,
+   "pruned_at": 1792439343,
    "slug": "googles-selfie-video-sign-in-puts-your-face-on-its-servers-78d011",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Google\u2019s selfie video sign-in puts your face on its servers"
   },
   "7bdce12e5b": {
@@ -1402,10 +1421,11 @@
    "guid": "tag:github.com,2008:Repository/933197458/0.19.4",
    "message_id": 340,
    "notified_at": 1792164323,
+   "pruned_at": 1792439343,
    "slug": "0-19-4-7bdce1",
    "source": "Helium browser releases",
    "source_slug": "helium-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "0.19.4"
   },
   "7f100bc7eb": {
@@ -1535,10 +1555,11 @@
    "guid": "hltvnews45734",
    "message_id": 338,
    "notified_at": 1792164320,
+   "pruned_at": 1792439343,
    "slug": "stikle-takes-over-as-head-coach-of-inner-circle-96082e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "stikle- takes over as head coach of Inner Circle"
   },
   "9b0f8c643a": {
@@ -1823,6 +1844,18 @@
    "status": "pruned",
    "title": "Sashi drop chelleos after two days"
   },
+  "c8bde3e77f": {
+   "date": 1792430640,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792439343,
+   "guid": "hltvnews45757",
+   "slug": "vrs-fans-come-here-ft-mischief-c8bde3",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "VRS Fans Come Here ft. Mischief"
+  },
   "c8feca95b1": {
    "date": 1790812800,
    "excerpt_only": false,
@@ -1935,10 +1968,11 @@
    "guid": "https://proton.me/business/blog/security-incident-log",
    "message_id": 344,
    "notified_at": 1792176930,
+   "pruned_at": 1792439343,
    "slug": "security-incident-logs-how-to-create-logs-that-satisfy-gdpr-d83778",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Security incident logs: How to create logs that satisfy GDPR and regulators"
   },
   "de4a35c031": {
@@ -1963,10 +1997,11 @@
    "guid": "hltvnews45737",
    "message_id": 345,
    "notified_at": 1792176932,
+   "pruned_at": 1792439343,
    "slug": "ash-maybe-wicadia-gets-top-20-this-year-maybe-not-but-deba99",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "ash: \"Maybe Wicadia gets top 20 this year, maybe not, but there's potential to be significantly more than that\""
   },
   "df69508b9f": {
@@ -2064,10 +2099,11 @@
    "guid": "https://proton.me/business/blog/vendor-risk-management",
    "message_id": 343,
    "notified_at": 1792176929,
+   "pruned_at": 1792439343,
    "slug": "third-party-vendor-risk-management-how-to-assess-and-e9b708",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Third-party vendor risk management: How to assess and monitor your supply chain security"
   },
   "ec4dfe32e3": {
