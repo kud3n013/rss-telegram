@@ -1149,10 +1149,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792516903,
    "guid": "hltvnews45761",
+   "message_id": 378,
+   "notified_at": 1792516966,
    "slug": "pgl-announces-masters-bucharest-talent-56789a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "PGL announces Masters Bucharest talent"
   },
   "5a7a77d5bf": {
@@ -1249,10 +1251,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792516903,
    "guid": "hltvnews45762",
+   "message_id": 379,
+   "notified_at": 1792516968,
    "slug": "bbl-and-betlic-qualify-for-pgl-bucharest-2027-67ede5",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BBL and Betlic qualify for PGL Bucharest 2027"
   },
   "6a5404c7b6": {
@@ -1932,10 +1936,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792516903,
    "guid": "hltvnews45760",
+   "message_id": 377,
+   "notified_at": 1792516964,
    "slug": "vitality-to-meet-falcons-in-blast-rivals-opener-c28ce0",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Vitality to meet Falcons in BLAST Rivals opener"
   },
   "c503e033d1": {
@@ -2108,10 +2114,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792516903,
    "guid": "https://proton.me/blog/best-private-browsers",
+   "message_id": 380,
+   "notified_at": 1792516970,
    "slug": "the-best-private-browsers-tested-dddf49",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The best private browsers, tested"
   },
   "de4a35c031": {
@@ -2325,10 +2333,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1792516903,
    "guid": "https://allenai.org/blog/fairstress",
+   "message_id": 376,
+   "notified_at": 1792516963,
    "slug": "fairstress-a-deeper-evaluation-of-fairness-in-llm-decision-f85222",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
   },
   "fe6b4704c4": {
