@@ -170,7 +170,9 @@
    "https://proton.me/business/blog/cyber-insurance-requirements",
    "https://proton.me/business/blog/vendor-risk-management",
    "https://proton.me/business/blog/security-incident-log",
-   "https://proton.me/blog/google-selfie-video"
+   "https://proton.me/blog/google-selfie-video",
+   "https://proton.me/business/blog/shared-drive",
+   "https://proton.me/blog/data-brokers-gdpr"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -315,7 +317,8 @@
    "hltvnews45755",
    "hltvnews45756",
    "hltvnews45757",
-   "hltvnews45758"
+   "hltvnews45758",
+   "hltvnews45759"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -363,7 +366,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -378,16 +381,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65e3f63e8d5a4-gzip\"",
-   "last_modified": "Tue, 20 Oct 2026 06:03:32 GMT"
+   "etag": "\"2d5cd-65e42c5b655b0-gzip\"",
+   "last_modified": "Tue, 20 Oct 2026 10:05:38 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"9943624cece26e46526ee30355221b2d\"",
+   "etag": "\"6bc6069af9ea8b6eecf312bb2a642336\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 20 Oct 2026 06:44:00 GMT"
+   "last_modified": "Tue, 20 Oct 2026 12:18:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -398,8 +401,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad70d1f-53c4\"",
-   "last_modified": "Tue, 20 Oct 2026 06:41:35 GMT"
+   "etag": "W/\"6ad75a77-53c4\"",
+   "last_modified": "Tue, 20 Oct 2026 12:11:35 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -691,6 +694,18 @@
    "status": "pruned",
    "title": "MOUZ beat Spirit en route to EPL final"
   },
+  "25541efab6": {
+   "date": 1792495570,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792498733,
+   "guid": "https://proton.me/business/blog/shared-drive",
+   "slug": "how-to-set-up-a-shared-drive-that-stays-organized-as-your-25541e",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "How to set up a shared drive that stays organized as your team grows"
+  },
   "264dcabe3e": {
    "date": 1792167660,
    "excerpt_only": false,
@@ -825,6 +840,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "\u2018Springer\u2019 agency website offering authorship for sale goes down following Retraction Watch story"
+  },
+  "324f96e3ff": {
+   "date": 1792495740,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792498733,
+   "guid": "hltvnews45759",
+   "slug": "iem-beijing-groups-and-opening-matchups-set-324f96",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "IEM Beijing groups and opening matchups set"
   },
   "333550bff6": {
    "date": 1791532800,
@@ -1461,6 +1488,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Wildcard's Major chances soar with FRAG University title"
+  },
+  "862e8d8c58": {
+   "date": 1792497707,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792498733,
+   "guid": "https://proton.me/blog/data-brokers-gdpr",
+   "slug": "data-brokers-are-selling-your-profile-heres-how-to-use-the-862e8d",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "Data brokers are selling your profile. Here\u2019s how to use the GDPR to stop them."
   },
   "8c59cc2eec": {
    "date": 1791805068,
