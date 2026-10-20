@@ -700,10 +700,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792498733,
    "guid": "https://proton.me/business/blog/shared-drive",
+   "message_id": 373,
+   "notified_at": 1792498814,
    "slug": "how-to-set-up-a-shared-drive-that-stays-organized-as-your-25541e",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How to set up a shared drive that stays organized as your team grows"
   },
   "264dcabe3e": {
@@ -847,10 +849,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792498733,
    "guid": "hltvnews45759",
+   "message_id": 374,
+   "notified_at": 1792498816,
    "slug": "iem-beijing-groups-and-opening-matchups-set-324f96",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "IEM Beijing groups and opening matchups set"
   },
   "333550bff6": {
@@ -1495,10 +1499,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792498733,
    "guid": "https://proton.me/blog/data-brokers-gdpr",
+   "message_id": 375,
+   "notified_at": 1792498817,
    "slug": "data-brokers-are-selling-your-profile-heres-how-to-use-the-862e8d",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Data brokers are selling your profile. Here\u2019s how to use the GDPR to stop them."
   },
   "8c59cc2eec": {
