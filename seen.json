@@ -1391,10 +1391,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792538885,
    "guid": "hltvnews45764",
+   "message_id": 382,
+   "notified_at": 1792538932,
    "slug": "fazes-grind-continues-and-luminositys-major-chances-fade-as-708a7a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FaZe's grind continues and Luminosity's Major chances fade as DraculaN playoffs begin"
   },
   "72693ead9f": {
@@ -1625,10 +1627,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792538885,
    "guid": "hltvnews45765",
+   "message_id": 383,
+   "notified_at": 1792538934,
    "slug": "navi-sign-up-for-hyperx-retake-season-13-despite-pgl-90d0cf",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NAVI sign up for HyperX Retake Season 13 despite PGL Masters Bucharest and IEM Beijing conflicts"
   },
   "912a7e7fe5": {
@@ -1727,10 +1731,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792538885,
    "guid": "hltvnews45763",
+   "message_id": 381,
+   "notified_at": 1792538931,
    "slug": "big-get-a-lifeline-alliances-major-odds-crater-and-liquid-9f6f35",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BIG get a lifeline, Alliance's Major odds crater and Liquid exit after day two of 1win Private Club S2"
   },
   "a0469efdca": {
