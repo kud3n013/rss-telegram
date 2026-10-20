@@ -28,7 +28,8 @@
    "https://allenai.org/blog/molmo-motion",
    "https://allenai.org/blog/colm-2026-recap",
    "https://allenai.org/blog/molmo2fish",
-   "https://allenai.org/blog/hiro-acev2"
+   "https://allenai.org/blog/hiro-acev2",
+   "https://allenai.org/blog/fairstress"
   ],
   "https://annas-archive.gl/blog/rss.xml": [
    "https://annas-archive.gl/blog/blog-introducing.html",
@@ -172,7 +173,8 @@
    "https://proton.me/business/blog/security-incident-log",
    "https://proton.me/blog/google-selfie-video",
    "https://proton.me/business/blog/shared-drive",
-   "https://proton.me/blog/data-brokers-gdpr"
+   "https://proton.me/blog/data-brokers-gdpr",
+   "https://proton.me/blog/best-private-browsers"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -318,7 +320,10 @@
    "hltvnews45756",
    "hltvnews45757",
    "hltvnews45758",
-   "hltvnews45759"
+   "hltvnews45759",
+   "hltvnews45760",
+   "hltvnews45761",
+   "hltvnews45762"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -366,23 +371,23 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
-   "etag": "W/\"bddf4acac40c7236787338a29be057c1\"",
+   "etag": "W/\"31f70bac50da389831329fc30acf4196\"",
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf0-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
+   "etag": "W/\"6acd4cf3-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2d5cd-65e42c5b655b0-gzip\"",
-   "last_modified": "Tue, 20 Oct 2026 10:05:38 GMT"
+   "etag": "\"2caae-65e47c5721338-gzip\"",
+   "last_modified": "Tue, 20 Oct 2026 16:03:28 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"6bc6069af9ea8b6eecf312bb2a642336\"",
@@ -390,7 +395,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 20 Oct 2026 12:18:00 GMT"
+   "last_modified": "Tue, 20 Oct 2026 17:20:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -401,8 +406,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad75a77-53c4\"",
-   "last_modified": "Tue, 20 Oct 2026 12:11:35 GMT"
+   "etag": "W/\"6ad7a0c8-53c4\"",
+   "last_modified": "Tue, 20 Oct 2026 17:11:36 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1138,6 +1143,18 @@
    "status": "pruned",
    "title": "FURIA fend off BETBOOM to end day one of TWC"
   },
+  "56789aa76b": {
+   "date": 1792501860,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792516903,
+   "guid": "hltvnews45761",
+   "slug": "pgl-announces-masters-bucharest-talent-56789a",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "PGL announces Masters Bucharest talent"
+  },
   "5a7a77d5bf": {
    "date": 1791498059,
    "excerpt_only": false,
@@ -1225,6 +1242,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "KSCERATO crowned Thunderpick World Championship 2026 MVP"
+  },
+  "67ede5a1c1": {
+   "date": 1792516320,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792516903,
+   "guid": "hltvnews45762",
+   "slug": "bbl-and-betlic-qualify-for-pgl-bucharest-2027-67ede5",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BBL and Betlic qualify for PGL Bucharest 2027"
   },
   "6a5404c7b6": {
    "date": 1778630400,
@@ -1428,10 +1457,11 @@
    "guid": "https://retractionwatch.com/?p=136250",
    "message_id": 355,
    "notified_at": 1792252413,
+   "pruned_at": 1792516903,
    "slug": "weekend-reads-computer-science-conferences-impose-caps-77acae",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Weekend reads: Computer science conferences impose caps; Lancet strikes to continue; Is this the \u2018mathocalypse\u2019?"
   },
   "78d01147eb": {
@@ -1545,10 +1575,11 @@
    "guid": "hltvnews45742",
    "message_id": 354,
    "notified_at": 1792240159,
+   "pruned_at": 1792516903,
    "slug": "fissure-playground-4-to-take-place-in-georgia-8f2aca",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FISSURE Playground 4 to take place in Georgia"
   },
   "904ce81ef6": {
@@ -1888,11 +1919,24 @@
    "guid": "hltvnews45741",
    "message_id": 353,
    "notified_at": 1792240158,
+   "pruned_at": 1792516903,
    "slug": "boombl4-this-tournament-were-playing-better-and-i-feel-the-c0461a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Boombl4: \"This tournament we're playing better, and I feel the progress\""
+  },
+  "c28ce0cffc": {
+   "date": 1792499460,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792516903,
+   "guid": "hltvnews45760",
+   "slug": "vitality-to-meet-falcons-in-blast-rivals-opener-c28ce0",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Vitality to meet Falcons in BLAST Rivals opener"
   },
   "c503e033d1": {
    "date": 1792323120,
@@ -1990,10 +2034,11 @@
    "guid": "hltvnews45740",
    "message_id": 352,
    "notified_at": 1792240156,
+   "pruned_at": 1792516903,
    "slug": "pgl-adjusts-2028-calendar-d0070d",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "PGL adjusts 2028 calendar"
   },
   "d089e68fa6": {
@@ -2056,6 +2101,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "Security incident logs: How to create logs that satisfy GDPR and regulators"
+  },
+  "dddf49b145": {
+   "date": 1792519324,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792516903,
+   "guid": "https://proton.me/blog/best-private-browsers",
+   "slug": "the-best-private-browsers-tested-dddf49",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "The best private browsers, tested"
   },
   "de4a35c031": {
    "date": 1792270980,
@@ -2261,6 +2318,18 @@
    "source_slug": "beeper-blog",
    "status": "pruned",
    "title": "September Wrap-Up"
+  },
+  "f852221517": {
+   "date": 1792483200,
+   "excerpt_only": false,
+   "feed": "https://allenai.org/rss.xml",
+   "fetched": 1792516903,
+   "guid": "https://allenai.org/blog/fairstress",
+   "slug": "fairstress-a-deeper-evaluation-of-fairness-in-llm-decision-f85222",
+   "source": "Ai2 Blog",
+   "source_slug": "ai2-blog",
+   "status": "mirrored",
+   "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
   },
   "fe6b4704c4": {
    "date": 1792000800,
