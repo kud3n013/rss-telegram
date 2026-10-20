@@ -374,20 +374,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65e3263dbb7c0-gzip\"",
-   "last_modified": "Mon, 19 Oct 2026 14:32:56 GMT"
+   "etag": "\"29a29-65e3263631c4f-gzip\"",
+   "last_modified": "Mon, 19 Oct 2026 14:32:49 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"d322edf6067851ba9cdecdf5817e9b50\"",
-   "last_modified": "Mon, 19 Oct 2026 20:34:25 GMT"
+   "etag": "\"d5d65b41aa2f1110fbde3eb95c782bf9\"",
+   "last_modified": "Mon, 19 Oct 2026 22:48:46 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 19 Oct 2026 23:08:00 GMT"
+   "last_modified": "Tue, 20 Oct 2026 01:50:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -398,8 +398,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad6a023-53c4\"",
-   "last_modified": "Mon, 19 Oct 2026 22:56:35 GMT"
+   "etag": "W/\"6ad6c6cf-53c4\"",
+   "last_modified": "Tue, 20 Oct 2026 01:41:35 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -2062,10 +2062,11 @@
    "guid": "tag:github.com,2008:Repository/778556932/1.23.3b",
    "message_id": 350,
    "notified_at": 1792195874,
+   "pruned_at": 1792461001,
    "slug": "release-build-1-23-3b-2026-10-16-e08484",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "Release build - 1.23.3b (2026-10-16)"
   },
   "e34c90df2b": {
