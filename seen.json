@@ -371,7 +371,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -382,12 +382,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6acd4cf3-331ec\"",
-   "last_modified": "Mon, 12 Oct 2026 21:11:15 GMT"
+   "etag": "W/\"6acd4cf0-331ec\"",
+   "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2caae-65e47c5721338-gzip\"",
-   "last_modified": "Tue, 20 Oct 2026 16:03:28 GMT"
+   "etag": "\"2caae-65e47c5f475f0-gzip\"",
+   "last_modified": "Tue, 20 Oct 2026 16:03:37 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"6bc6069af9ea8b6eecf312bb2a642336\"",
@@ -395,7 +395,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 20 Oct 2026 17:20:00 GMT"
+   "last_modified": "Tue, 20 Oct 2026 20:44:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -406,8 +406,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad7a0c8-53c4\"",
-   "last_modified": "Tue, 20 Oct 2026 17:11:36 GMT"
+   "etag": "W/\"6ad7d200-53c4\"",
+   "last_modified": "Tue, 20 Oct 2026 20:41:36 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -498,10 +498,11 @@
    "guid": "hltvnews45746",
    "message_id": 359,
    "notified_at": 1792269181,
+   "pruned_at": 1792529125,
    "slug": "betboom-stun-falcons-to-make-twc-grand-final-0c66fd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BETBOOM stun Falcons to make TWC grand final"
   },
   "0fdb3ea22a": {
@@ -1019,10 +1020,11 @@
    "guid": "hltvnews45745",
    "message_id": 358,
    "notified_at": 1792269179,
+   "pruned_at": 1792529125,
    "slug": "vitality-headquarters-in-paris-vandalized-4211c5",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Vitality headquarters in Paris vandalized"
   },
   "43993113b9": {
@@ -1062,10 +1064,11 @@
    "guid": "hltvnews45743",
    "message_id": 356,
    "notified_at": 1792260410,
+   "pruned_at": 1792529125,
    "slug": "furia-ease-past-aurora-into-twc-final-4779bc",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FURIA ease past Aurora into TWC final"
   },
   "47bda62ca1": {
@@ -2291,10 +2294,11 @@
    "guid": "hltvnews45744",
    "message_id": 357,
    "notified_at": 1792260412,
+   "pruned_at": 1792529125,
    "slug": "yuurih-wed-be-very-happy-to-win-this-event-especially-if-f28551",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "yuurih: \"We'd be very happy [to win this event], especially if it's against Falcons; we're trying to beat the best teams\""
   },
   "f64e51f549": {
