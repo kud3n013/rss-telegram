@@ -323,7 +323,10 @@
    "hltvnews45759",
    "hltvnews45760",
    "hltvnews45761",
-   "hltvnews45762"
+   "hltvnews45762",
+   "hltvnews45763",
+   "hltvnews45764",
+   "hltvnews45765"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -371,7 +374,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"f1136ad64d6afbc8718da36a09420114\"",
@@ -386,16 +389,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2caae-65e47c5f475f0-gzip\"",
-   "last_modified": "Tue, 20 Oct 2026 16:03:37 GMT"
+   "etag": "\"2caae-65e47c456a994-gzip\"",
+   "last_modified": "Tue, 20 Oct 2026 16:03:09 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"6bc6069af9ea8b6eecf312bb2a642336\"",
+   "etag": "\"85523832b4f06090aa284e13379f9697\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 20 Oct 2026 20:44:00 GMT"
+   "last_modified": "Tue, 20 Oct 2026 23:28:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -406,8 +409,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad7d200-53c4\"",
-   "last_modified": "Tue, 20 Oct 2026 20:41:36 GMT"
+   "etag": "W/\"6ad7f8ac-53c4\"",
+   "last_modified": "Tue, 20 Oct 2026 23:26:36 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1382,6 +1385,18 @@
    "status": "pruned",
    "title": "arT on losing momentum: \"We have to look ahead and realize we have a new opportunity here\""
   },
+  "708a7aa650": {
+   "date": 1792531260,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792538885,
+   "guid": "hltvnews45764",
+   "slug": "fazes-grind-continues-and-luminositys-major-chances-fade-as-708a7a",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FaZe's grind continues and Luminosity's Major chances fade as DraculaN playoffs begin"
+  },
   "72693ead9f": {
    "date": 1791727500,
    "excerpt_only": false,
@@ -1604,6 +1619,18 @@
    "status": "pruned",
    "title": "7 types of business meetings and top tips for each"
   },
+  "90d0cff9ca": {
+   "date": 1792533480,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792538885,
+   "guid": "hltvnews45765",
+   "slug": "navi-sign-up-for-hyperx-retake-season-13-despite-pgl-90d0cf",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "NAVI sign up for HyperX Retake Season 13 despite PGL Masters Bucharest and IEM Beijing conflicts"
+  },
   "912a7e7fe5": {
    "date": 1792070100,
    "excerpt_only": false,
@@ -1693,6 +1720,18 @@
    "source_slug": "ai2-blog",
    "status": "pruned",
    "title": "Impactful scheduling for GPU clusters"
+  },
+  "9f6f355063": {
+   "date": 1792529280,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792538885,
+   "guid": "hltvnews45763",
+   "slug": "big-get-a-lifeline-alliances-major-odds-crater-and-liquid-9f6f35",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BIG get a lifeline, Alliance's Major odds crater and Liquid exit after day two of 1win Private Club S2"
   },
   "a0469efdca": {
    "date": 1791742680,
@@ -2133,10 +2172,11 @@
    "guid": "hltvnews45747",
    "message_id": 360,
    "notified_at": 1792276661,
+   "pruned_at": 1792538885,
    "slug": "nip-beat-mibr-to-win-stake-pulse-beat-iii-de4a35",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "NIP beat MIBR to win Stake Pulse Beat III"
   },
   "deba9900f7": {
