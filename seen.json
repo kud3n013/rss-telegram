@@ -378,16 +378,16 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"29a29-65e3263631c4f-gzip\"",
-   "last_modified": "Mon, 19 Oct 2026 14:32:49 GMT"
+   "etag": "\"29a29-65e3f63e8d5a4-gzip\"",
+   "last_modified": "Tue, 20 Oct 2026 06:03:32 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"d5d65b41aa2f1110fbde3eb95c782bf9\"",
-   "last_modified": "Mon, 19 Oct 2026 22:48:46 GMT"
+   "etag": "\"9943624cece26e46526ee30355221b2d\"",
+   "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 20 Oct 2026 01:50:00 GMT"
+   "last_modified": "Tue, 20 Oct 2026 06:44:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -398,8 +398,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad6c6cf-53c4\"",
-   "last_modified": "Tue, 20 Oct 2026 01:41:35 GMT"
+   "etag": "W/\"6ad70d1f-53c4\"",
+   "last_modified": "Tue, 20 Oct 2026 06:41:35 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -819,10 +819,11 @@
    "guid": "https://retractionwatch.com/?p=136256",
    "message_id": 351,
    "notified_at": 1792211297,
+   "pruned_at": 1792478707,
    "slug": "springer-agency-website-offering-authorship-for-sale-goes-313bae",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "\u2018Springer\u2019 agency website offering authorship for sale goes down following Retraction Watch story"
   },
   "333550bff6": {
