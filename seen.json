@@ -174,7 +174,8 @@
    "https://proton.me/blog/google-selfie-video",
    "https://proton.me/business/blog/shared-drive",
    "https://proton.me/blog/data-brokers-gdpr",
-   "https://proton.me/blog/best-private-browsers"
+   "https://proton.me/blog/best-private-browsers",
+   "https://proton.me/business/blog/admin-roles"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -326,7 +327,8 @@
    "hltvnews45762",
    "hltvnews45763",
    "hltvnews45764",
-   "hltvnews45765"
+   "hltvnews45765",
+   "hltvnews45766"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -381,7 +383,7 @@
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
-   "etag": "W/\"31f70bac50da389831329fc30acf4196\"",
+   "etag": "W/\"778366adc6c7b4c01ab2ff63a89b9f82\"",
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
@@ -389,8 +391,8 @@
    "last_modified": "Mon, 12 Oct 2026 21:11:12 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"2caae-65e531e466c81-gzip\"",
-   "last_modified": "Wed, 21 Oct 2026 05:35:43 GMT"
+   "etag": "\"26a82-65e574a9678bc-gzip\"",
+   "last_modified": "Wed, 21 Oct 2026 10:34:26 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"85523832b4f06090aa284e13379f9697\"",
@@ -398,7 +400,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 21 Oct 2026 07:10:00 GMT"
+   "last_modified": "Wed, 21 Oct 2026 12:56:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -409,8 +411,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad86224-53c4\"",
-   "last_modified": "Wed, 21 Oct 2026 06:56:36 GMT"
+   "etag": "W/\"6ad8b685-53c4\"",
+   "last_modified": "Wed, 21 Oct 2026 12:56:37 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1414,6 +1416,18 @@
    "status": "pruned",
    "title": "woxic on taking bronze: \"It's always good to at least have something from the event\""
   },
+  "75358570cc": {
+   "date": 1792581689,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792587456,
+   "guid": "https://proton.me/business/blog/admin-roles",
+   "slug": "manage-team-access-easily-with-new-admin-roles-and-scim-for-753585",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "Manage team access easily with new Admin roles and SCIM for groups"
+  },
   "75422ae31e": {
    "date": 1791724080,
    "excerpt_only": false,
@@ -2125,6 +2139,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Short news: Week 41"
+  },
+  "d1d2a0e257": {
+   "date": 1792584720,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792587456,
+   "guid": "hltvnews45766",
+   "slug": "evil-geniuses-to-cease-operations-d1d2a0",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Evil Geniuses to cease operations"
   },
   "d3ae0c4485": {
    "date": 1771372800,
