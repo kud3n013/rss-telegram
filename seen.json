@@ -1422,10 +1422,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792587456,
    "guid": "https://proton.me/business/blog/admin-roles",
+   "message_id": 384,
+   "notified_at": 1792587527,
    "slug": "manage-team-access-easily-with-new-admin-roles-and-scim-for-753585",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Manage team access easily with new Admin roles and SCIM for groups"
   },
   "75422ae31e": {
@@ -2146,10 +2148,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792587456,
    "guid": "hltvnews45766",
+   "message_id": 385,
+   "notified_at": 1792587529,
    "slug": "evil-geniuses-to-cease-operations-d1d2a0",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Evil Geniuses to cease operations"
   },
   "d3ae0c4485": {
