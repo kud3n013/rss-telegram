@@ -553,10 +553,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792618280,
    "guid": "hltvnews45772",
+   "message_id": 392,
+   "notified_at": 1792618339,
    "slug": "parivision-qualify-for-1win-private-club-s2-final-fnatic-1032cc",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "PARIVISION qualify for 1win Private Club S2 final, fnatic and magic eliminated"
   },
   "11b97f2c8f": {
@@ -1960,10 +1962,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792618280,
    "guid": "https://retractionwatch.com/?p=136286",
+   "message_id": 391,
+   "notified_at": 1792618338,
    "slug": "journal-founded-by-plastic-surgeon-touts-studies-of-b78b96",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Journal founded by plastic surgeon touts studies of products he\u2019s tied to \u2013 including one that has been retracted"
   },
   "b7f45e746f": {
@@ -2430,10 +2434,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792618280,
    "guid": "hltvnews45773",
+   "message_id": 393,
+   "notified_at": 1792618341,
    "slug": "1eer-on-promising-results-with-private-we-dont-have-a-coach-e9c0cd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "1eeR on promising results with PRIVATE: \"We don't have a coach right now, so I do all the work. We work 14-16 hours, without exaggeration\""
   },
   "ec4dfe32e3": {
