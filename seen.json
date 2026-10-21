@@ -476,10 +476,12 @@
    "feed": "https://github.com/zen-browser/desktop/releases.atom",
    "fetched": 1792605469,
    "guid": "tag:github.com,2008:Repository/778556932/1.23.4b",
+   "message_id": 387,
+   "notified_at": 1792605565,
    "slug": "release-build-1-23-4b-2026-10-20-04ad02",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Release build - 1.23.4b (2026-10-20)"
   },
   "07b7516c27": {
@@ -728,10 +730,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792605469,
    "guid": "hltvnews45771",
+   "message_id": 390,
+   "notified_at": 1792605570,
    "slug": "qikert-pivots-to-coaching-joins-spirit-academy-24a3df",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Qikert pivots to coaching, joins Spirit Academy"
   },
   "25541efab6": {
@@ -1096,10 +1100,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792605469,
    "guid": "hltvnews45770",
+   "message_id": 389,
+   "notified_at": 1792605569,
    "slug": "gamerlegion-sign-shalfey-46f982",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "GamerLegion sign shalfey"
   },
   "4779bcf848": {
@@ -2206,10 +2212,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792605469,
    "guid": "hltvnews45769",
+   "message_id": 388,
+   "notified_at": 1792605567,
    "slug": "jijiehao-send-faze-to-lower-bracket-at-draculan-d2cfbb",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "JiJieHao send FaZe to lower bracket at DraculaN"
   },
   "d3ae0c4485": {
@@ -2439,10 +2447,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792605469,
    "guid": "hltvnews45768",
+   "message_id": 386,
+   "notified_at": 1792605563,
    "slug": "snax-moves-off-gamerlegions-active-roster-f3298f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Snax moves off GamerLegion's active roster"
   },
   "f64e51f549": {
