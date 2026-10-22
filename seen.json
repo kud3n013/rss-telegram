@@ -345,7 +345,9 @@
    "hltvnews45774",
    "hltvnews45767",
    "hltvnews45776",
-   "hltvnews45777"
+   "hltvnews45777",
+   "hltvnews45778",
+   "hltvnews45779"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -393,7 +395,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -404,12 +406,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6ad8f09e-331ec\"",
-   "last_modified": "Wed, 21 Oct 2026 17:04:30 GMT"
+   "etag": "W/\"6ada7e85-331ec\"",
+   "last_modified": "Thu, 22 Oct 2026 21:22:13 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e51dbfc7f-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:02:53 GMT"
+   "etag": "\"242a2-65e6e5688eef7-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:11 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"93ac869bcaea0bb333ba2eeb4107d06f\"",
@@ -417,7 +419,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 22 Oct 2026 18:50:00 GMT"
+   "last_modified": "Thu, 22 Oct 2026 22:00:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -428,8 +430,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ada58e2-53c4\"",
-   "last_modified": "Thu, 22 Oct 2026 18:41:38 GMT"
+   "etag": "W/\"6ada8697-53c4\"",
+   "last_modified": "Thu, 22 Oct 2026 21:56:39 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1084,10 +1086,11 @@
    "guid": "hltvnews45756",
    "message_id": 369,
    "notified_at": 1792439390,
+   "pruned_at": 1792706423,
    "slug": "krasnal-enters-free-agency-419848",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "kRaSnaL enters free agency"
   },
   "41b30f8665": {
@@ -1149,6 +1152,18 @@
    "status": "pruned",
    "title": "Run more secure, organized meetings with new Proton Meet features"
   },
+  "45caa0837a": {
+   "date": 1792699860,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792706423,
+   "guid": "hltvnews45779",
+   "slug": "nin9-i-had-that-confidence-in-me-that-i-could-be-the-piece-45caa0",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "nin9: \"I had that confidence in me that I could be the piece they needed to win games\""
+  },
   "46f9824021": {
    "date": 1792596420,
    "excerpt_only": false,
@@ -1207,6 +1222,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "FURIA make TWC playoffs over Legacy"
+  },
+  "4f25d97ace": {
+   "date": 1792695300,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792706423,
+   "guid": "hltvnews45778",
+   "slug": "xenn-we-need-to-reset-mentally-because-this-was-damage-4f25d9",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "xenn: \"We need to reset mentally because this was damage, basically. It was a huge loss for us\""
   },
   "50b3e71406": {
    "date": 1788099367,
@@ -2221,10 +2248,11 @@
    "guid": "hltvnews45757",
    "message_id": 370,
    "notified_at": 1792439391,
+   "pruned_at": 1792706423,
    "slug": "vrs-fans-come-here-ft-mischief-c8bde3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "VRS Fans Come Here ft. Mischief"
   },
   "c8feca95b1": {
