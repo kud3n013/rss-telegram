@@ -722,10 +722,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792680086,
    "guid": "hltvnews45774",
+   "message_id": 396,
+   "notified_at": 1792680274,
    "slug": "pgl-masters-bucharest-teams-format-schedule-prizes-talent-1dbac3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "PGL Masters Bucharest teams, format, schedule, prizes, talent, fantasy"
   },
   "1e5cd997da": {
@@ -2113,10 +2115,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792680086,
    "guid": "hltvnews45767",
+   "message_id": 397,
+   "notified_at": 1792680276,
    "slug": "the-evp-and-all-stars-of-thunderpick-world-championship-2026-c2bce9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The EVP and All-Stars of Thunderpick World Championship 2026"
   },
   "c503e033d1": {
@@ -2554,10 +2558,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792680086,
    "guid": "https://proton.me/blog/lumo-creations",
+   "message_id": 398,
+   "notified_at": 1792680278,
    "slug": "lumo-can-now-turn-your-ideas-into-creations-f3543e",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Lumo can now turn your ideas into creations"
   },
   "f64e51f549": {
@@ -2610,10 +2616,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1792680086,
    "guid": "https://allenai.org/blog/olmoearth-v1-3",
+   "message_id": 395,
+   "notified_at": 1792680272,
    "slug": "olmoearth-v1-3-state-of-the-art-embeddings-for-the-whole-fd1fd6",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
   },
   "fe6b4704c4": {
