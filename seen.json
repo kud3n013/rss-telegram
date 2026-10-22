@@ -1158,10 +1158,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792706423,
    "guid": "hltvnews45779",
+   "message_id": 404,
+   "notified_at": 1792706477,
    "slug": "nin9-i-had-that-confidence-in-me-that-i-could-be-the-piece-45caa0",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "nin9: \"I had that confidence in me that I could be the piece they needed to win games\""
   },
   "46f9824021": {
@@ -1229,10 +1231,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792706423,
    "guid": "hltvnews45778",
+   "message_id": 403,
+   "notified_at": 1792706475,
    "slug": "xenn-we-need-to-reset-mentally-because-this-was-damage-4f25d9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "xenn: \"We need to reset mentally because this was damage, basically. It was a huge loss for us\""
   },
   "50b3e71406": {
