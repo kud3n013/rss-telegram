@@ -29,7 +29,8 @@
    "https://allenai.org/blog/colm-2026-recap",
    "https://allenai.org/blog/molmo2fish",
    "https://allenai.org/blog/hiro-acev2",
-   "https://allenai.org/blog/fairstress"
+   "https://allenai.org/blog/fairstress",
+   "https://allenai.org/blog/olmoearth-v1-3"
   ],
   "https://annas-archive.gl/blog/rss.xml": [
    "https://annas-archive.gl/blog/blog-introducing.html",
@@ -177,7 +178,8 @@
    "https://proton.me/blog/data-brokers-gdpr",
    "https://proton.me/blog/best-private-browsers",
    "https://proton.me/business/blog/admin-roles",
-   "https://proton.me/blog/meta-25-billion-penalty"
+   "https://proton.me/blog/meta-25-billion-penalty",
+   "https://proton.me/blog/lumo-creations"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -337,7 +339,9 @@
    "hltvnews45770",
    "hltvnews45771",
    "hltvnews45772",
-   "hltvnews45773"
+   "hltvnews45773",
+   "hltvnews45774",
+   "hltvnews45767"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -385,7 +389,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -396,20 +400,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6ad8f09d-331ec\"",
-   "last_modified": "Wed, 21 Oct 2026 17:04:29 GMT"
+   "etag": "W/\"6ad8f09e-331ec\"",
+   "last_modified": "Wed, 21 Oct 2026 17:04:30 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"23ee9-65e69cfdba9b2-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 08:40:12 GMT"
+   "etag": "\"242a2-65e6e5667367e-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:09 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"677635e784e78995b58cfc17298b9b3c\"",
-   "last_modified": "Wed, 21 Oct 2026 17:21:54 GMT"
+   "etag": "\"93ac869bcaea0bb333ba2eeb4107d06f\"",
+   "last_modified": "Wed, 21 Oct 2026 22:53:10 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 22 Oct 2026 09:40:00 GMT"
+   "last_modified": "Thu, 22 Oct 2026 14:40:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -420,8 +424,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ad9d6ce-53c4\"",
-   "last_modified": "Thu, 22 Oct 2026 09:26:38 GMT"
+   "etag": "W/\"6ada1d1e-53c4\"",
+   "last_modified": "Thu, 22 Oct 2026 14:26:38 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -711,6 +715,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Falcons secure playoff berth at TWC 2026"
+  },
+  "1dbac3fac3": {
+   "date": 1792664400,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792680086,
+   "guid": "hltvnews45774",
+   "slug": "pgl-masters-bucharest-teams-format-schedule-prizes-talent-1dbac3",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "PGL Masters Bucharest teams, format, schedule, prizes, talent, fantasy"
   },
   "1e5cd997da": {
    "date": 1791704700,
@@ -1091,10 +1107,11 @@
    "guid": "hltvnews45755",
    "message_id": 368,
    "notified_at": 1792418609,
+   "pruned_at": 1792680086,
    "slug": "hltv-attributes-receive-an-overhaul-with-29-new-metrics-439931",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "HLTV Attributes receive an overhaul with 29 new metrics"
   },
   "447f98d23c": {
@@ -2090,6 +2107,18 @@
    "status": "notified",
    "title": "Vitality to meet Falcons in BLAST Rivals opener"
   },
+  "c2bce9fd9e": {
+   "date": 1792672740,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792680086,
+   "guid": "hltvnews45767",
+   "slug": "the-evp-and-all-stars-of-thunderpick-world-championship-2026-c2bce9",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "The EVP and All-Stars of Thunderpick World Championship 2026"
+  },
   "c503e033d1": {
    "date": 1792323120,
    "excerpt_only": false,
@@ -2335,10 +2364,11 @@
    "guid": "hltvnews45754",
    "message_id": 366,
    "notified_at": 1792418606,
+   "pruned_at": 1792680086,
    "slug": "kscerato-on-close-final-a-goal-is-a-goal-even-if-its-ugly-df6950",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "KSCERATO on close final: \"A goal is a goal, even if it's ugly\""
   },
   "e084840a2d": {
@@ -2423,10 +2453,11 @@
    "guid": "hltvnews45751",
    "message_id": 367,
    "notified_at": 1792418607,
+   "pruned_at": 1792680086,
    "slug": "the-evps-and-all-stars-of-esl-pro-league-s24-e63826",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "The EVPs and All-Stars of ESL Pro League S24"
   },
   "e9b7089da7": {
@@ -2517,6 +2548,18 @@
    "status": "notified",
    "title": "Snax moves off GamerLegion's active roster"
   },
+  "f3543e575f": {
+   "date": 1792679485,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1792680086,
+   "guid": "https://proton.me/blog/lumo-creations",
+   "slug": "lumo-can-now-turn-your-ideas-into-creations-f3543e",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "Lumo can now turn your ideas into creations"
+  },
   "f64e51f549": {
    "date": 1792062540,
    "excerpt_only": false,
@@ -2560,6 +2603,18 @@
    "source_slug": "ai2-blog",
    "status": "notified",
    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+  },
+  "fd1fd66f68": {
+   "date": 1792656000,
+   "excerpt_only": false,
+   "feed": "https://allenai.org/rss.xml",
+   "fetched": 1792680086,
+   "guid": "https://allenai.org/blog/olmoearth-v1-3",
+   "slug": "olmoearth-v1-3-state-of-the-art-embeddings-for-the-whole-fd1fd6",
+   "source": "Ai2 Blog",
+   "source_slug": "ai2-blog",
+   "status": "mirrored",
+   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
   },
   "fe6b4704c4": {
    "date": 1792000800,
