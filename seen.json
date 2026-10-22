@@ -30,7 +30,8 @@
    "https://allenai.org/blog/molmo2fish",
    "https://allenai.org/blog/hiro-acev2",
    "https://allenai.org/blog/fairstress",
-   "https://allenai.org/blog/olmoearth-v1-3"
+   "https://allenai.org/blog/olmoearth-v1-3",
+   "https://allenai.org/blog/planteur"
   ],
   "https://annas-archive.gl/blog/rss.xml": [
    "https://annas-archive.gl/blog/blog-introducing.html",
@@ -215,7 +216,8 @@
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/717916455762395359",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/717916455762395357",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492473208",
-   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/702156483742138678"
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/702156483742138678",
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/719045526774878963"
   ],
   "https://world.hey.com/dhh/feed.atom": [
    "tag:world.hey.com,2005:World::Post/49362",
@@ -341,7 +343,9 @@
    "hltvnews45772",
    "hltvnews45773",
    "hltvnews45774",
-   "hltvnews45767"
+   "hltvnews45767",
+   "hltvnews45776",
+   "hltvnews45777"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -389,7 +393,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -404,8 +408,8 @@
    "last_modified": "Wed, 21 Oct 2026 17:04:30 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e5667367e-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:09 GMT"
+   "etag": "\"242a2-65e6e51dbfc7f-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:02:53 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"93ac869bcaea0bb333ba2eeb4107d06f\"",
@@ -413,7 +417,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 22 Oct 2026 14:40:00 GMT"
+   "last_modified": "Thu, 22 Oct 2026 18:50:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -424,8 +428,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ada1d1e-53c4\"",
-   "last_modified": "Thu, 22 Oct 2026 14:26:38 GMT"
+   "etag": "W/\"6ada58e2-53c4\"",
+   "last_modified": "Thu, 22 Oct 2026 18:41:38 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1086,6 +1090,18 @@
    "status": "notified",
    "title": "kRaSnaL enters free agency"
   },
+  "41b30f8665": {
+   "date": 1792656000,
+   "excerpt_only": false,
+   "feed": "https://allenai.org/rss.xml",
+   "fetched": 1792695108,
+   "guid": "https://allenai.org/blog/planteur",
+   "slug": "a-crop-mapping-benchmark-for-the-tropics-41b30f",
+   "source": "Ai2 Blog",
+   "source_slug": "ai2-blog",
+   "status": "mirrored",
+   "title": "A crop-mapping benchmark for the tropics"
+  },
   "4211c5bb4b": {
    "date": 1792266840,
    "excerpt_only": false,
@@ -1219,6 +1235,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Opening matchups set for PGL Masters Bucharest"
+  },
+  "54e8ee14ae": {
+   "date": 1792692900,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792695108,
+   "guid": "hltvnews45777",
+   "slug": "the-mongolz-outclass-parivision-to-lift-1win-private-club-54e8ee",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "The MongolZ outclass PARIVISION to lift 1win Private Club Season 2 trophy on debut with nin9"
   },
   "55628009f1": {
    "date": 1792014180,
@@ -1664,6 +1692,18 @@
    "status": "notified",
    "title": "Data brokers are selling your profile. Here\u2019s how to use the GDPR to stop them."
   },
+  "8a7b94a0ef": {
+   "date": 1792688580,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792695108,
+   "guid": "hltvnews45776",
+   "slug": "faze-heroic-and-envy-eliminated-as-draculan-season-7-8a7b94",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FaZe, HEROIC and Envy eliminated as DraculaN Season 7 reaches final four"
+  },
   "8c59cc2eec": {
    "date": 1791805068,
    "excerpt_only": false,
@@ -1812,6 +1852,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "How to delete your Facebook account"
+  },
+  "9c34189d58": {
+   "date": 1792681533,
+   "excerpt_only": false,
+   "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
+   "fetched": 1792695108,
+   "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/719045526774878963",
+   "slug": "sker-ritual-and-home-a-unique-horror-adventure-and-2-dev-9c3418",
+   "source": "Weekly Free Games",
+   "source_slug": "weekly-free-games",
+   "status": "mirrored",
+   "title": "Sker Ritual -and- Home - A Unique Horror Adventure -and- 2 dev giveaways free from/in Epic Store"
   },
   "9ccf8ee367": {
    "date": 1791532800,
