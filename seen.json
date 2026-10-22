@@ -2362,10 +2362,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1792662028,
    "guid": "https://proton.me/blog/meta-25-billion-penalty",
+   "message_id": 394,
+   "notified_at": 1792662085,
    "slug": "meta-ordered-to-pay-25-billion-over-cambridge-analytica-e0deda",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Meta ordered to pay $25 billion over Cambridge Analytica privacy case"
   },
   "e34c90df2b": {
