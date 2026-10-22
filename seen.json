@@ -1096,10 +1096,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1792695108,
    "guid": "https://allenai.org/blog/planteur",
+   "message_id": 399,
+   "notified_at": 1792695156,
    "slug": "a-crop-mapping-benchmark-for-the-tropics-41b30f",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A crop-mapping benchmark for the tropics"
   },
   "4211c5bb4b": {
@@ -1242,10 +1244,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792695108,
    "guid": "hltvnews45777",
+   "message_id": 402,
+   "notified_at": 1792695161,
    "slug": "the-mongolz-outclass-parivision-to-lift-1win-private-club-54e8ee",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The MongolZ outclass PARIVISION to lift 1win Private Club Season 2 trophy on debut with nin9"
   },
   "55628009f1": {
@@ -1698,10 +1702,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792695108,
    "guid": "hltvnews45776",
+   "message_id": 401,
+   "notified_at": 1792695160,
    "slug": "faze-heroic-and-envy-eliminated-as-draculan-season-7-8a7b94",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FaZe, HEROIC and Envy eliminated as DraculaN Season 7 reaches final four"
   },
   "8c59cc2eec": {
@@ -1859,10 +1865,12 @@
    "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
    "fetched": 1792695108,
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/719045526774878963",
+   "message_id": 400,
+   "notified_at": 1792695158,
    "slug": "sker-ritual-and-home-a-unique-horror-adventure-and-2-dev-9c3418",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Sker Ritual -and- Home - A Unique Horror Adventure -and- 2 dev giveaways free from/in Epic Store"
   },
   "9ccf8ee367": {
