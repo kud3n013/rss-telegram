@@ -31,7 +31,8 @@
    "https://allenai.org/blog/hiro-acev2",
    "https://allenai.org/blog/fairstress",
    "https://allenai.org/blog/olmoearth-v1-3",
-   "https://allenai.org/blog/planteur"
+   "https://allenai.org/blog/planteur",
+   "https://allenai.org/blog/litpivot"
   ],
   "https://annas-archive.gl/blog/rss.xml": [
    "https://annas-archive.gl/blog/blog-introducing.html",
@@ -351,7 +352,9 @@
    "hltvnews45779",
    "hltvnews45775",
    "hltvnews45781",
-   "hltvnews45780"
+   "hltvnews45780",
+   "hltvnews45782",
+   "hltvnews45783"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -399,7 +402,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -410,12 +413,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6ada7e86-331ec\"",
-   "last_modified": "Thu, 22 Oct 2026 21:22:14 GMT"
+   "etag": "W/\"6ada7e85-331ec\"",
+   "last_modified": "Thu, 22 Oct 2026 21:22:13 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e50c7c2d6-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:02:34 GMT"
+   "etag": "\"242a2-65e6e5667367e-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:09 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4bd27f5bd089e2c7bde3f4d152207757\"",
@@ -423,7 +426,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 23 Oct 2026 15:10:00 GMT"
+   "last_modified": "Fri, 23 Oct 2026 19:14:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"8d934aa6f41d89eaf764e821b3a91d61\"",
@@ -434,8 +437,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adb75a7-53c4\"",
-   "last_modified": "Fri, 23 Oct 2026 14:56:39 GMT"
+   "etag": "W/\"6adbb16c-53c4\"",
+   "last_modified": "Fri, 23 Oct 2026 19:11:40 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1340,10 +1343,11 @@
    "guid": "hltvnews45761",
    "message_id": 378,
    "notified_at": 1792516966,
+   "pruned_at": 1792782893,
    "slug": "pgl-announces-masters-bucharest-talent-56789a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "PGL announces Masters Bucharest talent"
   },
   "5a7a77d5bf": {
@@ -1444,10 +1448,11 @@
    "guid": "hltvnews45762",
    "message_id": 379,
    "notified_at": 1792516968,
+   "pruned_at": 1792782893,
    "slug": "bbl-and-betlic-qualify-for-pgl-bucharest-2027-67ede5",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BBL and Betlic qualify for PGL Bucharest 2027"
   },
   "6a5404c7b6": {
@@ -2147,6 +2152,18 @@
    "status": "pruned",
    "title": "Official: Astralis sign siuhy and cmtry"
   },
+  "b9acff9dd0": {
+   "date": 1792776120,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792782893,
+   "guid": "hltvnews45783",
+   "slug": "sashi-part-ways-with-tjp-and-hatz-b9acff",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Sashi part ways with TjP and Hatz"
+  },
   "b9de315f4f": {
    "date": 1791909540,
    "excerpt_only": false,
@@ -2236,6 +2253,18 @@
    "status": "pruned",
    "title": "0.19.2"
   },
+  "bfea5cd0ed": {
+   "date": 1792742400,
+   "excerpt_only": false,
+   "feed": "https://allenai.org/rss.xml",
+   "fetched": 1792782893,
+   "guid": "https://allenai.org/blog/litpivot",
+   "slug": "litpivot-developing-research-ideas-through-dynamic-bfea5c",
+   "source": "Ai2 Blog",
+   "source_slug": "ai2-blog",
+   "status": "mirrored",
+   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+  },
   "c0461a0610": {
    "date": 1792229400,
    "excerpt_only": false,
@@ -2259,10 +2288,11 @@
    "guid": "hltvnews45760",
    "message_id": 377,
    "notified_at": 1792516964,
+   "pruned_at": 1792782893,
    "slug": "vitality-to-meet-falcons-in-blast-rivals-opener-c28ce0",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Vitality to meet Falcons in BLAST Rivals opener"
   },
   "c2bce9fd9e": {
@@ -2429,6 +2459,18 @@
    "status": "notified",
    "title": "Evil Geniuses to cease operations"
   },
+  "d21bdf56e2": {
+   "date": 1792773240,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792782893,
+   "guid": "hltvnews45782",
+   "slug": "jl-on-every-other-team-in-pgl-masters-bucharest-groups-d21bdf",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "jL on every other team in PGL Masters Bucharest groups Fantasy"
+  },
   "d2cfbbeb45": {
    "date": 1792594560,
    "excerpt_only": false,
@@ -2481,10 +2523,11 @@
    "guid": "https://proton.me/blog/best-private-browsers",
    "message_id": 380,
    "notified_at": 1792516970,
+   "pruned_at": 1792782893,
    "slug": "the-best-private-browsers-tested-dddf49",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "The best private browsers, tested"
   },
   "de4a35c031": {
@@ -2761,10 +2804,11 @@
    "guid": "https://allenai.org/blog/fairstress",
    "message_id": 376,
    "notified_at": 1792516963,
+   "pruned_at": 1792782893,
    "slug": "fairstress-a-deeper-evaluation-of-fairness-in-llm-decision-f85222",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
   },
   "fd1fd66f68": {
