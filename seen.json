@@ -349,7 +349,9 @@
    "hltvnews45777",
    "hltvnews45778",
    "hltvnews45779",
-   "hltvnews45775"
+   "hltvnews45775",
+   "hltvnews45781",
+   "hltvnews45780"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -397,7 +399,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -408,8 +410,8 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6ada7e85-331ec\"",
-   "last_modified": "Thu, 22 Oct 2026 21:22:13 GMT"
+   "etag": "W/\"6ada7e86-331ec\"",
+   "last_modified": "Thu, 22 Oct 2026 21:22:14 GMT"
   },
   "https://proton.me/blog/feed": {
    "etag": "\"242a2-65e6e50c7c2d6-gzip\"",
@@ -421,7 +423,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 23 Oct 2026 10:14:00 GMT"
+   "last_modified": "Fri, 23 Oct 2026 15:10:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"8d934aa6f41d89eaf764e821b3a91d61\"",
@@ -432,8 +434,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adb32db-53c4\"",
-   "last_modified": "Fri, 23 Oct 2026 10:11:39 GMT"
+   "etag": "W/\"6adb75a7-53c4\"",
+   "last_modified": "Fri, 23 Oct 2026 14:56:39 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -804,10 +806,11 @@
    "guid": "https://proton.me/business/blog/shared-drive",
    "message_id": 373,
    "notified_at": 1792498814,
+   "pruned_at": 1792768253,
    "slug": "how-to-set-up-a-shared-drive-that-stays-organized-as-your-25541e",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "How to set up a shared drive that stays organized as your team grows"
   },
   "264dcabe3e": {
@@ -967,10 +970,11 @@
    "guid": "hltvnews45759",
    "message_id": 374,
    "notified_at": 1792498816,
+   "pruned_at": 1792768253,
    "slug": "iem-beijing-groups-and-opening-matchups-set-324f96",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "IEM Beijing groups and opening matchups set"
   },
   "333550bff6": {
@@ -1752,10 +1756,11 @@
    "guid": "https://proton.me/blog/data-brokers-gdpr",
    "message_id": 375,
    "notified_at": 1792498817,
+   "pruned_at": 1792768253,
    "slug": "data-brokers-are-selling-your-profile-heres-how-to-use-the-862e8d",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Data brokers are selling your profile. Here\u2019s how to use the GDPR to stop them."
   },
   "8a7b94a0ef": {
@@ -2054,6 +2059,18 @@
    "status": "pruned",
    "title": "Aurora claim third at EPL with Spirit sweep"
   },
+  "aae364a073": {
+   "date": 1792764720,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792768253,
+   "guid": "hltvnews45780",
+   "slug": "electronic-on-vp-my-ambitions-were-too-high-which-is-why-i-aae364",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "electroNic on VP: \"My ambitions were too high, which is why I probably behaved that way\""
+  },
   "ae1630535d": {
    "date": 1792183680,
    "excerpt_only": false,
@@ -2172,6 +2189,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "Weekend reads: OpenAI\u2019s preprint dump; Taylor & Francis to leave Informa; arXiv\u2019s preprint cap"
+  },
+  "bd2d836c09": {
+   "date": 1792759260,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792768253,
+   "guid": "hltvnews45781",
+   "slug": "belchonokk-joins-1win-permanently-bd2d83",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BELCHONOKK joins 1win permanently"
   },
   "bd50c64666": {
    "date": 1791543332,
