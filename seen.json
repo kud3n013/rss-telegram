@@ -2065,10 +2065,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792768253,
    "guid": "hltvnews45780",
+   "message_id": 408,
+   "notified_at": 1792768307,
    "slug": "electronic-on-vp-my-ambitions-were-too-high-which-is-why-i-aae364",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "electroNic on VP: \"My ambitions were too high, which is why I probably behaved that way\""
   },
   "ae1630535d": {
@@ -2196,10 +2198,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792768253,
    "guid": "hltvnews45781",
+   "message_id": 407,
+   "notified_at": 1792768305,
    "slug": "belchonokk-joins-1win-permanently-bd2d83",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BELCHONOKK joins 1win permanently"
   },
   "bd50c64666": {
