@@ -565,10 +565,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792715625,
    "guid": "https://retractionwatch.com/?p=136295",
+   "message_id": 405,
+   "notified_at": 1792715680,
    "slug": "thousands-of-research-studies-violate-journal-policies-on-0fe47b",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Thousands of research studies violate journal policies on collaborations between editors and authors"
   },
   "1032cc3765": {
