@@ -202,7 +202,8 @@
    "https://retractionwatch.com/?p=136256",
    "https://retractionwatch.com/?p=136250",
    "https://retractionwatch.com/?p=136270",
-   "https://retractionwatch.com/?p=136286"
+   "https://retractionwatch.com/?p=136286",
+   "https://retractionwatch.com/?p=136295"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -410,16 +411,16 @@
    "last_modified": "Thu, 22 Oct 2026 21:22:13 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e5688eef7-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:11 GMT"
+   "etag": "\"242a2-65e6e51dbfc7f-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:02:53 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"93ac869bcaea0bb333ba2eeb4107d06f\"",
-   "last_modified": "Wed, 21 Oct 2026 22:53:10 GMT"
+   "etag": "\"4bd27f5bd089e2c7bde3f4d152207757\"",
+   "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 22 Oct 2026 22:00:00 GMT"
+   "last_modified": "Fri, 23 Oct 2026 00:32:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"22414c44cb57e8aa9471dd6f090ab498\"",
@@ -430,8 +431,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ada8697-53c4\"",
-   "last_modified": "Thu, 22 Oct 2026 21:56:39 GMT"
+   "etag": "W/\"6adaa9bf-53c4\"",
+   "last_modified": "Fri, 23 Oct 2026 00:26:39 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -557,6 +558,18 @@
    "source_slug": "dhh",
    "status": "pruned",
    "title": "Over my dead pencil"
+  },
+  "0fe47b05c6": {
+   "date": 1792700693,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792715625,
+   "guid": "https://retractionwatch.com/?p=136295",
+   "slug": "thousands-of-research-studies-violate-journal-policies-on-0fe47b",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Thousands of research studies violate journal policies on collaborations between editors and authors"
   },
   "1032cc3765": {
    "date": 1792614600,
@@ -1677,10 +1690,11 @@
    "guid": "https://retractionwatch.com/?p=136270",
    "message_id": 371,
    "notified_at": 1792451435,
+   "pruned_at": 1792715625,
    "slug": "japanese-institute-finds-materials-researcher-with-41-7a3738",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Japanese institute finds materials researcher with 41 retractions guilty of \u2018extensive\u2019 manipulation"
   },
   "7bdce12e5b": {
@@ -2120,10 +2134,11 @@
    "guid": "hltvnews45758",
    "message_id": 372,
    "notified_at": 1792451437,
+   "pruned_at": 1792715625,
    "slug": "magnojez-extends-betboom-contract-ba5c9f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Magnojez extends BETBOOM contract"
   },
   "bbf2986ef7": {
