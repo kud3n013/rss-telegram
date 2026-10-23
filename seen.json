@@ -1745,10 +1745,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792793947,
    "guid": "hltvnews45784",
+   "message_id": 412,
+   "notified_at": 1792793995,
    "slug": "virtus-pro-secure-winline-mpkbk-cis-lan-title-over-nemesis-7d41f6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Virtus.pro secure WINLINE MPKBK CIS LAN title over Nemesis"
   },
   "7f100bc7eb": {
