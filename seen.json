@@ -2158,10 +2158,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792782893,
    "guid": "hltvnews45783",
+   "message_id": 411,
+   "notified_at": 1792782945,
    "slug": "sashi-part-ways-with-tjp-and-hatz-b9acff",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Sashi part ways with TjP and Hatz"
   },
   "b9de315f4f": {
@@ -2259,10 +2261,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1792782893,
    "guid": "https://allenai.org/blog/litpivot",
+   "message_id": 409,
+   "notified_at": 1792782941,
    "slug": "litpivot-developing-research-ideas-through-dynamic-bfea5c",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
   },
   "c0461a0610": {
@@ -2465,10 +2469,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792782893,
    "guid": "hltvnews45782",
+   "message_id": 410,
+   "notified_at": 1792782943,
    "slug": "jl-on-every-other-team-in-pgl-masters-bucharest-groups-d21bdf",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "jL on every other team in PGL Masters Bucharest groups Fantasy"
   },
   "d2cfbbeb45": {
