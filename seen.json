@@ -846,10 +846,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792750483,
    "guid": "hltvnews45775",
+   "message_id": 406,
+   "notified_at": 1792750528,
    "slug": "independent-in-one-year-i-definitely-see-us-competing-26970a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Independent: \"In one year, I definitely see us competing consistently at tier-one events\""
   },
   "280f015714": {
