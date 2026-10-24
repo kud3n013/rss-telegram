@@ -703,10 +703,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792860945,
    "guid": "https://retractionwatch.com/?p=136303",
+   "message_id": 422,
+   "notified_at": 1792861004,
    "slug": "weekend-reads-journals-and-the-mathpocalypse-autism-paper-14c4c7",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Weekend reads: Journals and the \u2018Mathpocalypse\u2019; autism paper earns EOC; Cell Press investigating bribery allegations"
   },
   "151e734a33": {
@@ -1129,10 +1131,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792860945,
    "guid": "hltvnews45792",
+   "message_id": 425,
+   "notified_at": 1792861009,
    "slug": "nemiga-move-past-legacy-in-bucharest-395015",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Nemiga move past Legacy in Bucharest"
   },
   "396c30e2f5": {
@@ -1275,10 +1279,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792860945,
    "guid": "hltvnews45791",
+   "message_id": 423,
+   "notified_at": 1792861006,
    "slug": "upsets-continue-at-pgl-masters-bucharest-as-betboom-defeat-458e85",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Upsets continue at PGL Masters Bucharest as BETBOOM defeat Spirit"
   },
   "45caa0837a": {
@@ -1656,10 +1662,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792860945,
    "guid": "hltvnews45790",
+   "message_id": 424,
+   "notified_at": 1792861008,
    "slug": "elige-after-beating-mouz-we-have-to-make-this-level-our-6c8f56",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "EliGE after beating MOUZ: \"We have to make this level our floor\""
   },
   "6cc303e50b": {
