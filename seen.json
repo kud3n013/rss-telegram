@@ -1965,10 +1965,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792885514,
    "guid": "hltvnews45795",
+   "message_id": 428,
+   "notified_at": 1792885555,
    "slug": "im-we-are-trying-to-make-playoffs-here-to-make-our-lives-8a42dd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "iM: \"We are trying to make playoffs here to make our lives easier for the Major\""
   },
   "8a7b94a0ef": {
