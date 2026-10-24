@@ -368,7 +368,9 @@
    "hltvnews45789",
    "hltvnews45791",
    "hltvnews45790",
-   "hltvnews45792"
+   "hltvnews45792",
+   "hltvnews45793",
+   "hltvnews45794"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -431,8 +433,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e51dbfc7f-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:02:53 GMT"
+   "etag": "\"242a2-65e6e50c7c2d6-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:02:34 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"aad50719aeced1f88031fde6dcd88349\"",
@@ -440,7 +442,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 24 Oct 2026 19:16:00 GMT"
+   "last_modified": "Sat, 24 Oct 2026 21:40:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -451,8 +453,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6add02ed-53c4\"",
-   "last_modified": "Sat, 24 Oct 2026 19:11:41 GMT"
+   "etag": "W/\"6add2291-53c4\"",
+   "last_modified": "Sat, 24 Oct 2026 21:26:41 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -602,10 +604,11 @@
    "guid": "hltvnews45772",
    "message_id": 392,
    "notified_at": 1792618339,
+   "pruned_at": 1792878070,
    "slug": "parivision-qualify-for-1win-private-club-s2-final-fnatic-1032cc",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "PARIVISION qualify for 1win Private Club S2 final, fnatic and magic eliminated"
   },
   "11b97f2c8f": {
@@ -1511,6 +1514,18 @@
    "status": "pruned",
    "title": "Aurora pass Falcons in the VRS after third-place decider victory at TWC"
   },
+  "630d216336": {
+   "date": 1792870080,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792878070,
+   "guid": "hltvnews45794",
+   "slug": "furia-vs-navi-aurora-vs-g2-headline-pgl-masters-bucharest-630d21",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA vs NAVI, Aurora vs G2 headline PGL Masters Bucharest day 2"
+  },
   "64c20f3928": {
    "date": 1791480926,
    "excerpt_only": false,
@@ -1643,6 +1658,18 @@
    "source_slug": "zen-browser-releases",
    "status": "pruned",
    "title": "Release build - 1.23.1b (2026-10-06)"
+  },
+  "6c0ba82602": {
+   "date": 1792869840,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792878070,
+   "guid": "hltvnews45793",
+   "slug": "navi-scrape-narrow-win-over-g2-to-secure-massive-vrs-payout-6c0ba8",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "NAVI scrape narrow win over G2 to secure massive VRS payout"
   },
   "6c58682433": {
    "date": 1791914840,
@@ -2334,10 +2361,11 @@
    "guid": "https://retractionwatch.com/?p=136286",
    "message_id": 391,
    "notified_at": 1792618338,
+   "pruned_at": 1792878070,
    "slug": "journal-founded-by-plastic-surgeon-touts-studies-of-b78b96",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Journal founded by plastic surgeon touts studies of products he\u2019s tied to \u2013 including one that has been retracted"
   },
   "b7f45e746f": {
@@ -2912,10 +2940,11 @@
    "guid": "hltvnews45773",
    "message_id": 393,
    "notified_at": 1792618341,
+   "pruned_at": 1792878070,
    "slug": "1eer-on-promising-results-with-private-we-dont-have-a-coach-e9c0cd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "1eeR on promising results with PRIVATE: \"We don't have a coach right now, so I do all the work. We work 14-16 hours, without exaggeration\""
   },
   "ec4dfe32e3": {
