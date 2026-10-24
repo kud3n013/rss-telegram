@@ -1004,10 +1004,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1792818557,
    "guid": "https://retractionwatch.com/?p=136307",
+   "message_id": 414,
+   "notified_at": 1792818600,
    "slug": "journal-updates-retraction-notice-as-princeton-student-33819b",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Journal updates retraction notice as Princeton student author stays in the spotlight"
   },
   "35a2e3f1fd": {
