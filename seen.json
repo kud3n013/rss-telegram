@@ -205,7 +205,8 @@
    "https://retractionwatch.com/?p=136270",
    "https://retractionwatch.com/?p=136286",
    "https://retractionwatch.com/?p=136295",
-   "https://retractionwatch.com/?p=136307"
+   "https://retractionwatch.com/?p=136307",
+   "https://retractionwatch.com/?p=136303"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -364,7 +365,10 @@
    "hltvnews45461",
    "hltvnews45788",
    "hltvnews45787",
-   "hltvnews45789"
+   "hltvnews45789",
+   "hltvnews45791",
+   "hltvnews45790",
+   "hltvnews45792"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -412,7 +416,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -431,15 +435,15 @@
    "last_modified": "Thu, 22 Oct 2026 14:04:29 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"6fd888f7abceb63d436a16a00c810e9a\"",
+   "etag": "\"aad50719aeced1f88031fde6dcd88349\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 24 Oct 2026 13:32:00 GMT"
+   "last_modified": "Sat, 24 Oct 2026 16:54:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
-   "etag": "W/\"c01b8cc440124e9612cf4779ff5275fa\"",
+   "etag": "W/\"12ff58cbcd0ba8ae77c1be7126c29fc7\"",
    "last_modified": null
   },
   "https://www.hltv.org/rss/news": {
@@ -447,8 +451,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adcb211-53c4\"",
-   "last_modified": "Sat, 24 Oct 2026 13:26:41 GMT"
+   "etag": "W/\"6adcdfc5-53c4\"",
+   "last_modified": "Sat, 24 Oct 2026 16:41:41 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -692,6 +696,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "Why did the ASOS hackers go directly to their customers?"
+  },
+  "14c4c78d59": {
+   "date": 1792836000,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792860945,
+   "guid": "https://retractionwatch.com/?p=136303",
+   "slug": "weekend-reads-journals-and-the-mathpocalypse-autism-paper-14c4c7",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Weekend reads: Journals and the \u2018Mathpocalypse\u2019; autism paper earns EOC; Cell Press investigating bribery allegations"
   },
   "151e734a33": {
    "date": 1791634080,
@@ -1107,6 +1123,18 @@
    "status": "pruned",
    "title": "Falcons announce m0NESY contract extension"
   },
+  "395015f185": {
+   "date": 1792858020,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792860945,
+   "guid": "hltvnews45792",
+   "slug": "nemiga-move-past-legacy-in-bucharest-395015",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Nemiga move past Legacy in Bucharest"
+  },
   "396c30e2f5": {
    "date": 1789733835,
    "excerpt_only": false,
@@ -1240,6 +1268,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "Run more secure, organized meetings with new Proton Meet features"
+  },
+  "458e851435": {
+   "date": 1792850580,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792860945,
+   "guid": "hltvnews45791",
+   "slug": "upsets-continue-at-pgl-masters-bucharest-as-betboom-defeat-458e85",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Upsets continue at PGL Masters Bucharest as BETBOOM defeat Spirit"
   },
   "45caa0837a": {
    "date": 1792699860,
@@ -1609,6 +1649,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "The Palantir  Mafia is changing the business of war and surveillance"
+  },
+  "6c8f566b0c": {
+   "date": 1792854600,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792860945,
+   "guid": "hltvnews45790",
+   "slug": "elige-after-beating-mouz-we-have-to-make-this-level-our-6c8f56",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "EliGE after beating MOUZ: \"We have to make this level our floor\""
   },
   "6cc303e50b": {
    "date": 1791831833,
