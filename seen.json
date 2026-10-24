@@ -1478,10 +1478,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792803026,
    "guid": "hltvnews45785",
+   "message_id": 413,
+   "notified_at": 1792803074,
    "slug": "eternal-fire-keep-singapore-major-dream-alive-with-draculan-6a5ba2",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Eternal Fire keep Singapore Major dream alive with DraculaN S7 victory"
   },
   "6ac667bf6b": {
