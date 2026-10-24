@@ -204,7 +204,8 @@
    "https://retractionwatch.com/?p=136250",
    "https://retractionwatch.com/?p=136270",
    "https://retractionwatch.com/?p=136286",
-   "https://retractionwatch.com/?p=136295"
+   "https://retractionwatch.com/?p=136295",
+   "https://retractionwatch.com/?p=136307"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -404,7 +405,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -415,20 +416,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41d-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
+   "etag": "W/\"6adbe41e-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e50be812c-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:02:34 GMT"
+   "etag": "\"242a2-65e6e57313c49-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:22 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"4bd27f5bd089e2c7bde3f4d152207757\"",
+   "etag": "\"6fd888f7abceb63d436a16a00c810e9a\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 24 Oct 2026 00:50:00 GMT"
+   "last_modified": "Sat, 24 Oct 2026 05:08:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"8d934aa6f41d89eaf764e821b3a91d61\"",
@@ -439,8 +440,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adbfec4-53c4\"",
-   "last_modified": "Sat, 24 Oct 2026 00:41:40 GMT"
+   "etag": "W/\"6adc3a88-53c4\"",
+   "last_modified": "Sat, 24 Oct 2026 04:56:40 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -996,6 +997,18 @@
    "source_slug": "ai2-blog",
    "status": "pruned",
    "title": "Ai2 at COLM 2026: Open research, from models to agents for science"
+  },
+  "33819ba2b8": {
+   "date": 1792789146,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1792818557,
+   "guid": "https://retractionwatch.com/?p=136307",
+   "slug": "journal-updates-retraction-notice-as-princeton-student-33819b",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Journal updates retraction notice as Princeton student author stays in the spotlight"
   },
   "35a2e3f1fd": {
    "date": 1791901020,
