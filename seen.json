@@ -355,7 +355,8 @@
    "hltvnews45780",
    "hltvnews45782",
    "hltvnews45783",
-   "hltvnews45784"
+   "hltvnews45784",
+   "hltvnews45785"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -403,7 +404,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -414,11 +415,11 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6ada7e85-331ec\"",
-   "last_modified": "Thu, 22 Oct 2026 21:22:13 GMT"
+   "etag": "W/\"6adbe41d-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e50c7c2d6-gzip\"",
+   "etag": "\"242a2-65e6e50be812c-gzip\"",
    "last_modified": "Thu, 22 Oct 2026 14:02:34 GMT"
   },
   "https://retractionwatch.com/feed/": {
@@ -427,7 +428,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 23 Oct 2026 22:18:00 GMT"
+   "last_modified": "Sat, 24 Oct 2026 00:50:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"8d934aa6f41d89eaf764e821b3a91d61\"",
@@ -438,8 +439,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adbdb9c-53c4\"",
-   "last_modified": "Fri, 23 Oct 2026 22:11:40 GMT"
+   "etag": "W/\"6adbfec4-53c4\"",
+   "last_modified": "Sat, 24 Oct 2026 00:41:40 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1471,6 +1472,18 @@
    "status": "pruned",
    "title": "Obsidian Sync audits by Cure53 and Trail of Bits"
   },
+  "6a5ba26aa3": {
+   "date": 1792796100,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792803026,
+   "guid": "hltvnews45785",
+   "slug": "eternal-fire-keep-singapore-major-dream-alive-with-draculan-6a5ba2",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Eternal Fire keep Singapore Major dream alive with DraculaN S7 victory"
+  },
   "6ac667bf6b": {
    "date": 1791964800,
    "excerpt_only": false,
@@ -1584,10 +1597,11 @@
    "guid": "hltvnews45764",
    "message_id": 382,
    "notified_at": 1792538932,
+   "pruned_at": 1792803026,
    "slug": "fazes-grind-continues-and-luminositys-major-chances-fade-as-708a7a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FaZe's grind continues and Luminosity's Major chances fade as DraculaN playoffs begin"
   },
   "72693ead9f": {
@@ -1865,10 +1879,11 @@
    "guid": "hltvnews45765",
    "message_id": 383,
    "notified_at": 1792538934,
+   "pruned_at": 1792803026,
    "slug": "navi-sign-up-for-hyperx-retake-season-13-despite-pgl-90d0cf",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "NAVI sign up for HyperX Retake Season 13 despite PGL Masters Bucharest and IEM Beijing conflicts"
   },
   "912a7e7fe5": {
@@ -1983,10 +1998,11 @@
    "guid": "hltvnews45763",
    "message_id": 381,
    "notified_at": 1792538931,
+   "pruned_at": 1792803026,
    "slug": "big-get-a-lifeline-alliances-major-odds-crater-and-liquid-9f6f35",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BIG get a lifeline, Alliance's Major odds crater and Liquid exit after day two of 1win Private Club S2"
   },
   "a0469efdca": {
