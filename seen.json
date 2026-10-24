@@ -1520,10 +1520,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792878070,
    "guid": "hltvnews45794",
+   "message_id": 427,
+   "notified_at": 1792878156,
    "slug": "furia-vs-navi-aurora-vs-g2-headline-pgl-masters-bucharest-630d21",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA vs NAVI, Aurora vs G2 headline PGL Masters Bucharest day 2"
   },
   "64c20f3928": {
@@ -1665,10 +1667,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792878070,
    "guid": "hltvnews45793",
+   "message_id": 426,
+   "notified_at": 1792878154,
    "slug": "navi-scrape-narrow-win-over-g2-to-secure-massive-vrs-payout-6c0ba8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NAVI scrape narrow win over G2 to secure massive VRS payout"
   },
   "6c58682433": {
