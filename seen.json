@@ -788,10 +788,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792848825,
    "guid": "hltvnews45787",
+   "message_id": 419,
+   "notified_at": 1792848882,
    "slug": "coolio-i-was-shocked-g2-benched-sunpayus-because-i-feel-24281f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "coolio: \"I was shocked G2 benched SunPayus, because I feel like he's still such a good player\""
   },
   "243eb48ac2": {
@@ -903,10 +905,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792848825,
    "guid": "hltvnews45461",
+   "message_id": 416,
+   "notified_at": 1792848877,
    "slug": "fut-open-pgl-bucharest-with-2-0-win-over-tyloo-283e30",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FUT open PGL Bucharest with 2-0 win over TYLOO"
   },
   "28f5b8a04c": {
@@ -1509,10 +1513,12 @@
    "feed": "https://world.hey.com/dhh/feed.atom",
    "fetched": 1792848825,
    "guid": "tag:world.hey.com,2005:World::Post/49649",
+   "message_id": 420,
+   "notified_at": 1792848884,
    "slug": "seven-years-from-china-6a2609",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Seven years from China"
   },
   "6a5404c7b6": {
@@ -2147,10 +2153,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792848825,
    "guid": "hltvnews45788",
+   "message_id": 418,
+   "notified_at": 1792848880,
    "slug": "the-mongolz-stun-aurora-at-pgl-bucharest-a8dcb4",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The MongolZ stun Aurora at PGL Bucharest"
   },
   "aa59bbc2d3": {
@@ -2188,10 +2196,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792848825,
    "guid": "hltvnews45786",
+   "message_id": 415,
+   "notified_at": 1792848875,
    "slug": "the-best-highlights-from-pgl-masters-bucharest-groups-ac069f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The best highlights from PGL Masters Bucharest groups"
   },
   "ae1630535d": {
@@ -2215,10 +2225,12 @@
    "feed": "https://world.hey.com/dhh/feed.atom",
    "fetched": 1792848825,
    "guid": "tag:world.hey.com,2005:World::Post/49646",
+   "message_id": 417,
+   "notified_at": 1792848879,
    "slug": "be-a-tech-bro-b14bd0",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Be a tech bro"
   },
   "b43d362736": {
@@ -2374,10 +2386,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792848825,
    "guid": "hltvnews45789",
+   "message_id": 421,
+   "notified_at": 1792848886,
    "slug": "liquid-edge-out-mouz-in-pgl-bucharest-opener-bd7200",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Liquid edge out MOUZ in PGL Bucharest opener"
   },
   "bf5b54cb9c": {
