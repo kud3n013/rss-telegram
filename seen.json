@@ -252,7 +252,9 @@
    "tag:world.hey.com,2005:World::Post/46162",
    "tag:world.hey.com,2005:World::Post/46062",
    "tag:world.hey.com,2005:World::Post/45960",
-   "tag:world.hey.com,2005:World::Post/45934"
+   "tag:world.hey.com,2005:World::Post/45934",
+   "tag:world.hey.com,2005:World::Post/49646",
+   "tag:world.hey.com,2005:World::Post/49649"
   ],
   "https://www.hltv.org/rss/news": [
    "hltvnews45641",
@@ -357,7 +359,12 @@
    "hltvnews45782",
    "hltvnews45783",
    "hltvnews45784",
-   "hltvnews45785"
+   "hltvnews45785",
+   "hltvnews45786",
+   "hltvnews45461",
+   "hltvnews45788",
+   "hltvnews45787",
+   "hltvnews45789"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -420,8 +427,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e50be812c\"",
-   "last_modified": "Thu, 22 Oct 2026 14:02:34 GMT"
+   "etag": "\"242a2-65e6e57a154be-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:29 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"6fd888f7abceb63d436a16a00c810e9a\"",
@@ -429,10 +436,10 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 24 Oct 2026 09:32:00 GMT"
+   "last_modified": "Sat, 24 Oct 2026 13:32:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
-   "etag": "W/\"8d934aa6f41d89eaf764e821b3a91d61\"",
+   "etag": "W/\"c01b8cc440124e9612cf4779ff5275fa\"",
    "last_modified": null
   },
   "https://www.hltv.org/rss/news": {
@@ -440,8 +447,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adc79d0-53c4\"",
-   "last_modified": "Sat, 24 Oct 2026 09:26:40 GMT"
+   "etag": "W/\"6adcb211-53c4\"",
+   "last_modified": "Sat, 24 Oct 2026 13:26:41 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -775,6 +782,18 @@
    "status": "pruned",
    "title": "sycrone: \"Sometimes tactically you can get somewhere with a good look and a round doesn't convert, but xertioN always kept composure\""
   },
+  "24281fbee6": {
+   "date": 1792839840,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792848825,
+   "guid": "hltvnews45787",
+   "slug": "coolio-i-was-shocked-g2-benched-sunpayus-because-i-feel-24281f",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "coolio: \"I was shocked G2 benched SunPayus, because I feel like he's still such a good player\""
+  },
   "243eb48ac2": {
    "date": 1791665700,
    "excerpt_only": false,
@@ -877,6 +896,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "TOBIZ returns to MOUZ as head of talent development"
+  },
+  "283e30e71f": {
+   "date": 1792833180,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792848825,
+   "guid": "hltvnews45461",
+   "slug": "fut-open-pgl-bucharest-with-2-0-win-over-tyloo-283e30",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FUT open PGL Bucharest with 2-0 win over TYLOO"
   },
   "28f5b8a04c": {
    "date": 1792007323,
@@ -1472,6 +1503,18 @@
    "status": "pruned",
    "title": "BBL and Betlic qualify for PGL Bucharest 2027"
   },
+  "6a2609d352": {
+   "date": 1792846424,
+   "excerpt_only": false,
+   "feed": "https://world.hey.com/dhh/feed.atom",
+   "fetched": 1792848825,
+   "guid": "tag:world.hey.com,2005:World::Post/49649",
+   "slug": "seven-years-from-china-6a2609",
+   "source": "DHH",
+   "source_slug": "dhh",
+   "status": "mirrored",
+   "title": "Seven years from China"
+  },
   "6a5404c7b6": {
    "date": 1778630400,
    "excerpt_only": false,
@@ -1644,10 +1687,11 @@
    "guid": "https://proton.me/business/blog/admin-roles",
    "message_id": 384,
    "notified_at": 1792587527,
+   "pruned_at": 1792848825,
    "slug": "manage-team-access-easily-with-new-admin-roles-and-scim-for-753585",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Manage team access easily with new Admin roles and SCIM for groups"
   },
   "75422ae31e": {
@@ -2097,6 +2141,18 @@
    "status": "pruned",
    "title": "How to take effective meeting notes that drive real action"
   },
+  "a8dcb43936": {
+   "date": 1792838460,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792848825,
+   "guid": "hltvnews45788",
+   "slug": "the-mongolz-stun-aurora-at-pgl-bucharest-a8dcb4",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "The MongolZ stun Aurora at PGL Bucharest"
+  },
   "aa59bbc2d3": {
    "date": 1791725940,
    "excerpt_only": false,
@@ -2126,6 +2182,18 @@
    "status": "notified",
    "title": "electroNic on VP: \"My ambitions were too high, which is why I probably behaved that way\""
   },
+  "ac069f48a8": {
+   "date": 1792827180,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792848825,
+   "guid": "hltvnews45786",
+   "slug": "the-best-highlights-from-pgl-masters-bucharest-groups-ac069f",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "The best highlights from PGL Masters Bucharest groups"
+  },
   "ae1630535d": {
    "date": 1792183680,
    "excerpt_only": false,
@@ -2140,6 +2208,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "BETBOOM qualify for TWC playoffs over Legacy"
+  },
+  "b14bd02b66": {
+   "date": 1792836967,
+   "excerpt_only": false,
+   "feed": "https://world.hey.com/dhh/feed.atom",
+   "fetched": 1792848825,
+   "guid": "tag:world.hey.com,2005:World::Post/49646",
+   "slug": "be-a-tech-bro-b14bd0",
+   "source": "DHH",
+   "source_slug": "dhh",
+   "status": "mirrored",
+   "title": "Be a tech bro"
   },
   "b43d362736": {
    "date": 1791218097,
@@ -2287,6 +2367,18 @@
    "source_slug": "weekly-free-games",
    "status": "pruned",
    "title": "Pony Island free in the Steam Store"
+  },
+  "bd7200707b": {
+   "date": 1792847220,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792848825,
+   "guid": "hltvnews45789",
+   "slug": "liquid-edge-out-mouz-in-pgl-bucharest-opener-bd7200",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Liquid edge out MOUZ in PGL Bucharest opener"
   },
   "bf5b54cb9c": {
    "date": 1791485011,
@@ -2505,10 +2597,11 @@
    "guid": "hltvnews45766",
    "message_id": 385,
    "notified_at": 1792587529,
+   "pruned_at": 1792848825,
    "slug": "evil-geniuses-to-cease-operations-d1d2a0",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Evil Geniuses to cease operations"
   },
   "d21bdf56e2": {
