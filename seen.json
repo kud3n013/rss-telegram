@@ -416,7 +416,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -431,8 +431,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e57a154be-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:29 GMT"
+   "etag": "\"242a2-65e6e51dbfc7f-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:02:53 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"aad50719aeced1f88031fde6dcd88349\"",
@@ -440,10 +440,10 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 24 Oct 2026 16:54:00 GMT"
+   "last_modified": "Sat, 24 Oct 2026 19:16:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
-   "etag": "W/\"12ff58cbcd0ba8ae77c1be7126c29fc7\"",
+   "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
    "last_modified": null
   },
   "https://www.hltv.org/rss/news": {
@@ -451,8 +451,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adcdfc5-53c4\"",
-   "last_modified": "Sat, 24 Oct 2026 16:41:41 GMT"
+   "etag": "W/\"6add02ed-53c4\"",
+   "last_modified": "Sat, 24 Oct 2026 19:11:41 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -513,10 +513,11 @@
    "guid": "tag:github.com,2008:Repository/778556932/1.23.4b",
    "message_id": 387,
    "notified_at": 1792605565,
+   "pruned_at": 1792869461,
    "slug": "release-build-1-23-4b-2026-10-20-04ad02",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "notified",
+   "status": "pruned",
    "title": "Release build - 1.23.4b (2026-10-20)"
   },
   "07b7516c27": {
@@ -837,10 +838,11 @@
    "guid": "hltvnews45771",
    "message_id": 390,
    "notified_at": 1792605570,
+   "pruned_at": 1792869461,
    "slug": "qikert-pivots-to-coaching-joins-spirit-academy-24a3df",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Qikert pivots to coaching, joins Spirit Academy"
   },
   "25541efab6": {
@@ -1309,10 +1311,11 @@
    "guid": "hltvnews45770",
    "message_id": 389,
    "notified_at": 1792605569,
+   "pruned_at": 1792869461,
    "slug": "gamerlegion-sign-shalfey-46f982",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "GamerLegion sign shalfey"
   },
   "4779bcf848": {
@@ -2700,10 +2703,11 @@
    "guid": "hltvnews45769",
    "message_id": 388,
    "notified_at": 1792605567,
+   "pruned_at": 1792869461,
    "slug": "jijiehao-send-faze-to-lower-bracket-at-draculan-d2cfbb",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "JiJieHao send FaZe to lower bracket at DraculaN"
   },
   "d3ae0c4485": {
@@ -2967,10 +2971,11 @@
    "guid": "hltvnews45768",
    "message_id": 386,
    "notified_at": 1792605563,
+   "pruned_at": 1792869461,
    "slug": "snax-moves-off-gamerlegions-active-roster-f3298f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Snax moves off GamerLegion's active roster"
   },
   "f3543e575f": {
