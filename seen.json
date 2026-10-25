@@ -419,7 +419,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -434,16 +434,16 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e566add98-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:09 GMT"
+   "etag": "\"242a2-65e6e50c7c2d6-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:02:34 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"4fe6a6f301efd87f8aad01dd3ceff014\"",
-   "last_modified": "Sat, 24 Oct 2026 15:58:08 GMT"
+   "etag": "\"aad50719aeced1f88031fde6dcd88349\"",
+   "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 24 Oct 2026 23:44:00 GMT"
+   "last_modified": "Sun, 25 Oct 2026 01:44:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -454,8 +454,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6add4235-53c4\"",
-   "last_modified": "Sat, 24 Oct 2026 23:41:41 GMT"
+   "etag": "W/\"6add5e56-53c4\"",
+   "last_modified": "Sun, 25 Oct 2026 01:41:42 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
