@@ -371,7 +371,11 @@
    "hltvnews45792",
    "hltvnews45793",
    "hltvnews45794",
-   "hltvnews45795"
+   "hltvnews45795",
+   "hltvnews45796",
+   "hltvnews45798",
+   "hltvnews45797",
+   "hltvnews45799"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -430,12 +434,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41d-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
+   "etag": "W/\"6adbe41e-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e5667367e-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:09 GMT"
+   "etag": "\"242a2-65e6e573fa5ff-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:23 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4fe6a6f301efd87f8aad01dd3ceff014\"",
@@ -443,7 +447,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 25 Oct 2026 06:58:00 GMT"
+   "last_modified": "Sun, 25 Oct 2026 12:28:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -454,8 +458,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adda82a-53c4\"",
-   "last_modified": "Sun, 25 Oct 2026 06:56:42 GMT"
+   "etag": "W/\"6addf582-53c4\"",
+   "last_modified": "Sun, 25 Oct 2026 12:26:42 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -804,6 +808,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "sycrone: \"Sometimes tactically you can get somewhere with a good look and a round doesn't convert, but xertioN always kept composure\""
+  },
+  "23b6003d99": {
+   "date": 1792930920,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792931363,
+   "guid": "hltvnews45799",
+   "slug": "betboom-overcome-nemiga-to-go-2-0-in-bucharest-23b600",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BETBOOM overcome Nemiga to go 2-0 in Bucharest"
   },
   "24281fbee6": {
    "date": 1792839840,
@@ -1514,6 +1530,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Aurora pass Falcons in the VRS after third-place decider victory at TWC"
+  },
+  "60e3277bae": {
+   "date": 1792923000,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792931363,
+   "guid": "hltvnews45798",
+   "slug": "fut-beat-liquid-to-move-to-2-0-in-bucharest-60e327",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FUT beat Liquid to move to 2-0 in Bucharest"
   },
   "630d216336": {
    "date": 1792870080,
@@ -2637,6 +2665,18 @@
    "status": "pruned",
    "title": "Obsidian October 2026"
   },
+  "cec5c63c4b": {
+   "date": 1792929120,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792931363,
+   "guid": "hltvnews45797",
+   "slug": "vitality-ease-past-the-mongolz-into-pgl-masters-bucharest-2-cec5c6",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Vitality ease past The MongolZ into PGL Masters Bucharest 2-0 pool"
+  },
   "ced5d8491e": {
    "date": 1792179120,
    "excerpt_only": false,
@@ -2870,10 +2910,11 @@
    "guid": "https://proton.me/blog/meta-25-billion-penalty",
    "message_id": 394,
    "notified_at": 1792662085,
+   "pruned_at": 1792931363,
    "slug": "meta-ordered-to-pay-25-billion-over-cambridge-analytica-e0deda",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Meta ordered to pay $25 billion over Cambridge Analytica privacy case"
   },
   "e34c90df2b": {
@@ -3039,6 +3080,18 @@
    "source_slug": "proton-blog",
    "status": "notified",
    "title": "Lumo can now turn your ideas into creations"
+  },
+  "f4d2627f90": {
+   "date": 1792921380,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792931363,
+   "guid": "hltvnews45796",
+   "slug": "spirit-bounce-back-in-bucharest-with-dominant-victory-over-f4d262",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Spirit bounce back in Bucharest with dominant victory over TYLOO"
   },
   "f64e51f549": {
    "date": 1792062540,
