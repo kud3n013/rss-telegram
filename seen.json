@@ -379,7 +379,11 @@
    "hltvnews45800",
    "hltvnews45803",
    "hltvnews45802",
-   "hltvnews45801"
+   "hltvnews45801",
+   "hltvnews45806",
+   "hltvnews45805",
+   "hltvnews45807",
+   "hltvnews45804"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -442,8 +446,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e5667367e-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:09 GMT"
+   "etag": "\"242a2-65e6e57a154be-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:29 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4fe6a6f301efd87f8aad01dd3ceff014\"",
@@ -451,7 +455,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 25 Oct 2026 16:44:00 GMT"
+   "last_modified": "Sun, 25 Oct 2026 19:18:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -462,8 +466,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ade3146-53c4\"",
-   "last_modified": "Sun, 25 Oct 2026 16:41:42 GMT"
+   "etag": "W/\"6ade546e-53c4\"",
+   "last_modified": "Sun, 25 Oct 2026 19:11:42 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -471,6 +475,18 @@
   }
  },
  "posts": {
+  "00fc054203": {
+   "date": 1792954860,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792955925,
+   "guid": "hltvnews45804",
+   "slug": "saw-right-now-its-like-were-stagnating-or-maybe-even-took-a-00fc05",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "sAw: \"Right now it's like we're stagnating, or maybe even took a couple of steps backward\""
+  },
   "015984e5f3": {
    "date": 1791977160,
    "excerpt_only": false,
@@ -545,6 +561,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "SOC 1 vs SOC 2: What\u2019s the difference, what you need, and what it costs"
+  },
+  "07bee77b2d": {
+   "date": 1792951980,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792955925,
+   "guid": "hltvnews45807",
+   "slug": "spirit-to-meet-furia-on-day-3-in-bucharest-07bee7",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Spirit to meet FURIA on day 3 in Bucharest"
   },
   "0be19cd70c": {
    "date": 1791745200,
@@ -1279,10 +1307,11 @@
    "guid": "https://allenai.org/blog/planteur",
    "message_id": 399,
    "notified_at": 1792695156,
+   "pruned_at": 1792955925,
    "slug": "a-crop-mapping-benchmark-for-the-tropics-41b30f",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "A crop-mapping benchmark for the tropics"
   },
   "4211c5bb4b": {
@@ -1470,10 +1499,11 @@
    "guid": "hltvnews45777",
    "message_id": 402,
    "notified_at": 1792695161,
+   "pruned_at": 1792955925,
    "slug": "the-mongolz-outclass-parivision-to-lift-1win-private-club-54e8ee",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "The MongolZ outclass PARIVISION to lift 1win Private Club Season 2 trophy on debut with nin9"
   },
   "55628009f1": {
@@ -2074,10 +2104,11 @@
    "guid": "hltvnews45776",
    "message_id": 401,
    "notified_at": 1792695160,
+   "pruned_at": 1792955925,
    "slug": "faze-heroic-and-envy-eliminated-as-draculan-season-7-8a7b94",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FaZe, HEROIC and Envy eliminated as DraculaN Season 7 reaches final four"
   },
   "8c59cc2eec": {
@@ -2124,6 +2155,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "FISSURE Playground 4 to take place in Georgia"
+  },
+  "90338865f7": {
+   "date": 1792949460,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792955925,
+   "guid": "hltvnews45806",
+   "slug": "legacy-win-domestic-derby-over-dendele-to-reach-1-1-pool-903388",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Legacy win domestic derby over DENDELE to reach 1-1 pool"
   },
   "904ce81ef6": {
    "date": 1791984280,
@@ -2238,10 +2281,11 @@
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/719045526774878963",
    "message_id": 400,
    "notified_at": 1792695158,
+   "pruned_at": 1792955925,
    "slug": "sker-ritual-and-home-a-unique-horror-adventure-and-2-dev-9c3418",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "notified",
+   "status": "pruned",
    "title": "Sker Ritual -and- Home - A Unique Horror Adventure -and- 2 dev giveaways free from/in Epic Store"
   },
   "9ccf8ee367": {
@@ -3104,6 +3148,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "Paper touted by MD Anderson gets expression of concern for data \u2018concerns\u2019"
+  },
+  "f05c3d5c32": {
+   "date": 1792950540,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792955925,
+   "guid": "hltvnews45805",
+   "slug": "navi-rise-another-nine-places-on-the-vrs-after-taking-out-f05c3d",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "NAVI rise another nine places on the VRS after taking out FURIA"
   },
   "f28551b23b": {
    "date": 1792255800,
