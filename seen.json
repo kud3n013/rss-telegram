@@ -848,10 +848,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792946674,
    "guid": "hltvnews45800",
+   "message_id": 433,
+   "notified_at": 1792946725,
    "slug": "mezii-on-igling-its-a-lot-more-work-than-i-remember-maybe-i-24365a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "mezii on IGLing: \"It's a lot more work than I remember. Maybe I didn't do it right the first time\""
   },
   "243eb48ac2": {
@@ -1246,10 +1248,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792946674,
    "guid": "hltvnews45801",
+   "message_id": 436,
+   "notified_at": 1792946731,
    "slug": "boombl4-every-player-right-now-is-more-confident-402db6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Boombl4: \"Every player right now is more confident individually\""
   },
   "4198488a8e": {
@@ -1832,10 +1836,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792946674,
    "guid": "hltvnews45803",
+   "message_id": 434,
+   "notified_at": 1792946727,
    "slug": "mouz-pick-up-first-win-in-bucharest-over-9z-718a15",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MOUZ pick up first win in Bucharest over 9z"
   },
   "72693ead9f": {
@@ -2008,10 +2014,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792946674,
    "guid": "hltvnews45802",
+   "message_id": 435,
+   "notified_at": 1792946729,
    "slug": "g2-spiral-continues-after-loss-to-aurora-7e43cf",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "G2 spiral continues after loss to Aurora"
   },
   "7f100bc7eb": {
