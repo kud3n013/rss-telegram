@@ -815,10 +815,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792931363,
    "guid": "hltvnews45799",
+   "message_id": 432,
+   "notified_at": 1792931425,
    "slug": "betboom-overcome-nemiga-to-go-2-0-in-bucharest-23b600",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BETBOOM overcome Nemiga to go 2-0 in Bucharest"
   },
   "24281fbee6": {
@@ -1537,10 +1539,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792931363,
    "guid": "hltvnews45798",
+   "message_id": 430,
+   "notified_at": 1792931422,
    "slug": "fut-beat-liquid-to-move-to-2-0-in-bucharest-60e327",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FUT beat Liquid to move to 2-0 in Bucharest"
   },
   "630d216336": {
@@ -2671,10 +2675,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792931363,
    "guid": "hltvnews45797",
+   "message_id": 431,
+   "notified_at": 1792931423,
    "slug": "vitality-ease-past-the-mongolz-into-pgl-masters-bucharest-2-cec5c6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Vitality ease past The MongolZ into PGL Masters Bucharest 2-0 pool"
   },
   "ced5d8491e": {
@@ -3087,10 +3093,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792931363,
    "guid": "hltvnews45796",
+   "message_id": 429,
+   "notified_at": 1792931420,
    "slug": "spirit-bounce-back-in-bucharest-with-dominant-victory-over-f4d262",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Spirit bounce back in Bucharest with dominant victory over TYLOO"
   },
   "f64e51f549": {
