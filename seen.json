@@ -481,10 +481,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792955925,
    "guid": "hltvnews45804",
+   "message_id": 440,
+   "notified_at": 1792956047,
    "slug": "saw-right-now-its-like-were-stagnating-or-maybe-even-took-a-00fc05",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "sAw: \"Right now it's like we're stagnating, or maybe even took a couple of steps backward\""
   },
   "015984e5f3": {
@@ -568,10 +570,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792955925,
    "guid": "hltvnews45807",
+   "message_id": 439,
+   "notified_at": 1792956045,
    "slug": "spirit-to-meet-furia-on-day-3-in-bucharest-07bee7",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Spirit to meet FURIA on day 3 in Bucharest"
   },
   "0be19cd70c": {
@@ -2162,10 +2166,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792955925,
    "guid": "hltvnews45806",
+   "message_id": 437,
+   "notified_at": 1792956041,
    "slug": "legacy-win-domestic-derby-over-dendele-to-reach-1-1-pool-903388",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Legacy win domestic derby over DENDELE to reach 1-1 pool"
   },
   "904ce81ef6": {
@@ -3155,10 +3161,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1792955925,
    "guid": "hltvnews45805",
+   "message_id": 438,
+   "notified_at": 1792956043,
    "slug": "navi-rise-another-nine-places-on-the-vrs-after-taking-out-f05c3d",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NAVI rise another nine places on the VRS after taking out FURIA"
   },
   "f28551b23b": {
