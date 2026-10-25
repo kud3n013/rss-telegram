@@ -375,7 +375,11 @@
    "hltvnews45796",
    "hltvnews45798",
    "hltvnews45797",
-   "hltvnews45799"
+   "hltvnews45799",
+   "hltvnews45800",
+   "hltvnews45803",
+   "hltvnews45802",
+   "hltvnews45801"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -423,7 +427,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -438,8 +442,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e573fa5ff-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:23 GMT"
+   "etag": "\"242a2-65e6e5667367e-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:09 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4fe6a6f301efd87f8aad01dd3ceff014\"",
@@ -447,7 +451,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 25 Oct 2026 12:28:00 GMT"
+   "last_modified": "Sun, 25 Oct 2026 16:44:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -458,8 +462,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6addf582-53c4\"",
-   "last_modified": "Sun, 25 Oct 2026 12:26:42 GMT"
+   "etag": "W/\"6ade3146-53c4\"",
+   "last_modified": "Sun, 25 Oct 2026 16:41:42 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -788,10 +792,11 @@
    "guid": "hltvnews45774",
    "message_id": 396,
    "notified_at": 1792680274,
+   "pruned_at": 1792946674,
    "slug": "pgl-masters-bucharest-teams-format-schedule-prizes-talent-1dbac3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "PGL Masters Bucharest teams, format, schedule, prizes, talent, fantasy"
   },
   "1e5cd997da": {
@@ -836,6 +841,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "coolio: \"I was shocked G2 benched SunPayus, because I feel like he's still such a good player\""
+  },
+  "24365ae483": {
+   "date": 1792933680,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792946674,
+   "guid": "hltvnews45800",
+   "slug": "mezii-on-igling-its-a-lot-more-work-than-i-remember-maybe-i-24365a",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "mezii on IGLing: \"It's a lot more work than I remember. Maybe I didn't do it right the first time\""
   },
   "243eb48ac2": {
    "date": 1791665700,
@@ -1222,6 +1239,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "Journal retracts, republishes paper on Long COVID treatment trial"
+  },
+  "402db6885a": {
+   "date": 1792944120,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792946674,
+   "guid": "hltvnews45801",
+   "slug": "boombl4-every-player-right-now-is-more-confident-402db6",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Boombl4: \"Every player right now is more confident individually\""
   },
   "4198488a8e": {
    "date": 1792427400,
@@ -1797,6 +1826,18 @@
    "status": "pruned",
    "title": "FaZe's grind continues and Luminosity's Major chances fade as DraculaN playoffs begin"
   },
+  "718a15a155": {
+   "date": 1792939800,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792946674,
+   "guid": "hltvnews45803",
+   "slug": "mouz-pick-up-first-win-in-bucharest-over-9z-718a15",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "MOUZ pick up first win in Bucharest over 9z"
+  },
   "72693ead9f": {
    "date": 1791727500,
    "excerpt_only": false,
@@ -1960,6 +2001,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "Virtus.pro secure WINLINE MPKBK CIS LAN title over Nemesis"
+  },
+  "7e43cf3d03": {
+   "date": 1792942740,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1792946674,
+   "guid": "hltvnews45802",
+   "slug": "g2-spiral-continues-after-loss-to-aurora-7e43cf",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "G2 spiral continues after loss to Aurora"
   },
   "7f100bc7eb": {
    "date": 1791796620,
@@ -2603,10 +2656,11 @@
    "guid": "hltvnews45767",
    "message_id": 397,
    "notified_at": 1792680276,
+   "pruned_at": 1792946674,
    "slug": "the-evp-and-all-stars-of-thunderpick-world-championship-2026-c2bce9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "The EVP and All-Stars of Thunderpick World Championship 2026"
   },
   "c503e033d1": {
@@ -3081,10 +3135,11 @@
    "guid": "https://proton.me/blog/lumo-creations",
    "message_id": 398,
    "notified_at": 1792680278,
+   "pruned_at": 1792946674,
    "slug": "lumo-can-now-turn-your-ideas-into-creations-f3543e",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Lumo can now turn your ideas into creations"
   },
   "f4d2627f90": {
@@ -3154,10 +3209,11 @@
    "guid": "https://allenai.org/blog/olmoearth-v1-3",
    "message_id": 395,
    "notified_at": 1792680272,
+   "pruned_at": 1792946674,
    "slug": "olmoearth-v1-3-state-of-the-art-embeddings-for-the-whole-fd1fd6",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
   },
   "fe6b4704c4": {
