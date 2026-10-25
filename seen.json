@@ -446,8 +446,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"242a2-65e6e57313c49-gzip\"",
-   "last_modified": "Thu, 22 Oct 2026 14:04:22 GMT"
+   "etag": "\"242a2-65e6e57a154be-gzip\"",
+   "last_modified": "Thu, 22 Oct 2026 14:04:29 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"4fe6a6f301efd87f8aad01dd3ceff014\"",
@@ -455,7 +455,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sun, 25 Oct 2026 21:54:00 GMT"
+   "last_modified": "Sun, 25 Oct 2026 23:50:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -466,8 +466,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ade7797-53c4\"",
-   "last_modified": "Sun, 25 Oct 2026 21:41:43 GMT"
+   "etag": "W/\"6ade93b7-53c4\"",
+   "last_modified": "Sun, 25 Oct 2026 23:41:43 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1385,10 +1385,11 @@
    "guid": "hltvnews45779",
    "message_id": 404,
    "notified_at": 1792706477,
+   "pruned_at": 1792972330,
    "slug": "nin9-i-had-that-confidence-in-me-that-i-could-be-the-piece-45caa0",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "nin9: \"I had that confidence in me that I could be the piece they needed to win games\""
   },
   "46f9824021": {
@@ -1459,10 +1460,11 @@
    "guid": "hltvnews45778",
    "message_id": 403,
    "notified_at": 1792706475,
+   "pruned_at": 1792972330,
    "slug": "xenn-we-need-to-reset-mentally-because-this-was-damage-4f25d9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "xenn: \"We need to reset mentally because this was damage, basically. It was a huge loss for us\""
   },
   "50b3e71406": {
