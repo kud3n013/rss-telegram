@@ -1337,10 +1337,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793046506,
    "guid": "hltvnews45817",
+   "message_id": 452,
+   "notified_at": 1793046603,
    "slug": "spirit-outlast-furia-to-reach-2-1-pool-in-bucharest-3daac3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Spirit outlast FURIA to reach 2-1 pool in Bucharest"
   },
   "3db594e2df": {
@@ -1453,10 +1455,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793046506,
    "guid": "hltvnews45820",
+   "message_id": 454,
+   "notified_at": 1793046606,
    "slug": "dendele-eliminate-lackluster-g2-from-pgl-masters-bucharest-448ba1",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "DENDELE eliminate lackluster G2 from PGL Masters Bucharest"
   },
   "458e851435": {
@@ -1554,10 +1558,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793046506,
    "guid": "hltvnews45816",
+   "message_id": 450,
+   "notified_at": 1793046599,
    "slug": "liquid-beat-legacy-to-make-2-1-pool-in-bucharest-4f0d8a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Liquid beat Legacy to make 2-1 pool in Bucharest"
   },
   "4f25d97ace": {
@@ -1979,10 +1985,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793046506,
    "guid": "hltvnews45818",
+   "message_id": 453,
+   "notified_at": 1793046604,
    "slug": "betboom-romp-past-navi-to-make-playoffs-705ec8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BETBOOM romp past NAVI to make playoffs"
   },
   "7082520260": {
@@ -2094,10 +2102,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793046506,
    "guid": "hltvnews45815",
+   "message_id": 449,
+   "notified_at": 1793046597,
    "slug": "zhoking-our-teams-biggest-problem-has-always-been-the-lack-75a36f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "zhokiNg: \"Our team's biggest problem has always been the lack of a secondary IGL[...] when I'm on the server, I can actually fill that gap\""
   },
   "7612315361": {
@@ -3489,10 +3499,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1793046506,
    "guid": "https://proton.me/blog/gmail-ads",
+   "message_id": 451,
+   "notified_at": 1793046601,
    "slug": "google-can-now-use-your-gmail-data-for-ads-how-to-turn-it-fe199e",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Google can now use your Gmail data for ads: How to turn it off"
   },
   "fe6b4704c4": {
