@@ -1178,10 +1178,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793001850,
    "guid": "hltvnews45808",
+   "message_id": 441,
+   "notified_at": 1793001894,
    "slug": "jee-ruled-out-for-rest-of-pgl-masters-bucharest-with-380c76",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Jee ruled out for rest of PGL Masters Bucharest with chickenpox"
   },
   "3847cb3e3f": {
