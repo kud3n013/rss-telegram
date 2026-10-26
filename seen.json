@@ -993,10 +993,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793027291,
    "guid": "hltvnews45810",
+   "message_id": 443,
+   "notified_at": 1793027385,
    "slug": "mouz-beat-the-mongolz-to-move-into-2-1-pool-2754e7",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MOUZ beat The MongolZ to move into 2-1 pool"
   },
   "280f015714": {
@@ -1154,10 +1156,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793027291,
    "guid": "hltvnews45811",
+   "message_id": 447,
+   "notified_at": 1793027392,
    "slug": "short-news-week-42-334847",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Short news: Week 42"
   },
   "33819ba2b8": {
@@ -1298,10 +1302,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1793027291,
    "guid": "https://proton.me/business/blog/project-tracking",
+   "message_id": 444,
+   "notified_at": 1793027386,
    "slug": "guide-to-project-tracking-best-techniques-and-tools-for-3b1a8b",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Guide to project tracking: Best techniques and tools for tracking projects"
   },
   "3c83b82704": {
@@ -1563,10 +1569,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793027291,
    "guid": "hltvnews45812",
+   "message_id": 445,
+   "notified_at": 1793027388,
    "slug": "fut-sail-into-pgl-masters-playoffs-over-vitality-52c688",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FUT sail into PGL Masters playoffs over Vitality"
   },
   "54e8ee14ae": {
@@ -1929,10 +1937,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793027291,
    "guid": "hltvnews45814",
+   "message_id": 448,
+   "notified_at": 1793027394,
    "slug": "ence-file-for-bankruptcy-708252",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "ENCE file for bankruptcy"
   },
   "708a7aa650": {
@@ -3320,10 +3330,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793027291,
    "guid": "hltvnews45809",
+   "message_id": 442,
+   "notified_at": 1793027383,
    "slug": "imperial-win-circuit-x-curitiba-f62809",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Imperial win Circuit X Curitiba"
   },
   "f64e51f549": {
@@ -3392,10 +3404,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793027291,
    "guid": "hltvnews45813",
+   "message_id": 446,
+   "notified_at": 1793027390,
    "slug": "jee-less-tyloo-send-9z-packing-in-bucharest-fd5cfd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Jee-less TYLOO send 9z packing in Bucharest"
   },
   "fe6b4704c4": {
