@@ -415,7 +415,10 @@
    "hltvnews45831",
    "hltvnews45825",
    "hltvnews45834",
-   "hltvnews45833"
+   "hltvnews45833",
+   "hltvnews45836",
+   "hltvnews45832",
+   "hltvnews45837"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -474,20 +477,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41e-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
+   "etag": "W/\"6adbe41d-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65ed5825911a2-gzip\"",
-   "last_modified": "Tue, 27 Oct 2026 17:09:28 GMT"
+   "etag": "\"1f8e7-65ed5824e10d3-gzip\"",
+   "last_modified": "Tue, 27 Oct 2026 17:09:27 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"9c86e787292bb855a787c0f3d4f2b18a\"",
+   "etag": "\"6847743999153c497cb08934a9a20685\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 27 Oct 2026 20:24:00 GMT"
+   "last_modified": "Tue, 27 Oct 2026 23:54:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -498,8 +501,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae10581-53c4\"",
-   "last_modified": "Tue, 27 Oct 2026 20:11:45 GMT"
+   "etag": "W/\"6ae136b9-53c4\"",
+   "last_modified": "Tue, 27 Oct 2026 23:41:45 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -609,6 +612,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "Spirit to meet FURIA on day 3 in Bucharest"
+  },
+  "0882d98192": {
+   "date": 1793134440,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793145275,
+   "guid": "hltvnews45836",
+   "slug": "jabbi-returns-to-astralis-for-stake-ranked-to-help-salvage-0882d9",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "jabbi returns to Astralis for Stake Ranked to help salvage Major invite"
   },
   "0b6892f3c8": {
    "date": 1793114760,
@@ -846,6 +861,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "FaZe take significant step toward Major after topping RLG Tesla Cup group"
+  },
+  "19aa03cc63": {
+   "date": 1793136180,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793145275,
+   "guid": "hltvnews45832",
+   "slug": "torzsi-on-beating-spirit-they-trash-talked-us-a-little-19aa03",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "torzsi on beating Spirit: \"They trash talked us a little before the last map, so it was a nice statement to win\""
   },
   "1a00accb2e": {
    "date": 1791360075,
@@ -1874,10 +1901,11 @@
    "guid": "hltvnews45794",
    "message_id": 427,
    "notified_at": 1792878156,
+   "pruned_at": 1793145275,
    "slug": "furia-vs-navi-aurora-vs-g2-headline-pgl-masters-bucharest-630d21",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FURIA vs NAVI, Aurora vs G2 headline PGL Masters Bucharest day 2"
   },
   "649f67249b": {
@@ -2037,10 +2065,11 @@
    "guid": "hltvnews45793",
    "message_id": 426,
    "notified_at": 1792878154,
+   "pruned_at": 1793145275,
    "slug": "navi-scrape-narrow-win-over-g2-to-secure-massive-vrs-payout-6c0ba8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "NAVI scrape narrow win over G2 to secure massive VRS payout"
   },
   "6c58682433": {
@@ -2425,6 +2454,18 @@
    "status": "notified",
    "title": "Aurora eke out a win over Liquid to qualify for Bucharest playoffs"
   },
+  "855f88ac34": {
+   "date": 1793139300,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793145275,
+   "guid": "hltvnews45837",
+   "slug": "twistzz-sometimes-im-the-one-dampening-the-good-mood-these-855f88",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Twistzz: \"Sometimes I'm the one dampening the good mood, these young players don't deserve [that], so now I'll just bring in the good vibes\""
+  },
   "862e8d8c58": {
    "date": 1792497707,
    "excerpt_only": false,
@@ -2448,10 +2489,11 @@
    "guid": "hltvnews45795",
    "message_id": 428,
    "notified_at": 1792885555,
+   "pruned_at": 1793145275,
    "slug": "im-we-are-trying-to-make-playoffs-here-to-make-our-lives-8a42dd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "iM: \"We are trying to make playoffs here to make our lives easier for the Major\""
   },
   "8a7b94a0ef": {
