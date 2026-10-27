@@ -619,10 +619,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793145275,
    "guid": "hltvnews45836",
+   "message_id": 473,
+   "notified_at": 1793145328,
    "slug": "jabbi-returns-to-astralis-for-stake-ranked-to-help-salvage-0882d9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "jabbi returns to Astralis for Stake Ranked to help salvage Major invite"
   },
   "0b6892f3c8": {
@@ -868,10 +870,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793145275,
    "guid": "hltvnews45832",
+   "message_id": 474,
+   "notified_at": 1793145330,
    "slug": "torzsi-on-beating-spirit-they-trash-talked-us-a-little-19aa03",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "torzsi on beating Spirit: \"They trash talked us a little before the last map, so it was a nice statement to win\""
   },
   "1a00accb2e": {
@@ -2460,10 +2464,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793145275,
    "guid": "hltvnews45837",
+   "message_id": 475,
+   "notified_at": 1793145332,
    "slug": "twistzz-sometimes-im-the-one-dampening-the-good-mood-these-855f88",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Twistzz: \"Sometimes I'm the one dampening the good mood, these young players don't deserve [that], so now I'll just bring in the good vibes\""
   },
   "862e8d8c58": {
