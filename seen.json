@@ -209,7 +209,8 @@
    "https://retractionwatch.com/?p=136295",
    "https://retractionwatch.com/?p=136307",
    "https://retractionwatch.com/?p=136303",
-   "https://retractionwatch.com/?p=136316"
+   "https://retractionwatch.com/?p=136316",
+   "https://retractionwatch.com/?p=136334"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -402,7 +403,11 @@
    "hltvnews45822",
    "hltvnews45819",
    "hltvnews45821",
-   "hltvnews45823"
+   "hltvnews45823",
+   "hltvnews45824",
+   "hltvnews45826",
+   "hltvnews45827",
+   "hltvnews45828"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -450,7 +455,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -461,20 +466,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41d-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
+   "etag": "W/\"6adbe41e-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"20f59-65ece93624cb9-gzip\"",
-   "last_modified": "Tue, 27 Oct 2026 08:53:09 GMT"
+   "etag": "\"20f59-65ed1d5f9af8a-gzip\"",
+   "last_modified": "Tue, 27 Oct 2026 12:46:31 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"9c86e787292bb855a787c0f3d4f2b18a\"",
-   "last_modified": "Mon, 26 Oct 2026 23:47:50 GMT"
+   "etag": "\"6847743999153c497cb08934a9a20685\"",
+   "last_modified": "Tue, 27 Oct 2026 13:50:05 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 27 Oct 2026 10:10:00 GMT"
+   "last_modified": "Tue, 27 Oct 2026 15:52:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -485,8 +490,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae0755c-53c4\"",
-   "last_modified": "Tue, 27 Oct 2026 09:56:44 GMT"
+   "etag": "W/\"6ae0c639-53c4\"",
+   "last_modified": "Tue, 27 Oct 2026 15:41:45 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -596,6 +601,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "Spirit to meet FURIA on day 3 in Bucharest"
+  },
+  "0b6892f3c8": {
+   "date": 1793114760,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793116409,
+   "guid": "hltvnews45828",
+   "slug": "aleksib-convicted-of-aggravated-tax-fraud-0b6892",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Aleksib convicted of aggravated tax fraud"
   },
   "0be19cd70c": {
    "date": 1791745200,
@@ -902,10 +919,11 @@
    "guid": "hltvnews45787",
    "message_id": 419,
    "notified_at": 1792848882,
+   "pruned_at": 1793116409,
    "slug": "coolio-i-was-shocked-g2-benched-sunpayus-because-i-feel-24281f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "coolio: \"I was shocked G2 benched SunPayus, because I feel like he's still such a good player\""
   },
   "24365ae483": {
@@ -1049,10 +1067,11 @@
    "guid": "hltvnews45461",
    "message_id": 416,
    "notified_at": 1792848877,
+   "pruned_at": 1793116409,
    "slug": "fut-open-pgl-bucharest-with-2-0-win-over-tyloo-283e30",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FUT open PGL Bucharest with 2-0 win over TYLOO"
   },
   "28f5b8a04c": {
@@ -1792,6 +1811,18 @@
    "status": "notified",
    "title": "FURIA vs NAVI, Aurora vs G2 headline PGL Masters Bucharest day 2"
   },
+  "649f67249b": {
+   "date": 1793109004,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1793116409,
+   "guid": "https://retractionwatch.com/?p=136334",
+   "slug": "game-theory-society-yanks-support-for-journal-after-649f67",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Game theory society yanks support for journal after Elsevier fails to renew EIC contract"
+  },
   "64c20f3928": {
    "date": 1791480926,
    "excerpt_only": false,
@@ -1845,10 +1876,11 @@
    "guid": "tag:world.hey.com,2005:World::Post/49649",
    "message_id": 420,
    "notified_at": 1792848884,
+   "pruned_at": 1793116409,
    "slug": "seven-years-from-china-6a2609",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "notified",
+   "status": "pruned",
    "title": "Seven years from China"
   },
   "6a5404c7b6": {
@@ -2234,6 +2266,18 @@
    "status": "pruned",
    "title": "Japanese institute finds materials researcher with 41 retractions guilty of \u2018extensive\u2019 manipulation"
   },
+  "7a68a6428f": {
+   "date": 1793113200,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793116409,
+   "guid": "hltvnews45827",
+   "slug": "the-mongolz-eliminate-legacy-from-bucharest-7a68a6",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "The MongolZ eliminate Legacy from Bucharest"
+  },
   "7bdce12e5b": {
    "date": 1792161717,
    "excerpt_only": false,
@@ -2292,6 +2336,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Wildcard's Major chances soar with FRAG University title"
+  },
+  "834c340861": {
+   "date": 1793111760,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793116409,
+   "guid": "hltvnews45826",
+   "slug": "aurora-eke-out-a-win-over-liquid-to-qualify-for-bucharest-834c34",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Aurora eke out a win over Liquid to qualify for Bucharest playoffs"
   },
   "862e8d8c58": {
    "date": 1792497707,
@@ -2657,10 +2713,11 @@
    "guid": "hltvnews45788",
    "message_id": 418,
    "notified_at": 1792848880,
+   "pruned_at": 1793116409,
    "slug": "the-mongolz-stun-aurora-at-pgl-bucharest-a8dcb4",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "The MongolZ stun Aurora at PGL Bucharest"
   },
   "aa59bbc2d3": {
@@ -2701,10 +2758,11 @@
    "guid": "hltvnews45786",
    "message_id": 415,
    "notified_at": 1792848875,
+   "pruned_at": 1793116409,
    "slug": "the-best-highlights-from-pgl-masters-bucharest-groups-ac069f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "The best highlights from PGL Masters Bucharest groups"
   },
   "ae1630535d": {
@@ -2730,10 +2788,11 @@
    "guid": "tag:world.hey.com,2005:World::Post/49646",
    "message_id": 417,
    "notified_at": 1792848879,
+   "pruned_at": 1793116409,
    "slug": "be-a-tech-bro-b14bd0",
    "source": "DHH",
    "source_slug": "dhh",
-   "status": "notified",
+   "status": "pruned",
    "title": "Be a tech bro"
   },
   "b43d362736": {
@@ -2894,10 +2953,11 @@
    "guid": "hltvnews45789",
    "message_id": 421,
    "notified_at": 1792848886,
+   "pruned_at": 1793116409,
    "slug": "liquid-edge-out-mouz-in-pgl-bucharest-opener-bd7200",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Liquid edge out MOUZ in PGL Bucharest opener"
   },
   "bf5b54cb9c": {
@@ -3154,6 +3214,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "jL on every other team in PGL Masters Bucharest groups Fantasy"
+  },
+  "d2a956c4a5": {
+   "date": 1793104920,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793116409,
+   "guid": "hltvnews45824",
+   "slug": "nemiga-trounce-dendele-to-survive-in-bucharest-d2a956",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Nemiga trounce DENDELE to survive in Bucharest"
   },
   "d2cfbbeb45": {
    "date": 1792594560,
