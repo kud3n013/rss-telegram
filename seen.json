@@ -692,10 +692,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793059330,
    "guid": "hltvnews45819",
+   "message_id": 457,
+   "notified_at": 1793059392,
    "slug": "aleksib-we-were-not-celebrating-anything-that-revolves-11d163",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Aleksib: \"We were not celebrating anything that revolves around the Major; every one of us expects to play the Major\""
   },
   "126a7917a1": {
@@ -1574,10 +1576,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793059330,
    "guid": "hltvnews45821",
+   "message_id": 458,
+   "notified_at": 1793059394,
    "slug": "shalfey-i-was-just-excited-by-the-feeling-that-this-moment-4a6518",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "shalfey: \"I was just excited by the feeling that this moment had come, the comeback moment\""
   },
   "4f0d8acb68": {
@@ -2486,10 +2490,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793059330,
    "guid": "hltvnews45822",
+   "message_id": 456,
+   "notified_at": 1793059390,
    "slug": "pgl-masters-bucharest-round-4-matchups-set-9b90a6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "PGL Masters Bucharest Round 4 matchups set"
   },
   "9c34189d58": {
@@ -2573,10 +2579,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1793059330,
    "guid": "https://retractionwatch.com/?p=136316",
+   "message_id": 455,
+   "notified_at": 1793059389,
    "slug": "another-sydney-investigation-of-astrophysicist-leads-to-a1d66b",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Another Sydney investigation of astrophysicist leads to retraction"
   },
   "a3138e3d09": {
