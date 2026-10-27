@@ -460,8 +460,8 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41d-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
+   "etag": "W/\"6adbe41e-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
    "etag": "\"20f3e-65ec04cf849ca-gzip\"",
@@ -473,7 +473,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 27 Oct 2026 00:02:00 GMT"
+   "last_modified": "Tue, 27 Oct 2026 04:52:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -484,8 +484,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adfe8bc-53c4\"",
-   "last_modified": "Mon, 26 Oct 2026 23:56:44 GMT"
+   "etag": "W/\"6ae02b88-53c4\"",
+   "last_modified": "Tue, 27 Oct 2026 04:41:44 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1872,10 +1872,11 @@
    "guid": "hltvnews45785",
    "message_id": 413,
    "notified_at": 1792803074,
+   "pruned_at": 1793076809,
    "slug": "eternal-fire-keep-singapore-major-dream-alive-with-draculan-6a5ba2",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Eternal Fire keep Singapore Major dream alive with DraculaN S7 victory"
   },
   "6ac667bf6b": {
