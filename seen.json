@@ -839,10 +839,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793132634,
    "guid": "hltvnews45829",
+   "message_id": 466,
+   "notified_at": 1793132710,
    "slug": "faze-take-significant-step-toward-major-after-topping-rlg-187b56",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FaZe take significant step toward Major after topping RLG Tesla Cup group"
   },
   "1a00accb2e": {
@@ -1532,10 +1534,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1793132634,
    "guid": "https://allenai.org/blog/novelty-bench",
+   "message_id": 465,
+   "notified_at": 1793132708,
    "slug": "can-we-trust-llms-to-judge-whether-a-research-idea-is-novel-44dcce",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Can we trust LLMs to judge whether a research idea is novel?"
   },
   "4575c31700": {
@@ -1544,10 +1548,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793132634,
    "guid": "hltvnews45825",
+   "message_id": 470,
+   "notified_at": 1793132717,
    "slug": "kair0n-on-making-the-major-i-failed-way-too-many-times-to-4575c3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "KaiR0N- on making the Major: \"I failed way too many times to not just enjoy it\""
   },
   "458e851435": {
@@ -1733,10 +1739,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793132634,
    "guid": "hltvnews45831",
+   "message_id": 468,
+   "notified_at": 1793132714,
    "slug": "furia-stomp-tyloo-to-survive-in-bucharest-535e4c",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA stomp TYLOO to survive in Bucharest"
   },
   "54e8ee14ae": {
@@ -2660,10 +2668,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793132634,
    "guid": "hltvnews45834",
+   "message_id": 471,
+   "notified_at": 1793132719,
    "slug": "vitality-crush-navi-to-make-bucharest-playoffs-9ccf53",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Vitality crush NAVI to make Bucharest playoffs"
   },
   "9ccf8ee367": {
@@ -2687,10 +2697,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793132634,
    "guid": "hltvnews45830",
+   "message_id": 467,
+   "notified_at": 1793132712,
    "slug": "mouz-overcome-donk-masterclass-to-make-pgl-masters-playoffs-9f4ee5",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MOUZ overcome donk masterclass to make PGL Masters playoffs"
   },
   "9f6f355063": {
@@ -2803,10 +2815,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793132634,
    "guid": "hltvnews45833",
+   "message_id": 472,
+   "notified_at": 1793132721,
    "slug": "spirit-navi-to-headline-pgl-masters-day-five-a80237",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Spirit-NAVI to headline PGL Masters day five"
   },
   "a8dcb43936": {
@@ -3623,10 +3637,12 @@
    "feed": "https://proton.me/blog/feed",
    "fetched": 1793132634,
    "guid": "https://proton.me/blog/privacy-while-traveling",
+   "message_id": 469,
+   "notified_at": 1793132716,
    "slug": "how-to-protect-your-privacy-while-traveling-f2cdbe",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How to protect your privacy while traveling"
   },
   "f3298f01ea": {
