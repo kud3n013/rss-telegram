@@ -608,10 +608,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793116409,
    "guid": "hltvnews45828",
+   "message_id": 464,
+   "notified_at": 1793116474,
    "slug": "aleksib-convicted-of-aggravated-tax-fraud-0b6892",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Aleksib convicted of aggravated tax fraud"
   },
   "0be19cd70c": {
@@ -1817,10 +1819,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1793116409,
    "guid": "https://retractionwatch.com/?p=136334",
+   "message_id": 461,
+   "notified_at": 1793116468,
    "slug": "game-theory-society-yanks-support-for-journal-after-649f67",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Game theory society yanks support for journal after Elsevier fails to renew EIC contract"
   },
   "64c20f3928": {
@@ -2272,10 +2276,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793116409,
    "guid": "hltvnews45827",
+   "message_id": 463,
+   "notified_at": 1793116472,
    "slug": "the-mongolz-eliminate-legacy-from-bucharest-7a68a6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "The MongolZ eliminate Legacy from Bucharest"
   },
   "7bdce12e5b": {
@@ -2343,10 +2349,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793116409,
    "guid": "hltvnews45826",
+   "message_id": 462,
+   "notified_at": 1793116470,
    "slug": "aurora-eke-out-a-win-over-liquid-to-qualify-for-bucharest-834c34",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Aurora eke out a win over Liquid to qualify for Bucharest playoffs"
   },
   "862e8d8c58": {
@@ -3221,10 +3229,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793116409,
    "guid": "hltvnews45824",
+   "message_id": 460,
+   "notified_at": 1793116466,
    "slug": "nemiga-trounce-dendele-to-survive-in-bucharest-d2a956",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Nemiga trounce DENDELE to survive in Bucharest"
   },
   "d2cfbbeb45": {
