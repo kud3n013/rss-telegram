@@ -2092,10 +2092,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793095848,
    "guid": "hltvnews45823",
+   "message_id": 459,
+   "notified_at": 1793095889,
    "slug": "fl4mus-to-miss-rlg-tesla-cup-opener-738196",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FL4MUS to miss RLG Tesla Cup opener"
   },
   "75358570cc": {
