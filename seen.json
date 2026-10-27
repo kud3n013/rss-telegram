@@ -32,7 +32,8 @@
    "https://allenai.org/blog/fairstress",
    "https://allenai.org/blog/olmoearth-v1-3",
    "https://allenai.org/blog/planteur",
-   "https://allenai.org/blog/litpivot"
+   "https://allenai.org/blog/litpivot",
+   "https://allenai.org/blog/novelty-bench"
   ],
   "https://annas-archive.gl/blog/rss.xml": [
    "https://annas-archive.gl/blog/blog-introducing.html",
@@ -183,7 +184,8 @@
    "https://proton.me/blog/meta-25-billion-penalty",
    "https://proton.me/blog/lumo-creations",
    "https://proton.me/business/blog/project-tracking",
-   "https://proton.me/blog/gmail-ads"
+   "https://proton.me/blog/gmail-ads",
+   "https://proton.me/blog/privacy-while-traveling"
   ],
   "https://retractionwatch.com/feed/": [
    "https://retractionwatch.com/?p=136186",
@@ -407,7 +409,13 @@
    "hltvnews45824",
    "hltvnews45826",
    "hltvnews45827",
-   "hltvnews45828"
+   "hltvnews45828",
+   "hltvnews45829",
+   "hltvnews45830",
+   "hltvnews45831",
+   "hltvnews45825",
+   "hltvnews45834",
+   "hltvnews45833"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -455,7 +463,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -470,16 +478,16 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"20f59-65ed1d5f9af8a-gzip\"",
-   "last_modified": "Tue, 27 Oct 2026 12:46:31 GMT"
+   "etag": "\"1f8e7-65ed5825911a2-gzip\"",
+   "last_modified": "Tue, 27 Oct 2026 17:09:28 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"6847743999153c497cb08934a9a20685\"",
-   "last_modified": "Tue, 27 Oct 2026 13:50:05 GMT"
+   "etag": "\"9c86e787292bb855a787c0f3d4f2b18a\"",
+   "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 27 Oct 2026 15:52:00 GMT"
+   "last_modified": "Tue, 27 Oct 2026 20:24:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -490,8 +498,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae0c639-53c4\"",
-   "last_modified": "Tue, 27 Oct 2026 15:41:45 GMT"
+   "etag": "W/\"6ae10581-53c4\"",
+   "last_modified": "Tue, 27 Oct 2026 20:11:45 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -803,10 +811,11 @@
    "guid": "https://retractionwatch.com/?p=136303",
    "message_id": 422,
    "notified_at": 1792861004,
+   "pruned_at": 1793132634,
    "slug": "weekend-reads-journals-and-the-mathpocalypse-autism-paper-14c4c7",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Weekend reads: Journals and the \u2018Mathpocalypse\u2019; autism paper earns EOC; Cell Press investigating bribery allegations"
   },
   "151e734a33": {
@@ -823,6 +832,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "BBL confirm MistR signing"
+  },
+  "187b565260": {
+   "date": 1793116800,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793132634,
+   "guid": "hltvnews45829",
+   "slug": "faze-take-significant-step-toward-major-after-topping-rlg-187b56",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FaZe take significant step toward Major after topping RLG Tesla Cup group"
   },
   "1a00accb2e": {
    "date": 1791360075,
@@ -1307,10 +1328,11 @@
    "guid": "hltvnews45792",
    "message_id": 425,
    "notified_at": 1792861009,
+   "pruned_at": 1793132634,
    "slug": "nemiga-move-past-legacy-in-bucharest-395015",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Nemiga move past Legacy in Bucharest"
   },
   "396c30e2f5": {
@@ -1504,6 +1526,30 @@
    "status": "notified",
    "title": "DENDELE eliminate lackluster G2 from PGL Masters Bucharest"
   },
+  "44dccef627": {
+   "date": 1793088000,
+   "excerpt_only": false,
+   "feed": "https://allenai.org/rss.xml",
+   "fetched": 1793132634,
+   "guid": "https://allenai.org/blog/novelty-bench",
+   "slug": "can-we-trust-llms-to-judge-whether-a-research-idea-is-novel-44dcce",
+   "source": "Ai2 Blog",
+   "source_slug": "ai2-blog",
+   "status": "mirrored",
+   "title": "Can we trust LLMs to judge whether a research idea is novel?"
+  },
+  "4575c31700": {
+   "date": 1793126460,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793132634,
+   "guid": "hltvnews45825",
+   "slug": "kair0n-on-making-the-major-i-failed-way-too-many-times-to-4575c3",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "KaiR0N- on making the Major: \"I failed way too many times to not just enjoy it\""
+  },
   "458e851435": {
    "date": 1792850580,
    "excerpt_only": false,
@@ -1512,10 +1558,11 @@
    "guid": "hltvnews45791",
    "message_id": 423,
    "notified_at": 1792861006,
+   "pruned_at": 1793132634,
    "slug": "upsets-continue-at-pgl-masters-bucharest-as-betboom-defeat-458e85",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Upsets continue at PGL Masters Bucharest as BETBOOM defeat Spirit"
   },
   "45caa0837a": {
@@ -1679,6 +1726,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "FUT sail into PGL Masters playoffs over Vitality"
+  },
+  "535e4c4b43": {
+   "date": 1793123580,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793132634,
+   "guid": "hltvnews45831",
+   "slug": "furia-stomp-tyloo-to-survive-in-bucharest-535e4c",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA stomp TYLOO to survive in Bucharest"
   },
   "54e8ee14ae": {
    "date": 1792692900,
@@ -1999,10 +2058,11 @@
    "guid": "hltvnews45790",
    "message_id": 424,
    "notified_at": 1792861008,
+   "pruned_at": 1793132634,
    "slug": "elige-after-beating-mouz-we-have-to-make-this-level-our-6c8f56",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "EliGE after beating MOUZ: \"We have to make this level our floor\""
   },
   "6cc303e50b": {
@@ -2594,6 +2654,18 @@
    "status": "pruned",
    "title": "Sker Ritual -and- Home - A Unique Horror Adventure -and- 2 dev giveaways free from/in Epic Store"
   },
+  "9ccf53fa6f": {
+   "date": 1793130480,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793132634,
+   "guid": "hltvnews45834",
+   "slug": "vitality-crush-navi-to-make-bucharest-playoffs-9ccf53",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Vitality crush NAVI to make Bucharest playoffs"
+  },
   "9ccf8ee367": {
    "date": 1791532800,
    "excerpt_only": false,
@@ -2608,6 +2680,18 @@
    "source_slug": "ai2-blog",
    "status": "pruned",
    "title": "Impactful scheduling for GPU clusters"
+  },
+  "9f4ee586ba": {
+   "date": 1793122800,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793132634,
+   "guid": "hltvnews45830",
+   "slug": "mouz-overcome-donk-masterclass-to-make-pgl-masters-playoffs-9f4ee5",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "MOUZ overcome donk masterclass to make PGL Masters playoffs"
   },
   "9f6f355063": {
    "date": 1792529280,
@@ -2712,6 +2796,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "How to take effective meeting notes that drive real action"
+  },
+  "a80237f167": {
+   "date": 1793131080,
+   "excerpt_only": true,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793132634,
+   "guid": "hltvnews45833",
+   "slug": "spirit-navi-to-headline-pgl-masters-day-five-a80237",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Spirit-NAVI to headline PGL Masters day five"
   },
   "a8dcb43936": {
    "date": 1792838460,
@@ -3520,6 +3616,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "yuurih: \"We'd be very happy [to win this event], especially if it's against Falcons; we're trying to beat the best teams\""
+  },
+  "f2cdbe4030": {
+   "date": 1793124360,
+   "excerpt_only": false,
+   "feed": "https://proton.me/blog/feed",
+   "fetched": 1793132634,
+   "guid": "https://proton.me/blog/privacy-while-traveling",
+   "slug": "how-to-protect-your-privacy-while-traveling-f2cdbe",
+   "source": "Proton Blog",
+   "source_slug": "proton-blog",
+   "status": "mirrored",
+   "title": "How to protect your privacy while traveling"
   },
   "f3298f01ea": {
    "date": 1792588260,
