@@ -208,7 +208,8 @@
    "https://retractionwatch.com/?p=136286",
    "https://retractionwatch.com/?p=136295",
    "https://retractionwatch.com/?p=136307",
-   "https://retractionwatch.com/?p=136303"
+   "https://retractionwatch.com/?p=136303",
+   "https://retractionwatch.com/?p=136316"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -397,7 +398,10 @@
    "hltvnews45816",
    "hltvnews45817",
    "hltvnews45818",
-   "hltvnews45820"
+   "hltvnews45820",
+   "hltvnews45822",
+   "hltvnews45819",
+   "hltvnews45821"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -445,7 +449,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
@@ -456,20 +460,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41e-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
+   "etag": "W/\"6adbe41d-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"20f3e-65ec04cc5581a-gzip\"",
-   "last_modified": "Mon, 26 Oct 2026 15:51:14 GMT"
+   "etag": "\"20f3e-65ec04cf849ca-gzip\"",
+   "last_modified": "Mon, 26 Oct 2026 15:51:18 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"4fe6a6f301efd87f8aad01dd3ceff014\"",
+   "etag": "\"9805e484d9865d4b1e1e1d6db6a58557\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Mon, 26 Oct 2026 20:28:00 GMT"
+   "last_modified": "Tue, 27 Oct 2026 00:02:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -480,8 +484,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6adfb784-53c4\"",
-   "last_modified": "Mon, 26 Oct 2026 20:26:44 GMT"
+   "etag": "W/\"6adfe8bc-53c4\"",
+   "last_modified": "Mon, 26 Oct 2026 23:56:44 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -681,6 +685,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "\u2018Cerebral torment\u2019: IOP retracts nearly 100 conference papers for tortured phrases"
+  },
+  "11d1635413": {
+   "date": 1793048400,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793059330,
+   "guid": "hltvnews45819",
+   "slug": "aleksib-we-were-not-celebrating-anything-that-revolves-11d163",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Aleksib: \"We were not celebrating anything that revolves around the Major; every one of us expects to play the Major\""
   },
   "126a7917a1": {
    "date": 1792147680,
@@ -1552,6 +1568,18 @@
    "status": "pruned",
    "title": "FURIA make TWC playoffs over Legacy"
   },
+  "4a6518585b": {
+   "date": 1793052000,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793059330,
+   "guid": "hltvnews45821",
+   "slug": "shalfey-i-was-just-excited-by-the-feeling-that-this-moment-4a6518",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "shalfey: \"I was just excited by the feeling that this moment had come, the comeback moment\""
+  },
   "4f0d8acb68": {
    "date": 1793031780,
    "excerpt_only": false,
@@ -2208,10 +2236,11 @@
    "guid": "hltvnews45784",
    "message_id": 412,
    "notified_at": 1792793995,
+   "pruned_at": 1793059330,
    "slug": "virtus-pro-secure-winline-mpkbk-cis-lan-title-over-nemesis-7d41f6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Virtus.pro secure WINLINE MPKBK CIS LAN title over Nemesis"
   },
   "7e43cf3d03": {
@@ -2451,6 +2480,18 @@
    "status": "pruned",
    "title": "How to delete your Facebook account"
   },
+  "9b90a61430": {
+   "date": 1793046720,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793059330,
+   "guid": "hltvnews45822",
+   "slug": "pgl-masters-bucharest-round-4-matchups-set-9b90a6",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "PGL Masters Bucharest Round 4 matchups set"
+  },
   "9c34189d58": {
    "date": 1792681533,
    "excerpt_only": false,
@@ -2525,6 +2566,18 @@
    "source_slug": "beeper-blog",
    "status": "pruned",
    "title": "Tumblr messages are here"
+  },
+  "a1d66b81bf": {
+   "date": 1793040561,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1793059330,
+   "guid": "https://retractionwatch.com/?p=136316",
+   "slug": "another-sydney-investigation-of-astrophysicist-leads-to-a1d66b",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Another Sydney investigation of astrophysicist leads to retraction"
   },
   "a3138e3d09": {
    "date": 1791400982,
