@@ -401,7 +401,8 @@
    "hltvnews45820",
    "hltvnews45822",
    "hltvnews45819",
-   "hltvnews45821"
+   "hltvnews45821",
+   "hltvnews45823"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -449,31 +450,31 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
-   "etag": "W/\"b3b01b0aa9c00179e385df85e3cc4b57\"",
+   "etag": "W/\"170335163e30ee7a6e8fd8832e6b3aba\"",
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41e-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
+   "etag": "W/\"6adbe41d-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"20f3e-65ec04cf849ca-gzip\"",
-   "last_modified": "Mon, 26 Oct 2026 15:51:18 GMT"
+   "etag": "\"20f59-65ece93624cb9-gzip\"",
+   "last_modified": "Tue, 27 Oct 2026 08:53:09 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"9805e484d9865d4b1e1e1d6db6a58557\"",
-   "last_modified": null
+   "etag": "\"9c86e787292bb855a787c0f3d4f2b18a\"",
+   "last_modified": "Mon, 26 Oct 2026 23:47:50 GMT"
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Tue, 27 Oct 2026 04:52:00 GMT"
+   "last_modified": "Tue, 27 Oct 2026 10:10:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -484,8 +485,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae02b88-53c4\"",
-   "last_modified": "Tue, 27 Oct 2026 04:41:44 GMT"
+   "etag": "W/\"6ae0755c-53c4\"",
+   "last_modified": "Tue, 27 Oct 2026 09:56:44 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1196,10 +1197,11 @@
    "guid": "https://retractionwatch.com/?p=136307",
    "message_id": 414,
    "notified_at": 1792818600,
+   "pruned_at": 1793095848,
    "slug": "journal-updates-retraction-notice-as-princeton-student-33819b",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Journal updates retraction notice as Princeton student author stays in the spotlight"
   },
   "35a2e3f1fd": {
@@ -2083,6 +2085,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "woxic on taking bronze: \"It's always good to at least have something from the event\""
+  },
+  "7381963589": {
+   "date": 1793092800,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793095848,
+   "guid": "hltvnews45823",
+   "slug": "fl4mus-to-miss-rlg-tesla-cup-opener-738196",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FL4MUS to miss RLG Tesla Cup opener"
   },
   "75358570cc": {
    "date": 1792581689,
