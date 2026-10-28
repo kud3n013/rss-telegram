@@ -1490,10 +1490,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793222576,
    "guid": "hltvnews45843",
+   "message_id": 483,
+   "notified_at": 1793222631,
    "slug": "navi-embarrass-spirit-for-last-playoff-berth-3fc004",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "NAVI embarrass Spirit for last playoff berth"
   },
   "402db6885a": {
@@ -2579,10 +2581,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793222576,
    "guid": "hltvnews45842",
+   "message_id": 482,
+   "notified_at": 1793222629,
    "slug": "yekindar-were-definitely-playing-better-before-thunderpick-89e3f3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "YEKINDAR: \"We're definitely playing better; before Thunderpick, we played a lot worse\""
   },
   "8a42dd45fb": {
@@ -3095,10 +3099,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793222576,
    "guid": "hltvnews45845",
+   "message_id": 485,
+   "notified_at": 1793222635,
    "slug": "all-teams-added-to-the-pgl-masters-bucharest-playoffs-b573ee",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "All teams added to the PGL Masters Bucharest playoffs Fantasy game"
   },
   "b59b8513c2": {
@@ -3885,10 +3891,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793222576,
    "guid": "hltvnews45844",
+   "message_id": 484,
+   "notified_at": 1793222633,
    "slug": "pgl-masters-bucharest-bracket-set-f5a140",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "PGL Masters Bucharest bracket set"
   },
   "f6280931c4": {
