@@ -871,10 +871,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793183510,
    "guid": "hltvnews45835",
+   "message_id": 476,
+   "notified_at": 1793183572,
    "slug": "jl-this-is-why-vitality-is-the-best-team-in-the-world-they-18dcad",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "jL: \"This is why Vitality is the best team in the world, they have the ability to cover for players\""
   },
   "19aa03cc63": {
