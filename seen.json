@@ -418,7 +418,8 @@
    "hltvnews45833",
    "hltvnews45836",
    "hltvnews45832",
-   "hltvnews45837"
+   "hltvnews45837",
+   "hltvnews45835"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -473,7 +474,7 @@
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
-   "etag": "W/\"170335163e30ee7a6e8fd8832e6b3aba\"",
+   "etag": "W/\"5b00dcd627b54fc26d6b4292f5af616f\"",
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
@@ -481,8 +482,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65ed5824be8f1-gzip\"",
-   "last_modified": "Tue, 27 Oct 2026 17:09:27 GMT"
+   "etag": "\"1f8e7-65ee3a3852061-gzip\"",
+   "last_modified": "Wed, 28 Oct 2026 10:00:54 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"6847743999153c497cb08934a9a20685\"",
@@ -490,7 +491,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 28 Oct 2026 04:04:00 GMT"
+   "last_modified": "Wed, 28 Oct 2026 10:30:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -501,8 +502,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae1727d-53c4\"",
-   "last_modified": "Wed, 28 Oct 2026 03:56:45 GMT"
+   "etag": "W/\"6ae1cde6-53c4\"",
+   "last_modified": "Wed, 28 Oct 2026 10:26:46 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -863,6 +864,18 @@
    "source_slug": "hltv-news",
    "status": "notified",
    "title": "FaZe take significant step toward Major after topping RLG Tesla Cup group"
+  },
+  "18dcad8cdd": {
+   "date": 1793182680,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793183510,
+   "guid": "hltvnews45835",
+   "slug": "jl-this-is-why-vitality-is-the-best-team-in-the-world-they-18dcad",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "jL: \"This is why Vitality is the best team in the world, they have the ability to cover for players\""
   },
   "19aa03cc63": {
    "date": 1793136180,
