@@ -33,7 +33,8 @@
    "https://allenai.org/blog/olmoearth-v1-3",
    "https://allenai.org/blog/planteur",
    "https://allenai.org/blog/litpivot",
-   "https://allenai.org/blog/novelty-bench"
+   "https://allenai.org/blog/novelty-bench",
+   "https://allenai.org/blog/olmocr-2-historical-archives"
   ],
   "https://annas-archive.gl/blog/rss.xml": [
    "https://annas-archive.gl/blog/blog-introducing.html",
@@ -419,7 +420,11 @@
    "hltvnews45836",
    "hltvnews45832",
    "hltvnews45837",
-   "hltvnews45835"
+   "hltvnews45835",
+   "hltvnews45838",
+   "hltvnews45839",
+   "hltvnews45840",
+   "hltvnews45841"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -482,8 +487,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65ee3a3852061-gzip\"",
-   "last_modified": "Wed, 28 Oct 2026 10:00:54 GMT"
+   "etag": "\"1f8e7-65ee50a086a1a-gzip\"",
+   "last_modified": "Wed, 28 Oct 2026 11:41:09 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"6847743999153c497cb08934a9a20685\"",
@@ -491,7 +496,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 28 Oct 2026 10:30:00 GMT"
+   "last_modified": "Wed, 28 Oct 2026 16:48:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -502,8 +507,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae1cde6-53c4\"",
-   "last_modified": "Wed, 28 Oct 2026 10:26:46 GMT"
+   "etag": "W/\"6ae225ca-53c4\"",
+   "last_modified": "Wed, 28 Oct 2026 16:41:46 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -976,10 +981,11 @@
    "guid": "hltvnews45799",
    "message_id": 432,
    "notified_at": 1792931425,
+   "pruned_at": 1793206126,
    "slug": "betboom-overcome-nemiga-to-go-2-0-in-bucharest-23b600",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BETBOOM overcome Nemiga to go 2-0 in Bucharest"
   },
   "24281fbee6": {
@@ -1005,10 +1011,11 @@
    "guid": "hltvnews45800",
    "message_id": 433,
    "notified_at": 1792946725,
+   "pruned_at": 1793206126,
    "slug": "mezii-on-igling-its-a-lot-more-work-than-i-remember-maybe-i-24365a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "mezii on IGLing: \"It's a lot more work than I remember. Maybe I didn't do it right the first time\""
   },
   "243eb48ac2": {
@@ -1479,10 +1486,11 @@
    "guid": "hltvnews45801",
    "message_id": 436,
    "notified_at": 1792946731,
+   "pruned_at": 1793206126,
    "slug": "boombl4-every-player-right-now-is-more-confident-402db6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Boombl4: \"Every player right now is more confident individually\""
   },
   "4198488a8e": {
@@ -1677,6 +1685,18 @@
    "status": "pruned",
    "title": "ZywOo: \"I love Cache too much\""
   },
+  "47d4868ebd": {
+   "date": 1793201760,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793206126,
+   "guid": "hltvnews45840",
+   "slug": "furia-go-to-pgl-masters-quarters-over-liquid-47d486",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA go to PGL Masters quarters over Liquid"
+  },
   "4815271c00": {
    "date": 1792101900,
    "excerpt_only": false,
@@ -1691,6 +1711,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "FURIA make TWC playoffs over Legacy"
+  },
+  "489ec1413b": {
+   "date": 1793187360,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793206126,
+   "guid": "hltvnews45838",
+   "slug": "legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026-489ec1",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Legacy bench n1ssim, ksloks to stand in for the rest of 2026*"
   },
   "4a6518585b": {
    "date": 1793052000,
@@ -1906,10 +1938,11 @@
    "guid": "hltvnews45798",
    "message_id": 430,
    "notified_at": 1792931422,
+   "pruned_at": 1793206126,
    "slug": "fut-beat-liquid-to-move-to-2-0-in-bucharest-60e327",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FUT beat Liquid to move to 2-0 in Bucharest"
   },
   "630d216336": {
@@ -2217,10 +2250,11 @@
    "guid": "hltvnews45803",
    "message_id": 434,
    "notified_at": 1792946727,
+   "pruned_at": 1793206126,
    "slug": "mouz-pick-up-first-win-in-bucharest-over-9z-718a15",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "MOUZ pick up first win in Bucharest over 9z"
   },
   "72693ead9f": {
@@ -2371,6 +2405,18 @@
    "status": "pruned",
    "title": "Google\u2019s selfie video sign-in puts your face on its servers"
   },
+  "7a2a0278ee": {
+   "date": 1793174400,
+   "excerpt_only": false,
+   "feed": "https://allenai.org/rss.xml",
+   "fetched": 1793206126,
+   "guid": "https://allenai.org/blog/olmocr-2-historical-archives",
+   "slug": "how-researchers-are-adapting-olmocr-2-for-historical-and-7a2a02",
+   "source": "Ai2 Blog",
+   "source_slug": "ai2-blog",
+   "status": "mirrored",
+   "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives"
+  },
   "7a37383a83": {
    "date": 1792439171,
    "excerpt_only": false,
@@ -2438,10 +2484,11 @@
    "guid": "hltvnews45802",
    "message_id": 435,
    "notified_at": 1792946729,
+   "pruned_at": 1793206126,
    "slug": "g2-spiral-continues-after-loss-to-aurora-7e43cf",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "G2 spiral continues after loss to Aurora"
   },
   "7f100bc7eb": {
@@ -2841,6 +2888,18 @@
    "source_slug": "helium-browser-releases",
    "status": "pruned",
    "title": "0.19.1"
+  },
+  "a6235ff65e": {
+   "date": 1793195100,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793206126,
+   "guid": "hltvnews45839",
+   "slug": "nemiga-through-to-pgl-masters-bucharest-playoffs-over-the-a6235f",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Nemiga through to PGL Masters Bucharest playoffs over The MongolZ"
   },
   "a656a8bbb5": {
    "date": 1792001520,
@@ -3284,10 +3343,11 @@
    "guid": "hltvnews45797",
    "message_id": 431,
    "notified_at": 1792931423,
+   "pruned_at": 1793206126,
    "slug": "vitality-ease-past-the-mongolz-into-pgl-masters-bucharest-2-cec5c6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Vitality ease past The MongolZ into PGL Masters Bucharest 2-0 pool"
   },
   "ced5d8491e": {
@@ -3545,6 +3605,18 @@
    "status": "pruned",
    "title": "Meta ordered to pay $25 billion over Cambridge Analytica privacy case"
   },
+  "e34502d4d6": {
+   "date": 1793205360,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793206126,
+   "guid": "hltvnews45841",
+   "slug": "hooch-k27-are-very-talented-and-most-importantly-id-say-e34502",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "hooch: \"[K27] are very talented, and most importantly, I'd say they're all pretty cool characters\""
+  },
   "e34c90df2b": {
    "date": 1791809520,
    "excerpt_only": false,
@@ -3746,10 +3818,11 @@
    "guid": "hltvnews45796",
    "message_id": 429,
    "notified_at": 1792931420,
+   "pruned_at": 1793206126,
    "slug": "spirit-bounce-back-in-bucharest-with-dominant-victory-over-f4d262",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Spirit bounce back in Bucharest with dominant victory over TYLOO"
   },
   "f6280931c4": {
