@@ -1691,10 +1691,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793206126,
    "guid": "hltvnews45840",
+   "message_id": 480,
+   "notified_at": 1793206191,
    "slug": "furia-go-to-pgl-masters-quarters-over-liquid-47d486",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA go to PGL Masters quarters over Liquid"
   },
   "4815271c00": {
@@ -1718,10 +1720,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793206126,
    "guid": "hltvnews45838",
+   "message_id": 478,
+   "notified_at": 1793206187,
    "slug": "legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026-489ec1",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Legacy bench n1ssim, ksloks to stand in for the rest of 2026*"
   },
   "4a6518585b": {
@@ -2411,10 +2415,12 @@
    "feed": "https://allenai.org/rss.xml",
    "fetched": 1793206126,
    "guid": "https://allenai.org/blog/olmocr-2-historical-archives",
+   "message_id": 477,
+   "notified_at": 1793206185,
    "slug": "how-researchers-are-adapting-olmocr-2-for-historical-and-7a2a02",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "How researchers are adapting olmOCR 2 for historical and archaeological archives"
   },
   "7a37383a83": {
@@ -2895,10 +2901,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793206126,
    "guid": "hltvnews45839",
+   "message_id": 479,
+   "notified_at": 1793206189,
    "slug": "nemiga-through-to-pgl-masters-bucharest-playoffs-over-the-a6235f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Nemiga through to PGL Masters Bucharest playoffs over The MongolZ"
   },
   "a656a8bbb5": {
@@ -3611,10 +3619,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793206126,
    "guid": "hltvnews45841",
+   "message_id": 481,
+   "notified_at": 1793206193,
    "slug": "hooch-k27-are-very-talented-and-most-importantly-id-say-e34502",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "hooch: \"[K27] are very talented, and most importantly, I'd say they're all pretty cool characters\""
   },
   "e34c90df2b": {
