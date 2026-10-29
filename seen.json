@@ -2728,10 +2728,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793302669,
    "guid": "hltvnews45855",
+   "message_id": 498,
+   "notified_at": 1793302721,
    "slug": "furia-beat-betboom-to-advance-to-pgl-masters-bucharest-semis-8c25aa",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA beat BETBOOM to advance to PGL Masters Bucharest semis"
   },
   "8c59cc2eec": {
@@ -3511,10 +3513,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793302669,
    "guid": "hltvnews45853",
+   "message_id": 497,
+   "notified_at": 1793302719,
    "slug": "b1ad3-trust-the-process-c8923e",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "B1ad3: \"Trust the process\""
   },
   "c8bde3e77f": {
@@ -3583,10 +3587,12 @@
    "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
    "fetched": 1793302669,
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452546493",
+   "message_id": 495,
+   "notified_at": 1793302716,
    "slug": "sorry-were-closed-and-dev-giveaway-free-from-in-epic-store-cf2149",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Sorry, We're Closed -and- dev giveaway free from/in Epic Store"
   },
   "cf6406b2dc": {
@@ -3805,10 +3811,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793302669,
    "guid": "hltvnews45854",
+   "message_id": 496,
+   "notified_at": 1793302717,
    "slug": "mouz-overrun-aurora-to-book-semi-final-spot-in-bucharest-df7816",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "MOUZ overrun Aurora to book semi-final spot in Bucharest"
   },
   "e084840a2d": {
