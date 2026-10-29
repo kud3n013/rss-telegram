@@ -231,7 +231,8 @@
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/717916455762395357",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492473208",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/702156483742138678",
-   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/719045526774878963"
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/719045526774878963",
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452546493"
   ],
   "https://world.hey.com/dhh/feed.atom": [
    "tag:world.hey.com,2005:World::Post/49362",
@@ -436,7 +437,10 @@
    "hltvnews45848",
    "hltvnews45849",
    "hltvnews45850",
-   "hltvnews45852"
+   "hltvnews45852",
+   "hltvnews45854",
+   "hltvnews45853",
+   "hltvnews45855"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -485,14 +489,14 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
-   "etag": "W/\"8f6064e411bd50ae910039534f3c4004\"",
+   "etag": "W/\"c03d4ea295fd306b8fcabdf385c7f478\"",
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
@@ -500,8 +504,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65efade218226-gzip\"",
-   "last_modified": "Thu, 29 Oct 2026 13:43:41 GMT"
+   "etag": "\"1f8e7-65efc4a0c1937-gzip\"",
+   "last_modified": "Thu, 29 Oct 2026 15:25:27 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"0f3b44a6aac876b69a41ec322a6a94b7\"",
@@ -509,7 +513,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 29 Oct 2026 14:08:00 GMT"
+   "last_modified": "Thu, 29 Oct 2026 19:36:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -520,8 +524,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae35217-51ed\"",
-   "last_modified": "Thu, 29 Oct 2026 14:03:03 GMT"
+   "etag": "W/\"6ae39f6f-51ed\"",
+   "last_modified": "Thu, 29 Oct 2026 19:33:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1131,10 +1135,11 @@
    "guid": "hltvnews45810",
    "message_id": 443,
    "notified_at": 1793027385,
+   "pruned_at": 1793302669,
    "slug": "mouz-beat-the-mongolz-to-move-into-2-1-pool-2754e7",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "MOUZ beat The MongolZ to move into 2-1 pool"
   },
   "280f015714": {
@@ -1295,10 +1300,11 @@
    "guid": "hltvnews45811",
    "message_id": 447,
    "notified_at": 1793027392,
+   "pruned_at": 1793302669,
    "slug": "short-news-week-42-334847",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Short news: Week 42"
   },
   "33819ba2b8": {
@@ -1444,10 +1450,11 @@
    "guid": "https://proton.me/business/blog/project-tracking",
    "message_id": 444,
    "notified_at": 1793027386,
+   "pruned_at": 1793302669,
    "slug": "guide-to-project-tracking-best-techniques-and-tools-for-3b1a8b",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Guide to project tracking: Best techniques and tools for tracking projects"
   },
   "3c83b82704": {
@@ -1839,10 +1846,11 @@
    "guid": "hltvnews45812",
    "message_id": 445,
    "notified_at": 1793027388,
+   "pruned_at": 1793302669,
    "slug": "fut-sail-into-pgl-masters-playoffs-over-vitality-52c688",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FUT sail into PGL Masters playoffs over Vitality"
   },
   "535e4c4b43": {
@@ -2283,10 +2291,11 @@
    "guid": "hltvnews45814",
    "message_id": 448,
    "notified_at": 1793027394,
+   "pruned_at": 1793302669,
    "slug": "ence-file-for-bankruptcy-708252",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "ENCE file for bankruptcy"
   },
   "708a7aa650": {
@@ -2712,6 +2721,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "FaZe, HEROIC and Envy eliminated as DraculaN Season 7 reaches final four"
+  },
+  "8c25aa3b54": {
+   "date": 1793295600,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793302669,
+   "guid": "hltvnews45855",
+   "slug": "furia-beat-betboom-to-advance-to-pgl-masters-bucharest-semis-8c25aa",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA beat BETBOOM to advance to PGL Masters Bucharest semis"
   },
   "8c59cc2eec": {
    "date": 1791805068,
@@ -3484,6 +3505,18 @@
    "status": "pruned",
    "title": "Sashi drop chelleos after two days"
   },
+  "c8923ef601": {
+   "date": 1793292120,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793302669,
+   "guid": "hltvnews45853",
+   "slug": "b1ad3-trust-the-process-c8923e",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "B1ad3: \"Trust the process\""
+  },
   "c8bde3e77f": {
    "date": 1792430640,
    "excerpt_only": false,
@@ -3543,6 +3576,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "NIP comeback and insani hard-carry headline quarter-final day at Stake Pulse Beat III"
+  },
+  "cf2149a7c8": {
+   "date": 1793286363,
+   "excerpt_only": false,
+   "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
+   "fetched": 1793302669,
+   "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452546493",
+   "slug": "sorry-were-closed-and-dev-giveaway-free-from-in-epic-store-cf2149",
+   "source": "Weekly Free Games",
+   "source_slug": "weekly-free-games",
+   "status": "mirrored",
+   "title": "Sorry, We're Closed -and- dev giveaway free from/in Epic Store"
   },
   "cf6406b2dc": {
    "date": 1792068780,
@@ -3753,6 +3798,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "KSCERATO on close final: \"A goal is a goal, even if it's ugly\""
+  },
+  "df7816f1c2": {
+   "date": 1793286780,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793302669,
+   "guid": "hltvnews45854",
+   "slug": "mouz-overrun-aurora-to-book-semi-final-spot-in-bucharest-df7816",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "MOUZ overrun Aurora to book semi-final spot in Bucharest"
   },
   "e084840a2d": {
    "date": 1792188530,
@@ -4029,10 +4086,11 @@
    "guid": "hltvnews45809",
    "message_id": 442,
    "notified_at": 1793027383,
+   "pruned_at": 1793302669,
    "slug": "imperial-win-circuit-x-curitiba-f62809",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Imperial win Circuit X Curitiba"
   },
   "f64e51f549": {
@@ -4117,10 +4175,11 @@
    "guid": "hltvnews45813",
    "message_id": 446,
    "notified_at": 1793027390,
+   "pruned_at": 1793302669,
    "slug": "jee-less-tyloo-send-9z-packing-in-bucharest-fd5cfd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Jee-less TYLOO send 9z packing in Bucharest"
   },
   "fe199e354b": {
