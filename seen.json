@@ -106,7 +106,8 @@
    "https://mastodon.social/@Z_Lib_official/114216198227105780",
    "https://mastodon.social/@Z_Lib_official/114187475397377242",
    "https://mastodon.social/@Z_Lib_official/114019393556917066",
-   "https://mastodon.social/@Z_Lib_official/113957001567970074"
+   "https://mastodon.social/@Z_Lib_official/113957001567970074",
+   "https://mastodon.social/@Z_Lib_official/117524288819616708"
   ],
   "https://obsidian.md/feed.xml": [
    "https://obsidian.md/blog/2026-obsidian-october/",
@@ -214,7 +215,8 @@
    "https://retractionwatch.com/?p=136303",
    "https://retractionwatch.com/?p=136316",
    "https://retractionwatch.com/?p=136334",
-   "https://retractionwatch.com/?p=136343"
+   "https://retractionwatch.com/?p=136343",
+   "https://retractionwatch.com/?p=136340"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -429,7 +431,12 @@
    "hltvnews45842",
    "hltvnews45843",
    "hltvnews45844",
-   "hltvnews45845"
+   "hltvnews45845",
+   "hltvnews45847",
+   "hltvnews45848",
+   "hltvnews45849",
+   "hltvnews45850",
+   "hltvnews45852"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -451,7 +458,8 @@
    "https://www.thatprivacyguy.com/blog/amazon-ring-familiar-faces-is-textbook-example-for-ecd",
    "https://www.thatprivacyguy.com/blog/cipa-environmental-crimes-directive-forensic-evidence",
    "https://www.thatprivacyguy.com/blog/malta-eprivacy-treaty-breach",
-   "https://www.thatprivacyguy.com/blog/google-quietly-removes-on-device-ai-privacy-claim"
+   "https://www.thatprivacyguy.com/blog/google-quietly-removes-on-device-ai-privacy-claim",
+   "https://www.thatprivacyguy.com/blog/capture-the-code"
   ],
   "https://www.zotero.org/blog/feed/": [
    "https://www.zotero.org/blog/?p=2770",
@@ -484,24 +492,24 @@
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
-   "etag": "W/\"5b00dcd627b54fc26d6b4292f5af616f\"",
+   "etag": "W/\"8f6064e411bd50ae910039534f3c4004\"",
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41d-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
+   "etag": "W/\"6adbe41e-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65ee509ee7b99-gzip\"",
-   "last_modified": "Wed, 28 Oct 2026 11:41:07 GMT"
+   "etag": "\"1f8e7-65efade218226-gzip\"",
+   "last_modified": "Thu, 29 Oct 2026 13:43:41 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"da7c5ecfed895c9f0da38e55970118d0\"",
+   "etag": "\"0f3b44a6aac876b69a41ec322a6a94b7\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 29 Oct 2026 07:00:00 GMT"
+   "last_modified": "Thu, 29 Oct 2026 14:08:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -512,8 +520,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae2ee2f-53c4\"",
-   "last_modified": "Thu, 29 Oct 2026 06:56:47 GMT"
+   "etag": "W/\"6ae35217-51ed\"",
+   "last_modified": "Thu, 29 Oct 2026 14:03:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1346,10 +1354,11 @@
    "guid": "hltvnews45808",
    "message_id": 441,
    "notified_at": 1793001894,
+   "pruned_at": 1793282957,
    "slug": "jee-ruled-out-for-rest-of-pgl-masters-bucharest-with-380c76",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Jee ruled out for rest of PGL Masters Bucharest with chickenpox"
   },
   "3847cb3e3f": {
@@ -2178,6 +2187,18 @@
    "status": "pruned",
    "title": "The Palantir  Mafia is changing the business of war and surveillance"
   },
+  "6c5dc4508e": {
+   "date": 1793272080,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793282957,
+   "guid": "hltvnews45849",
+   "slug": "khan-recently-i-just-started-to-not-give-a-f-k-6c5dc4",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "khaN: \"Recently I just started to not give a f**k\""
+  },
   "6c8f566b0c": {
    "date": 1792854600,
    "excerpt_only": false,
@@ -2280,6 +2301,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "FaZe's grind continues and Luminosity's Major chances fade as DraculaN playoffs begin"
+  },
+  "716366c85d": {
+   "date": 1793279820,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793282957,
+   "guid": "hltvnews45852",
+   "slug": "vitality-march-into-pgl-masters-bucharest-semis-over-navi-716366",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Vitality march into PGL Masters Bucharest semis over NAVI"
   },
   "718a15a155": {
    "date": 1792939800,
@@ -2398,6 +2431,30 @@
    "source_slug": "that-privacy-guy-blog",
    "status": "pruned",
    "title": "Locked In, Locked Out - Apple's Walled Garden Should Come With Liability"
+  },
+  "761e745062": {
+   "date": 1793275200,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1793282957,
+   "guid": "https://retractionwatch.com/?p=136340",
+   "slug": "springer-nature-journal-could-lose-registry-standing-for-761e74",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Springer Nature journal could lose registry standing for clearing author of duplication"
+  },
+  "7728ca2f91": {
+   "date": 1793278332,
+   "excerpt_only": false,
+   "feed": "https://mastodon.social/@Z_Lib_official.rss",
+   "fetched": 1793282957,
+   "guid": "https://mastodon.social/@Z_Lib_official/117524288819616708",
+   "slug": "hey-everyone-7728ca",
+   "source": "Z-Library Official",
+   "source_slug": "z-library-official",
+   "status": "mirrored",
+   "title": "Hey everyone!"
   },
   "77613d727c": {
    "date": 1792159920,
@@ -2546,6 +2603,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Wildcard's Major chances soar with FRAG University title"
+  },
+  "8336a979dc": {
+   "date": 1793272740,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793282957,
+   "guid": "hltvnews45850",
+   "slug": "cmtry-expected-to-miss-singapore-major-for-astralis-after-8336a9",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest"
   },
   "834c340861": {
    "date": 1793111760,
@@ -3063,6 +3132,18 @@
    "status": "pruned",
    "title": "The best highlights from PGL Masters Bucharest groups"
   },
+  "ac2d0929c3": {
+   "date": 1793232000,
+   "excerpt_only": false,
+   "feed": "https://www.thatprivacyguy.com/blog/feed.xml",
+   "fetched": 1793282957,
+   "guid": "https://www.thatprivacyguy.com/blog/capture-the-code",
+   "slug": "capture-the-code-visualising-the-scale-of-website-ac2d09",
+   "source": "That Privacy Guy! Blog",
+   "source_slug": "that-privacy-guy-blog",
+   "status": "mirrored",
+   "title": "Capture the Code - visualising the scale of website surveillance"
+  },
   "ae1630535d": {
    "date": 1792183680,
    "excerpt_only": false,
@@ -3196,6 +3277,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Strike #11: Another loophole bites the dust... or does it?"
+  },
+  "ba2f5f54b1": {
+   "date": 1793269320,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793282957,
+   "guid": "hltvnews45848",
+   "slug": "nemiga-beat-fut-2-0-to-reach-semis-in-bucharest-ba2f5f",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Nemiga beat FUT 2-0 to reach semis in Bucharest"
   },
   "ba5c9f2820": {
    "date": 1792443600,
@@ -3972,6 +4065,18 @@
    "source_slug": "ai2-blog",
    "status": "pruned",
    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+  },
+  "fc56b9697e": {
+   "date": 1793261040,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793282957,
+   "guid": "hltvnews45847",
+   "slug": "live-updates-from-pgl-masters-bucharest-quarter-finals-fc56b9",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Live updates from PGL Masters Bucharest quarter-finals"
   },
   "fd1fd66f68": {
    "date": 1792656000,
