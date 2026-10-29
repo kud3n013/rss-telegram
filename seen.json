@@ -213,7 +213,8 @@
    "https://retractionwatch.com/?p=136307",
    "https://retractionwatch.com/?p=136303",
    "https://retractionwatch.com/?p=136316",
-   "https://retractionwatch.com/?p=136334"
+   "https://retractionwatch.com/?p=136334",
+   "https://retractionwatch.com/?p=136343"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -487,20 +488,20 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41e-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
+   "etag": "W/\"6adbe41d-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65ee509ee7b99-gzip\"",
-   "last_modified": "Wed, 28 Oct 2026 11:41:07 GMT"
+   "etag": "\"1f8e7-65ee50350850d-gzip\"",
+   "last_modified": "Wed, 28 Oct 2026 11:39:16 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"6847743999153c497cb08934a9a20685\"",
+   "etag": "\"da7c5ecfed895c9f0da38e55970118d0\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Wed, 28 Oct 2026 21:22:00 GMT"
+   "last_modified": "Thu, 29 Oct 2026 01:06:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -511,8 +512,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae26512-53c4\"",
-   "last_modified": "Wed, 28 Oct 2026 21:11:46 GMT"
+   "etag": "W/\"6ae299ce-53c4\"",
+   "last_modified": "Thu, 29 Oct 2026 00:56:46 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -1908,6 +1909,18 @@
    "source_slug": "retraction-watch",
    "status": "pruned",
    "title": "OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems"
+  },
+  "5ba05fb5a9": {
+   "date": 1793202179,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1793236036,
+   "guid": "https://retractionwatch.com/?p=136343",
+   "slug": "federal-u-s-judge-tosses-1-billion-defamation-lawsuit-5ba05f",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Federal U.S. judge tosses $1 billion defamation lawsuit against Elsevier"
   },
   "5ba622e911": {
    "date": 1786988726,
