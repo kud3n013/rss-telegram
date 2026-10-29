@@ -1916,10 +1916,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1793236036,
    "guid": "https://retractionwatch.com/?p=136343",
+   "message_id": 486,
+   "notified_at": 1793236091,
    "slug": "federal-u-s-judge-tosses-1-billion-defamation-lawsuit-5ba05f",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Federal U.S. judge tosses $1 billion defamation lawsuit against Elsevier"
   },
   "5ba622e911": {
