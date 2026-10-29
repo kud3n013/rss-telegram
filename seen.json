@@ -972,10 +972,12 @@
    "feed": "https://github.com/zen-browser/desktop/releases.atom",
    "fetched": 1793316939,
    "guid": "tag:github.com,2008:Repository/778556932/1.24b",
+   "message_id": 501,
+   "notified_at": 1793316989,
    "slug": "release-build-1-24b-2026-10-29-1bceeb",
    "source": "Zen Browser releases",
    "source_slug": "zen-browser-releases",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Release build - 1.24b (2026-10-29)"
   },
   "1dbac3fac3": {
@@ -2778,10 +2780,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793316939,
    "guid": "hltvnews45856",
+   "message_id": 500,
+   "notified_at": 1793316987,
    "slug": "fallen-i-like-the-way-boombl4-thinks-about-the-game-8d5525",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FalleN: \"I like the way Boombl4 thinks about the game\""
   },
   "8dde15868b": {
@@ -3189,10 +3193,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793316939,
    "guid": "hltvnews45857",
+   "message_id": 499,
+   "notified_at": 1793316985,
    "slug": "hotus-major-chances-soar-after-tesla-cup-win-ab67cd",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "HOTU's Major chances soar after Tesla Cup win"
   },
   "ac069f48a8": {
@@ -3974,10 +3980,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793316939,
    "guid": "hltvnews45858",
+   "message_id": 502,
+   "notified_at": 1793316990,
    "slug": "n0rb3r7-we-kind-of-let-go-of-the-idea-that-we-could-make-e70d59",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "n0rb3r7: \"We kind of let go of the idea that we could make the Major\""
   },
   "e9b7089da7": {
