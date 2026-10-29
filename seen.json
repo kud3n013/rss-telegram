@@ -84,7 +84,8 @@
    "tag:github.com,2008:Repository/778556932/1.21.15b",
    "tag:github.com,2008:Repository/778556932/1.21.14b",
    "tag:github.com,2008:Repository/778556932/1.23.3b",
-   "tag:github.com,2008:Repository/778556932/1.23.4b"
+   "tag:github.com,2008:Repository/778556932/1.23.4b",
+   "tag:github.com,2008:Repository/778556932/1.24b"
   ],
   "https://mastodon.social/@Z_Lib_official.rss": [
    "https://mastodon.social/@Z_Lib_official/117291996621050541",
@@ -440,7 +441,10 @@
    "hltvnews45852",
    "hltvnews45854",
    "hltvnews45853",
-   "hltvnews45855"
+   "hltvnews45855",
+   "hltvnews45857",
+   "hltvnews45856",
+   "hltvnews45858"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -489,10 +493,10 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
-   "etag": "W/\"64dfea66ee8c2e4c2cb998e24e321171\"",
+   "etag": "W/\"3fe8dff3accb89b28aea9e3c57775acb\"",
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
@@ -504,8 +508,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65efc4a0c1937-gzip\"",
-   "last_modified": "Thu, 29 Oct 2026 15:25:27 GMT"
+   "etag": "\"1f8e7-65efc486d6429-gzip\"",
+   "last_modified": "Thu, 29 Oct 2026 15:25:00 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"0f3b44a6aac876b69a41ec322a6a94b7\"",
@@ -513,7 +517,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 29 Oct 2026 19:36:00 GMT"
+   "last_modified": "Thu, 29 Oct 2026 23:34:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -524,8 +528,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae39f6f-51ed\"",
-   "last_modified": "Thu, 29 Oct 2026 19:33:03 GMT"
+   "etag": "W/\"6ae3d7af-51ed\"",
+   "last_modified": "Thu, 29 Oct 2026 23:33:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -961,6 +965,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "Falcons secure playoff berth at TWC 2026"
+  },
+  "1bceebdade": {
+   "date": 1793309386,
+   "excerpt_only": false,
+   "feed": "https://github.com/zen-browser/desktop/releases.atom",
+   "fetched": 1793316939,
+   "guid": "tag:github.com,2008:Repository/778556932/1.24b",
+   "slug": "release-build-1-24b-2026-10-29-1bceeb",
+   "source": "Zen Browser releases",
+   "source_slug": "zen-browser-releases",
+   "status": "mirrored",
+   "title": "Release build - 1.24b (2026-10-29)"
   },
   "1dbac3fac3": {
    "date": 1792664400,
@@ -1480,10 +1496,11 @@
    "guid": "hltvnews45817",
    "message_id": 452,
    "notified_at": 1793046603,
+   "pruned_at": 1793316939,
    "slug": "spirit-outlast-furia-to-reach-2-1-pool-in-bucharest-3daac3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Spirit outlast FURIA to reach 2-1 pool in Bucharest"
   },
   "3db594e2df": {
@@ -1613,10 +1630,11 @@
    "guid": "hltvnews45820",
    "message_id": 454,
    "notified_at": 1793046606,
+   "pruned_at": 1793316939,
    "slug": "dendele-eliminate-lackluster-g2-from-pgl-masters-bucharest-448ba1",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "DENDELE eliminate lackluster G2 from PGL Masters Bucharest"
   },
   "44dccef627": {
@@ -1787,10 +1805,11 @@
    "guid": "hltvnews45816",
    "message_id": 450,
    "notified_at": 1793046599,
+   "pruned_at": 1793316939,
    "slug": "liquid-beat-legacy-to-make-2-1-pool-in-bucharest-4f0d8a",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Liquid beat Legacy to make 2-1 pool in Bucharest"
   },
   "4f25d97ace": {
@@ -2277,10 +2296,11 @@
    "guid": "hltvnews45818",
    "message_id": 453,
    "notified_at": 1793046604,
+   "pruned_at": 1793316939,
    "slug": "betboom-romp-past-navi-to-make-playoffs-705ec8",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "BETBOOM romp past NAVI to make playoffs"
   },
   "7082520260": {
@@ -2424,10 +2444,11 @@
    "guid": "hltvnews45815",
    "message_id": 449,
    "notified_at": 1793046597,
+   "pruned_at": 1793316939,
    "slug": "zhoking-our-teams-biggest-problem-has-always-been-the-lack-75a36f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "zhokiNg: \"Our team's biggest problem has always been the lack of a secondary IGL[...] when I'm on the server, I can actually fill that gap\""
   },
   "7612315361": {
@@ -2750,6 +2771,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "A simple framework for deciding what to automate vs. keep manual"
+  },
+  "8d5525951a": {
+   "date": 1793306400,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793316939,
+   "guid": "hltvnews45856",
+   "slug": "fallen-i-like-the-way-boombl4-thinks-about-the-game-8d5525",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FalleN: \"I like the way Boombl4 thinks about the game\""
   },
   "8dde15868b": {
    "date": 1791922980,
@@ -3149,6 +3182,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "electroNic on VP: \"My ambitions were too high, which is why I probably behaved that way\""
+  },
+  "ab67cd63ca": {
+   "date": 1793303640,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793316939,
+   "guid": "hltvnews45857",
+   "slug": "hotus-major-chances-soar-after-tesla-cup-win-ab67cd",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "HOTU's Major chances soar after Tesla Cup win"
   },
   "ac069f48a8": {
    "date": 1792827180,
@@ -3923,6 +3968,18 @@
    "status": "pruned",
    "title": "The EVPs and All-Stars of ESL Pro League S24"
   },
+  "e70d5999dc": {
+   "date": 1793311200,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793316939,
+   "guid": "hltvnews45858",
+   "slug": "n0rb3r7-we-kind-of-let-go-of-the-idea-that-we-could-make-e70d59",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "n0rb3r7: \"We kind of let go of the idea that we could make the Major\""
+  },
   "e9b7089da7": {
    "date": 1792171686,
    "excerpt_only": false,
@@ -4198,10 +4255,11 @@
    "guid": "https://proton.me/blog/gmail-ads",
    "message_id": 451,
    "notified_at": 1793046601,
+   "pruned_at": 1793316939,
    "slug": "google-can-now-use-your-gmail-data-for-ads-how-to-turn-it-fe199e",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Google can now use your Gmail data for ads: How to turn it off"
   },
   "fe6b4704c4": {
