@@ -2193,10 +2193,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793282957,
    "guid": "hltvnews45849",
+   "message_id": 490,
+   "notified_at": 1793283017,
    "slug": "khan-recently-i-just-started-to-not-give-a-f-k-6c5dc4",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "khaN: \"Recently I just started to not give a f**k\""
   },
   "6c8f566b0c": {
@@ -2308,10 +2310,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793282957,
    "guid": "hltvnews45852",
+   "message_id": 494,
+   "notified_at": 1793283025,
    "slug": "vitality-march-into-pgl-masters-bucharest-semis-over-navi-716366",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Vitality march into PGL Masters Bucharest semis over NAVI"
   },
   "718a15a155": {
@@ -2438,10 +2442,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1793282957,
    "guid": "https://retractionwatch.com/?p=136340",
+   "message_id": 492,
+   "notified_at": 1793283021,
    "slug": "springer-nature-journal-could-lose-registry-standing-for-761e74",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Springer Nature journal could lose registry standing for clearing author of duplication"
   },
   "7728ca2f91": {
@@ -2450,10 +2456,12 @@
    "feed": "https://mastodon.social/@Z_Lib_official.rss",
    "fetched": 1793282957,
    "guid": "https://mastodon.social/@Z_Lib_official/117524288819616708",
+   "message_id": 493,
+   "notified_at": 1793283023,
    "slug": "hey-everyone-7728ca",
    "source": "Z-Library Official",
    "source_slug": "z-library-official",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Hey everyone!"
   },
   "77613d727c": {
@@ -2610,10 +2618,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793282957,
    "guid": "hltvnews45850",
+   "message_id": 491,
+   "notified_at": 1793283018,
    "slug": "cmtry-expected-to-miss-singapore-major-for-astralis-after-8336a9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "cmtry expected to miss Singapore Major for Astralis after FUT's quarter-final exit in Bucharest"
   },
   "834c340861": {
@@ -3138,10 +3148,12 @@
    "feed": "https://www.thatprivacyguy.com/blog/feed.xml",
    "fetched": 1793282957,
    "guid": "https://www.thatprivacyguy.com/blog/capture-the-code",
+   "message_id": 487,
+   "notified_at": 1793283012,
    "slug": "capture-the-code-visualising-the-scale-of-website-ac2d09",
    "source": "That Privacy Guy! Blog",
    "source_slug": "that-privacy-guy-blog",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Capture the Code - visualising the scale of website surveillance"
   },
   "ae1630535d": {
@@ -3284,10 +3296,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793282957,
    "guid": "hltvnews45848",
+   "message_id": 489,
+   "notified_at": 1793283015,
    "slug": "nemiga-beat-fut-2-0-to-reach-semis-in-bucharest-ba2f5f",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Nemiga beat FUT 2-0 to reach semis in Bucharest"
   },
   "ba5c9f2820": {
@@ -4072,10 +4086,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793282957,
    "guid": "hltvnews45847",
+   "message_id": 488,
+   "notified_at": 1793283013,
    "slug": "live-updates-from-pgl-masters-bucharest-quarter-finals-fc56b9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Live updates from PGL Masters Bucharest quarter-finals"
   },
   "fd1fd66f68": {
