@@ -2214,10 +2214,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793377015,
    "guid": "hltvnews45859",
+   "message_id": 504,
+   "notified_at": 1793377069,
    "slug": "live-updates-from-pgl-masters-bucharest-semi-finals-6c3f84",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Live updates from PGL Masters Bucharest semi-finals"
   },
   "6c58682433": {
@@ -4256,10 +4258,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793377015,
    "guid": "hltvnews45861",
+   "message_id": 505,
+   "notified_at": 1793377071,
    "slug": "nemiga-stun-vitality-2-0-to-reach-pgl-masters-bucharest-f96842",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Nemiga stun Vitality 2-0 to reach PGL Masters Bucharest final"
   },
   "fc56b9697e": {
