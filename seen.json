@@ -2932,10 +2932,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793353527,
    "guid": "hltvnews45851",
+   "message_id": 503,
+   "notified_at": 1793353653,
    "slug": "maka-we-had-like-1-hope-and-i-truly-believed-9ae068",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Maka: \"We had like 1% hope, and I truly believed\""
   },
   "9b0f8c643a": {
