@@ -444,7 +444,8 @@
    "hltvnews45855",
    "hltvnews45857",
    "hltvnews45856",
-   "hltvnews45858"
+   "hltvnews45858",
+   "hltvnews45851"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -493,7 +494,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"3fe8dff3accb89b28aea9e3c57775acb\"",
@@ -504,12 +505,12 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41e-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
+   "etag": "W/\"6adbe41d-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65efc4cfd7bf2-gzip\"",
-   "last_modified": "Thu, 29 Oct 2026 15:26:16 GMT"
+   "etag": "\"1f8e7-65efc4999a134-gzip\"",
+   "last_modified": "Thu, 29 Oct 2026 15:25:19 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"0f3b44a6aac876b69a41ec322a6a94b7\"",
@@ -517,7 +518,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 30 Oct 2026 02:56:00 GMT"
+   "last_modified": "Fri, 30 Oct 2026 09:46:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -528,8 +529,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae40563-51ed\"",
-   "last_modified": "Fri, 30 Oct 2026 02:48:03 GMT"
+   "etag": "W/\"6ae4644f-51ed\"",
+   "last_modified": "Fri, 30 Oct 2026 09:33:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -2924,6 +2925,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "stikle- takes over as head coach of Inner Circle"
+  },
+  "9ae0681b5e": {
+   "date": 1793352600,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793353527,
+   "guid": "hltvnews45851",
+   "slug": "maka-we-had-like-1-hope-and-i-truly-believed-9ae068",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Maka: \"We had like 1% hope, and I truly believed\""
   },
   "9b0f8c643a": {
    "date": 1791986657,
