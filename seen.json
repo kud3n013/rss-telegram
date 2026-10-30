@@ -445,7 +445,9 @@
    "hltvnews45857",
    "hltvnews45856",
    "hltvnews45858",
-   "hltvnews45851"
+   "hltvnews45851",
+   "hltvnews45859",
+   "hltvnews45861"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -494,7 +496,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"3fe8dff3accb89b28aea9e3c57775acb\"",
@@ -505,11 +507,11 @@
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
-   "etag": "W/\"6adbe41d-331ec\"",
-   "last_modified": "Fri, 23 Oct 2026 22:47:57 GMT"
+   "etag": "W/\"6adbe41e-331ec\"",
+   "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65efc4999a134-gzip\"",
+   "etag": "\"1f8e7-65efc4995afc7-gzip\"",
    "last_modified": "Thu, 29 Oct 2026 15:25:19 GMT"
   },
   "https://retractionwatch.com/feed/": {
@@ -518,7 +520,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 30 Oct 2026 09:46:00 GMT"
+   "last_modified": "Fri, 30 Oct 2026 16:16:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -529,8 +531,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae4644f-51ed\"",
-   "last_modified": "Fri, 30 Oct 2026 09:33:03 GMT"
+   "etag": "W/\"6ae4bfb7-51ed\"",
+   "last_modified": "Fri, 30 Oct 2026 16:03:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -665,10 +667,11 @@
    "guid": "hltvnews45828",
    "message_id": 464,
    "notified_at": 1793116474,
+   "pruned_at": 1793377015,
    "slug": "aleksib-convicted-of-aggravated-tax-fraud-0b6892",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Aleksib convicted of aggravated tax fraud"
   },
   "0be19cd70c": {
@@ -2048,10 +2051,11 @@
    "guid": "https://retractionwatch.com/?p=136334",
    "message_id": 461,
    "notified_at": 1793116468,
+   "pruned_at": 1793377015,
    "slug": "game-theory-society-yanks-support-for-journal-after-649f67",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Game theory society yanks support for journal after Elsevier fails to renew EIC contract"
   },
   "64c20f3928": {
@@ -2203,6 +2207,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "NAVI scrape narrow win over G2 to secure massive VRS payout"
+  },
+  "6c3f841a0a": {
+   "date": 1793361480,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793377015,
+   "guid": "hltvnews45859",
+   "slug": "live-updates-from-pgl-masters-bucharest-semi-finals-6c3f84",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Live updates from PGL Masters Bucharest semi-finals"
   },
   "6c58682433": {
    "date": 1791914840,
@@ -2390,10 +2406,11 @@
    "guid": "hltvnews45823",
    "message_id": 459,
    "notified_at": 1793095889,
+   "pruned_at": 1793377015,
    "slug": "fl4mus-to-miss-rlg-tesla-cup-opener-738196",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FL4MUS to miss RLG Tesla Cup opener"
   },
   "75358570cc": {
@@ -2581,10 +2598,11 @@
    "guid": "hltvnews45827",
    "message_id": 463,
    "notified_at": 1793116472,
+   "pruned_at": 1793377015,
    "slug": "the-mongolz-eliminate-legacy-from-bucharest-7a68a6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "The MongolZ eliminate Legacy from Bucharest"
   },
   "7bdce12e5b": {
@@ -2669,10 +2687,11 @@
    "guid": "hltvnews45826",
    "message_id": 462,
    "notified_at": 1793116470,
+   "pruned_at": 1793377015,
    "slug": "aurora-eke-out-a-win-over-liquid-to-qualify-for-bucharest-834c34",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Aurora eke out a win over Liquid to qualify for Bucharest playoffs"
   },
   "855f88ac34": {
@@ -3764,10 +3783,11 @@
    "guid": "hltvnews45824",
    "message_id": 460,
    "notified_at": 1793116466,
+   "pruned_at": 1793377015,
    "slug": "nemiga-trounce-dendele-to-survive-in-bucharest-d2a956",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Nemiga trounce DENDELE to survive in Bucharest"
   },
   "d2cfbbeb45": {
@@ -4229,6 +4249,18 @@
    "source_slug": "ai2-blog",
    "status": "pruned",
    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+  },
+  "f96842d74a": {
+   "date": 1793370540,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793377015,
+   "guid": "hltvnews45861",
+   "slug": "nemiga-stun-vitality-2-0-to-reach-pgl-masters-bucharest-f96842",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Nemiga stun Vitality 2-0 to reach PGL Masters Bucharest final"
   },
   "fc56b9697e": {
    "date": 1793261040,
