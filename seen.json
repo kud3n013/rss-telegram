@@ -217,7 +217,8 @@
    "https://retractionwatch.com/?p=136316",
    "https://retractionwatch.com/?p=136334",
    "https://retractionwatch.com/?p=136343",
-   "https://retractionwatch.com/?p=136340"
+   "https://retractionwatch.com/?p=136340",
+   "https://retractionwatch.com/?p=136358"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -447,7 +448,10 @@
    "hltvnews45858",
    "hltvnews45851",
    "hltvnews45859",
-   "hltvnews45861"
+   "hltvnews45861",
+   "hltvnews45862",
+   "hltvnews45863",
+   "hltvnews45864"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -496,14 +500,14 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"3fe8dff3accb89b28aea9e3c57775acb\"",
    "last_modified": null
   },
   "https://mastodon.social/@Z_Lib_official.rss": {
-   "etag": "W/\"c03d4ea295fd306b8fcabdf385c7f478\"",
+   "etag": "W/\"b73ce652f153993ec4477963f65d004b\"",
    "last_modified": null
   },
   "https://obsidian.md/feed.xml": {
@@ -511,16 +515,16 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65efc4995afc7-gzip\"",
+   "etag": "\"1f8e7-65efc498ffe99-gzip\"",
    "last_modified": "Thu, 29 Oct 2026 15:25:19 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"0f3b44a6aac876b69a41ec322a6a94b7\"",
+   "etag": "\"f8e2c088e21abf4b134a356f03c02402\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 30 Oct 2026 16:16:00 GMT"
+   "last_modified": "Fri, 30 Oct 2026 20:54:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -531,8 +535,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae4bfb7-51ed\"",
-   "last_modified": "Fri, 30 Oct 2026 16:03:03 GMT"
+   "etag": "W/\"6ae50283-51ed\"",
+   "last_modified": "Fri, 30 Oct 2026 20:48:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -659,6 +663,18 @@
    "status": "notified",
    "title": "jabbi returns to Astralis for Stake Ranked to help salvage Major invite"
   },
+  "08f439d761": {
+   "date": 1793379780,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793393637,
+   "guid": "hltvnews45862",
+   "slug": "blast-open-2027-s3-to-be-held-in-usa-with-updated-format-08f439",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "BLAST Open 2027 S3 to be held in USA with updated format"
+  },
   "0b6892f3c8": {
    "date": 1793114760,
    "excerpt_only": false,
@@ -703,6 +719,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "BETBOOM stun Falcons to make TWC grand final"
+  },
+  "0d649363b4": {
+   "date": 1793381869,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1793393637,
+   "guid": "https://retractionwatch.com/?p=136358",
+   "slug": "scientific-reports-on-hold-in-pubmed-while-nlm-reevaluates-0d6493",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Scientific Reports on hold in PubMed while NLM reevaluates journal"
   },
   "0fdb3ea22a": {
    "date": 1791271710,
@@ -892,10 +920,11 @@
    "guid": "hltvnews45829",
    "message_id": 466,
    "notified_at": 1793132710,
+   "pruned_at": 1793393637,
    "slug": "faze-take-significant-step-toward-major-after-topping-rlg-187b56",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FaZe take significant step toward Major after topping RLG Tesla Cup group"
   },
   "18dcad8cdd": {
@@ -1254,6 +1283,18 @@
    "source_slug": "ai2-blog",
    "status": "pruned",
    "title": "How Molmo 2\u2019s open release helped an MIT researcher rethink fish tracking"
+  },
+  "2ecb8b0043": {
+   "date": 1793387460,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793393637,
+   "guid": "hltvnews45864",
+   "slug": "kscerato-were-trying-to-play-on-feeling-2ecb8b",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "KSCERATO: \"We're trying to play on feeling\""
   },
   "311b9bf2a5": {
    "date": 1791904143,
@@ -1652,10 +1693,11 @@
    "guid": "https://allenai.org/blog/novelty-bench",
    "message_id": 465,
    "notified_at": 1793132708,
+   "pruned_at": 1793393637,
    "slug": "can-we-trust-llms-to-judge-whether-a-research-idea-is-novel-44dcce",
    "source": "Ai2 Blog",
    "source_slug": "ai2-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "Can we trust LLMs to judge whether a research idea is novel?"
   },
   "4575c31700": {
@@ -1666,10 +1708,11 @@
    "guid": "hltvnews45825",
    "message_id": 470,
    "notified_at": 1793132717,
+   "pruned_at": 1793393637,
    "slug": "kair0n-on-making-the-major-i-failed-way-too-many-times-to-4575c3",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "KaiR0N- on making the Major: \"I failed way too many times to not just enjoy it\""
   },
   "458e851435": {
@@ -1888,10 +1931,11 @@
    "guid": "hltvnews45831",
    "message_id": 468,
    "notified_at": 1793132714,
+   "pruned_at": 1793393637,
    "slug": "furia-stomp-tyloo-to-survive-in-bucharest-535e4c",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "FURIA stomp TYLOO to survive in Bucharest"
   },
   "54e8ee14ae": {
@@ -3014,10 +3058,11 @@
    "guid": "hltvnews45834",
    "message_id": 471,
    "notified_at": 1793132719,
+   "pruned_at": 1793393637,
    "slug": "vitality-crush-navi-to-make-bucharest-playoffs-9ccf53",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Vitality crush NAVI to make Bucharest playoffs"
   },
   "9ccf8ee367": {
@@ -3043,10 +3088,11 @@
    "guid": "hltvnews45830",
    "message_id": 467,
    "notified_at": 1793132712,
+   "pruned_at": 1793393637,
    "slug": "mouz-overcome-donk-masterclass-to-make-pgl-masters-playoffs-9f4ee5",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "MOUZ overcome donk masterclass to make PGL Masters playoffs"
   },
   "9f6f355063": {
@@ -3176,10 +3222,11 @@
    "guid": "hltvnews45833",
    "message_id": 472,
    "notified_at": 1793132721,
+   "pruned_at": 1793393637,
    "slug": "spirit-navi-to-headline-pgl-masters-day-five-a80237",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Spirit-NAVI to headline PGL Masters day five"
   },
   "a8dcb43936": {
@@ -3777,6 +3824,18 @@
    "status": "pruned",
    "title": "jL on every other team in PGL Masters Bucharest groups Fantasy"
   },
+  "d2a4ae5be6": {
+   "date": 1793383500,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793393637,
+   "guid": "hltvnews45863",
+   "slug": "furia-beat-mouz-en-route-to-bucharest-final-d2a4ae",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "FURIA beat MOUZ en route to Bucharest final"
+  },
   "d2a956c4a5": {
    "date": 1793104920,
    "excerpt_only": false,
@@ -4127,10 +4186,11 @@
    "guid": "https://proton.me/blog/privacy-while-traveling",
    "message_id": 469,
    "notified_at": 1793132716,
+   "pruned_at": 1793393637,
    "slug": "how-to-protect-your-privacy-while-traveling-f2cdbe",
    "source": "Proton Blog",
    "source_slug": "proton-blog",
-   "status": "notified",
+   "status": "pruned",
    "title": "How to protect your privacy while traveling"
   },
   "f3298f01ea": {
