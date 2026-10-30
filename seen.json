@@ -669,10 +669,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793393637,
    "guid": "hltvnews45862",
+   "message_id": 506,
+   "notified_at": 1793393691,
    "slug": "blast-open-2027-s3-to-be-held-in-usa-with-updated-format-08f439",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "BLAST Open 2027 S3 to be held in USA with updated format"
   },
   "0b6892f3c8": {
@@ -726,10 +728,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1793393637,
    "guid": "https://retractionwatch.com/?p=136358",
+   "message_id": 507,
+   "notified_at": 1793393692,
    "slug": "scientific-reports-on-hold-in-pubmed-while-nlm-reevaluates-0d6493",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Scientific Reports on hold in PubMed while NLM reevaluates journal"
   },
   "0fdb3ea22a": {
@@ -1290,10 +1294,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793393637,
    "guid": "hltvnews45864",
+   "message_id": 509,
+   "notified_at": 1793393696,
    "slug": "kscerato-were-trying-to-play-on-feeling-2ecb8b",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "KSCERATO: \"We're trying to play on feeling\""
   },
   "311b9bf2a5": {
@@ -3830,10 +3836,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793393637,
    "guid": "hltvnews45863",
+   "message_id": 508,
+   "notified_at": 1793393694,
    "slug": "furia-beat-mouz-en-route-to-bucharest-final-d2a4ae",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "FURIA beat MOUZ en route to Bucharest final"
   },
   "d2a956c4a5": {
