@@ -508,8 +508,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65efc486d6429-gzip\"",
-   "last_modified": "Thu, 29 Oct 2026 15:25:00 GMT"
+   "etag": "\"1f8e7-65efc4cfd7bf2-gzip\"",
+   "last_modified": "Thu, 29 Oct 2026 15:26:16 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"0f3b44a6aac876b69a41ec322a6a94b7\"",
@@ -517,7 +517,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Thu, 29 Oct 2026 23:34:00 GMT"
+   "last_modified": "Fri, 30 Oct 2026 02:56:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -528,8 +528,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae3d7af-51ed\"",
-   "last_modified": "Thu, 29 Oct 2026 23:33:03 GMT"
+   "etag": "W/\"6ae40563-51ed\"",
+   "last_modified": "Fri, 30 Oct 2026 02:48:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -768,10 +768,11 @@
    "guid": "hltvnews45819",
    "message_id": 457,
    "notified_at": 1793059392,
+   "pruned_at": 1793328997,
    "slug": "aleksib-we-were-not-celebrating-anything-that-revolves-11d163",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Aleksib: \"We were not celebrating anything that revolves around the Major; every one of us expects to play the Major\""
   },
   "126a7917a1": {
@@ -1793,10 +1794,11 @@
    "guid": "hltvnews45821",
    "message_id": 458,
    "notified_at": 1793059394,
+   "pruned_at": 1793328997,
    "slug": "shalfey-i-was-just-excited-by-the-feeling-that-this-moment-4a6518",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "shalfey: \"I was just excited by the feeling that this moment had come, the comeback moment\""
   },
   "4f0d8acb68": {
@@ -2946,10 +2948,11 @@
    "guid": "hltvnews45822",
    "message_id": 456,
    "notified_at": 1793059390,
+   "pruned_at": 1793328997,
    "slug": "pgl-masters-bucharest-round-4-matchups-set-9b90a6",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "PGL Masters Bucharest Round 4 matchups set"
   },
   "9c34189d58": {
@@ -3063,10 +3066,11 @@
    "guid": "https://retractionwatch.com/?p=136316",
    "message_id": 455,
    "notified_at": 1793059389,
+   "pruned_at": 1793328997,
    "slug": "another-sydney-investigation-of-astrophysicist-leads-to-a1d66b",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "notified",
+   "status": "pruned",
    "title": "Another Sydney investigation of astrophysicist leads to retraction"
   },
   "a3138e3d09": {
