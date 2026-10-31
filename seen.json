@@ -1537,10 +1537,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793406077,
    "guid": "hltvnews45865",
+   "message_id": 510,
+   "notified_at": 1793406120,
    "slug": "eternal-fire-inch-closer-to-shock-major-qualification-with-3c6b78",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Eternal Fire inch closer to shock Major qualification with Stake Ranked trophy"
   },
   "3c83b82704": {
@@ -2368,10 +2370,12 @@
    "feed": "https://www.hltv.org/rss/news",
    "fetched": 1793406077,
    "guid": "hltvnews45866",
+   "message_id": 511,
+   "notified_at": 1793406122,
    "slug": "imd-there-are-no-plans-for-snax-to-be-igling-for-6f56a1",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "mirrored",
+   "status": "notified",
    "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\""
   },
   "7002a8c150": {
