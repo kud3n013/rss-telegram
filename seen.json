@@ -3069,10 +3069,12 @@
    "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
    "fetched": 1793448801,
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452547591",
+   "message_id": 514,
+   "notified_at": 1793448854,
    "slug": "asleep-act-1-free-in-the-steam-store-9b8d20",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Asleep: Act 1 free in the Steam Store"
   },
   "9b90a61430": {
@@ -3393,10 +3395,12 @@
    "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
    "fetched": 1793448801,
    "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452547590",
+   "message_id": 513,
+   "notified_at": 1793448853,
    "slug": "a-new-beginning-final-cut-drm-free-free-from-gog-b0474a",
    "source": "Weekly Free Games",
    "source_slug": "weekly-free-games",
-   "status": "mirrored",
+   "status": "notified",
    "title": "A New Beginning: Final Cut (DRM-free) free from GOG"
   },
   "b14bd02b66": {
@@ -3956,10 +3960,12 @@
    "feed": "https://retractionwatch.com/feed/",
    "fetched": 1793448801,
    "guid": "https://retractionwatch.com/?p=136356",
+   "message_id": 512,
+   "notified_at": 1793448851,
    "slug": "weekend-reads-mega-journal-on-hold-at-pubmed-1-400-d63cc9",
    "source": "Retraction Watch",
    "source_slug": "retraction-watch",
-   "status": "mirrored",
+   "status": "notified",
    "title": "Weekend reads: Mega-journal on hold at PubMed; 1,400 retractions in one day; \u2018I Used AI to Fake a Scientific Paper\u2019"
   },
   "d83778cf12": {
