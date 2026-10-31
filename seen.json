@@ -451,7 +451,9 @@
    "hltvnews45861",
    "hltvnews45862",
    "hltvnews45863",
-   "hltvnews45864"
+   "hltvnews45864",
+   "hltvnews45865",
+   "hltvnews45866"
   ],
   "https://www.thatprivacyguy.com/blog/feed.xml": [
    "https://www.thatprivacyguy.com/blog/shopify-consent-defaults-open",
@@ -500,7 +502,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:41 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"3fe8dff3accb89b28aea9e3c57775acb\"",
@@ -515,8 +517,8 @@
    "last_modified": "Fri, 23 Oct 2026 22:47:58 GMT"
   },
   "https://proton.me/blog/feed": {
-   "etag": "\"1f8e7-65efc498ffe99-gzip\"",
-   "last_modified": "Thu, 29 Oct 2026 15:25:19 GMT"
+   "etag": "\"1f8e7-65efc486d6429\"",
+   "last_modified": "Thu, 29 Oct 2026 15:25:00 GMT"
   },
   "https://retractionwatch.com/feed/": {
    "etag": "\"f8e2c088e21abf4b134a356f03c02402\"",
@@ -524,7 +526,7 @@
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Fri, 30 Oct 2026 20:54:00 GMT"
+   "last_modified": "Sat, 31 Oct 2026 00:20:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -535,8 +537,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae50283-51ed\"",
-   "last_modified": "Fri, 30 Oct 2026 20:48:03 GMT"
+   "etag": "W/\"6ae533bb-51ed\"",
+   "last_modified": "Sat, 31 Oct 2026 00:18:03 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -657,10 +659,11 @@
    "guid": "hltvnews45836",
    "message_id": 473,
    "notified_at": 1793145328,
+   "pruned_at": 1793406077,
    "slug": "jabbi-returns-to-astralis-for-stake-ranked-to-help-salvage-0882d9",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "jabbi returns to Astralis for Stake Ranked to help salvage Major invite"
   },
   "08f439d761": {
@@ -953,10 +956,11 @@
    "guid": "hltvnews45832",
    "message_id": 474,
    "notified_at": 1793145330,
+   "pruned_at": 1793406077,
    "slug": "torzsi-on-beating-spirit-they-trash-talked-us-a-little-19aa03",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "torzsi on beating Spirit: \"They trash talked us a little before the last map, so it was a nice statement to win\""
   },
   "1a00accb2e": {
@@ -1526,6 +1530,18 @@
    "source_slug": "proton-blog",
    "status": "pruned",
    "title": "Guide to project tracking: Best techniques and tools for tracking projects"
+  },
+  "3c6b78730e": {
+   "date": 1793394000,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793406077,
+   "guid": "hltvnews45865",
+   "slug": "eternal-fire-inch-closer-to-shock-major-qualification-with-3c6b78",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "Eternal Fire inch closer to shock Major qualification with Stake Ranked trophy"
   },
   "3c83b82704": {
    "date": 1791995280,
@@ -2346,6 +2362,18 @@
    "status": "pruned",
    "title": "FaZe knocking on the door of top 15 with Roman Imperium Cup IX title"
   },
+  "6f56a1ecad": {
+   "date": 1793396400,
+   "excerpt_only": false,
+   "feed": "https://www.hltv.org/rss/news",
+   "fetched": 1793406077,
+   "guid": "hltvnews45866",
+   "slug": "imd-there-are-no-plans-for-snax-to-be-igling-for-6f56a1",
+   "source": "HLTV News",
+   "source_slug": "hltv-news",
+   "status": "mirrored",
+   "title": "imd: \"There are no plans for Snax to be IGLing for GamerLegion next season\""
+  },
   "7002a8c150": {
    "date": 1792016100,
    "excerpt_only": false,
@@ -2754,10 +2782,11 @@
    "guid": "hltvnews45837",
    "message_id": 475,
    "notified_at": 1793145332,
+   "pruned_at": 1793406077,
    "slug": "twistzz-sometimes-im-the-one-dampening-the-good-mood-these-855f88",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "Twistzz: \"Sometimes I'm the one dampening the good mood, these young players don't deserve [that], so now I'll just bring in the good vibes\""
   },
   "862e8d8c58": {
