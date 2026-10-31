@@ -218,7 +218,8 @@
    "https://retractionwatch.com/?p=136334",
    "https://retractionwatch.com/?p=136343",
    "https://retractionwatch.com/?p=136340",
-   "https://retractionwatch.com/?p=136358"
+   "https://retractionwatch.com/?p=136358",
+   "https://retractionwatch.com/?p=136356"
   ],
   "https://steamcommunity.com/groups/freegamesfinders/rss": [
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492472755",
@@ -234,7 +235,9 @@
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/697652160492473208",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/702156483742138678",
    "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/719045526774878963",
-   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452546493"
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452546493",
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452547590",
+   "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452547591"
   ],
   "https://world.hey.com/dhh/feed.atom": [
    "tag:world.hey.com,2005:World::Post/49362",
@@ -502,7 +505,7 @@
   },
   "https://blog.beeper.com/feed/": {
    "etag": null,
-   "last_modified": "Sat, 03 Oct 2026 20:04:39 GMT"
+   "last_modified": "Sat, 03 Oct 2026 20:03:01 GMT"
   },
   "https://github.com/zen-browser/desktop/releases.atom": {
    "etag": "W/\"3fe8dff3accb89b28aea9e3c57775acb\"",
@@ -521,12 +524,12 @@
    "last_modified": "Thu, 29 Oct 2026 15:25:52 GMT"
   },
   "https://retractionwatch.com/feed/": {
-   "etag": "\"f687bb72ecb257e08327a2e6d2d9bbc5\"",
+   "etag": "\"f92380eec20fc0582381c8c790b0a21b\"",
    "last_modified": null
   },
   "https://steamcommunity.com/groups/freegamesfinders/rss": {
    "etag": null,
-   "last_modified": "Sat, 31 Oct 2026 06:00:00 GMT"
+   "last_modified": "Sat, 31 Oct 2026 12:12:00 GMT"
   },
   "https://world.hey.com/dhh/feed.atom": {
    "etag": "W/\"d9e2120ce1b48a6dd1c717894343b337\"",
@@ -537,8 +540,8 @@
    "last_modified": null
   },
   "https://www.thatprivacyguy.com/blog/feed.xml": {
-   "etag": "W/\"6ae58113-51ed\"",
-   "last_modified": "Sat, 31 Oct 2026 05:48:03 GMT"
+   "etag": "W/\"6ae5d8f8-51ed\"",
+   "last_modified": "Sat, 31 Oct 2026 12:03:04 GMT"
   },
   "https://www.zotero.org/blog/feed/": {
    "etag": "\"f192e2131873e5e13a6209d563b982d3-gzip\"",
@@ -942,10 +945,11 @@
    "guid": "hltvnews45835",
    "message_id": 476,
    "notified_at": 1793183572,
+   "pruned_at": 1793448801,
    "slug": "jl-this-is-why-vitality-is-the-best-team-in-the-world-they-18dcad",
    "source": "HLTV News",
    "source_slug": "hltv-news",
-   "status": "notified",
+   "status": "pruned",
    "title": "jL: \"This is why Vitality is the best team in the world, they have the ability to cover for players\""
   },
   "19aa03cc63": {
@@ -3059,6 +3063,18 @@
    "status": "pruned",
    "title": "How to delete your Facebook account"
   },
+  "9b8d204f81": {
+   "date": 1793446560,
+   "excerpt_only": false,
+   "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
+   "fetched": 1793448801,
+   "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452547591",
+   "slug": "asleep-act-1-free-in-the-steam-store-9b8d20",
+   "source": "Weekly Free Games",
+   "source_slug": "weekly-free-games",
+   "status": "mirrored",
+   "title": "Asleep: Act 1 free in the Steam Store"
+  },
   "9b90a61430": {
    "date": 1793046720,
    "excerpt_only": false,
@@ -3370,6 +3386,18 @@
    "source_slug": "hltv-news",
    "status": "pruned",
    "title": "BETBOOM qualify for TWC playoffs over Legacy"
+  },
+  "b0474af7f6": {
+   "date": 1793446181,
+   "excerpt_only": false,
+   "feed": "https://steamcommunity.com/groups/freegamesfinders/rss",
+   "fetched": 1793448801,
+   "guid": "https://steamcommunity.com/groups/freegamesfinders/announcements/detail/701031762452547590",
+   "slug": "a-new-beginning-final-cut-drm-free-free-from-gog-b0474a",
+   "source": "Weekly Free Games",
+   "source_slug": "weekly-free-games",
+   "status": "mirrored",
+   "title": "A New Beginning: Final Cut (DRM-free) free from GOG"
   },
   "b14bd02b66": {
    "date": 1792836967,
@@ -3921,6 +3949,18 @@
    "source_slug": "annas-archive-blog",
    "status": "pruned",
    "title": "If you\u2019re an LLM, please read this"
+  },
+  "d63cc93c5f": {
+   "date": 1793440800,
+   "excerpt_only": false,
+   "feed": "https://retractionwatch.com/feed/",
+   "fetched": 1793448801,
+   "guid": "https://retractionwatch.com/?p=136356",
+   "slug": "weekend-reads-mega-journal-on-hold-at-pubmed-1-400-d63cc9",
+   "source": "Retraction Watch",
+   "source_slug": "retraction-watch",
+   "status": "mirrored",
+   "title": "Weekend reads: Mega-journal on hold at PubMed; 1,400 retractions in one day; \u2018I Used AI to Fake a Scientific Paper\u2019"
   },
   "d83778cf12": {
    "date": 1792171890,
